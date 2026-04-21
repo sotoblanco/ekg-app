@@ -1,0 +1,22 @@
+{
+    "case_id": "35",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=34&ans=1&caseid=35",
+    "clinical_history": "Tachycardia and a touch of cyanosis (rhythm and blues). What is major finding in this patient with congestive heart failure (CHF)?",
+    "diagnosis": "The major finding is narrow complex tachycardia with atrial rate of about 300 indicating atrial flutter with a slightly variable ventricular response (2:1 conduction, some 3:1 and probably some AV Wenckebach). Atrial flutter is sometimes mistaken (by housestaff at institutions other than your own) for sinus tachycardia. Look, for instance, at V1 where the flutter waves are hard to see vs. lead II where they are more apparent. If only a V1 type lead were available, the mechanism could be readliy mistaken.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case35/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Flutter",
+        "AV Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "Atrial flutter",
+        "rate": "Atrial rate ~300 bpm, Ventricular rate ~150 bpm",
+        "axis": "Normal axis",
+        "intervals": "PR: N/A; QRS: 80 ms; QTc: 440 ms",
+        "findings": "Narrow complex tachycardia; sawtooth flutter waves best seen in inferior leads (II, III, aVF); variable AV conduction (predominantly 2:1 with some 3:1 and probable Wenckebach)",
+        "comparison": "N/A",
+        "impression": "Atrial flutter with variable ventricular response"
+    }
+}

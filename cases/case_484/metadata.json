@@ -1,0 +1,21 @@
+{
+    "case_id": "484",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=483&ans=1&caseid=484",
+    "clinical_history": "ECG from an elderly man. What is the rapid rhythm disturbance?",
+    "diagnosis": "The ECG shows atrial fibrillation (AF) with a very rapid ventricular response. The average resting heart rate (over 10 sec of data) is 120/min, with instantaneous heart rates ranging from about 80-170/min. There is an intraventricular conduction delay (QRS duration about 130 ms). Left axis deviation is present, consistent with left anterior fascicular block. Slow R wave progression and non-specific ST-T changes are present. Lead aVL shows a prominent but non-diagnostic Q wave.  The patient had severe ischemic cardiomyopathy, with prior extensive anterior wall infarction. The constellation of ECG abnormalities is consistent with that diagnosis.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case484/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

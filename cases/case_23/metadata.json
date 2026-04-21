@@ -1,0 +1,23 @@
+{
+    "case_id": "23",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=22&ans=1&caseid=23",
+    "clinical_history": "54-year-old man with chronic heart failure. What is the rhythm most likely (recorded at rest)?",
+    "diagnosis": "Atrial tachycardia (not sinus tachycardia) is present with variable block is present. Also left ventricular hypertrophy (LVH) and left axis deviation are present. This is not complete heart block, either. Note that the QRS rate is not slow and regular. Instead, the changing  PR is due to variable AV block. This patient had a history of rheumatic heart disease (mitral and aortic regurgitation) and underwent a cardiac electrophysiology procedure with ablation of the ectopic atrial site that was the source of the tachycardia. Always consider digoxin excess (not present here) in cases of atrial tachycardia with block.~~~~Strongly weighing against the atrial mechanism being sinus tachycardia is the very rapid atrial (wave) rate (150/min) in a well-compensated middle aged man with heart failure.  This atrial rate would be near maximal in a man this age during near maximal activity. This patient is at rest. (Also, factors causing sinus tachycardia tend to enhance AV nodal conduction.) The fact that the P waves resemble sinus P waves may be due to firing of an automatic ectopic focus near the sinus node. )The atrial rate is also much too slow for atrial flutter.)~~~~~~Note: the subtle variation in QRS morphology, e.g., in leads II,III and aVF, which is due to varying degrees of superposition of the P waves on  the QRS complexes and also, possibly, to slight changes in QRS conduction at different rates. This nonspecific finding should be distinguished from 2:1 electrical alternans patterns.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case23/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Flutter",
+        "AV Block",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "Atrial tachycardia with variable block",
+        "rate": "Atrial rate 150 bpm; variable QRS rate",
+        "axis": "Left axis deviation",
+        "intervals": "PR: variable; QRS: N/A; QTc: N/A",
+        "findings": "Left ventricular hypertrophy (LVH), variable AV block, P waves resembling sinus P waves, subtle QRS morphology variation",
+        "comparison": "N/A",
+        "impression": "Atrial tachycardia with variable AV block and left ventricular hypertrophy"
+    }
+}

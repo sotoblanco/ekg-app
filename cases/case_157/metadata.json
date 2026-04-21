@@ -1,0 +1,22 @@
+{
+    "case_id": "157",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=156&ans=1&caseid=157",
+    "clinical_history": "69-year-old male with coronary artery disease and  a history of prior myocardial infarction.  What is the rhythm accounting for his irregular pulse noted after \"coronary artery bypass graft\" surgery?",
+    "diagnosis": "d)  Note the longer PR in the atrial premature complexes. There is also evidence of underlying anterior and inferior Q-wave myocardial infarctions (MIs).  Left atrial abnormality (LAA) is noted in the sinus beats.   Frequent atrial ectopy, especially in the post \"coronary artery bypass graft (CABG) surgery\" setting, may be a forerunner of atrial fibrillation.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case157/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

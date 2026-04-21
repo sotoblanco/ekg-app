@@ -1,0 +1,21 @@
+{
+    "case_id": "58",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=57&ans=1&caseid=58",
+    "clinical_history": "Minimalist/optimal medicine quiz. If you could do only one serum lab test, what would it be in this case?",
+    "diagnosis": "Check the calcium (and yes, of course, albumin and phosphate, etc). It was low here at 8.2 mg/dl with minimally low albumin in a patient post-thyroidectomy.  ECG shows subtle QT/QTc prolongation. Using Hodges formula for QTc (the values are 440msec/464.5. from lead V6). Most important is that QT is long in this case because the ST segment is somewhat \"stretched out.\" This relates to prolongation of the plateau phase of action potential which is prolonged with hypocalcemia. Ventricular repolarization can also be prolonged because of 1) wide QRS; 2) flat, wide T waves (e.g. quinidine, sotalol, hypokalemia, etc); and/or 3) prominent U waves melding with T wave. The latter two syndromes, representing dispersion of ventricular refractoriness, are most likely to be associated with torsade de pointes.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case58/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Hypokalemia"
+    ],
+    "category": "Diverse disease",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

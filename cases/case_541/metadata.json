@@ -1,0 +1,22 @@
+{
+    "case_id": "541",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=540&ans=1&caseid=541",
+    "clinical_history": "This ECG from an adult man is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "This ECG shows sinus rhythm with a prolonged PR interval of 230 ms, indicative of first-degree AV delay (\"block\"). The following constellation of findings is highly specific for severe left ventricular hypertrophy (LVH): 1) very prominent voltage, including R=20 mm in aVL; 2) marked left atrial abnormality (see V1);  an intraventricular delay (IVCD)  with a QRS duration of about 130 ms (which may progress to a frank left bundle branch block); 4) characteristic ST-T changes in I and aVL (formerly called an LV \"strain\" pattern\"); 5) left axis deviation. The high take-off of the J point/ST-T in leads V1-V3, mimicking ischemia, is often seen in this context, possibly due to relatively early repolarization of the right ventricle. A delayed precordial transition zone is also present. The patient had critical aortic stenosis. See Wave-Maven cases for discussion of other choices.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case541/800x406.jpg",
+    "difficulty": 2,
+    "topics": [
+        "Left Bundle Branch Block",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "430",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=429&ans=1&caseid=430",
+    "clinical_history": "Young adult woman presenting with vertigo, is on no cardioactive medications. This ECG is most consistent with which ONE of the following diagnoses? (Note: rhythm is sinus tachycardia.)",
+    "diagnosis": "The ECG is notable for marked QT-U prolongation (for example in V1 a giant U wave appears to be appended to the T wave, creating a slight discontinuity in waveform morphology). The T-U waves are massively inverted in the inferior and lateral leads. The QRS voltage is somewhat prominent but there was no history of hypertension. The cardiac troponin and CK-MB levels were not elevated. Serum potassium and other electrolytes were normal. This ECG exemplifies some of the classic manifestations of the so-called CVA (cerebrovascular accident) T wave pattern, most commonly associated with subarachnoid hemorrhage or other intracranial bleeds. The mechanisms are not fully delineated but may relate to excessive catecholamine stimulation causing direct myocardial injury (myocytolysis). Takotsubo syndrome may occur in some cases. The long QT-U may predispose to torsade(s) de pointes.  Apical hypertrophic cardiomyopathy (Yamaguchi~s syndrome) is associated with deep, but relatively narrow (spade-like) T wave inversions, most marked in the mid-precordial leads. This pattern seen here with giant T wave inversions and a long QT-U is also very unusual with ischemia.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case430/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Long QT Syndrome"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

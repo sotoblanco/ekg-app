@@ -1,0 +1,22 @@
+{
+    "case_id": "398",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=397&ans=1&caseid=398",
+    "clinical_history": "The ECG from an elderly man shows which ONE of the following mechanisms?",
+    "diagnosis": "This ECG shows classic atrial fibrillation (AF) pattern with a rapid ventricular response of about 150/min and baseline artifact. Left axis deviation consistent with left anterior fascicular block is present. Slow R wave progression, a delayed precordial transition zone is present, along with non-specific ST-T changes.  There are borderline voltage criteria (Cornell: S in V3 + R in aVL > 28 mm in men); S in V3 + R in aVL > 20 mm in women) for left ventricular hypertrophy in this patient with documented coronary artery disease and long-standing hypertension.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case398/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

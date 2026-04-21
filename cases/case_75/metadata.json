@@ -1,0 +1,22 @@
+{
+    "case_id": "75",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=74&ans=1&caseid=75",
+    "clinical_history": "51-yr-old male; what is the key (subtle) repolarization finding and its differential diagnosis?",
+    "diagnosis": "The ECG shows sinus rhythm at about 75/min with normal PR and QRS intervals. A notable finding here is the interval subtending the low amplitude but definitely prolonged QT(U), perhaps best seen in the lateral precordial leads. The repolarization interval is up to 460-480 ms measured by eye (therefore, rate corrected up to 530 ms by Bazett's formula).  The differential diagnosis of this important  finding centers on: 1) electrolyte disorders, especially hypokalemia and hypomagnesemia (the K+ here was at most 3.6 mEq/L, and probably lower, with a borderline low Mg++ of 1.6 mEq/L; the serum calcium was normal); and 2) drug effects (e.g., quinidine, sotalol, amiodarone, tricyclic antidepressants, etc).  Hereditary long QT syndromes are much rarer. Hypocalcemia by itself stretches out the ST segment but does not produce prominent U waves. The long QT(U) with hypokalemia/hypomagnesemia is associated with an increased risk of torsade de pointes in this setting.   Readers will note that the QRS axis is vertical to borderline rightward (about +90 degrees). This is a non-diagnostic finding. An S1Q3 pattern is present, which is also non-specific and can be seen as a stable physiologic variant, with right ventricular  overload syndromes, etc. Without other clinical information (all ECGs should be fully interpreted in a clinical context), the absence of even borderline resting sinus tachycardia would weigh against acute large pulmonary embolism or other acute right heart overload syndromes. Also noted: the P wave in lead V1 is biphasic without definite criteria for left atrial abnormality.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case75/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Hypokalemia",
+        "Long QT Syndrome"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

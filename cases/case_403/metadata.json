@@ -1,0 +1,24 @@
+{
+    "case_id": "403",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=402&ans=1&caseid=403",
+    "clinical_history": "This ECG from a 62 year old woman with a history of atrial fibrillation is most consistent with which ONE of the following rhythms?",
+    "diagnosis": "The ECG shows a regular wide complex tachycardia at about 150/min. In strong favor of ventricular tachycardia are two major findings: the broad RS waves in V1 and V2 with an atypical RBBB morphology and the very wide QRS duration (180 msec). No atrial activity is apparent. The patient had a history of mitral valve replacement and prior inferior-lateral MI with left ventricular (LV) dilation and a reduced LV ejection fraction of 35-40~. This rhythm required DC cardioversion and the patient underwent successful radiofrequency catheter ablation of VT sites in the LV at the inferior wall to mitral valve regions.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case403/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Ventricular Tachycardia",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

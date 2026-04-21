@@ -1,0 +1,21 @@
+{
+    "case_id": "409",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=408&ans=1&caseid=409",
+    "clinical_history": "This ECG from a 41 year old woman status post a sudden cardiac arrest and ICD placement is most suggestive of which ONE of the following?",
+    "diagnosis": "The ECG shows sinus rhythm at a rate of about 60/min. Intervals and QRS axis are normal. The recording is notable for notched Q waves in leads V2 and V3 and prominent narrow Q waves (as QR complexes) in V4-V6. The lateral T waves are tall and symmetrical. The pattern resembles an anterior MI. Pseudo-infarct patterns (especially with narrow, deep Q waves) are not uncommon with hypertrophic cardiomyopathy. Echocardiogram showed normal overall left ventricular wall motion with classic asymmetric septal hypertrophy. There was a resting left ventricular outflow gradient of 15 mmHg, increasing to 18 mmHg during the strain phase of the Valsalva maneuver.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case409/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

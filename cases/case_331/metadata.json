@@ -1,0 +1,21 @@
+{
+    "case_id": "331",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=330&ans=1&caseid=331",
+    "clinical_history": "60 year-old man presented to the emergency department with complaint of epigastric pain associated with nausea and then developed severe left arm aching. What is the diagnosis?",
+    "diagnosis": "This ECG shows sinus bradycardia, rate about 55 bpm with acute-appearing ST elevations in the inferior (II, III, aVF) and apical/lateral (V5-V6) leads. ST depressions consistent with reciprocal changes are seen in leads I, aVL and V1-V2.  The patient has a history of coronary artery disease (CAD), and was status post angioplasty years ago.  He was taken to the catheterization laboratory and underwent successful emergency percutaneous transluminal angioplasty (PTCA) of two high-grade ~culprit~ lesions in the proximal and middle portions of the right coronary artery (RCA), respectively, followed by placement of two stents at these sites. ST elevation is not apparent in V1-V2 in this ECG. A second ECG done at the about the same time with right-sided chest leads did not show evidence of right ventricular MI. No evidence of pre-excitation is present.  Acute inferior STEMI is usually due to occlusion of the RCA, and less commonly to occlusion of the left circumflex (LCx) artery. The finding of ST elevations in lead III exceeding those in lead II strongly supports an RCA lesion, as does the absence of ST elevations in lead I.  (For further information on localizing the site of occlusion with inferior MIs, see: Chest 2002; 122:134 and N Engl J Med 2003; 348:933 along with subsequent literature.) Also note that in more subtle cases, additional chest leads around back of chest in V7-V9 positions may be useful (J Am Coll Cardiol 1998; 31:506).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case331/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

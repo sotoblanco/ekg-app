@@ -1,0 +1,23 @@
+{
+    "case_id": "152",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=151&ans=1&caseid=152",
+    "clinical_history": "Extra Credit:  74-year-old woman with syncope with multiple major findings, one immediately life-threatening.",
+    "diagnosis": "Complex ECG showing:  1) Underlying atrial fibrillation; 2) Long Q-T(U); 3) Ventricular pacing with intermittent sensing failure; and 4) Run of torsade de pointes-type of polymorphic ventricular tachycardia (second half of record).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case152/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Atrial Fibrillation",
+        "Ventricular Tachycardia",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "case_id": "192",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=191&ans=1&caseid=192",
+    "clinical_history": "The following ECG from an elderly woman shows all of the following except:",
+    "diagnosis": "c) Sinus rhythm (about 90/min) is present with alternating 3:2 AV Wenkebach and 2:1 block, not blocked premature atrial complexes (PACs).  Both heart block and blocked PACs can cause \"group beating\" due to the non-conducted P waves.  With AV block (Mobitz I or II), the sinus P waves should come \"on time\"; with blocked PACs, the premature P waves will come earlier than expected.   The ECG is suggestive of both proximal AV disease (3:2 AV Wenckebach pattern) and infranodal disease (right bundle branch block with borderline left axis deviation).  During subsequent electrophysiologic study at a time when pure 2:1 AV block was present, a Mobitz II mechanism was noted (HV interval 75 ms in conducted beats) and a dual-chamber pacemaker was implanted.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case192/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Right Bundle Branch Block",
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

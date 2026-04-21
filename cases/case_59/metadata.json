@@ -1,0 +1,21 @@
+{
+    "case_id": "59",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=58&ans=1&caseid=59",
+    "clinical_history": "What's up here?",
+    "diagnosis": "Serum K+. It was 7.7 mEq/L. Note the relatively tall peaked (tented) T waves that are a classic sign of mild-moderate hyperkalemia. With more severe elevations, the QRS will widen, as will the PR, and the P wave amplitude will diminish, resulting in a junctional or idioventricular-type rhythm eventually.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case59/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Hyperkalemia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "case_id": "501",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=500&ans=1&caseid=501",
+    "clinical_history": "68 year old man with ECG consistent with which ONE of following diagnoses?",
+    "diagnosis": "The ECG, from a patient with an acute coronary syndrome, shows sinus rhythm at a rate of about 60/min, with normal PR, QRS and QT intervals. Q waves and ST elevations are seen in II, III, aVF and, subtly, in V6. The tall R waves (V1-V2) in this context are consistent with loss of postero-lateral forces; the ST depressions in the right-mid precordial leads are consistent with reciprocal changes (to the postero-lateral ST elevations). Some degree of primary anterior ischemia is not excluded. The R waves are also tall in V3 and V4 (history of hypertension) but do not meet left ventricular hypertrophy criteria.  Severe right ventricular hypertrophy (RVH) due to pressure overloads is often associated with right axis deviation, T wave inversions in V1-V3, and peaked P waves (right atrial abnormality). No delta waves are seen here and the findings are not consistent with dextrocardia.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case501/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Acute Coronary Syndrome",
+        "Left Ventricular Hypertrophy",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

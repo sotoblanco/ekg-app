@@ -1,0 +1,22 @@
+{
+    "case_id": "101",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=100&ans=1&caseid=101",
+    "clinical_history": "Subtle syncopation.  54-year-old morbidly obese male with an acute inferior MI.  What is the rhythm?",
+    "diagnosis": "Sinus with 5:4 AV Wenckebach.  Low voltage (consistent with obesity, Chronic Obstructive Pulmonary Disease (COPD), and/or myocardial infarction (MI) with extensive cardiac muscle necrosis) makes identification of the very broad, low amplitude P waves difficult!  Note subtle changes in T-wave morphology due to superimposed atrial activity.  (Right axis deviation here could be due to COPD, lateral extension of infarct, or left posterior fascicular block.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case101/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "AV Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

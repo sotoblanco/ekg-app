@@ -1,0 +1,22 @@
+{
+    "case_id": "468",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=467&ans=1&caseid=468",
+    "clinical_history": "This ECG, from a young adult male with dyspnea, is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The ECG shows sinus rhythm at about 92/min, a somewhat high resting rate for a healthy, unstressed adult. The PR and QT/QTc intervals are normal. The QRS duration is at the upper limits of normal as measured by computer (110 ms) with a borderline intraventricular conduction delay (note also the terminal r~ wave in V1). The mean QRS axis is normal at about +60 degrees. Very prominent QRS voltage is present, consistent with left ventricular hypertrophy (LVH), along with extremely large P waves. These are biphasic in V1 and V2 with a broad, wide negative component and are of high amplitude in lead II (>2.5 mm), consistent with biatrial enlargement. R wave progression in V1-V3 is slow, a non-specific finding. Lateral ST-T abnormalities are also non-specific, but are consistent with LVH. The presence of left atrial abnormality and ST-T changes indicate that the prominent precordial voltage cannot be attributed simply to the patient young male or due athletic heart syndrome.  Additional comment: the evidence of biatrial abnormality in concert with signs of LVH and slow R wave progression are suggestive of biventricular hypertrophy/overload. More speculatively, the ~normal~ QRS in this context may represent a ~compromise\" between a more leftward axis from LVH and a more rightward axis from RVH.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case468/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Left Ventricular Hypertrophy",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

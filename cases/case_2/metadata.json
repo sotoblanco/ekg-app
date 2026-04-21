@@ -1,0 +1,21 @@
+{
+    "case_id": "2",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=1&ans=1&caseid=2",
+    "clinical_history": "18-year-old pre-op ECG for knee surgery. What does this ECG show?",
+    "diagnosis": "Limb lead reversal. The left and right arm leads are reversed. The clue is inversion of the P wave and QRS complex in lead I. Whenever you see a negative P wave and QRS complex in lead I the likely diagnosis is limb lead reversal. Dextrocardia is another possibility, but in dextrocardia there is loss of R wave progression in the left chest leads  which is not seen in this tracing. Another clue is the dissimilarity of the morphology of the QRS complexes in lead I and V6. No evidence of multiple P wave morphologies are present ruling out MAT.(The variability in heart rate here is due to respiratory sinus arrhythmia, a physiologic finding that is most apparent in younger healthy subjects.) Also, note the slight J point/ST elevations in leads with a positive QRS, consistent with normal variant (benign) early repolarization pattern.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case2/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "Sinus arrhythmia",
+        "rate": "Approx. 75 bpm (variable due to respiratory sinus arrhythmia)",
+        "axis": "Apparent Right Axis Deviation (Lead I negative, aVF positive)",
+        "intervals": "PR: ~160 ms, QRS: ~80 ms, QTc: ~450 ms",
+        "findings": "Inverted P wave, QRS complex, and T wave in lead I; dissimilarity of QRS morphology between leads I and V6; normal R wave progression in precordial leads; slight J-point and ST-segment elevations consistent with benign early repolarization.",
+        "comparison": "N/A",
+        "impression": "Limb lead reversal (Left Arm/Right Arm); normal variant early repolarization; respiratory sinus arrhythmia."
+    }
+}

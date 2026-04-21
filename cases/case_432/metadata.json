@@ -1,0 +1,23 @@
+{
+    "case_id": "432",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=431&ans=1&caseid=432",
+    "clinical_history": "This ECG from a 68 year old woman immediately status post valve repair for severe mitral regurgitation shows which ONE of the following rhythms? Note: the most recent previous ECG showed atrial fibrillation with a moderate ventricular response and right bundle branch block with left axis deviation.",
+    "diagnosis": "The ECG shows fine (low amplitude, rapid) atrial fibrillation with a slow (45/min), very regular QRS rate, consistent with a junctional escape mechanism. RBBB and left axis deviation (the latter consistent with left anterior fascicular block) are present, as noted on prior ECGS. There is relatively low voltage diffusely, not uncommon after cardiac surgery.  The need for a permanent pacemaker would depend on whether this post-operative rhythm was transient or persistent.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case432/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Right Bundle Branch Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

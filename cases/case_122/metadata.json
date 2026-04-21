@@ -1,0 +1,21 @@
+{
+    "case_id": "122",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=121&ans=1&caseid=122",
+    "clinical_history": "What is the non-cardiac diagnosis in this 20-year-old with dyspnea?",
+    "diagnosis": "Left pneumothorax causing low lateral precordial lead voltage.  Acute dyspnea with decreased lateral QRS voltage and vertical or rightward axis shift is highly suggestive of this diagnosis.  Anterior and inferior ST segment elevation is likely secondary to normal variant early repolarization pattern.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case122/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Fundamentals",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

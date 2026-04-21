@@ -1,0 +1,23 @@
+{
+    "case_id": "215",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=214&ans=1&caseid=215",
+    "clinical_history": "Elderly woman with a recent syncopal episode. What is the rhythm?",
+    "diagnosis": "b) Atrial fibrillation is present with a very rapid ventricular response. The rate is irregular with subtle fibrillatory waves apparent between QRS complexes. There is borderline low QRS voltage in the limb leads, a non-specific finding. Slight variations in the QRS complex may be due to subtle variations in QRS conduction associated with the very rapid rate. There are non-specific ST-T changes as well. The absence of multiple different discrete P waves excludes multifocal atrial tachycardia.  No sinus P waves are seen, either. Note also that in the elderly (greater than 70 yrs), the probability of a sinus mechanism with heart rates greater than 140/min is quite low (less than 10%). See Pinto DS et al. BMC Cardiovascular Disorders 2003:3:7; available at:http://www.biomedcentral.com/content/pdf/1471-2261-3-7.pdf.No flutter waves are seen. The fibrillatory activity also excludes paroxysmal supraventricular tachycardia due AV nodal reentry (AVNRT), atrio-ventricular reentry (AVRT) or atrial tachycardia (AT). Clinically, this patient had hypertension and type 2 diabetes mellitus.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case215/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Ventricular Tachycardia",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

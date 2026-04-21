@@ -1,0 +1,22 @@
+{
+    "case_id": "85",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=84&ans=1&caseid=85",
+    "clinical_history": "52-year-old female with a history of a heart murmur and increasing dyspnea. This ECG is most consistent with which ONE of the following diagnoses ?",
+    "diagnosis": "c) Note coarse atrial fibrillation (AF); tall right precordial R waves, right precordial T wave inversions, in concert with a vertical QRS axis. Signs of  right ventricular hypertrophy (RVH) with AF (or prominent left atrial abnormality (LAA) should suggest rheumatic heart disease with mitral stenosis. The tall R in V4 here may be due to biventricular hypertrophy. The ST-T changes could be due to right ventricular (RV) overload, drug effect, etc. in this context.  Echocardiogram/cardiac catheterization showed severe mitral stenosis/moderate mitral regurgitation; no significant coronary artery disease or aortic valve disease. The S1Q3T3 pattern is non-specific and may be associated with acute or chronic RV overload (or neither). Acute pulmonary embolism (one of choices) does not cause RVH per se, with tall right precordial T waves, although chronic pulmonary thromboembolic disease may. The right precordial T wave inversions may be seen with acute or chronic RV overload, as well as with anterior ischemia, etc. As noted the constellation of findings is most consistent with chronic rheumatic heart disease.  Physical examination here should be very helpful. What would you predict from this ECG?",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case85/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

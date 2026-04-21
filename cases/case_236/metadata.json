@@ -1,0 +1,22 @@
+{
+    "case_id": "236",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=235&ans=1&caseid=236",
+    "clinical_history": "The following ECG is from a critically ill young adult woman in the intensive care unit requiring endotracheal intubation. She has Type 1 diabetes mellitus and respiratory failure due to pneumonitis and pleural effusions. The ECG shows all of the following, except:",
+    "diagnosis": "Electrical alternans is not present; all of the other findings are seen. There is sinus tachycardia at about 110/min and borderline right axis deviation of the QRS (+100 degrees). The rSR\u0092 in lead V1 with a QRS duration of about 110 ms indicates an incomplete right bundle branch block (RBBB.) The combination of findings is consistent with acute or subacute right ventricular overload due to any number of causes, including severe pneumonitis, pulmonary embolism, etc. The QRS voltage in each of the limb leads is about 5mm (0.5mV) or less, qualifying for low voltage. Low voltage is common in patients in the ICU due to anasarca, pleural effusions, chronic obstructive pulmonary disease (COPD), ventilator effects, etc. Pericardial tamponade is an important cause of low voltage and was excluded here by echocardiogram. Electrical alternans (beat to beat alternation in QRS axis/amplitude) is a specific but not sensitive marker of cardiac tamponade and is not present here.  Note also: left posterior fascicular block (LPFB)  is a cause of right axis deviation. However, this diagnosis requires exclusion of other causes, including left-rght arm lead reversal, normal and positional variants, right heart overload/pulmonary disease (present here) and lateral myocardial infarction. Also, classic LPFB (hemiblock) produces marked right axis deviation (-120 degrees or so).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case236/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "case_id": "147",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=146&ans=1&caseid=147",
+    "clinical_history": "45-year-old man s/p aortic valve replacement.  What post-operative conduction abnormalities (atrioventricular and intraventricular) are present?",
+    "diagnosis": "1)  Sinus rhythm with a markedly prolonged AV conduction (\"first degree AV conduction delay [\"block\"])and AV Wenckebach (Type I second degree AV block). A 5:4 Wenckebach sequence is present in the middle of the recording. The AV Wenckebach sequences are \"atypical\" in that the RR intervals do not progressively shorten. (That is because the PR intervals do not always prolong by a smaller increment.) However, such atypical sequences are actually quite common.   ~~~~2)  Complete right bundle branch block.  (Left atrial abnormality also noted, along with non-specific repolarization abnormalities.)~~~~",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case147/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Right Bundle Branch Block",
+        "AV Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

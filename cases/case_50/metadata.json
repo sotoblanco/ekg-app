@@ -1,0 +1,23 @@
+{
+    "case_id": "50",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=49&ans=1&caseid=50",
+    "clinical_history": "85-year-old patient with valvular heart disease and congestive heart failure. Houseofficer called this normal sinus rhythm. What do you think?",
+    "diagnosis": "It's only NSR if that stands for \"Not Sinus Rhythm.\" Note that there are two P's for every QRS (see V1) and that the atrial activity at 176/min is negative in lead 2. This is atrial (NOT sinus) tachycardia with 2:1 block (conduction). Block is almost certainly at the AV node level (\"type 1\" mechanism). Always exclude digitalis excess with this arrhythmia (not present here). The ECG also shows low limb lead voltage, left ventricular hypertrophy (LVH) by precordial voltage and slow R wave progression (r smaller than S in leads V1-4). This triad of findings has been reported as a marker of a variety of congestive heart failure (CHF) syndromes (\"ECG-CHF triad\"), but it does not tell you the cause of failure.Note that very slow R wave progression here could be due to anterior myocardial infarction (MI) or to severe LVH alone. ST-T changes are c/w LVH, digitalis, ischemia, etc.  Finally, note that some patients with this arrhythmia may be candidates for catheter ablation treatment.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case50/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Ventricular Hypertrophy",
+        "Normal Sinus Rhythm"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Atrial tachycardia with 2:1 block",
+        "rate": "Atrial rate 176 bpm, Ventricular rate 88 bpm",
+        "axis": "Left axis deviation",
+        "intervals": "QRS ~90 ms, QTc ~410 ms",
+        "findings": "Low limb lead voltage (<5mm in all limb leads), left ventricular hypertrophy (LVH) by precordial voltage criteria, slow R-wave progression (V1-V4), negative P-waves in inferior leads (Lead II), and ST-T segment abnormalities consistent with LVH or ischemia",
+        "comparison": "N/A",
+        "impression": "Atrial tachycardia with 2:1 conduction block and the 'ECG-CHF triad' (low limb lead voltage, LVH, and poor R-wave progression), indicative of advanced congestive heart failure."
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "493",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=492&ans=1&caseid=493",
+    "clinical_history": "ECG from young adult woman with no relevant personal or family history is most consistent with which ONE of following?",
+    "diagnosis": "The ECG leads rhythm at about 65/min. The intervals and axis are normal. T wave inversions in V1 to V2, with normal R wave transition. These T wave are common physiologic variants findings, most prevalent in in young adults and women (\"juvenile T waves\"), and more rarely may extend to V3. The normal QRS waveforms and axis, absent epsilon waves, and normal (not peaked)  P wave are reassuring. This benign T wave finding is present in about 10 percent of young adult American women. The differential diagnosis of RV arrhythmogenic cardiomyopathy or other RV overload syndromes vs normal variant right precordial T waves has the subject of much well attention in the literature. In some case, imaging with echo or MR studies may be indicated. Chest lead misplacement (e.g., an interspace too high) can also confound interpretation of R and T wave progression.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case493/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

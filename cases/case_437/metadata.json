@@ -1,0 +1,23 @@
+{
+    "case_id": "437",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=436&ans=1&caseid=437",
+    "clinical_history": "This ECG is from a young adult woman on no cardioactive medications who had a previously normal ECG in the past. The findings are most consistent with which ONE of the following severe abnormalities?",
+    "diagnosis": "The ECG shows sinus rhythm with a vertical (inferior) QRS axis, which is within normal for age. The major abnormality is marked ventricular repolarization prolongation, including ST depression in some leads (simulating ischemia), flat T waves and apparent giant U waves. She had a profoundly low serum potassium concentration (about 1.5mEq/L) at this time due to gastric fluid losses and metabolic alkalosis. There is some of debate in the ECG literature about whether hypokalemia causes true QT prolongation, whether the repolarization prolongation is due to a T-U fusion wave, or whether the U wave is actually a bifid T wave. Spatio-temporal dispersion of recovery may also contribute the findings. The mechanism of pathologic repolarization prolongation with hypokalemia is also not fully understood but appears related to a decrease or delay in inward potassium movement during the ventricular action potential. This degree of repolarization prolongation creates a risk of torsade(s) de pointes type of polymorphic ventricular tachycardia. Hypocalcemia (not present here) causes QT prolongation associated with a long ST segment, but without U waves. Serum magnesium was also normal here. The previously normal ECG and the absence of drugs exclude hereditary long QT syndrome or pharmacologic toxicity.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case437/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Ventricular Tachycardia",
+        "Hypokalemia",
+        "Long QT Syndrome"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

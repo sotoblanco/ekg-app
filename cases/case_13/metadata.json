@@ -1,0 +1,24 @@
+{
+    "case_id": "13",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=12&ans=1&caseid=13",
+    "clinical_history": "A middle-aged woman with a history of a \"heart murmur\" since childhood presents with worsening dyspnea. The ECG is most consistent with which ONE of the following major diagnoses?",
+    "diagnosis": "The ECG reveals sinus rhythm with the following abnormalities: left atrial abnormality (LAA) in concert with a relatively tall R wave (increased Rs ratio) in lead V1 and an inverted T wave in that lead, along with right axis deviation (RAD). The combination of a predominant R wave (even with overall low amplitude QRS voltage) and rightward axis deviation with a normal QRS duration suggests right ventricular hypertrophy. This pattern along with left atrial abnormality should make one strongly consider mitral stenosis. An important finding on this ECG is the relatively tall R wave in V1. The differential diagnosis of this finding includes: normal, childhood ECG, posterior myocardial infarction (usually with Q&39;s inferiorly), RVH (usually with right axis and T wave inversions in V1-V2), rightward displacement of the heart (e.g. left pneumothorax), Wolff-Parkinson-White pattern due to posterior or lateral wall pre-excitation, hypertrophic cardiomyopathy with large septal forces (usually see large lateral Q waves as well), RBBB.  In this case, the presence of RAD and anterior T wave strain suggests RVH as the cause for the tall R in V1, and the concomitant presence of LAA strongly suggests the diagnosis of mitral stenosis. The patient in fact had severe mitral stenosis, which was treated surgically.    Note:  The S1Q3T3 pattern ( rS complex in lead I,  qR and T wave inversion in lead III)  noted here is sometimes attributable to RV overload due to pulmonary embolism (see Case 146).  However, this pattern is non-specific and may be seen with a variety of causes of RV overload, acute and chronic, as well as in other settings.  The presence of marked left atrial abnormality and the absence of sinus tachycardia are both against a unifying diagnosis of acute pulmonary embolism in this case.  Also of note is the absence of the anticipated right precordial T inversions often associated with RV overload syndromes (formerly called an RV \"strain\" pattern).  Note that evidence for LAA here is best seen at higher gain. The P waves are broad (>120ms in duration) in multiple leads and there is a biphasic P wave in lead V1 with a broad (>40ms) terminal portion. The late P wave forces also go toward lead aVL.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case13/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Bundle Branch Block",
+        "Wolff-Parkinson-White",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Sinus rhythm",
+        "rate": "79 bpm",
+        "axis": "Right axis deviation",
+        "intervals": "PR: 180 ms, QRS: 80 ms, QTc: 460 ms",
+        "findings": "Left atrial abnormality (LAA) with broad P waves (>120 ms) and biphasic P in V1; Right ventricular hypertrophy (RVH) suggested by prominent R wave in V1 (increased R/S ratio), right axis deviation, and inverted T wave in V1; Relatively low amplitude QRS voltage; S1Q3T3 pattern (rS in lead I, qR and T-wave inversion in lead III).",
+        "comparison": "N/A",
+        "impression": "Mitral stenosis with associated left atrial abnormality and right ventricular hypertrophy."
+    }
+}

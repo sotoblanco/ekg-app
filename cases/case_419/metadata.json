@@ -1,0 +1,23 @@
+{
+    "case_id": "419",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=418&ans=1&caseid=419",
+    "clinical_history": "Elderly man with a history of coronary bypass surgery and aortic valve replacement. This ECG, with some baseline artifact, shows which ONE of the following rhythms?",
+    "diagnosis": "The rhythm is atrial fibrillation (see V1) with  right ventricular (apical) pacing yielding a left bundle branch block morphology with left/superior axis deviation. When reading an ECG with ventricular pacing it is always important to identify the underlying atrial mechanism, and especially to consider the possibility of atrial fibrillation. Pacemakers in patients with intermittent or permanent AF do not protect against thromboembolic risk. This patient was on warfarin.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case419/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Left Bundle Branch Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "case_id": "368",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=367&ans=1&caseid=368",
+    "clinical_history": "59 year-old female with a history of hypertension and chronic obstructive pulmonary disease (COPD) is seen for lightheadedness. What is the rhythm?",
+    "diagnosis": "This ECG shows borderline resting sinus tachycardia (P wave rate is about 100 bpm) with 2:1 AV block with a resulting relatively slow ventricular rate of 50 bpm.  The PR interval of the conducted beats is 170 milliseconds; the QRS duration is normal at 90 milliseconds and the QT interval is physiologic at 440 milliseconds.  There are non-specific ST-T wave changes with an undefined, non-diagnostic precordial transition zone (possibly due to lead placement) and borderline left axis deviation. (V2 gives the appearance of an early transition while subsequent precordial leads show R=S.)  She underwent a cardiac electrophysiology study that showed 2:1 block in the AV node with slight improvement in conduction after 1 mg atropine IV. Due to difficult to control blood pressure and the presence of symptomatic 2:1 block, a permanent, dual-chamber pacemaker was implanted.~~~~",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case368/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

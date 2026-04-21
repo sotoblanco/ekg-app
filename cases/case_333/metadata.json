@@ -1,0 +1,21 @@
+{
+    "case_id": "333",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=332&ans=1&caseid=333",
+    "clinical_history": "53 year-old female seen in the emergency for chest pain and shortness of breath. What is the most likely diagnosis?",
+    "diagnosis": "This ECG shows resting sinus tachycardia at about 113 bpm with low voltage diffusely, and slightly peaked P waves (lead II) raising consideration of right atrial overload. R wave progression is delayed and non-specific ST-T wave changes are present. This constellation of findings is consistent with chronic obstructive pulmonary disease (COPD) confirmed by clinical assessment and pulmonary function studies in this case. She ruled out for acute myocardial infarction. Low voltage may also occur with severe hypothyroidism (myxedema), but is typically associated with sinus bradycardia.  For comparison, see Cases 32, 125 and 283.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case333/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

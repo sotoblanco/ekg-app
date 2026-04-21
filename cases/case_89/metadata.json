@@ -1,0 +1,21 @@
+{
+    "case_id": "89",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=88&ans=1&caseid=89",
+    "clinical_history": "A cardiologist missing bifocals could miss this arrhythmia.",
+    "diagnosis": "This looks like sinus bradycardia at a rate of 43 bpm, BUT... if you look more closely, there are P waves partly hidden in T waves. So this is actually pure sinus with blocked atrial premature complexes (APBs) in a bigeminal pattern. As a result the effective sinus rate is very slow. There are also non-specific T wave inversions noted in V1-V3.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case89/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

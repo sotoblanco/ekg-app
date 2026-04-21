@@ -1,0 +1,24 @@
+{
+    "case_id": "83",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=82&ans=1&caseid=83",
+    "clinical_history": "ECG from an elderly woman is most consistent with which ONE of following choices?",
+    "diagnosis": "This ECG is challenging. Most important is to recognize that there are two atrial waves per QRS with a regular atrial rate of about 200 (along with PVCs).  The atrial waves are positive in lead V1 and negative in lead II (see magnification view), with a slightly asymmetric (\"sawtooth\") appearance in the latter consistent with typical counterclockwise atrial flutter. But the atrial rate is slow for that diagnosis (usually 240-350/min). On the other hand, atrial disease (e.g., with advanced age) or certain drugs may slow atrial conduction rate during atrial flutter. Intra-atrial mapping with assessment of whether a macro-reentrant circuit was present involving the tricuspid isthmus would be most useful in this regard. This information was not available for this archival case. Of additional note, there is an IVCD  with slow R wave progression and criteria for LVH. One cannot rule out prior anterior myocardial infarction but the slow R wave progression could be due to LVH/IVCD alone. Non-specific ST-T changes are present.The patient was not digitalis toxic. Readers interested in differentiating atrial tachycardias from atrial flutter variants from the surface ECG and from intracardiac recordings, along with therapeutic implications for ablation, should consult the specialty literature.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case83/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Flutter",
+        "Premature Ventricular Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "case_id": "261",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=260&ans=1&caseid=261",
+    "clinical_history": "What is the rhythm in this 82 year old female? What is a possible culprit?",
+    "diagnosis": "The ECG shows atrial tachycardia (atrial rate 200/min) with 2:1 AV block (ventricular rate 100/min). Look closely at V1 and you will see two distinct P waves before each QRS (one superimposed on the T wave of the preceding beat).  A typical right bundle branch block (RBBB) pattern is also present with rSR\u0092 complexes in leads VI-V3.  Non-specific ST segment depressions are present.\r\n\r\nAtrial tachycardia with block should always prompt a search for digitalis toxicity, which may induce concomitant increased atrial automaticity and AV conduction impairment.  One specific mechanism for the increased ectopic atrial activity may be atrial myocardial cell calcium loading due to digitalis, leading, in turn, to triggered activity from delayed afterdepolarizations. Digitalis also increases vagal tone so that the atrial tachyarrhythmia is typically combined with Type 1 AV block in this setting. Hypokalemia may play a contributory role. \r\n\r\nA digoxin level drawn the same day as this ECG was elevated at 2.3 ng/ml. It is worth noting that atrial tachycardia with AV block also often occurs in the absence of digitalis therapy due to other factors such as atrial disease, increased catecholamines, etc.\r\n\r\nSinus rhythm with Wolff-Parkinson-White pattern is excluded as there is no evidence of a delta wave and there are 2 ectopic P waves for each QRS. Atrial flutter is excluded as there are discrete P waves and no flutter (F) waves and the atrial rate is 200 bpm (although \u0093slow\u0094 atrial flutter with a flutter rate well below 250/min may occur especially to drugs or atrial disease). These considerations also exclude AV nodal reentrant tachycardia and monomorphic ventricular tachycardia.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case261/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Flutter",
+        "Ventricular Tachycardia",
+        "Hypokalemia",
+        "Right Bundle Branch Block",
+        "AV Block",
+        "Wolff-Parkinson-White"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

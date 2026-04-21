@@ -1,0 +1,22 @@
+{
+    "case_id": "286",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=285&ans=1&caseid=286",
+    "clinical_history": "60 year-old female with complaints of chest pain and shortness of breath. The ECG shows which of the following?",
+    "diagnosis": "This ECG shows sinus rhythm at 72 bpm with left bundle branch block (LBBB) with QRS duration 0.16 second, normal AV conduction (PR.0.17 second) and a QT interval at the upper limits of normal (0.42 second.) \r\n\r\nThis patient had a history of hypertension and idiopathic cardiomyopathy with a left ventricular ejection fraction by echocardiography of 35%. She ruled out for a myocardial infarction. Serum potassium was normal. While acute MI cannot be ruled out by ECG alone in this context, the findings of tall right precordial T waves and J point elevations of this magnitude are consistent entirely with left bundle branch block.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case286/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

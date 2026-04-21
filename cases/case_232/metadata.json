@@ -1,0 +1,23 @@
+{
+    "case_id": "232",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=231&ans=1&caseid=232",
+    "clinical_history": "ECG from a 66-yr-old man with alcoholic cirrhosis and hemodynamic collapse. ECG two weeks prior to this admission showed normal intervals. The present ECG is most consistent with which critical serum laboratory abnormality? (Note: The wavy baseline here is probably due to movement artifact in this critically-ill patient and makes identification of the P waves difficult.)",
+    "diagnosis": "a) The ECG is very suggestive of severe hyperkalemia with the combination of symmetrically peaked T waves (V2-V4) with a wide QRS (left bundle branch block pattern here) and a long PR interval (about 0.26 sec\u0097see lead V2).The wide QRS with severe hyperkalemia can resemble a left or right bundle branch block pattern or often shows more non-specific type of intraventricular conduction disturbance. The effects depend to some extent on any underlying conduction disturbances. Hypercalcemia produces shortening of the QT interval, which is actually prolonged here in the context of the very wide QRS. (The patient\u0092s calcium was low at 7.6 mg/dL with a very low albumin at 1.6 gm/dL.)  Severe hypothyroidism (elevated TSH) may produce sinus bradycardia and low QRS voltage. Hyponatremia does not produce distinct ECG findings. The prominent T waves raise consideration of hyperacute repolarization changes due to acute ischemia. However, the ST segments are not elevated and the T waves have a relatively narrow-based and symmetric shape very suggestive of hyperkalemia.  Total CK level here was normal. The patient had ascites and renal failure with GI bleeding and probable hepatorenal syndrome, accounting for the severe hyperkalemia.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case232/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Hyperkalemia",
+        "Left Bundle Branch Block",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

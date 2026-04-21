@@ -1,0 +1,21 @@
+{
+    "case_id": "19",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=18&ans=1&caseid=19",
+    "clinical_history": "The patient is 40-yr-old female admitted with atypical chest pain and a big surprise on the ECG. (Repeat ECG showed same appearance.) The findings are most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "Dextrocardia defined as rotation of the heart so that the left atrium (LA) and ventricle are on the right side of the right atrium (RA) and right ventricle (RV). The apex of the heart is therefore formed by the left ventricle (LV) that faces the right axillary line in the right side of the chest. The ECG is notable for 1) inverted P waves in 1 and aVL; 2) negative QRS complex and T wave in 1; 3) progressively decreasing voltage across the precordium. The differential diagnosis of negative P waves (with normal PR) in 1 and aVL include arm lead reversal and dextrocardia. The striking abnormalities in QRS voltage across the precordium are typical of dextrocardia and not seen with limb lead reversal.  Other findings consistent with dextrocardia include P ,QRS and T waves in lead 2 that represent the normal morphology in lead 3 and vice versa.  Dextrocardia in the adult is most often accompanied by situs inversus or right sided malposition of the abdominal viscera.  Isolated dextrocardia without abdominal visceral malposition is uncommon in the adult.  The presence of the heart in the right side of the chest with the LA and LV remaining to the left of the RA and RV is called dextroversion when it is a primary process and dextroposition when it results from hyperinflation of the lungs.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case19/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Fundamentals",
+    "report": {
+        "rhythm": "Sinus rhythm (inferred from normal PR and inverted P waves)",
+        "rate": "N/A",
+        "axis": "Right axis deviation (negative QRS complex in lead I)",
+        "intervals": "PR: Normal; QRS: N/A; QTc: N/A",
+        "findings": "Inverted P waves in leads I and aVL; negative QRS complex and T wave in lead I; progressively decreasing voltage across the precordium; lead II and lead III morphology reversal",
+        "comparison": "Repeat ECG showed same appearance",
+        "impression": "Dextrocardia"
+    }
+}

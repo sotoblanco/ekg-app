@@ -1,0 +1,21 @@
+{
+    "case_id": "408",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=407&ans=1&caseid=408",
+    "clinical_history": "This ECG from a 35 year old woman is most consistent with which ONE of the following serum laboratory findings?",
+    "diagnosis": "The ECG shows sinus rhythm at about 90/min. The QRS axis is vertical (about +85 degrees), but not frankly rightward. There are nonspecific ST-T abnormalities in the lateral leads. Most important is the (subtle!) prolongation the QT/QTc at 430msec/480 obtained using Hodges formula: QTc = QT + 1.75 (heart rate \u0096 60). The patient had renal failure with prominent hypocalcemia (6.9 mg/dL in concert with hyperphosphatemia (8.0 mg/dL) Her albumin was reduced at 2.9g/dL, but not enough to account for the hypocalcemia. Serum potassium was minimally elevated (5.1mEq/L). Hypocalcemia causes relatively uniform prolongation by \u0093stretching out\u0094 the plateau (phase 2) of the ventricular action potential (corresponding to the ST-segment phase). This case is of interest because of the subtlety of the ECG findings.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case408/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

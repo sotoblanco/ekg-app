@@ -1,0 +1,21 @@
+{
+    "case_id": "400",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=399&ans=1&caseid=400",
+    "clinical_history": "23 year-old male with a \u0093variable pulse rate.\u0094 What is the rhythm?",
+    "diagnosis": "This ECG shows prominent sinus arrhythmia consistent with physiologic respiratory-related variations. The variability is due to changes in cardiac vagal tone modulation associated with respiratory phase (increase in heart rate with inspiration and decrease with expiration).  Prominent precordial voltage with somewhat prominent R waves in lead VI and narrow lateral Q waves are most likely due to physiologic variants, especially in young adults (although left ventricular hypertrophy or hypertrophic cardiomyopathy cannot be excluded).  Slight ST segment elevations are consistent with normal variant (benign) early repolarization.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case400/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

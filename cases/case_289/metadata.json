@@ -1,0 +1,23 @@
+{
+    "case_id": "289",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=288&ans=1&caseid=289",
+    "clinical_history": "88 year old woman in the emergency department with complaints of diffuse abdominal pain, intermittent ventricular tachycardia and hypotension. What life threatening problems are present?",
+    "diagnosis": "The ECG shows sinus tachycardia (P wave rate about 100 bpm) with complete heart block (junctional escape rate about 50 bpm) and a massive current injury due to anterior ST elevation myocardial infarction (MI).  This monophasic current of injury is sometimes referred to as \u0093tombstone pattern,\u0094 less formally, (for comparison, see also Cases #37,273). Q waves are present in both inferior and anterior leads from the current (and/or prior) MI.  The patient underwent cardiac catheterization that revealed diffuse LAD disease with distal occlusion treated with a stent and also had intraortic balloon pump and pacemaker placement. She died of intractable cardiogenic shock the same day.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case289/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Ventricular Tachycardia",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

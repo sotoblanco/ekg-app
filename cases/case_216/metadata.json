@@ -1,0 +1,23 @@
+{
+    "case_id": "216",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=215&ans=1&caseid=216",
+    "clinical_history": "21-yr-old woman with severe dyspnea is scheduled for which of the following cardiac procedures?",
+    "diagnosis": "b) The ECG shows findings most consistent with severe mitral valve stenosis. Sinus rhythm is present with an S1Q3 pattern along with QR complexes in lead V1 and a normal QRS duration, strongly suggesting right ventricular hypertrophy (RVH). The R wave in V2 is also quite prominent, consistent with RVH in context of these other findings. Also of note, the P waves (broad in lead II; prominently negative in lead V1) are consistent with left atrial abnormality (overload). This combination of ECG signs of left atrial overload plus right ventricular hypertrophy is classic for mitral stenosis. Aortic stenosis, in contrast, should produce left ventricular hypertrophy. Atrial septal defects (ostium secundum) typically are associated with incomplete or complete right bundle branch block and a rightward QRS axis. Left atrial abnormality would not be expected with a pure atrial septal defect since it produces right atrial volume overload. Severe mitral regurgitation produces left ventricular volume loads and ECG signs of left ventricular hypertrophy. Severe pulmonic stenosis typically produces ECG findings of marked RVH (e.g., tall R waves in the right chest leads) with right axis deviation and usually right atrial overload, in contrast to the combination of left atrial abnormality and RVH seen here. The patient had severe mitral stenosis (calculated valve orifice area of 1.0cm2) and severe pulmonary artery hypertension (75/35mmHg). She underwent successful balloon mitral valvuloplasty with a transseptal catheter approach.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case216/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Right Bundle Branch Block",
+        "Left Ventricular Hypertrophy",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

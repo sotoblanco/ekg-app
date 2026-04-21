@@ -1,0 +1,22 @@
+{
+    "case_id": "144",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=143&ans=1&caseid=144",
+    "clinical_history": "What is the underlying rhythm here and what else is going on?  Clue:  Take the fifth, beat, that is.",
+    "diagnosis": "Atrial fibrillation with a moderate ventricular response plus a single ventricular pacemaker escape spike (fifth beat, which occurs after about a 1 sec pause).  The fifth beat is a so-called pseudo-fusion beat. With pseudo-fusion beats, the pacemaker spike falls within the native QRS, so the QRS morphology is not a true hybrid, as it is with actual pacemaker fusion beats.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case144/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

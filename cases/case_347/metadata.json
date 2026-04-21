@@ -1,0 +1,22 @@
+{
+    "case_id": "347",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=346&ans=1&caseid=347",
+    "clinical_history": "Pre-operative ECG from a 26 year-old female. What is the diagnosis?",
+    "diagnosis": "This ECG shows a classic Wolff-Parkinson-White (WPW) pre-excitation pattern. The key triad of findings includes: a short PR interval, a wide QRS complex and delta waves (notching or slurring of the initial portion of the QRS).  Slightly positive delta waves in V1-V3 with a left bundle branch block-appearing morphology most likely indicate a right-sided bypass tract. A prominent physiologic sinus arrhythmia (normal finding) is also noted.  Please see Case #218 and other related cases for more information about WPW patterns",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case347/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Left Bundle Branch Block",
+        "Wolff-Parkinson-White"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

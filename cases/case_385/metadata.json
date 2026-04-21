@@ -1,0 +1,22 @@
+{
+    "case_id": "385",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=384&ans=1&caseid=385",
+    "clinical_history": "ECG from a 74 year old man shows which of the following combinations?",
+    "diagnosis": "This complicated ECG shows an abrupt change between two patterns: sinus rhythm at about 85 beats/minute with atrial sensing and ventricular pacing (subtle spikes) for the first 6 beats converting (with a fusion beat) to prolonged monomorphic ventricular tachycardia (VT) at a rate of about 150 beats/minute through the end of the recording.  The VT has a very wide (about 180ms) QRS duration with an RS configuration in V1 and a QS in V6) with a superior axis, consistent with an origin from the inferior apical region (confirmed by subsequent cardiac EP study).  The patient had severe coronary disease with markedly reduced left ventricular function due to prior infarctions and a history of refractory VT treated with amiodarone and a biventricular pacemaker/ICD. The patient was being further evaluated for consideration of ablation therapy of VT site(s) of origin.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case385/800x470.jpg",
+    "difficulty": 4,
+    "topics": [
+        "Ventricular Tachycardia",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

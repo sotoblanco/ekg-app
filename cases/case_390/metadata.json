@@ -1,0 +1,22 @@
+{
+    "case_id": "390",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=389&ans=1&caseid=390",
+    "clinical_history": "63-year-old woman with a history of rapid palpitations seen on multiple occasions in the emergency department.  What is the tachycardia?",
+    "diagnosis": "This ECG shows a very regular, narrow complex tachycardia with borderline left axis deviation at a rate of 162 bpm without evidence of a preceding P wave. There is however, a retrograde P wave in the early part of the ST segment that is positive in lead aVR and V1 (pseudo R waves) and negative in the leads II and V6 (pseudo S waves). The most likely diagnosis is AV nodal reentrant tachycardia (AVNRT), a common type of paroxysmal supraventricular tachycardia whose mechanism is based on dual AV nodal pathways.  Because of her multiple recurrent episodes, highly symptomatic status and failure of drug therapy, the patient underwent electrophysiology (EP) study with easily inducible AVNRT and successful slow pathway ablation.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case390/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Ventricular Tachycardia",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

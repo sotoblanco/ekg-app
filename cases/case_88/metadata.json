@@ -1,0 +1,24 @@
+{
+    "case_id": "88",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=87&ans=1&caseid=88",
+    "clinical_history": "39-yr old-male in Medical Intensive Care Unit (MICU). What is the rhythm?",
+    "diagnosis": "Atrial fibrillation with an extremely rapid ventricular response (overall average about 204  beats per minute). There is intermittent right bundle branch block (RBBB) aberrancy (note QRS morphology in V1/V6, especially), associated with the very fast rates. In all, there are 10 consecutive beats with RBBB aberrancy, during which the ventricular response rate is up to 240 beats per minute. Transient right bundle branch (RBBB) aberrancy in the setting of atrial fibrillation is an example of the Ashman phenomenon. This type of aberrancy may occur as a single beat, mimicking an isolated premature ventricular complex (PVC) or as a run of wide-complex beats, as here, mimicking ventricular tachycardia (Gouaux JL, Ashman R.  Auricular fibrillation with aberration simulating ventricular paroxysmal tachycardia. Am Heart J 1947:366\u009673). The initiation of the RBBB aberrancy in this context typically occurs with a long cycle-short cycle RR cadence, with the refractoriness of the right bundle related to the duration of the preceding RR interval.  Thus, the first RBBB aberrancy beat is most likely to occur in the QRS that comes just after the relatively long RR interval.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case88/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Ventricular Tachycardia",
+        "Right Bundle Branch Block",
+        "Premature Ventricular Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

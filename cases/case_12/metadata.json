@@ -1,0 +1,22 @@
+{
+    "case_id": "12",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=11&ans=1&caseid=12",
+    "clinical_history": "The patient is an elderly female with a known history of left bundle branch block who presented to the emergency ward with shortness of breath. What is your diagnosis?",
+    "diagnosis": "Dx: Sinus bradycardia, left bundle branch block (LBBB ) with primary ST-T wave changes. The ECG demonstrates an LBBB morphology with primary biphasic and inverted T waves in leads 2, 3 and F. Uncomplicated bundle branch blocks should only have \"secondary\" T wave changes. That is the ST-T waves should be opposite in direction to the major vector of the QRS. For example, if this ECG with LBBB was uncomplicated, the ST-T waves in the inferior leads would be upright. This patient has inverted T waves suggesting that a \"primary\" or ischemic process is evolving in the inferior distribution. However, the absence of primary ST-T changes does not exclude ischemia/MI.  The patient did in fact rule in for a myocardial infarction, with positive cardiac biomarkers. This example illustrates that ischemic ECG changes can sometimes be read despite the presence of a  left bundle branch block.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case12/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Sinus bradycardia",
+        "rate": "50 bpm",
+        "axis": "Left axis deviation",
+        "intervals": "PR: 160 ms, QRS: 160 ms, QTc: ~475 ms",
+        "findings": "Sinus bradycardia; wide QRS complex (>120 ms) with monophasic R waves in leads I and aVL, consistent with Left Bundle Branch Block (LBBB); primary ST-T wave changes consisting of biphasic and inverted T waves in leads II, III, and aVF. In uncomplicated LBBB, T waves in these leads should typically be upright (secondary changes), thus their inversion indicates an underlying ischemic process.",
+        "comparison": "N/A",
+        "impression": "Sinus bradycardia and Left Bundle Branch Block (LBBB) with primary ST-T wave changes in the inferior leads, diagnostic of an evolving inferior myocardial infarction (confirmed by positive cardiac biomarkers)."
+    }
+}

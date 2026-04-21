@@ -1,0 +1,25 @@
+{
+    "case_id": "87",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=86&ans=1&caseid=87",
+    "clinical_history": "78-yr-old female. What is the rhythm?",
+    "diagnosis": "Atrial flutter with 2:1 block. Note that there are 2 atrial waves for each QRS in lead V1. The atrial rate is about 240; therefore, this could easily be misread as sinus tachycardia or paroxysmal supraventricular tachycardia (PSVT) variant--not by you of course. ECG also shows left ventricular hypertrophy (LVH) and possible prior antero-septal myocardial infarction (MI), along with non-specific ST-T changes.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case87/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Flutter",
+        "Ventricular Tachycardia",
+        "Supraventricular Tachycardia",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

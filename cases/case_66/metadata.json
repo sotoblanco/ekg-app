@@ -1,0 +1,21 @@
+{
+    "case_id": "66",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=65&ans=1&caseid=66",
+    "clinical_history": "Why is this patient tachycardic?",
+    "diagnosis": "It may look like sinus tachycardia, but look again in V1: There are two atrial waves for each QRS, so the atrial rate is 260. This is another case of atrial flutter with 2:1 conduction, one of the most commonly mistaken arrhythmias! This case is particularly tough because of low voltage in limb leads.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case66/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Flutter"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "case_id": "506",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=505&ans=1&caseid=506",
+    "clinical_history": "An elderly patient presents with multiple complaints and is found to have an irregular pulse. The ECG shows which ONE of the following?",
+    "diagnosis": "This ECG shows a relatively rapid and irregular narrow complex tachycardia. One beat is conducted with RBBB aberrancy. The long cycle-short cycle dynamic is consistent with an Ashman-type mechanism. The ventricular rate at rest here is about 110/min. The ECG meets strict criteria for MAT with three or more different consecutive, ectopic P waves at a rapid rate. Some of the underlying beats may be sinus, but the majority appear ectopic atrial, based on their varying polarity, morphology and short coupling intervals. The ECG also shows evidence of left ventricular hypertrophy (R wave voltage in aVL by itself and also sum of R in lead aVL plus S in lead V3, per Cornell criteria). Delayed R wave progression and non-specific ST-T changes are present.The clinical diagnoses included chronic heart failure with preserved LV function and mitral regurgitation.  The most common substrate for MAT is decompensated COPD. This diagnosis is also reported in severe chronic heart failure. MAT is one of a number of rhythms under the rubric of multiform (multifocal) atrial rhythms (MARs). When the rate is slow (e.g., 50-60/min) and the P waves vary in a more gradual fashion, the term wandering atrial pacemaker (WAP) can be applied. For rhythms that look like MAT, but where the atrial rate is less than 100 (e.g., 60-99/min), the term MAR can also be used. But, MAT, almost invariably a sign of underlying pathology, especially COPD (sometimes with sympathomimetic excess) or CHF, should not be considered \"fast\" WAP, since the latter finding is often a normal variant observed during sleep for example, with high vagal tone. Conversely, WAP is not simply a manifestation of slow MAT. Finally, in cases of MAT it is important to note that some of the ectopic P waves may be blocked, due to refractoriness leading to the term \"MAT with block.\"",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case506/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Right Bundle Branch Block",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

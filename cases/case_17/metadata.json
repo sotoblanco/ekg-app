@@ -1,0 +1,25 @@
+{
+    "case_id": "17",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=16&ans=1&caseid=17",
+    "clinical_history": "This 52-year-old man with a history of  \"a cardiac condition\" presents with near syncope. He has no coronary disease. The ECG is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The ECG reveals sinus rhythm with marked PR prolongation, left ventricular hypertrophy (LVH) by voltage criteria, right bundle branch block (RBBB) with left anterior fascicular block (LAFB), or \"hemiblock\", a prominent initial R in V1, and prominent Q waves laterally.  The LVH, and the narrow, morphology of the Q's should suggest the diagnosis of hypertrophic cardiomyopathy (HCM) with asymmetric septal hypertrophy.  93% of patients with HCM have abnormal ECG's. They often have P wave evidence of left atrial abnormality, due to reduced ventricular compliance and the frequent coexistence of mitral regurgitation. Most have ECG criteria for LVH. They sometimes have prominent Q waves in the lateral leads, likely due to septal hypertrophy (the initial forces of left to right septal activation are unusually prominent). Tall broad R waves in V1 are often seen; the differential Dx of this finding includes: HCM, RVH, posterior infarct, Wolff-Parkinson-White, and Duchenne's muscular dystrophy.  The absence of evidence of an inferior infarct, the absence of a short PR interval and delta waves, the left axis, and the patient's age rule out these other possibilities.  In this case, there is evidence of significant conduction system disease: PR prolongation, RBBB, and LAFB.  The patient later developed 2:1 heart block, and had improvement of AV conduction with vagal maneuvers.  This improvement suggests that the PR prolongation was due to impaired infranodal conduction  (as AV node conduction proper should worsen with increased vagal tone); this type of block is worrisome for progression to high grade heart block.  The patient had a cardiac electrophysiology study (EPS), which confirmed infranodal block.  He had improvement in his symptoms with a pacemaker.  His near syncope may have been due to brady- or tachyarrhythmias, or due to the hemodynamic consequences of his left ventricular outflow tract obstruction. Note that LAFB and LVH can co-exist, as is this case.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case17/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Right Bundle Branch Block",
+        "Wolff-Parkinson-White",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Sinus rhythm",
+        "rate": "N/A",
+        "axis": "Left axis",
+        "intervals": "Marked PR prolongation, prolonged QRS (due to RBBB)",
+        "findings": "LVH by voltage criteria, Right bundle branch block (RBBB), Left anterior fascicular block (LAFB), prominent initial R in V1, prominent narrow lateral Q waves",
+        "comparison": "N/A",
+        "impression": "Hypertrophic cardiomyopathy (HCM) with asymmetric septal hypertrophy and significant infranodal conduction system disease."
+    }
+}

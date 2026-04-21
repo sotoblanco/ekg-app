@@ -1,0 +1,21 @@
+{
+    "case_id": "447",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=446&ans=1&caseid=447",
+    "clinical_history": "This ECG, from a middle-age man with dyspnea and recent hemodynamic collapse, is most consistent with which ONE of the following syndromes?",
+    "diagnosis": "This highly unusual ECG shows resting sinus tachycardia at a rate of about 105/min. There is extreme QRS right axis deviation (about +165 degrees)  The P waves are peaked (narrow and tall) in leads II, III and aVF with a relatively vertical P wave axis (+80 degrees) and negative, but narrow, prominent P waves in lead V1. The QRS is borderline prolonged 110 ms (RV conduction delay), with QR complexes in V1 and V2 and almost absent precordial initial R wave progression in V3-V6 (note: rS complex in V6).  Limb lead voltage is borderline low and non-specific ST-T changes are present.  In concert, these findings are most consistent with severe right heart overload (right atrial and right ventricular enlargement). The underlying cause was severe pulmonary hypertension (pulmonary artery systolic pressures from the echocardiogram were about 90mmHg) due to extensive and probably recurrent pulmonary emboli. The specific cause (chronic pulmonary emboli) of the pulmonary hypertension and right heart overload syndrome, however, cannot be inferred from the ECG alone. Note also that these ECG findings of marked right ventricular overload, while consistent with the clinical diagnosis of severe, sustained pulmonary hypertension, is not typical of a classic, single, acute episode of pulmonary emboli (see other cases at this site for examples of the latter). The absence of T wave inversions in the right to mid-chest leads is somewhat surprising given the diagnosis; but those in the inferior limb leads may be due to RV overload.  The QR waves and in V1 and V2, and QS waves in I and aVL, and the very slow initial R wave progression represent a pseudo-infarct pattern due to severe RV dilation and hypertrophy. The constellation of signs right atrial overload, QR or qR-type waves in V1 and V2 and marked right axis deviation is a specific but not sensitive sign of right heart (pressure) overload. Note: the ECG does not show a classic complete right bundle branch block (RBBB) \u0096there is a minimally widened QRS with QR, but not rSR\u0092 complexes, in V1 and V2. The extreme pathophysiologic perturbations were confirmed by echocardiogram and cardiac catheterization demonstrating RV pressure/volume overload. Left ventricular systolic function was normal. Due to hemodynamic collapse, the patient was initially supported with an RV-assist device.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case447/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Right Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

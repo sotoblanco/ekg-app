@@ -1,0 +1,21 @@
+{
+    "case_id": "133",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=132&ans=1&caseid=133",
+    "clinical_history": "The following ECG is most consistent with which clinical scenario?  50-year-old woman with....",
+    "diagnosis": "c)  ECG shows classic signs of right atrial/right ventricular overload:  1) peaked P waves; 2) QR in V1 with a narrow QRS (not a true right bundle branch block); 3) delayed precordial transition zone, with terminal S waves in V5/V6; 4) superior axis deviation with an S1S2S3 pattern.  (Note that the P wave, while  predominantly negative in V1, is not broad, so this finding is not evidence of left or biatrial abnormality in this context.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case133/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Right Bundle Branch Block"
+    ],
+    "category": "Axis",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

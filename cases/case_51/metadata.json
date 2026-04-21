@@ -1,0 +1,21 @@
+{
+    "case_id": "51",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=50&ans=1&caseid=51",
+    "clinical_history": "55-year-old woman: why is she dyspneic?",
+    "diagnosis": "ECG findings are left atrial abnormality(LAA) (biphasic P in V1 with broad negative component) and broad P waves elsewhere plus a tall R in V1 with a vertical QRS axis (about +80 degrees). A tall R in V1 with a vertical or particularly rightward axis generally indicates right ventricular hypertrophy (RVH). The combination of LAA with evidence of RVH in a dyspneic patient is most c/w with rheumatic mitral valve disease with severe mitral stenosis (MS). That's what this patient had with mild mitral regurgitation (MR) as well.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case51/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "Normal Sinus Rhythm",
+        "rate": "75 bpm",
+        "axis": "Vertical axis (+80 degrees)",
+        "intervals": "PR: 160 ms, QRS: 80 ms, QTc: 447 ms",
+        "findings": "Left atrial abnormality (LAA) evidenced by broad, notched P waves in limb leads and a biphasic P wave in V1 with a prominent negative terminal component; Right ventricular hypertrophy (RVH) evidenced by a tall R wave in V1 and vertical axis; ST-T wave inversions in leads V1-V3 likely representing RV strain.",
+        "comparison": "N/A",
+        "impression": "Left atrial abnormality and right ventricular hypertrophy in a patient with rheumatic mitral valve disease (severe mitral stenosis and mild mitral regurgitation)."
+    }
+}

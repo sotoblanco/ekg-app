@@ -1,0 +1,23 @@
+{
+    "case_id": "115",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=114&ans=1&caseid=115",
+    "clinical_history": "This 33-year-old male has a markedly abnormal ECG. and a history of congenital heart disease. Which ONE of the following diagnoses is most likely?",
+    "diagnosis": "c) Transposition of the great arteries (TGA).  This patient had complete anatomic transposition and is status post Mustard procedure.  This procedure creates a baffle that shunts systemic venous blood to the left ventricle, and oxygenated pulmonary venous blood to the right ventricle (which is the systemic pumping ventricle in TGA). The rhythm is likely accelerated junctional; sinus node dysfunction is very common after this atrial-damaging operation.  A secundum  Atrial septal defect (ASD) is typically associated with an incomplete right bundle branch block and a rightward QRS axis; and mirror-image dextrocardia should cause reverse R wave progression.  Mitral valve prolapse may be associated with non-specific ST-T changes and, in severe cases, with left ventricular hypertrophy.  Severe aortic valvular disease should cause left ventricular hypertrophy.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case115/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Bundle Branch Block",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "case_id": "329",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=328&ans=1&caseid=329",
+    "clinical_history": "Elderly man with a long cardiac history including coronary artery disease status post myocardial infarction, hypertension, and implantable cardioverter defibrillator implantation for ventricular tachyarrhythmias. He is admitted for routine generator change with complaint of increased difficulty climbing stairs. What is the underlying rhythm?",
+    "diagnosis": "This ECG shows sinus rhythm (see lead III for clear sinus P waves) at rate of about 70 bpm.  Leads I, II and aVR show classic tremor artifact (about 4 cycles/sec) simulating atrial flutter or coarse atrial fibrillation. There is left axis deviation and possible left anterior fascicular block, as well as underlying anterior Q waves (V1-V3) raising strong consideration of a prior anterior myocardial infarction.  The patient has a diagnosis of Parkinson~s disease. Compare this record with Cases # 84 and 312.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case329/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Atrial Flutter"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

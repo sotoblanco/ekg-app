@@ -1,0 +1,23 @@
+{
+    "case_id": "127",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=126&ans=1&caseid=127",
+    "clinical_history": "89-year-old man with a history of severe  congestive heart failure.  What is the rhythm?  What is the possible significance of rsR' in V6?",
+    "diagnosis": "Coarse atrial fibrillation (not flutter) is present with a slow ventricular response.  There is an atypical left bundle branch block (LBBB) pattern. The rsR' in lateral leads (e.g., V6 here) is highly suggestive of severe left ventricular (LV )dysfunction, often associated with a ventricular aneurysm (El-Sherif sign).  A QR or rsR' complex is also present in I and aVL. Left axis deviation and a long QT are noted, as well. The patient had heart failure due to prior silent infarction.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case127/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Long QT Syndrome",
+        "Left Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

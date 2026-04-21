@@ -1,0 +1,23 @@
+{
+    "case_id": "163",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=162&ans=1&caseid=163",
+    "clinical_history": "The following ECG shows which rhythm?",
+    "diagnosis": "The underlying rhythm is sinus at a rate of about 60/min with fixed coupled premature ventricular complexes (PVCs) in a bigeminal pattern (i.e., every other beat is a PVC).   Note that the onset of each PVC comes just after a (non-conducted) sinus P wave, giving the appearance of a very short PR in some of the leads. The negative deflection at the end of the PVCs in lead II are actually part of the QRS and not retrograde P waves. To verify this contention, measure the longest QRS duration of the PVC complexes (e.g., in lead V1) and superimpose that duration on the PVC in lead II. This widest duration subtends the last deflection of the PVC that simulates a P wave, but is actually part of the QRS.   The sinus beats show probable left atrial abnormality; in addition, the sinus conducted QRS complexes show borderline left axis deviation and a minor right ventricular (RV) conduction delay.   As additional notes, RBBB deflections, as shown here, (supraventricular or ventricular) may generate S waves that  simulate narrow P waves. Another point of distinction  is based on the fact that retrograde P waves are usually septal in origin and, therefore, equally negative in leads II and III and near-isoelectric in I. Here, the\"P\" waves are positive in III and negative in I, which gives them extreme left-to-right direction typical for terminal part of the RBBB vector loop.  Finally, based on their very sharp initial deflections and rightward axis, the PVCs themselves likely originate from or close to the left anterior fascicle.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case163/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Right Bundle Branch Block",
+        "Supraventricular Tachycardia",
+        "Premature Ventricular Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

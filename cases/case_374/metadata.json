@@ -1,0 +1,22 @@
+{
+    "case_id": "374",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=373&ans=1&caseid=374",
+    "clinical_history": "21 year-old male with palpitations and near syncope. What does the ECG show?",
+    "diagnosis": "The rhythm is sinus with classic triad of WPW pre-excitation with a short PR, delta waves and a wide QRS. The polarity (vector orientation of the delta wave)\u0097negative in aVL, positive inferiorly and in the right to mid chest leads, is consistent with a left lateral bypass tract. (The delta wave vector points away from the area of earliest ventricular activation, namely the insertion of the bypass tract.) At cardiac EPS study, the patient had spontaneous orthodromic AV reentrant tachycardia (AVRT) and a left lateral bypass tract was successfully ablated.  WPW patterns may simulate hypertrophy, bundle branch blocks and myocardial infarction, as in the case here.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case374/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Wolff-Parkinson-White"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

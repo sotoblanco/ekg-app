@@ -1,0 +1,23 @@
+{
+    "case_id": "394",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=393&ans=1&caseid=394",
+    "clinical_history": "This ECG from a middle-aged man shows which ONE of the following arrhythmias?",
+    "diagnosis": "The ECG shows atrial fibrillation (AF) with a very rapid  ventricular response (about 168/min at rest here). Artifactual drift of the baseline is present. There are nonspecific ST-T changes and relatively slow R wave progression, also a non-diagnostic finding.  The patient had a history of systemic hypertension. Echocardiogram showed mild concentric left ventricular hypertrophy (not evident on this ECG) and normal overall ventricular and valvular function.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case394/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

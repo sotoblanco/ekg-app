@@ -1,0 +1,21 @@
+{
+    "case_id": "166",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=165&ans=1&caseid=166",
+    "clinical_history": "What is the ECG diagnosis in this recording with baseline movement?",
+    "diagnosis": "a) There are hyperacute T waves and ST elevations localized in the anterior leads. In this case the acute MI is due  an occlusion of the left anterior descending coronary artery.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case166/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

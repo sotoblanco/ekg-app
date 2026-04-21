@@ -1,0 +1,23 @@
+{
+    "case_id": "148",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=147&ans=1&caseid=148",
+    "clinical_history": "What AV conduction disturbance is present?  What acute event is occurring that might account for this conduction disturbance?",
+    "diagnosis": "Sinus rhythm is present (P wave rate 94/min) with AV Wenckebach (3:2 and 4:3 AV ) conduction.  This conduction problem is present in the context of  an acute/evolving postero-lateral myocardial infarction (MI).  Note very subtle ST elevations in I, relative to the TP baseline, in concert with \"coved\" T waves in I and  aVL and V5, V6.  ST depressions in V1-V2 are consistent with reciprocal changes (to the postero-lateral ST elevations). The somewhat prominent right precordial R waves are likely related to loss of QRS forces in the postero-lateral part of the heart.  Low limb lead QRS voltage makes these diagnoses more difficult.  The patient had coronary disease, as well as a metastatic lung tumor mass, compressing his obtuse marginal coronary arteries to account for the acute postero-lateral MI. Note that sometimes reciprocal ST depressions are more prominent that primary ST elevations (Goldberger AL, Erickson R. Pacing Clin. Subtle ECG sign of acute infarction: prominent reciprocal ST depression with minimal primary ST elevation. Pacing Clin Electrophysiol 1981; 4: 709-12.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case148/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

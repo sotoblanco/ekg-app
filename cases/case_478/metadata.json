@@ -1,0 +1,24 @@
+{
+    "case_id": "478",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=477&ans=1&caseid=478",
+    "clinical_history": "ECG from a middle-aged man. What does the ECG show?~~~~~~",
+    "diagnosis": "The ECG shows sinus rhythm with physiologic PR and QT intervals. The mean QRS frontal plane axis is within normal range. The QRS duration (interval) is prolonged (140ms; normal <110 ms by computer-assisted ECG measurement) with a classic LBBB morphology. The ST-T abnormalities (discordance of QRS and ST-vectors) are consistent with secondary changes due to the abnormal sequence of ventricular depolarization. LBBB block, indicating degenerative change or damage to the left side of the His-Purkinje system, is often a marker of left ventricular hypertrophy (LVH; which was not found by echocardiogram in this case). The concomitant ECG evidence of left atrial abnormality makes LVH even more likely. No perfusion abnormalities were noted on nuclear imaging or pharmacologic studies in this case, either. No evidence of acute MI was noted with similar ECGs. LBBB may mimic ischemia/MI because of its association with J point/ST elevation in leads with a negative QRS area and of ST depression and T wave inversion in leads with a positive QRS area. A LBBB pattern may also mask the diagnosis of acute ischemia. Therefore, considerable interest attends the uses and limitations of the ECG in the diagnosis of ischemia superimposed on a LBBB, making this aspect of ECG diagnosis an active area of investigation.  LBBB is clinically important as 1) a marker of underlying structural heart disease, especially from systemic hypertension, left sided valve disease, cardiomyopathy, or from advanced coronary disease typically with LV dysfunction; 2) a cause of worsening LV function in established cardiomyopathy of various causes; 3) a potential cause, by itself, of decreased LV function, and 4) a marker of infranodal conduction impairment. However, chronic LBBB, per se, is not an indication for permanent pacing. The prognosis for LBBB depends on the clinical context: best for those without underlying heart disease and worst for those with advanced heart failure.~~~~",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case478/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Bundle Branch Block",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

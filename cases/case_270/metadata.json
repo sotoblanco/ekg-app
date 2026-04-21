@@ -1,0 +1,25 @@
+{
+    "case_id": "270",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=269&ans=1&caseid=270",
+    "clinical_history": "89 year-old male admitted for chest pain and tachycardia. What abnormalities does the ECG show?",
+    "diagnosis": "This first 4 beats of this ECG show termination of a run of wide-complex tachycardia at rate about 150 bpm.  The 5th and the 6th beats show supraventricular conduction, with underlying atrial fibrillation now apparent. The conducted supraventricular beats suggest underlying inferior myocardial infarction with prominent Q waves in leads II and aVF and a borderline intraventricular conduction delay (QRS=110 msec). Starting with the 7th beat and continuing to the end, the wide-complex ventricular tachycardia resumes. The wide-complex tachycardia (QRS about 160 msec) has left bundle branch block morphology, with an inferior QRS axis.~~~~This ECG shows two features strongly favoring ventricular tachycardia over supraventricular tachycardia with left bundle aberrancy, namely: 1) a broad R wave (40 msec or more in duration) in leads V1-V2, and 2) a delayed intrinsicoid deflection great than 70 msec in V1-V2 measured from the initial onset of the QRS to the nadir of the S wave. (The absence of these findings does not exclude ventricular tachycardia, however.) ~~~~This patient ruled in for a small acute myocardial infarction with an elevated troponin, but normal creatine kinase. Echocardiogram showed a major infero-lateral wall motion abnormality consistent with prior myocardial infarction as well. He had recurrent episodes of ventricular tachycardia and underwent successful ablation of an ectopic focus in the crest of the interventricular septum, under the left coronary cusp, consistent with the monomorphic ventricular tachycardia seen here with a left bundle branch block, inferior QRS axis morphology. The patient refused an implanted cardioverter-defibrillator (ICD) device.~~~~~~~~",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case270/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Ventricular Tachycardia",
+        "Left Bundle Branch Block",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

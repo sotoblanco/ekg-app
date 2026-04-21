@@ -1,0 +1,22 @@
+{
+    "case_id": "79",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=78&ans=1&caseid=79",
+    "clinical_history": "What intermittent arrhythmia do you think this 76-year-old woman was recently treated for with a drug? There are two major ECG clues.",
+    "diagnosis": "Atrial Fibrillation. The rhythm is now sinus, with borderline sinus bradyardia, at about 60/min\r\nNote: 1) The wide notched P wave in lead II and biphasic P wave in lead V1 are consistent with left atrial abnormality (LAA). The initial component of the P wave is slightly peaked in lead V1, also raising consideration of biatrial abnormality. However, this finding is not present in the limb leads.\r\n         2) The long QT/QTc (about 0.47 second), consistent with amiodarone effect, a commony used antiarrhythmic drug for paroxymal atrial fibrillation in this age-group. This drug may also cause sinus bradycardia related to beta-blocking effects. What are other effects and potential toxicities of this drug?",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case79/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Long QT Syndrome"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

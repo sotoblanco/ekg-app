@@ -1,0 +1,21 @@
+{
+    "case_id": "470",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=469&ans=1&caseid=470",
+    "clinical_history": "This ECG, from a middle-aged man, is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "This ECG shows sinus rhythm (slight sinus arrhythmia) with a normal PR interval and normal QRS axis. Most important are the prominent ST elevations in V5 and V6 with J/ST segment depressions in V1-V4, consistent in this context with reciprocal change from a lateral (-posterior) type ST elevation MI.  Additional leads V7-V9 might be revealing here of J/ST elevation. Of note, ST depressions in V1 to V3-V4 should always be considered in the context of ST changes in other leads. In isolation these depressions could be misinterpreted as due to anterior subendocardial ischemia, with ST depression MI. Note that ST elevations are not seen as a reciprocal finding when there are primary ischemic ST depressions. Emergency diagnostic cardiac catheterization with coronary angiography revealed occlusion of the left circumflex artery, with successful angioplasty.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case470/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "case_id": "253",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=252&ans=1&caseid=253",
+    "clinical_history": "This ECG is from an asymptomatic 61-year-old male is consistent with all of the following EXCEPT?",
+    "diagnosis": "The ECG is notable for ST elevations in leads V1-V3 with a \"coved\" appearance in V1-V2, associated with slight T wave inversion. This finding has generated considerable interest because it may represent the primary (hereditable) Brugada pattern, which in turn, may be associated with increased risk of ventricular tachyarrhythmias and even sudden cardiac death (Brugada syndrome). Similar acquired ECG findings may occur with acute right ventricular ischemia (not present here) or hyperkalemia (normal K+ here) and with type 1C antiarrhythmic drugs like flecainide or certain other medications (no relevant drugs reported here).  Of note, there is no true complete right bundle branch block (RBBB) in this case, consistent with the Brugada variant which produces a ~pseudo~ RBBB appearance in the right precordial leads.  In contrast to typical RBBB, prominent S waves are not present with the Brugada pattern in V5-V6. The Brugada pattern can also be simulated by a normal variant (early repolarization pattern) in the right chest leads (usually with a \"saddle-back\" ST appearance).  The distinction between normal variants and an actual Brugada abnormality can be difficult. Management of asymptomatic individuals with a negative family history and a Brugada-type ECG pattern is a subject of active basic and clinical interest and investigation and some controversy.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case253/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Hyperkalemia",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

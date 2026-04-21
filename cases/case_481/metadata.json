@@ -1,0 +1,22 @@
+{
+    "case_id": "481",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=480&ans=1&caseid=481",
+    "clinical_history": "ECG from a middle-aged woman with palpitations shows which ONE of the following diagnoses?",
+    "diagnosis": "The rhythm is intermittent sinus (with possible wandering atrial pacemaker since the P wave morphology varies subtly) with premature atrial complexes and, most important, short runs (bursts) of paroxysmal atrial fibrillation (PAF). The patient underwent percutaneous pulmonary vein isolation/ablation therapy. Clear fibrillatory activity can be seen during the PAF episodes with atrial cycle rates >350/min. The maximum ventricular (QRS) response (at rest) is about 125/min during this short recording. Capturing short bursts of PAF in a 12-lead ECG is rare and predicts longer runs of this major arrhythmia during more sustained recordings (e.g., those obtained with event recorders).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case481/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

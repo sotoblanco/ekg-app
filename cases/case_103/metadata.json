@@ -1,0 +1,22 @@
+{
+    "case_id": "103",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=102&ans=1&caseid=103",
+    "clinical_history": "64-year-old male with chest pain.  What vessel was acutely occluded at the time of emergency cardiac catheterization/coronary angiography?",
+    "diagnosis": "The left anterior descending (LAD).  The patient had multivessel disease.  The ECG shows an extensive acute/evolving antero-lateral myocardial infarction (MI) pattern, with ST-T changes most apparent in V2-V6, I and aVL.  Slow R wave progression is also present in V1-V3. The rhythm is borderline sinus tachycardia with a single premature atrial complex (PAC) (4th beat).  Note also the low limb lead voltage and probable left atrial abnormality (LAA).  Left ventriculography showed diffuse hypokinesis, as well as akinesis of the antero-lateral and apical walls, with an ejection fraction estimated at 33~.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case103/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

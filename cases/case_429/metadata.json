@@ -1,0 +1,21 @@
+{
+    "case_id": "429",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=428&ans=1&caseid=429",
+    "clinical_history": "ECG from a middle aged woman not on any medications known to affect the ECG. Which ONE of the following abnormalities is most likely present based on these waveforms?",
+    "diagnosis": "The ECG shows borderline resting sinus tachycardia at 95/min. Most notable, and relatively subtle in some leads, is the prolongation of repolarization (QT-U) with prominent U waves that are best seen in the precordial leads (e.g., V2). The serum potassium was 2.4 mEq/L. The patient was diabetic with a serum glucose of 462 mg/dL at the time of this ECG.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case429/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

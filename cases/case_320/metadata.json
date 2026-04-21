@@ -1,0 +1,21 @@
+{
+    "case_id": "320",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=319&ans=1&caseid=320",
+    "clinical_history": "45 year-old male with complaint of palpitations. What is the ECG diagnosis?",
+    "diagnosis": "This ECG is fascinating as the first section shows sinus rhythm with normal QRS complexes and the second part shows the Wolff-Parkinson-White (WPW) preexcitation pattern of conduction. The classic findings of WPW are: short PR interval, a wide QRS and a delta wave. On the rhythm strip (lead II), note how the abrupt onset of the WPW pattern in the 8th beat is associated with slowing of the sinus rate (below about 75 bpm).  This effect is likely related to respiratory sinus arrhythmia with an increase in vagal tone during expiration and relative slowing of conduction in the AV node, thus allowing conduction down the bypass tract to occur ahead of physiologic AV conduction intermittently. The polarity of the delta waves is consistent with a posterior bypass tract (other ECGs showed negative delta waves in III and aVF).  See Cases # 218 and 284 for a detailed explanation of WPW.  Also notable are the T wave inversions in leads II, III and aVF in the normally conducted beats. These repolarization abnormalities in normally conducted beats are attributable to a so-called ~T wave memory~ effect, associated with the intermittent WPW (e.g., J Electrocardiol 1997; 30:323-9). The patient was being evaluated for WPW-related arrhythmias as a cause of his palpitations.~~~~",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case320/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Wolff-Parkinson-White"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

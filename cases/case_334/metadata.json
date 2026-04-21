@@ -1,0 +1,24 @@
+{
+    "case_id": "334",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=333&ans=1&caseid=334",
+    "clinical_history": "54 year-old man admitted with a complaint of palpitations. What is the rhythm?",
+    "diagnosis": "This ECG shows a (unifocal) atrial tachycardia (atrial rate about 160 bpm) with variable AV block (ventricular rates about 40-80). On the rhythm strip (lead II) there are 2 isolated ventricular premature beats (VPBs). Criteria for left (or bi-) atrial abnormality are suggested by the ectopic P waves and left ventricular hypertrophy is present. There is borderline left axis deviation  The patient had a history of supraventricular tachyarrhythmias and was status post mitral valve replacement for rheumatic mitral valve disease. Prior drug therapy was not successful in controlling the tachyarrhythmia.  He underwent successful radiofrequency ablation of this atrial focus.  The atrial rate here (about 160 bpm) is generally much too rapid for persistent sinus tachycardia in a resting adult, excluding B and D. (Furthermore, neuroautonomic factors that promote sinus tachycardia\u0097high sympathetic and low vagal tone\u0097make Type I AV block less likely when sinus tachycardia is present., further excluding B.)  Atrial flutter waves are not present and the ectopic P waves are all uniform, so that MAT is not present. Atrial tachycardia with AV block can be due to a variety of causes, singly or in combination, including intrinsic atrial disease, digoxin excess (not present here), drugs (excessive adrenergic stimulation), cardiac surgery, valvular disease, among other factors. The locus of AV block in cases of atrial tachycardia is usually the AV node (\"Type I\"). See also Case # 23 for comparison.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case334/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Flutter",
+        "AV Block",
+        "Supraventricular Tachycardia",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

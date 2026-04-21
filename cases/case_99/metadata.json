@@ -1,0 +1,21 @@
+{
+    "case_id": "99",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=98&ans=1&caseid=99",
+    "clinical_history": "40-year-old female with life-threatening problem.",
+    "diagnosis": "Hyperkalemia (associated with chronic renal failure). The K+ one hour before this ECG was 7.4 mEq/L, and likely lower at time of this tracing. Note the subtle T wave peaking (\"tenting\") here best seen in the lateral chest leads. Although the T waves aren't very tall, they are very narrow-based. Also present is borderline low limb lead voltage and probable left atrial abnormality.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case99/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Hyperkalemia"
+    ],
+    "category": "Diverse disease",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

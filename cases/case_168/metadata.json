@@ -1,0 +1,21 @@
+{
+    "case_id": "168",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=167&ans=1&caseid=168",
+    "clinical_history": "This ECG from a young adult woman shows which of the following?",
+    "diagnosis": "e) The ECG shows classic signs of very marked right ventricular hypertrophy (RVH), usually associated with a severe pressure load, including:  1) a tall R wave in V1; 2) marked right axis deviation;  3) T-wave inversions consistent with right ventricular overload  (\"strain\" pattern); and 4) a delayed precordial transition zone  with narrow S waves in V5 and V6.   The patient had a complex combination of problems, including  congenital heart disease with partial anomalous pulmonary venous  return and a sinus venosus atrial septal defect.  In addition,  there was severe pulmonary artery thromboembolic disease.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case168/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

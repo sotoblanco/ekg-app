@@ -1,0 +1,21 @@
+{
+    "case_id": "202",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=201&ans=1&caseid=202",
+    "clinical_history": "55-year-old woman with rheumatic mitral valve disease and a narrow complex tachycardia.  The rhythm is:",
+    "diagnosis": "c) Typical atrial flutter waves are present (negative in lead II; biphasic in V1) at a rate of about 270/min with 2:1 conduction.  Note the non-conducted atrial flutter waves subtly present in the ST segment in V1.  Atrial flutter may mimic all of the arrhythmias given in the other choices. Relatively low voltage QRS complexes are also present in this patient who had pleural effusions.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case202/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Flutter"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

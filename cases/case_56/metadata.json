@@ -1,0 +1,23 @@
+{
+    "case_id": "56",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=55&ans=1&caseid=56",
+    "clinical_history": "A middle-aged patient with a history of \"heart disease.\" What is the cause of the tall R waves in V1-V2 here?",
+    "diagnosis": "The ECG shows sinus rhythm at about 75 bpm, with borderline left axis deviation (-30 degrees) and a non-specific intraventricular conduction delay (IVCD--QRS duration at its widest is about 120 ms with fractionation of the waveform in some leads). Borderline low limb lead QRS voltage is present. The P waves are consistent with left atrial abnormality. Most striking are the prominent R waves in V1 and V2, with upright T waves. These R waves are most consistent prior MI, particularly in the context of the low amplitude but borderline wide Q waves in lateral leads in V6, and aVL. There may also be underlying posterior MI as well. Overall, the ECG speaks to advanced coronary disease with prior lateral or postero-lateral MI. The major differential diagnosis of a tall R in V1 includes: 1) Postero-lateral MI, includes 2) normal or positional variants (esp. in children, who should have a relatively narrow QRS normally; in adults, it is rare for R>S in V1 with properly placed leads and in those cases the rest of the ECG should be normal); 3) Right ventricular hypertrophy (RVH): a  vertical-frankly rightward QRS axis is almost always seen and the T waves are usually inverted in lead V1-V3; 4) Hypertrophic cardiomyopathy (HCM) with or without obstruction, may simulate postero-lateral MI; 5) Duchenne muscular dystrophy (why is this so?); 6) Right ventricular (RV) conduction delays. However, the IVCD (not a right ventricular delay per se) here does not account for the lateral Q waves; 7) Wolff-White-Parkinson (WPW) patterns with posterior or lateral bypass tracts.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case56/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Wolff-Parkinson-White",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

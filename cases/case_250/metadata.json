@@ -1,0 +1,24 @@
+{
+    "case_id": "250",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=249&ans=1&caseid=250",
+    "clinical_history": "This ECG is notable for all of the following EXCEPT?",
+    "diagnosis": "The rhythm is sinus with a prominent left bundle branch block (LBBB) pattern (QRS duration 0.15-0.16 second) with LAD. The ST-T abnormalities are consistent with the LBBB, although other causes cannot be excluded.  There are frequent premature atrial complexes (PACs) which appear in a bigeminal pattern, accounting for the \u0093group beating\u0094 pattern. This paired pattern simulates sinus rhythm with AV Wenckebach with 3:2 conduction. However, in the latter case, the P waves are the same and \u0093come on time.\u0094 In this case, the second P wave in each couplet is premature and has a different morphology, since it comes from an ectopic atrial site.  R wave progression is slow due to the LBBB. The biphasic P waves with a prominent negative component in lead V1 are indicative of left atrial abnormality.  \r\nA number of findings here suggest severe underlying myocardial disease, including the LBBB with left axis deviation and the left atrial abnormality. A subtle but important supportive finding is the distinct notching of the ascending part of the S wave in lead V5 with the LBBB. This finding (in leads V3-V5 with LBBB) is referred to as Cabrera\u0092s sign and is a marker of myocardial scarring due to myocardial infarction or other causes (e.g., cardiomyopathy) with this ventricular conduction disturbance.\r\n\r\nThis patient has a diagnosis of chemotherapy-induced cardiomyopathy. Biventricular heart failure was present with severe left ventricular systolic dysfunction with a left ventricular ejection fraction of 20-25% and both mitral and tricuspid regurgitation.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case250/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Bundle Branch Block",
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

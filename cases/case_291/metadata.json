@@ -1,0 +1,23 @@
+{
+    "case_id": "291",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=290&ans=1&caseid=291",
+    "clinical_history": "This ECG from a 23 year-old female is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "This ECG shows sinus rhythm at a rate of about 77 bpm. The basic intervals are normal: PR 0.15 second, QRS 0.08 second and QT 0.35 second. T wave inversions limited to leads V1-V2 are a common physiologic variant in this age group, sometimes referred to as a \u0093persistent juvenile T wave pattern.\u0094  More extensive anterior T wave inversions in young adults may be see in a variety of settings, including arrhythmogenic right ventricular cardiomyopathy (ARVC); see Lancet 2009; 373:1289.  Left atrial abnormality (LAA) is ruled out as the P wave is normal in amplitude and morphology. Severe mitral stenosis is typically associated with LAA (or atrial fibrillation) and signs of right ventricular overload.There is no evidence of prominent U waves or QT/U prolongation with flat T waves to indicate hypokalemia. There is also no evidence of left ventricular hypertrophy.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case291/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Hypokalemia",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

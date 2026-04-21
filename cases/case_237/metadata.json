@@ -1,0 +1,22 @@
+{
+    "case_id": "237",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=236&ans=1&caseid=237",
+    "clinical_history": "A 78-year-old man was brought to the Emergency Department.  His wife noted that he had a fever and was more difficult to rouse this morning. All of the following statements about his ECG are true EXCEPT:",
+    "diagnosis": "The rate is approximately 100 beats per minute, and there are upright P waves in lead II, fulfilling the criteria for sinus tachycardia. The PR interval is slightly prolonged at 0.21 second (normal PR < 0.20 second), especially in light of the patient\u0092s tachycardia. The P wave is also wide in lead II (normal duration <0.12 second) and has a large negative component in lead V1 (normal depth <1 mm and width < 0.04 second). These characteristics indicate left atrial abnormality (LAA.)  The QRS voltage in the limb leads just meets the criteria for low voltage (< 5 mm in all limb leads). There is no left bundle branch block (LBBB.)  The criteria for complete LBBB include:  1. QRS duration > 0.12 second2. A wide deep QS complex in V1 3. A wide tall R wave in V6Additional comments: Even a \u0093mild\u0094 sinus tachycardia at rest, especially in an elderly individual, may signal a major abnormality. Generally, sinus tachycardia results from conditions that either increase sympathetic tone or decrease vagal tone.  Here is a partial differential diagnosis for resting sinus tachycardia.  Can you think of other causes?1. Fever, infection, septic shock 2. Volume depletion (blood loss, dehydration, pancreatitis, diarrhea, vomiting) 3. Anxiety, pain, excitement 4. Endocrine disorders (hyperthyroidism, pheochromocytoma) 5. Anemia 6. Pulmonary embolism 7. Acute myocardial infarction with pump dysfunction 8. Stimulants, such as nicotine, caffeine, cocaine, ecstasy, methamphetamine, ephedra, and some antidepressants 9. Anticholinergics, such as atropine This patient was diagnosed with a urinary tract infection and treated with antibiotics.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case237/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

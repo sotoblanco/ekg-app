@@ -1,0 +1,22 @@
+{
+    "case_id": "209",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=208&ans=1&caseid=209",
+    "clinical_history": "77-year-old woman with intermittent chest pain, worse one week ago, with a new, loud, harsh holosystolic murmur.  What is the most likely clinical scenario?",
+    "diagnosis": "c) The ECG shows evidence of a recent inferior myocardial infarction (MI) with pathologic Q waves and ST elevations in lead II, III and aVF (along with reciprocal ST depressions in leads I and aVL).  The T waves are slightly inverted as well  inferiorly, consistent with the evolving MI.  Criteria for probable left ventricular hypertrophy are also present (R wave = 26 mm [2.6mV] in V5 ;evidence of left atrial abnormality with a prominent negative P wave component in V1 on magnification display, and borderline IVCD),  findings probably related to systemic hypertension. A new holosystolic murmur with this ECG suggests either an acute ventricular septal defect (VSD) or posterior papillary muscle dysfunction (with possible rupture) associated with an acute inferior MI.  This patient underwent cardiac catheterization (see multimedia links) and was found to have an occluded right coronary artery and a VSD with left-to-right shunting.  The other diagnoses all are associated with systolic murmurs, but not with the acute ECG findings noted here.  Further, aortic sclerosis and aortic stenosis, as well as hypertrophic obstructive cardiomyopathy are associated with aortic outflow murmurs, not holosystolic murmurs.  Mitral prolapse may be associated with a prominent holosystolic murmur, but is more commonly associated with a mid-late type systolic murmur.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case209/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

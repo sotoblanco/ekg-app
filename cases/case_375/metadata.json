@@ -1,0 +1,21 @@
+{
+    "case_id": "375",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=374&ans=1&caseid=375",
+    "clinical_history": "An elderly man had a post-operative ECG following left lower lobectomy for lung cancer.  A pre-operative ECG was normal. He had no chest discomfort or other cardiac symptoms.  He was on a continuous epidural infusion of bupivacaine. Echocardiogram showed normal ventricular wall motion and serial CK-MB enzyme tests were normal. The ECG is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The ECG shows sinus rhythm with unusual ST segment elevations/T wave inversions (~coved~ pattern) in V1 and V2. This morphology and localization is strongly suggestive of a Brugada-type pattern, which may be induced by certain drugs, especially sodium channel blocking agents, in susceptible individuals. The negative enzymes, normal echocardiogram and normalization of the ECG when the epidural bupivacaine was discontinued (the drug is a reported cause of this finding) are all consistent with the diagnosis drug-induced Brugada pattern. Failure to recognize this finding could result in inappropriate therapy for ST elevation MI or to development of life-threatening ventricular arrhythmias related to the Brugada pathophysiology. See Vernooy et al. Heart Rhythm 2006;3:1074.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case375/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

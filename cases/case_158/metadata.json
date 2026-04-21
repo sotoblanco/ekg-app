@@ -1,0 +1,21 @@
+{
+    "case_id": "158",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=157&ans=1&caseid=158",
+    "clinical_history": "What is going on in this wide-QRS-complex ECG?",
+    "diagnosis": "a)  Both atrial and ventricular pacemaker spikes are seen, for example, in lead II, before each P wave and QRS, respectively.  The patient has a dual chamber rate responsive (DDDR) pacemaker.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case158/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

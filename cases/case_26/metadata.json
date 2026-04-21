@@ -1,0 +1,23 @@
+{
+    "case_id": "26",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=25&ans=1&caseid=26",
+    "clinical_history": "This ECG \"speaks\" to some key clues about the underlying major medical condition in this 77-year-old woman.  What does it say? What are the clues and what inference might you make by integrating these findings?",
+    "diagnosis": "ECG shows sinus rhythm with left ventricular hypertrophy (LVH), left atrial abnormality and tall peaked T waves best seen in the precordial leads (with non-specific infero-lateral ST depressions). (The QRS duration is slightly prolonged at 110-120 ms,) Also present are left axis deviation consistent with left anterior fascicular block and a long QTc (maximally about 470 ms)  Putting it all together, the peaked T waves indicate increased K+ (6.3 mEq/L), with LVH consistent with renal failure associated with hypertension, which was the case here. The long QT, with a \"stretched out\" ST segment phase, is consistent with decreased serum calcium, seen with renal failure as well. ST depressions could be from LVH or primary ischemia, in addition to multiple other causes.  So when you see the triad of \"tented\" T waves (hyperkalemia) with a long QT (due to ST segment prolongation consistent with hypocalcemia) and LVH (consistent with hypertension), the findings speak strongly for underlying renal failure, although other combinations are not excluded. Also, not all of the triad needs to be present to suggest renal failure (e.g., peaked T wave and LVH alone are suggestive. but could also be due to hypertension plus drug effects that tend to increase serum K+).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case26/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Hyperkalemia",
+        "Long QT Syndrome",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "Sinus rhythm",
+        "rate": "63 bpm",
+        "axis": "Left axis deviation",
+        "intervals": "QRS: 110-120 ms; QTc: ~470 ms",
+        "findings": "Left ventricular hypertrophy (LVH), left atrial abnormality, tall peaked T-waves (consistent with hyperkalemia), non-specific infero-lateral ST depressions, prolonged QTc with stretched-out ST segment (consistent with hypocalcemia), left anterior fascicular block (LAFB).",
+        "comparison": "N/A",
+        "impression": "Findings strongly suggestive of underlying renal failure based on the triad of hyperkalemia (peaked T-waves), hypocalcemia (prolonged QTc), and chronic hypertension (LVH)."
+    }
+}

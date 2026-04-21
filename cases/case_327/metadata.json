@@ -1,0 +1,21 @@
+{
+    "case_id": "327",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=326&ans=1&caseid=327",
+    "clinical_history": "What abnormality is suggested by the ECG in this 71 year old man?",
+    "diagnosis": "This ECG shows sinus rhythm at a rate of about 70 bpm (there is sinus arrhythmia with a short sinus pause at the beginning). Of particular note is the shortened Q-T interval (about 280 msec) and markedly abbreviated ST segment consistent with hypercalcemia. Subtle \u0093doming\u0094 of the ST-T complex in leads V1-V3 with slight J point/ST elevations in the right chest leads is also sometimes seen in this setting. The patient\u0092s serum calcium at the time of this ECG was very elevated at 14.8 mg/dL (normal range 8.4-10.2). After extensive evaluation, a diagnosis of primary hyperparathyroidism was made. For a more detailed explanation of this finding see Case # 9.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case327/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

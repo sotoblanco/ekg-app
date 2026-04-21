@@ -1,0 +1,22 @@
+{
+    "case_id": "442",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=441&ans=1&caseid=442",
+    "clinical_history": "This ECG from an elderly man with dementia is diagnostic of which ONE of the following conditions?",
+    "diagnosis": "The ECG shows sinus rhythm at about 65/min. The PR interval is slightly prolonged. ECG findings of left atrial abnormality (LAA) and probable left ventricular hypertrophy (LVH) are present. There is an intraventricular conduction delay with marked left axis deviation (LVH; the latter consistent with left anterior fascicular block; LAFB). The q wave in V2 raises the possibility of prior antero-septal infarction, but may be associated with LAFB. The delayed precordial transition is non-diagnostic.  Most striking are the tall, narrow-based (\u0093peaked\u0094) T waves typical of hyperkalemia The wide QRS may also be related to this finding. The serum potassium was markedly elevated at 8.7mEq/L in the setting of renal insufficiency, dehydration and angiotensin-receptor blockade use for hypertension. Prior echocardiograms confirmed LAA and concentric LVH, but showed normal LV systolic function. Treatment of the hyperkalemia was associated with normalization of the QRS duration with persistent left axis deviation and with normalization of the PR interval.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case442/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Hyperkalemia",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

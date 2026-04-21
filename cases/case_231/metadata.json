@@ -1,0 +1,23 @@
+{
+    "case_id": "231",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=230&ans=1&caseid=231",
+    "clinical_history": "A 67-yr-old man complains of vague chest pain after recent \"coronary artery bypass graft (CABG) surgery\". The ECG is most consistent with which diagnosis?",
+    "diagnosis": "c) The ECG shows subtle changes of acute pericarditis with diffuse ST segment elevations (lead I, II, aVL, V2-V6) and slight reciprocal ST depression in lead aVR. The ST changes are most subtle in the limb leads and most pronounced in V2-V4. In addition, there are classic PR segment deviations which are in the opposite direction to the ST deviations, namely up in lead aVR and down in the infero-lateral leads. This pattern of ST-PR discordance is characteristic of acute pericarditis. The changes are due to inflammation of the pericardium and underlying epicardium of the ventricles and atria, with resultant injury currents.  The ventricular injury current vector is oriented toward the main mass of the left ventricle (infero-laterally), while the atrial injury current vector (inscribed during the PR segment) is oriented upward and to the right. Thus, the PR and ST segments point in opposite directions.  Ischemia/myocardial infarction can be further excluded by normal cardiac enzymes and, if indicated, by an echocardiogram to confirm the absence of any new wall motional abnormalities and to look for pericardial effusion which may or may not be present with post-operative pericarditis. Associated left pleural effusion may be present (pleuro-pericarditis). Pericarditis can occur in the absence of these ECG changes. Chest pain, if noted, may be pleuritic or more variable in quality, and a multi-component friction rub may be heard in some cases, at least intermittently. Often, with ECG evidence of pericarditis in the post-operative setting, no rub is heard and classic symptoms may be masked by musculoskeletal pain or analgesic medications.The early repolarization pattern refers to normal variant ST elevations, most marked usually in the mid-chest leads and not accompanied by PR segment shifts, as seen in the present case. Brugada\u0092s syndrome consists of ST elevations in the right precordial leads (V1-V2 or V3) with a right bundle branch block appearing pattern. This pattern, which may be a marker of risk for ventricular tachyarrhythmias, is not present here.Left pneumothorax is not associated with the ST-PR changes seen here, but with loss of lateral R wave progression and sometimes markedly decreased QRS voltage in the left chest leads due to rightward mediastinal shift. The frontal plane QRS axis may be shifted in a vertical or rightward direction.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case231/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Pericarditis",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

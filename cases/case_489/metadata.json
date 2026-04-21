@@ -1,0 +1,21 @@
+{
+    "case_id": "489",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=488&ans=1&caseid=489",
+    "clinical_history": "A middle-aged man was found at home in a confused mental state. The ECG strongly suggests what abnormality?",
+    "diagnosis": "The patient had systemic hypothermia with a rectal temperature of 30.6\u02daC, associated with pneumonia and sepsis.  The ECG shows marked sinus bradycardia (35/min) with classic Osborn (J) waves. The PR is prolonged (280msc). The QT/QTc is also prolonged (about 510 msec/506 msec, respectively, using Hodges formula for rate correction). The QRS duration (not including the J wave) appears normal. QRS voltage is also within normal limits.  Note the baseline artifact, which may be due to shivering, a common finding in this context. ~~~~Blood chemistries showed glucose:74 mg/dL, calcium: 9.1 mg/dL and potassium: 3.9 mEq/L. TSH was within normal limits at 4.2 microIU/mL.  ~~~~Please see Case 479 for further discussion of the basis of pathologic J waves and concomitant findings with systemic hypothermia.~~",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case489/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

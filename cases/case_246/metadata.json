@@ -1,0 +1,21 @@
+{
+    "case_id": "246",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=245&ans=1&caseid=246",
+    "clinical_history": "This ECG from an 18 year old male shows all of the following EXCEPT?",
+    "diagnosis": "This ECG shows a normal variant that is commonly referred to as \u0093early repolarization pattern.\"  There are ST elevations in leads V2-V6 and in some of the limb leads.  Slight notching of the terminal QRS (V4) is often seen in conjunction with this pattern see (Case # 130.)  The ST segment retains its normal upward concavity. The QRS axis here is normal (about +30 degrees). The QRS transition zone (R=S) is in lead V3, a normal finding. AV conduction is normal, indicated by the normal PR interval (about 0.14 sec.) The slight variation in heart rate is due to physiologic (respiratory) sinus arrhythmia (see Case # 217.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case246/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "61",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=60&ans=1&caseid=61",
+    "clinical_history": "84-year-old woman with congestive heart failure, not on digitalis. What's the major finding?",
+    "diagnosis": "The main abnormality is the rhythm: it's NOT sinus -- note the hidden P waves so that atrial rate is  actually 150/min and the ventricular rate is 75/min. Therefore, this is a focal (ectopic) atrial tachycardia with 2:1 block (conduction). The \"extra\" P waves just after QRS are best seen in lead V1. In addition, there is an underlying incomplete right bundle branch block and borderline QT prolongation. Recall that the maximum resting heart rate is age dependent, with a very rough estimate often given of 220/min minus the patient's age in years. So for an 84-year old, a sustained resting sinus rate of 150 is rarely if ever seen.  Furthermore, as a more subtle point, the negative/positive appearance of the P waves in lead  II is not consistent with a sinus mechanism, which almost always produces initially and predominantly upright P waves in lead II. Take home: always look for hidden atrial activity!",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case61/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Right Bundle Branch Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

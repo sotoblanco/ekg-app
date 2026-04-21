@@ -1,0 +1,22 @@
+{
+    "case_id": "34",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=33&ans=1&caseid=34",
+    "clinical_history": "A 47-yr-old man with \"double ECG troubles\" noted after coronary bypass graft surgery.",
+    "diagnosis": "The ECG shows sinus rhythm with normal QRS axis and intervals. The two notable findings are 1) inferior Q-wave myocardial infarction (MI) of indeterminate age, and 2) diffuse ST elevations in anterior and lateral leads, with PR deviations (up in lead aVR, down in lateral precordial leads), consistent with acute pericarditis. The history was that of a patient with a prior MI, with ECG evidence of pericarditis post-coronary artery bypass graft (CABG) surgery. Kudos to anyone in training who got this right (the first time); you are a Wave-Maven superstar and hopefully en route to a cardiology fellowship.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case34/800x400.gif",
+    "difficulty": 5,
+    "topics": [
+        "Myocardial Infarction",
+        "Pericarditis"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Sinus rhythm",
+        "rate": "79 bpm",
+        "axis": "Normal axis",
+        "intervals": "PR: 160 ms, QRS: 80 ms, QTc: 440 ms",
+        "findings": "Inferior Q-wave myocardial infarction (leads II, III, aVF); diffuse ST-segment elevations in anterior and lateral leads; PR-segment deviations including elevation in aVR and depression in lateral precordial leads",
+        "comparison": "Post-coronary artery bypass graft (CABG) surgery",
+        "impression": "Acute post-operative pericarditis and prior inferior myocardial infarction"
+    }
+}

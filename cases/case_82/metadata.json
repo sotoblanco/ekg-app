@@ -1,0 +1,22 @@
+{
+    "case_id": "82",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=81&ans=1&caseid=82",
+    "clinical_history": "52-yr-old male with weakness.",
+    "diagnosis": "Acute infero-postero-lateral myocardial infarction (MI).  Note reciprocal ST depressions in V1-V3, with primary, (hyper) acute ST elevations/relatively prominent T waves inferiorly and laterally.  If you called anterior subendocardial ischemia, look again at the subtle changes in II, III, aVF and V6 which show the primary \"current of injury\" pattern.  Sometimes the reciprocal ST depressions catch your eye first and cause these primary, localizing changes to be overlooked.   The supraventricular rhythm is variable and the differential diagnosis focuses on sinus rhythm with subtle atrial ectopy vs sinus rhythm with type 1 SA exit block vs a marked respiratory sinus arrhythmia. A longer rhythm strip, not available here, would be helpful in making these distinctions. Left atrial abnormality is also present.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case82/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

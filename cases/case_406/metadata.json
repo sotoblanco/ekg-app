@@ -1,0 +1,23 @@
+{
+    "case_id": "406",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=405&ans=1&caseid=406",
+    "clinical_history": "Elderly man with hypertension and an irregular pulse. What is the rhythm?",
+    "diagnosis": "This ECG shows ~coarse\" atrial fibrillation with a ventricular response of about 90/min at rest. Borderline voltage criteria for left ventricular hypertrophy are present, consistent with a history of hypertension. (Aortic stenosis should always be considered as well.) ~~~~What definitively distinguishes atrial fibrillation from atrial flutter here are the facts that: 1) the rate and 2) the morphology of the atrial (f) waves are highly variable and 3) the atrial rate is intermittently very rapid (cycle length less than 180 ms, or 4.5 small box widths on the standard ECG). Atrial activity in atrial flutter has a highly patterned and consistent appearance (the ~F~ waves are always the same in any lead) and the atrial (F-F) cycle length (inverse of atrial rate) is usually more >180ms.~~",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case406/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

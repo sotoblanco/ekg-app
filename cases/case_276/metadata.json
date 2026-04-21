@@ -1,0 +1,23 @@
+{
+    "case_id": "276",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=275&ans=1&caseid=276",
+    "clinical_history": "32 year-old male transferred from another facility. This ECG is diagnostic of which of the following conditions?",
+    "diagnosis": "This ECG shows sinus at about 80 bpm with marked ST elevations in I, aVL and VI-V5.  ST depressions, consistent with reciprocal changes, are seen in II, III and aVF.  Very slow R wave progression is present in leads VI-V3 and hyperacute T waves accompany the ST elevations in leads V2-V5. (See Case # 273.)\r\n\r\nThe finding of ST elevations in this extensive distribution of leads is consistent with proximal occlusion of the left anterior descending coronary artery proximal to the first septal perforator and diagonal branches.\r\n\r\nThe marked degree of the ST-T changes and the presence of reciprocal changes rules out normal variant or acute pericarditis. Hyperkalemia does not produce ST elevations in antero-lateral leads. (The serum potassium was normal.) There is not evidence of acute right ventricular overload to suggest acute pulmonary embolism.\r\n\r\nThis young adult man had multiple risk factors for premature coronary artery disease. He presented with acute anterior myocardial infarction (initial CK 2,979 IU) and was transferred immediately to the cardiac catheterization lab where he was found to have a 100 % occlusion of the proximal left anterior descending artery (LAD) with abundant thrombus. He was treated successfully with a percutaneous coronary intervention procedure, including angioplasty and stenting of the LAD. An echocardiogram performed 4 days later revealed a left ventricular ejection fraction of 50%.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case276/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Pericarditis",
+        "Hyperkalemia"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

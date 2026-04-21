@@ -1,0 +1,21 @@
+{
+    "case_id": "210",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=209&ans=1&caseid=210",
+    "clinical_history": "A 71-year-old woman in the Intensive Care Unit with end stage renal disease developed mental status changes and had this ECG.  The findings are consistent with all of the following EXCEPT?",
+    "diagnosis": "e) This ECG shows massive diffuse, very broad T wave inversions with marked QT or QT-U prolongation (see lead V1).  The rhythm is sinus bradycardia with a prolonged PR interval, left atrial abnormality and left ventricular hypertrophy (LVH.)   These dramatic repolarization abnormalities may be seen with the so-called \"CVA-T wave pattern,\" especially with intracranial bleeds.  Much more rarely, the findings are present with thrombotic or embolic type Cerebrovascular accidents (CVAs), or with other central nervous system pathologies.  These dramatic findings, however, are not specific for CVA.  For example, the pattern may occur atypically with global ischemia, especially with underlying LVH.  However, ischemia does not usually produce T wave inversions of this amplitude and width.  In other cases, where no specific etiology is found, the term idiopathic global T wave inversions is applied (Spodick D.  J Am Coll Cardiol 1991;17:1479).  Patients with the syndrome may have multifactorial reasons for repolarization abnormalities (ischemic, metabolic, myocardial, etc.).  This pattern has also been reported following episodes of Stokes-Adams syncope.  No evidence of intermittent high degree heart block or other profound bradycardia was noted in the present case.    However, these repolarization changes are not by themselves consistent with class 1A antiarrhythmic drugs (quinidine, procainamide, disopyramide, etc.).  These agents may cause Q-T(U) prolongation, but not deep T wave inversions of this kind.   This patient had serial brain imaging studies which did not show any evidence of bleeding or a mass lesion.  A question of a small cerebellar infarct was raised.  Cardiac enzymes were not elevated.  Echocardiogram showed LVH with global LV systolic dysfunction.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case210/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

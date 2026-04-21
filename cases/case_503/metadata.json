@@ -1,0 +1,21 @@
+{
+    "case_id": "503",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=502&ans=1&caseid=503",
+    "clinical_history": "ECG from a 35 year old man with no risk factors for coronary disease. Serum biomarkers for acute infarction were negative. The ECG, especially in this context, is virtually pathognomonic of which ONE of the following entities?",
+    "diagnosis": "The ECG shows sinus bradycardia. The PR interval is at lower normal limits and the rate corrected QT is borderline prolonged. What are striking are the relatively narrow, but deep and sharply inscribed (\"lancet-like\") Q waves in the inferior and antero-lateral (V4-V6) leads (and a qR in V3) with relatively tall R waves in V1 and V2. The T waves are also biphasic to inverted in V1 and V2, as well as in I and aVL, and upright in the leads with prominent Q waves. Slight ST segment elevation is present in the inferior leads. Traditional voltage criteria for LVH are not met. The transthoracic echocardiogram showed classic asymmetric septal hypertrophy (HSM), with a hyperdynamic left ventricle.  HCM is an important cause of \"pseudo-infarct\" Q waves, attributable, at least in part, to increased septal forces. However, the ECG can vary widely from non-diagnostic or normal to showing classical signals of LVH. Management issues relate to treating and preventing sustained atrial and ventricular arrhythmias, including sudden cardiac arrest, possible ablation therapy of the hypertrophied septum, prevention and management of syncope with abrupt upright posture or with dehydration, genetic testing and counseling, changes with aging, among others. Absence of ECG abnormalities does not exclude the HCM syndrome, as family studies with affected ECG members have repeatedly demonstrated.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case503/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

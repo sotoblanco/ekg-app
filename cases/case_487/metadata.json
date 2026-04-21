@@ -1,0 +1,21 @@
+{
+    "case_id": "487",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=486&ans=1&caseid=487",
+    "clinical_history": "This ECG from an elderly woman is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The ECG shows sinus rhythm at a rate of about 80/min (P wave with a normal QRS axis and normal PR and QTc intervals. Relatively low voltage is present throughout, a nonspecific finding. The key abnormalities are the ST elevations of 1 to 2mm in leads I and aVL (with slight terminal T wave inversions) and ST depressions in III and aVF. The latter are consistent with reciprocal changes. Slow R wave progression is present in leads V1-V2, raising consideration of an anterior MI of indeterminate age. There is possible left atrial abnormality. The patient had an acute/evolving MI due to occlusion of a diagonal branch of the left anterior descending coronary artery. She underwent successful reperfusion with a percutaneous coronary intervention procedure.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case487/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

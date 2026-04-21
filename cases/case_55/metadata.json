@@ -1,0 +1,21 @@
+{
+    "case_id": "55",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=54&ans=1&caseid=55",
+    "clinical_history": "Patient with chest discomfort. What's going on?",
+    "diagnosis": "ECG shows evidence of acute transmural inferior/posterior ischemia. There is ST straightening and subtle hyperacute T waves inferiorly and reciprocal ST depressions in I, aVL, and in the right precordial leads. Patient had acute MI and underwent urgent percutaneous transluminal angioplasty  (PTCA) procedure of the right coronary. Comment: Sometimes the reciprocal changes (ST depressions) catch your eye before the primary ones, particularly with subtle ST elevations and hyperacute T waves inferiorly. Remember: a hyperacute T wave is one that is relatively more positive than it was at baseline due to transmural ischemia. Therefore, not all tall T waves are hyperacute and not all hyperacute T waves are absolutely tall.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case55/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

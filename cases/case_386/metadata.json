@@ -1,0 +1,21 @@
+{
+    "case_id": "386",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=385&ans=1&caseid=386",
+    "clinical_history": "ECG from a middle-aged, non-cyanotic woman with dyspnea. Which of the following echocardiogram reports would you anticipate?",
+    "diagnosis": "The ECG shows sinus rhythm with a constellation of findings diagnostic of severe right heart overload: 1) peaked P waves with a vertical P wave axis; 2) right axis deviation of the QRS; 3) prominent T wave inversions in leads V1-V3 (with nonspecific changes elsewhere) and 4) terminal S waves in the left chest leads. These findings do not indicate a specific etiology to the pathophysiology.  In this case, the patient had severe idiopathic pulmonary hypertension with right ventricular overload (as well as right atrial enlargement). History was positive for \u0093recreational\u0094 drug use. Cardiac catheterization confirmed severe pulmonary hypertension and markedly elevated pulmonary vascular resistance. There was no evidence of pulmonary thromboembolic disease, Eisenmenger syndrome, pulmonic or mitral stenosis, connective tissue disease or arrhythmogenic right ventricular dysplasia (cardiomyopathy), liver disease or HIV infection. Pulmonary function testing showed a severe restrictive defect.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case386/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

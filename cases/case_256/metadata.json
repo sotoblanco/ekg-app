@@ -1,0 +1,22 @@
+{
+    "case_id": "256",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=255&ans=1&caseid=256",
+    "clinical_history": "A 69-year-old man presents with chest pain lasting for 12 hours. What is the most likely diagnosis?",
+    "diagnosis": "The ECG shows sinus rhythm and classic findings of acute pericarditis with diffuse (anterior-lateral and inferior distribution) upsloping  (concave upward) ST segment elevations (epicardial current of injury pattern) in leads I, II, aVL, aVF and V3-V6. Lead aVR shows reciprocal ST depression. Very subtle PR segment deviations that are discordant to the ST deviations (i.e., up in lead aVR and down in the inferolateral leads) are due to a concomitant atrial injury current. The combination of findings strongly favors acute pericarditis, rather than the other choices given. (Also see Wave-Maven Cases 3, 34, 60, 62, 71, 80, 134, 205, 207 and 231 for further discussion of pericardial syndromes and comparison.) For discussion of Brugada patterns and syndrome see Case 255.~~~~Ventricular aneurysm after myocardial infarction may be associated with persistent ST segment elevations usually with pathologic Q waves. Prinzmetal~s angina is associated with transient transmural ischemia due to coronary vasospasm. The ST segment elevations due to acute myocardial infarction, Prinzmetal~s angina or ventricular aneurysm may be concave upward or convex (coved) and are usually in one lead distribution (anterior/lateral vs. inferior/posterior).  Reciprocal changes (i.e., slight ST depressions) may be present in the other lead set.  ~~~~Distinction between acute pericarditis and normal variant early repolarization can be difficult.  Precordial ST elevations in the latter are usually oriented more toward leads V3-4, while in acute pericarditis (as is case here) ST elevations persist out to V5-V6, more laterally. The presence of PR deviations (up in aVR and down in the infero-lateral leads) with pericarditis is also often helpful. ~~~~Physical examination was unremarkable without audible friction rub. Cardiac enzymes were negative. Chest X-Ray was unremarkable. Echocardiogram showed normal ventricular systolic size and function and no pericardial effusion. ~~~~",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case256/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Pericarditis"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

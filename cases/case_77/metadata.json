@@ -1,0 +1,21 @@
+{
+    "case_id": "77",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=76&ans=1&caseid=77",
+    "clinical_history": "64-year-old male: what do you think his chief complaint is?",
+    "diagnosis": "Dyspnea. The ECG shows evidence of right ventricular (RV) overload with 1) sinus tachycardia; 2) right axis deviation, with the classic S1Q3T3 pattern; 3) incomplete right bundle branch block (RBBB) with RSR' (or qR) in V1 and S waves in lateral chest leads. There are also non-specific ST-T changes. If you were thinking that it was due to pulmonary embolus (PE) that is a good thought and was ruled out in this case. The cause of the acute/subacute cor pulmonale/pulmonary hypertension here responsible for these ECG changes was extensive pulmonary metastasis. Similar findings may occur with extensive pneumonitis, and other conditions where acute RV dilation occurs.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case77/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Right Bundle Branch Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

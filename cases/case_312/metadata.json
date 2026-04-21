@@ -1,0 +1,22 @@
+{
+    "case_id": "312",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=311&ans=1&caseid=312",
+    "clinical_history": "62 year old man, taking metoprolol, who complains of  intermittent palpitations. The ECG is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The ECG shows classic Parkinsonian tremor artifact (about 5 cycles/sec) simulating atrial flutter or coarse atrial fibrillation. True sinus P waves (obscured in the limb leads) are most evident in leads V2-V4 upon careful inspection. Note also: the variable pseudo-flutter (F) to QRS intervals are not consistent with pure 6:1 conduction. Also, the biphasic (negative/positive) \u0093atrial\u0094 waves in V1 are not compatible with typical, clockwise atrial flutter which is associated with upright F waves in that lead.  The prominence of the baseline artifact in lead II (left leg-right arm) and in lead aVR was \r\nconsistent with the patient\u0092s overt right hand tremor.  The patient\u0092s palpitations were characterized by an intermittent \"skipped beat\" sensation and were attributed to isolated atrial and ventricular beats, which are not present here but were observed at other times. Compare this record with that in Case #84.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case312/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

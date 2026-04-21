@@ -1,0 +1,21 @@
+{
+    "case_id": "392",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=391&ans=1&caseid=392",
+    "clinical_history": "ECG from a 40 year old woman a severe underlying condition and multiple prior admissions. What is the rhythm and which ONE of the following diagnoses is most likely?",
+    "diagnosis": "This ECG shows atrial flutter with predominant 2:1 conduction that is variable at times with an average ventricular rate of about 120/min. There is generalized low voltage with marked right axis deviation and a right ventricular conduction delay. Nonspecific ST-T changes are present along with slow initial R wave progression in the chest leads. This constellation of findings is most consistent with (but not diagnostic of) obesity/hypoventilation (\u0093Pickwickian\u0094) syndrome. Echocardiogram showed marked right ventricular enlargement and hypokinesis, as well as evidence of moderate pulmonary hypertension.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case392/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Flutter"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

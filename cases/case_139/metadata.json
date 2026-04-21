@@ -1,0 +1,21 @@
+{
+    "case_id": "139",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=138&ans=1&caseid=139",
+    "clinical_history": "52-year-old man with one acute and one \"chronic\" finding.  Leads V1-V6 are actually leads V1R through V6R (right chest leads).  What's going on?",
+    "diagnosis": "Acute inferior/posterior/lateral myocardial infarction (MI) in a man with situs inversus-type dextrocardia.  The limb leads look like they have been reversed, but they actually have not.  The right-sided chest leads show normal R wave progression because of the dextrocardia.  Note ST elevations  II, III, aVF (lead III is actually lead II, and vice versa), and right-sided leads V5 and V6. ST depressions in right-sided V1-V3 are likely reciprocal to postero-lateral ST elevations.  Finally, to obtain a \"corrected\"  ECG, leads aVL and aVR should be reversed, and lead I polarity also reversed (so it  then reveals a positive P, R wave, and ST depressions), and II and II reversed as noted. The PR is slightly prolonged at about 210 ms.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case139/800x400.gif",
+    "difficulty": 5,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

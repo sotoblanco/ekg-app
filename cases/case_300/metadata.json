@@ -1,0 +1,21 @@
+{
+    "case_id": "300",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=299&ans=1&caseid=300",
+    "clinical_history": "24 year-old male seen for complaints of palpitations. What is the rhythm?",
+    "diagnosis": "This ECG shows a physiologic respiratory sinus arrhythmia (RSA).  The progressive fluctuations in sinus rates are apparent in the rhythm strip (lead II), going from fast at the beginning to slow and then return back to fast (rates vary from 84 to 60 and back to 84.)  The variability is dependent on cyclic changes in vagal tone associated with the phases of respiration. For a more detailed explanation of this important normal variant (see Cases # 217, 245.)  Ectopic atrial rhythm is excluded as the P waves are consistent in morphology. There are no prolonged sinus pauses and no evidence of premature atrial beats and AV conduction is normal.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case300/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

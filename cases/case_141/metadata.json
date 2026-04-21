@@ -1,0 +1,22 @@
+{
+    "case_id": "141",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=140&ans=1&caseid=141",
+    "clinical_history": "Tall R waves in V1-V2 in a 48-year-old man.  These were due to....",
+    "diagnosis": "d) Patient had documented prior inferior-posterior myocardial infarction (MI).  Note wide (.04 sec) Q waves in the inferior leads, seen in conjunction with the broad R wave in V1, which is a Q wave equivalent.  Absence of right axis deviation and the presence of upright T waves in V1-V2 are also against right ventricular hypertrophy.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case141/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "case_id": "539",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=538&ans=1&caseid=539",
+    "clinical_history": "Elderly woman with hypotension and an acutely rapid heart rate. Which ONE of the following arrhythmias is seen? (Artifact is present in lead V4.)",
+    "diagnosis": "The ECG shows AF with a very rapid ventricular response (mean resting rate is nearly 200/min.) The torrentially rapid rate is unusual in a patient this age. She was hypotensive and septic, accounting for a hyper-adrenergic state. Thyroid function was normal. She converted promptly to sinus rhythm with pharmacologic therapy. The ECG also shows criteria for left ventricular hypertrophy (R wave in aVL plus S wave in V3 > 20 mm in a woman), confirmed by transthoracic echocardiogram. Nonspecific ST-T changes are present.  Of note, AF with a very rapid ventricular response is sometimes mistaken for a paroxysmal supraventricular tachycardia (e.g., AVNRT) because the fibrillatory (f) waves (which are not actual P waves, as would be seen in MAT) are difficult to discern at rapid ventricular rates and the ventricular rate may appear regular (\"pseudo-regularization\"). However, careful inspection shows that within this 10-sec recording, the instantaneous ventricular rate (beat/min) actually varies markedly between about 150 and nearly 250/min (count the small number of boxes [40 ms in width] between consecutive R waves and divide that number into 1500). See also Case 516.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case539/800x437.jpg",
+    "difficulty": 3,
+    "topics": [
+        "Ventricular Tachycardia",
+        "Supraventricular Tachycardia",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

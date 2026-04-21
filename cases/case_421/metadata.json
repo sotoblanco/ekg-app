@@ -1,0 +1,21 @@
+{
+    "case_id": "421",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=420&ans=1&caseid=421",
+    "clinical_history": "50 year old woman with dyspnea. What is the most likely syndrome based on this ECG?",
+    "diagnosis": "The patient has severe pulmonary hypertension that is likely multifactorial, including chronic obstructive and restrictive lung disease. Relevant ECG findings include resting sinus tachycardia, right axis deviation, right atrial overload (note peaked P waves in V2), relatively low limb voltage, and slow R wave progression with delayed precordial transition (S waves in V5 and V6). Nonspecific ST-T changes are also present, with slight T wave inversions in V2 and V3 that might relate to right ventricular overload.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case421/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

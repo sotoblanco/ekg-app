@@ -1,0 +1,26 @@
+{
+    "case_id": "344",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=343&ans=1&caseid=344",
+    "clinical_history": "90 year old female admitted with increased shortness of breath who ruled out for acute myocardial infarction.  The ECG shows which ONE of the following?",
+    "diagnosis": "This ECG shows underlying sinus mechanism with an atrial rate of about 88 beats per minute and a narrow complex junctional escape rate of less than 55/min with variable PR intervals due to probable complete AV heart block. In addition, there are multiform premature ventricular complexes. The supraventricular beats show a narrow QRS complex and a long QT with nonspecific ST-T changes. The patient underwent successful implantation of a dual-chamber pacemaker for presumed intrinsic, degenerative conduction disease, with high grade AV block. See Case 243 for a comparison of an ECG with isorhythmic AV dissociation.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case344/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Long QT Syndrome",
+        "AV Block",
+        "Supraventricular Tachycardia",
+        "Premature Ventricular Contractions",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

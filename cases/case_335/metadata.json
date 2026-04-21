@@ -1,0 +1,22 @@
+{
+    "case_id": "335",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=334&ans=1&caseid=335",
+    "clinical_history": "47 year old woman with a history of breast cancer and a life-threatening problem. Echocardiogram showed normal ventricular function and no pericardial effusion. This ECG is most consistent with which one of the following diagnoses?",
+    "diagnosis": "The ECG shows a number of salient findings including: sinus tachycardia, long QT/QTc (.34 sec/.46), low limb lead and lateral QRS voltages, along with non-diagnostic slow R wave progression V1-V3 and non-specific ST-T changes. The only diagnosis listed above that accounts for the major findings is acute pancreatitis. The long QT (ST segment component is stretched out) is due to hypocalcemia (Ca++ 7.2 mg/dL with serum albumin of 2.7 g/dL). Sinus tachycardia is due to neuroautonomic activation in this context and the low voltage is consistent with ascites/anasarca  There is no evidence of acute MI by ECG and the echocardiogram was unremarkable.  The literature and clinical lore suggest that both acute pancreatitis and acute cholecystitis can directly produce ECG changes exactly simulating acute MI. However, I remain skeptical of this \u0093association\u0094 which is rare at best with two very common conditions. Finding of ST elevation in pancreatitis or cholecystitis should not be routinely attributed to the underlying abdominal pathologies and acute ischemia and related syndromes should be carefully excluded (especially: acute MI, Prinzmetal\u0092s angina, takotsubo cardiomyopathy, ischemia due to hypotension & hypovolemic shock, etc). At the same time, systemic anticoagulation of patients with acute abdominal emergencies that occasionally are associated with ECG changes mistaken for acute STEMI can be catastrophic.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case335/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Long QT Syndrome"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

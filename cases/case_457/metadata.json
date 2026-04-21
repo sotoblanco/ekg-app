@@ -1,0 +1,24 @@
+{
+    "case_id": "457",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=456&ans=1&caseid=457",
+    "clinical_history": "Elderly man with palpitations. What is the rhythm?",
+    "diagnosis": "The ECG shows atrial fibrillation with a moderate ventricular response (on beta-blocker therapy). Low limb lead voltage, a nonspecific finding, is present. The mean (resting) ventricular rate over 10 seconds is about 70/minute and irregular, without any discernable pattern. Note that the continuous atrial activity (lead V1) is coarse (large amplitude) and nonstationary (variable in appearance and intra-atrial rate), in contrast to atrial flutter where all the atrial waves are identical in appearance and atrial rate. Note: there are two classes of atrial activity: continuous, including fibrillation and flutter, and discrete (including sinus, paroxysmal supraventricular tachycardias, multifocal atrial tachycardias, etc). The latter are associated with discrete P waves (which may be hidden in the QRS, in the case of junctional rhythms or AV nodal reentrant tachycardia). In atrial fibrillation (present here) and atrial flutter, particularly in lead V1, the continuous waves are sometimes mistaken for discrete P waves, leading to misdiagnosis.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case457/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Ventricular Tachycardia",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "426",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=425&ans=1&caseid=426",
+    "clinical_history": "A 37 yr old male with a history of an \u0093abnormal ECG\u0094 is referred for further evaluation. He has no cardiac symptoms. On exam, blood pressure is normal and a soft systolic murmur is heard, unchanged with Valsalva maneuver or standing. The ECG is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The ECG shows sinus rhythm at 70/min with normal intervals and a normal QRS axis of about 25 degrees. Notable features are very prominent QRS voltages with deep, \u0093spade-like\u0094 T wave inversions in leads I, II, aVF, aVL, V3-V6, and ST depressions, especially in the mid-lateral precordial leads. These findings are typical of the apical variant of hypertrophic cardiomyopathy, also called Yamaguchi\u0092s syndrome. This diagnosis was confirmed by transthoracic echocardiography. The depth of the T wave inversions distinguishes this ECG from more common LVH variants. The very prominent voltages and, especially the ST depressions distinguish it from physiologic athlete\u0092s ECGs. See also Case 14 and Eur. Heart J 2010: 31:243.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case426/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

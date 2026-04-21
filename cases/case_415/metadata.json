@@ -1,0 +1,21 @@
+{
+    "case_id": "415",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=414&ans=1&caseid=415",
+    "clinical_history": "58 year old woman with dyspnea. What is the most likely diagnosis based on this ECG?",
+    "diagnosis": "The ECG shows a number of findings consistent with the diagnosis of very severe chronic obstructive pulmonary disease. The rhythm is borderline resting sinus tachycardia with atrial premature beats. The P waves are somewhat peaked (but not 2.5mm or more) with a rightward P wave axis (about +80 degrees) and there is frank right axis deviation of the QRS (close to +100 degrees).  Slow R wave progression is present and the precordial transition zone is delayed until at least V6. In addition, there are non-specific ST-T changes. Of interest, despite the severity of the COPD, the QRS voltage here is not absolutely low, but is relatively low overall.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case415/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

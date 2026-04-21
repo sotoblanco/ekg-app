@@ -1,0 +1,21 @@
+{
+    "case_id": "91",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=90&ans=1&caseid=91",
+    "clinical_history": "47-yr-old male. What is the diagnosis?  What should you do?",
+    "diagnosis": "Acute anterior wall ST elevation myocardial infarction (STEMI), consistent with proximal left anterior descending (LAD) occlusion, with Q waves (V1-V3) and ST elevations (V1-V5). Stat interventional cardiology page. See most recent guidelines and updates of AHA/ACC.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case91/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "214",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=213&ans=1&caseid=214",
+    "clinical_history": "Middle-aged woman with altered mental status and suspected drug overdose. What is the rhythm?",
+    "diagnosis": "a) The rhythm is indeed normal sinus, with prominent baseline artifact simulating atrial fibrillation or flutter. The regular ventricular response makes fibrillation unlikely. If you look carefully, you can see distinct P waves in leads without excessive artifact (e.g., the beginning of the rhythm strip and lead aVF). The artifact in this case could have been related to tremor, and may be seen with Parkinson\u0092s disease and other syndromes. This patient reported taking an excessive amount of clozapine, an antipsychotic agent which may cause tremor.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case214/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

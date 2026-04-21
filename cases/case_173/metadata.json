@@ -1,0 +1,21 @@
+{
+    "case_id": "173",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=172&ans=1&caseid=173",
+    "clinical_history": "This ECG shows sinus rhythm with frequent atrial premature beats, and R>S in V1-V2.  What is the diagnosis in this elderly male?",
+    "diagnosis": "d) The relatively tall R waves in the right precordial  leads are associated with low amplitude but wide Q waves inferiorly, consistent with prior inferior-posterior myocardial infarction (MI).  There is slight ST elevation and T-wave inversion in V6, consistent with evolving  lateral ischemia/myocardial infarction. (ST depressions in the right-to-mid chest  leads may be reciprocal and/or due to concomitant anterior subendocardial ischemia.)   This patient had severe multivessel coronary disease, and was  status-post \"coronary artery bypass graft\" (CABG) surgery.  He had had a prior inferior-posterior MI, and was admitted with an acute non-Q-wave lateral MI.  Cardiac catheterization showed an occluded saphenous vein graft to the obtuse marginal branch of the left circumflex coronary.  Angioplasty and stent placement were successfully performed. Note the subtle, frequent atrial premature beats (e.g., beat #3), which have an altered P wave axis and morphology (negative or retrograde inferiorly) consistent with a low atrial ectopic focus.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case173/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

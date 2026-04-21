@@ -1,0 +1,22 @@
+{
+    "case_id": "399",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=398&ans=1&caseid=399",
+    "clinical_history": "ECG from an elderly woman with recurrent palpitations. The rhythm is most consistent with which ONE of the following mechanisms?",
+    "diagnosis": "The ECG shows a narrow (normal QRS) complex, very regular tachycardia (paroxysmal supraventricular ventricular tachycardia/PSVT) at about 150/min. Probable small \u0093pseudo\u0094-S waves are evident in lead II and \u0093pseudo\u0094-R waves in aVR and V1, consistent with AVNRT as specific mechanism, with these retrograde (negative) P waves coming just after the QRS. Nonspecific ST-T changes are present, along with an early precordial R wave transition.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case399/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Ventricular Tachycardia",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

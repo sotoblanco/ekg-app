@@ -1,0 +1,21 @@
+{
+    "case_id": "134",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=133&ans=1&caseid=134",
+    "clinical_history": "77-year old woman with rheumatoid arthritis, chest pain, and dyspnea.  What is the most likely diagnosis?",
+    "diagnosis": "c)  There are diffuse ST elevations (I, II, aVL, aVF, V2-V6) with associated PR segment deviations (elevated PR in aVR; depressed in V4-V6).  Borderline low voltage and sinus tachycardia raise question of pericardial effusion, rule out cardiac tamponade.  On echocardiogram, a small to moderate effusion was present without hemodynamic compromise.  (Note: Left atrial abnormality is also present -- the patient had underlying aortic stenosis and mitral regurgitation.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case134/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

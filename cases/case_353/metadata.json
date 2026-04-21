@@ -1,0 +1,22 @@
+{
+    "case_id": "353",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=352&ans=1&caseid=353",
+    "clinical_history": "40 year-old female with chronic (permanent) atrial fibrillation. This ECG is most consistent with which ONE of the following major diagnoses?",
+    "diagnosis": "This ECG shows atrial fibrillation with an average ventricular response rate of about 55 bpm. Slow R wave progression waves in V1-V4, with right precordial T wave inversions, diffuse low voltage and right axis deviation are most consistent with right ventricular overload secondary to severe pulmonary disease.  The clinical diagnoses included morbid obesity, pulmonary hypertension and severe pulmonary disease with respiratory failure. In contrast, right ventricular hypertrophy with tetralogy of Fallot (pulmonic stenosis) is associated with tall R waves in the right precordial leads.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case353/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

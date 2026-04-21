@@ -1,0 +1,21 @@
+{
+    "case_id": "205",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=204&ans=1&caseid=205",
+    "clinical_history": "This ECG from a 49-year-old man experiencing chest discomfort and mild dyspnea is most consistent with which ONE of clinical scenarios?",
+    "diagnosis": "b) The ECG shows classic, albeit subtle findings most consistent with acute pericarditis.  These include diffuse, usually concave ST segment elevations (I, II, aVF, V2-V6).  In addition, there are very subtle discordant PR segment deviations (elevated in aVR and depressed in the inferolateral leads).  The ST elevations are due to a ventricular current of injury from the pericardial inflammation.  The PR changes are due to an associated atrial current of injury.  Note that the PR and ST segment vectors point in opposite directions, i.e., PR up and ST down in aVR and PR down and ST up in inferolateral leads.   Resting sinus tachycardia is noted.  The patient had a fever but no pericardial effusion on transthoracic echocardiogram.  There are also non-diagnostic inferior Q waves.  The S1Q3 pattern here is a non-specific finding.  There was no evidence of pulmonary emboli.  No other ECG signs of acute right ventricular overload are noted here (e.g., right precordial T wave inversions, slow R wave progression, right ventricular conduction delays, etc.). Serial cardiac enzymes were not elevated.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case205/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Pericarditis"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

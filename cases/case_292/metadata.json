@@ -1,0 +1,21 @@
+{
+    "case_id": "292",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=291&ans=1&caseid=292",
+    "clinical_history": "Elderly man with \u0093extra beats.\"  What is the rhythm?",
+    "diagnosis": "This ECG shows underlying sinus bradycardia at about 57 bpm with ventricular bigeminy. On the rhythm strip the first 3 ventricular premature beats (VPBs) have a full compensatory pause but the 4th VPB is interpolated; this VPB is sandwiched between two normal beats without a compensatory pause. The second sinus beat is conducted by the sinus P waves occurring just after the extrasystole.  Nonspecific ST-T changes are noted leads in II, III, aVF and V4-V6.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case292/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

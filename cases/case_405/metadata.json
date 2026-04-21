@@ -1,0 +1,21 @@
+{
+    "case_id": "405",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=404&ans=1&caseid=405",
+    "clinical_history": "ECG from a middle-aged woman with severe dyspnea. Which of the following echocardiogram reports would you anticipate?",
+    "diagnosis": "The ECG shows sinus rhythm with a constellation of findings diagnostic of severe right heart overload, especially from a sustained (months to years) pressure load: 1) very peaked P waves (inferior leads and V1) with a vertical (about +85 degrees) P wave axis; 2) very marked right axis deviation of the QRS (around +150 degrees); 3) prominent T wave inversions in leads V1 with biphasic T waves in V2 (with nonspecific changes elsewhere) and 4) terminal S waves in the left chest leads, without a true \u0093transition zone,\u0094 and 5) a prominent R wave in V1, although R/S ratio is still less than one. These ECG findings do not indicate a specific etiology to the pathophysiology. In this case, the patient had both stage IV pulmonary sarcoidosis (i.e., with pulmonary fibrosis) and recurrent pulmonary emboli causing very severe pulmonary hypertension (pulmonary artery systolic pressure of about 104 mmHg).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case405/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

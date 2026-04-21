@@ -1,0 +1,21 @@
+{
+    "case_id": "70",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=69&ans=1&caseid=70",
+    "clinical_history": "69-yr-old man with chief complaint: palpitations. What is differential diagnosis and most likely diagnosis?",
+    "diagnosis": "Narrow complex tachyardia at 180/min with probable subtle retrograde P waves just after the QRS (may need to print this out to see in lead aVR and II). Therefore, likely diagnosis is AV nodal reentrant tachycardia (AVNRT); although, concealed bypass tract tachycardia or atrial tachycardia not excluded.  This is, of course, NOT sinus and is also NOT atrial flutter (no flutter waves and ventricular rate is too fast for flutter with 2:1 conduction).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case70/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Flutter"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "203",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=202&ans=1&caseid=203",
+    "clinical_history": "Middle-aged man with chest pain after a motor vehicle accident with blunt trauma to the chest. The ECG is diagnostic of which condition?",
+    "diagnosis": "b) The ECG shows sinus tachycardia with marked ST segment elevations in the precordial leads and I and aVL.  Reciprocal ST depressions are present in II, III and aVF.  Left axis deviation is also present. Marked ST elevations like these represent a current of injury pattern associated with the hyperacute phase of myocardial infarction (MI).  These prominent ST elevations with a convex shape are sometimes referred to on the wards as \"tombstone\" waves, indicating their ominous prognosis.  A more technical term is \"monophasic current of injury.\"This patient was found to have a totally occluded proximal left anterior descending artery and underwent percutaneous coronary angioplasty with stenting.  There was no evidence of aortic dissection or pericardial effusion. Massive pulmonary embolism may produce a variety of nonspecific changes including sinus tachycardia, S1Q3T3 pattern with or without right axis shift, delayed precordial transition and right precordial T wave inversions (right ventricular \"strain\" pattern). Right ventricular MI may produce ST elevations in V1-V2, (rarely V3-V4).  However, the changes are not this marked and usually are greater in V1 than V2 or V3.  Also, in such cases, associated inferior MI leads to ST elevations not ST depressions in leads II, III and aVF.  The inferior ST depressions here, as noted, are reciprocal to the prominent anterior elevations.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case203/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

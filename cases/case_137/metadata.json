@@ -1,0 +1,23 @@
+{
+    "case_id": "137",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=136&ans=1&caseid=137",
+    "clinical_history": "What combination of conduction disturbances is present?",
+    "diagnosis": "The ECG shows sinus rhythm with complete right bundle branch block (RBBB) with left anterior fascicular block (LAFB).  The former causes the classic RSR-prime; morphology in V1; the latter causes the left axis deviation.   Note: the subtle variation in P wave morphology here is due to baseline artifact and not to wandering atrial pacemaker. (Possible left atrial abnormality is present--see V1 on magnified view.) Also note that the calculation of the frontal plane QRS axis with RBBB is most rigorously based on the first 80-100 ms of the widest QRS. The minuscule r waves in III and aVF are not diagnostic, but raise consideration of a prior inferior MI, in concert with the bifascicular block. An echocardiogram to assess ventricular size and function might be useful if indicated.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case137/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Bundle Branch Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

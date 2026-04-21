@@ -1,0 +1,22 @@
+{
+    "case_id": "427",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=426&ans=1&caseid=427",
+    "clinical_history": "Patient post-op following mitral valve repair is noted to be bradycardic. The ECG shows which ONE of the following rhythms?",
+    "diagnosis": "The ECG shows a classic junctional bradycardia at about 44/min. There is a somewhat long RP interval, with retrograde P waves (negative in II, positive in aVR) partly hidden in the T waves. Low limb voltage is also present with non-specific ST-T changes. This type of escape rhythm is usually associated with suppression of the underlying sinus node pacemaker. The latter may be due to or potentiated by  a variety of factors, singly or in combination, including drugs (e.g., beta-blockers, verapamil, diltiazem, lithium carbonate, digoxin), hyperkalemia, hypothyroidism, acute SA node ischemia, increased vagal tone, chronic sick sinus syndrome, etc. In this case, the rhythm was attributed to recent cardiac surgery and to beta-blockade effects. Sinus rhythm reappeared within several days.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case427/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Hyperkalemia",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

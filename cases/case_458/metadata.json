@@ -1,0 +1,22 @@
+{
+    "case_id": "458",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=457&ans=1&caseid=458",
+    "clinical_history": "Elderly man with a history of atrial fibrillation. Medications include atenolol and dofetilide. The ECG findings show or are consistent with all of the following EXCEPT which ONE?",
+    "diagnosis": "The ECG shows sinus bradycardia (about 54/min on a beta-1 receptor selective blocking agent), with borderline low limb lead voltage, normal QRS axis and normal QRS duration. Mild QT/QTc prolongation is noted (about 0.47/0.46 sec measured by computer) on the dofetilide. Small U waves are present, (e.g., V2/V3). The P waves are the most notable finding, being both broad (e.g., leads II, V1) and initially peaked (V1), consistent with biatrial abnormality. The latter was documented on transthoracic echocardiogram, which showed left and right atrial dilation, as well as moderate-severe mitral regurgitation, moderate aortic regurgitation and pulmonary hypertension. The precordial voltages are somewhat prominent; however, strict ECG criteria for left ventricular hypertrophy (LVH), due in this case to an LV volume load state, are not met.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case458/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

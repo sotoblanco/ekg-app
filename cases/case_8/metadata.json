@@ -1,0 +1,22 @@
+{
+    "case_id": "8",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=7&ans=1&caseid=8",
+    "clinical_history": "The ECG is from a 56-year-old male with known severe mitral regurgitation and history of adenocarcinoma who presented to the emergency ward in shock and died after aggressive attempts at resuscitation.  He did not have a pericardial effusion. All of the following statements about this ECG are correct EXCEPT for which ONE of the following?",
+    "diagnosis": "The surprising diagnosis was cardiomyopathy associated with a widely disseminated adenocarcinoma of unknown primary origin. The ECG shows atrial fibrillation with markedly decreased voltage in the limb leads, a rightward axis, and loss of R wave progression V1-V3.  A transthoracic echocardiogram showed no significant pericardial effusion. The differential diagnosis also includes anterior myocardial infarction, myocarditis, severe chronic obstructive pulmonary disease, and an infiltrative process such as amyloidosis or more rarely, tumor  resulting in a \"pseudo-infarction\" pattern of this type. However, as illustrated here, loss of R wave progression, sometimes with frank Q waves, is not pathognomonic of anterior MI.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case8/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Atrial fibrillation",
+        "rate": "90 bpm",
+        "axis": "Right axis deviation",
+        "intervals": "PR: N/A, QRS: 100 ms, QTc: 510 ms",
+        "findings": "Markedly decreased voltage in limb leads, rightward axis, and loss of R-wave progression (QS complexes) in leads V1-V3 suggestive of a pseudo-infarction pattern.",
+        "comparison": "N/A",
+        "impression": "Cardiomyopathy associated with disseminated adenocarcinoma, presenting with atrial fibrillation, low voltage, and a pseudo-infarction pattern."
+    }
+}

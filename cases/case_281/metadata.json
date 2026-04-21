@@ -1,0 +1,21 @@
+{
+    "case_id": "281",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=280&ans=1&caseid=281",
+    "clinical_history": "70 year-old female following coronary artery bypass graft surgery developed a rhythm with intermittent wide complex beats. The ECG shows which of following?",
+    "diagnosis": "This ECG shows sinus rhythm with ventricular bigeminy (every other beat is a ventricular premature beat or complex (VPB or VPC, for short) of the same morphology in each lead.  \r\n\r\nNote also the minimal diffuse ST elevations (with non-specific T wave inversions). These repolarization changes are consistent with sub-clinical perioperative pericarditis, a ECG common finding after coronary artery bypass graft (CABG) surgery.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case281/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Pericarditis"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "132",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=131&ans=1&caseid=132",
+    "clinical_history": "63-year-old man with history of syncope.  What is the rhythm?",
+    "diagnosis": "Marked junctional bradycardia (about 25 beats/min).  The rate is regular, without P waves and a flat baseline between narrow QRS complexes. The patient has a history of coronary artery disease with non-diagnostic inferior Q waves noted here.  The potassium was slightly elevated at 5.5 mEq/L, and the patient was on atenolol, with possible underlying sick sinus syndrome to account for this rhythm disturbance.  (The combination of low voltage and bradyarrhythmia should also raise the possibility of hypothyroidism.) Symptomatic bradycardia of this type persisting after medication adjustments and normalization of serum potassium is an indication for a permanent pacemaker.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case132/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

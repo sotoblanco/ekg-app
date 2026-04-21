@@ -1,0 +1,21 @@
+{
+    "case_id": "227",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=226&ans=1&caseid=227",
+    "clinical_history": "Which one of the following statements about this ECG from an elderly man with metastatic prostate cancer and dehydration is not correct?",
+    "diagnosis": "d) Ventricular repolarization prolongation is not present. The QT interval (about 320 msec) is normal for the rate and prominent U waves are not seen. The borderline low limb lead QRS voltage is a non-specific finding here.  Statements a, b, c and e are all correct.  The serum potassium turned out to be normal despite the slight T wave peaking.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case227/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Diverse disease",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

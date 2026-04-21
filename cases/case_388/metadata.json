@@ -1,0 +1,22 @@
+{
+    "case_id": "388",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=387&ans=1&caseid=388",
+    "clinical_history": "70 year old woman with ECG showing which of the following major diagnoses?",
+    "diagnosis": "The ECG shows a narrow complex tachycardia at an average ventricular rate of about 150/min. The cadence is predominantly very regular with occasional exceptions. The atrial morphology at a constant rate of about 300 cycles/min is that of typical atrial flutter, with predominant 2:1 AV conduction and some variable block. The monotonous consistency and appearance of the atrial waves and the preciseness of the R-R patterns indicates atrial flutter, not fibrillation. Q waves with ST elevations indicate an MI that is likely acute/evolving involving antero-apical/lateral and inferior segments. Relatively low limb and lateral precordial QRS voltage is present. The patient had underlying severe coronary artery disease.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case388/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Flutter"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

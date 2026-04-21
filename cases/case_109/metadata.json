@@ -1,0 +1,21 @@
+{
+    "case_id": "109",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=108&ans=1&caseid=109",
+    "clinical_history": "Resting ECG in an 85-year-old woman. Is this sinus tachycardia?",
+    "diagnosis": "At first glance, this narrow complex tachycardia (NCT) might appear to be \"sinus tachycardia.\"  However, a second look reveals two interesting findings.  Note the unusual P wave axis (negative in I and aVL) and the short PR interval (or very long RP interval).  One possible  explanation for these findings is that this is an (ectopic) atrial tachycardia with  either 1) a  rapidly conducting  (\"slick\") AV   2) an \"atrio-His\" bypass tract with fast conducting properties.  This would account for the short PR interval in the presence of an atrial tachycardia.   Another possibility for this non-sinus tachycardia is that it represents a \"long RP tachycardia\" involving a left lateral bypass tract which is slowly conducting (to account for the long RP interval).  In this latter case, the reentrant circuit would involve antegrade (orthodromic conduction) down a rapidly conducting AV node and through the ventricular myocardium, with retrograde conduction up the slowly conducting bypass tract, and then across the atria back to the AV node. Atypical AV nodal reentry (AVNRT) is less likely given apparently biphasic P wave morphology in the inferior leads. Of key note is that resting heart rates above 140 beats/min are rarely due to sinus tachycardia in the very elderly.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case109/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

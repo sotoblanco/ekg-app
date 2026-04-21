@@ -1,0 +1,23 @@
+{
+    "case_id": "524",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=523&ans=1&caseid=524",
+    "clinical_history": "70 year-old man with a life-threatening syndrome. This ECG is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The underlying problem is respiratory failure due to COPD and advanced pulmonary malignancy. Sinus tachycardia is present with complete right bundle branch block (RBBB) and right axis deviation (estimated at about +95-100 degrees based on the first 100 ms of the QRS). The P waves (e.g., in lead II) are relatively tall, but not widened, most consistent with right atrial overload. The T wave inversions in leads with an rSR\u02ca morphology are secondary to the RBBB (and may be partly attributable to RV overload (\"strain\"). RBBB and left posterior fascicular block (a form of \"bifascicular block\") is a diagnosis of exclusion, which requires ruling out RV overload syndromes and other causes of RBBB/RAD, including RV overload syndromes and also lateral MI with RBBB. Ostium primum atrial septal defects are rare in older age individuals and are associated with signs of RV overload with left axis deviation. Ebstein's anomaly of the tricuspid valve (rarely seen in older individuals) is associated with bizarre right ventricular conduction delays with fragmented QRS complexes and often giant (\"Himalayan\") P waves. Mitral valve stenosis should be associated with marked left atrial abnormality (or atrial fibrillation).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case524/800x434.jpg",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

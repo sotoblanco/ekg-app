@@ -1,0 +1,23 @@
+{
+    "case_id": "3",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=2&ans=1&caseid=3",
+    "clinical_history": "History: 36-year-old male with hypertension and hypercholesterolemia presents to the emergency room with 3 hrs of chest pain and the following ECG. How would you manage this patient based on this ECG?",
+    "diagnosis": "This patient's ECG is consistent with acute pericarditis. Always consider myocardial infarction first when you see ST elevations, but don't forget the differential diagnosis of ST elevations not only includes 1) ischemic heart disease (MI, Prinzmetal angina, ventricular aneurysm) but also 2) pericarditis, 3) left bundle branch block (LBBB) (in V1-V3) and 4) normal (\"early repolarization\") variant (J point elevation).  In this ECG two features point to pericarditis: First, the diffuseness of the ST elevations (I, II, III, aVF, V3-V6). In myocardial infarction the ST elevations tend to be localized (inferior, anterior, posterior, lateral), often, but not always with reciprocal ST depressions. Second, the PR segment displacement which has been attributed to subepicardial atrial injury. PR elevation can be seen in aVR and PR depression is best seen in II, aVF, V4-V6. Obviously troponin and CK-MB blood tests and possible transthoracic echocardiogram (for effusion and possible evidence of diffuse myocarditis) will be helpful, following a careful history and physical exam. Reference: Spodick DH. Diagnostic electrocardiographic sequences in acute pericarditis: significance of PR segment and PR vector changes. Circulation 1973; 48:575.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case3/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Pericarditis",
+        "Left Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Sinus tachycardia",
+        "rate": "110 bpm",
+        "axis": "Normal axis",
+        "intervals": "PR: 140 ms, QRS: 80 ms, QTc: 430 ms",
+        "findings": "Diffuse concave-upward ST-segment elevations in leads I, II, III, aVF, and V2-V6; PR-segment depression in leads II, III, aVF, and V2-V6; PR-segment elevation in lead aVR; Sinus tachycardia.",
+        "comparison": "N/A",
+        "impression": "Acute pericarditis"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "case_id": "325",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=324&ans=1&caseid=325",
+    "clinical_history": "This ECG most consistent with which single drug effect?",
+    "diagnosis": "This ECG shows sinus rhythm at about 67 bpm with an intraventricular conduction delay (QRS 0.12 second) and a mildly prolonged QT-(U) interval of (0.46 second) consistent with quinidine effect. A single isolated atrial premature beat and left atrial abnormality are present. The R wave is at the upper limits of normal in amplitude in lead aVL with borderline voltage for left ventricular hypertrophy.  Hypokalemia was ruled out. This patient, a 63 year old man, with a history of systemic hypertension, obstructive sleep apnea and paroxysmal atrial fibrillation, had been treated with quinidine gluconate for many years without adverse effect. Echocardiogram showed normal systolic left ventricular function. The patient was also taking diltiazem.  Quinidine toxicity associated with prominent QT (U) prolongation can result in torsade de pointes ventricular tachycardia.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case325/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Ventricular Tachycardia",
+        "Hypokalemia",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

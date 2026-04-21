@@ -1,0 +1,24 @@
+{
+    "case_id": "451",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=450&ans=1&caseid=451",
+    "clinical_history": "This ECG from a middle-aged man with a history of hypertension on atenolol who presented with complaint of dyspnea for several days. The findings are most consistent with which ONE of the following scenarios?",
+    "diagnosis": "This ECG shows sinus rhythm with left atrial abnormality (history of hypertension). The PR interval is at the upper limits of normal. The QTc is prolonged (476 msec) The differential diagnosis centers on choices A and B. The findings in support of A include: 1) a rightward QRS axis with an S1Q3T3 pattern, and 2) slow R wave progression and delayed precordial transition zone (V6), in concert with prominent precordial T wave inversions consistent with right ventricular (RV) overload (formerly called ~strain~). The absence of T wave inversions in leads I and aVL is against antero-lateral MI. The latter would also not account for the findings under item 1 above. Recent or evolving infarction was excluded by normal cardiac enzyme tests and the absence of focal, left ventricular wall motion abnormalities by transthoracic echocardiogram (TTE). Instead the TTE showed evidence of right ventricular dilation and dysfunction, as well as of right atrial enlargement and increased right atrial pressure. Concentric LVH and LA enlargement were noted as well, consistent with the prior history of systemic hypertension. Multiple pulmonary emboli were demonstrated on computerized tomographic angiography (CTA). Evidence of deep vein thrombosis (DVT) was shown by duplex Doppler studies of the lower extremities. The patient had had prolonged periods of relative inactivity recently during plane and car travel. Other notes: The absence of expected sinus tachycardia here may be due to the use of a beta-blocker (atenolol). The long QT could be a non-specific concomitant of prominent T wave inversions due to a right ventricular overload syndrome; the patient also had hypokalemia on admission (3.0 mEq/L).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case451/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Hypokalemia",
+        "Long QT Syndrome",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

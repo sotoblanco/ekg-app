@@ -1,0 +1,22 @@
+{
+    "case_id": "119",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=118&ans=1&caseid=119",
+    "clinical_history": "What is the rhythm?",
+    "diagnosis": "Normal sinus rhythm with artifact in V4-V6, simulating premature ventricular complexes (PVCs).  Note that simultaneous lead II (bottom) does not show this, and normal rhythm is not affected by the spurious \"beats.\"",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case119/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Premature Ventricular Contractions",
+        "Normal Sinus Rhythm"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

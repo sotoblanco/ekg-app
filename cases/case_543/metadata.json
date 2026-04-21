@@ -1,0 +1,21 @@
+{
+    "case_id": "543",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=542&ans=1&caseid=543",
+    "clinical_history": "This ECG from a 65 year old woman shows which ONE of the following rhythms?",
+    "diagnosis": "The ECG, perhaps surprisingly at first glance, shows sinus rhythm with a distinct artifact that simulates an atrial tachyarrhythmia. Careful attention reveals clear sinus P waves in leads III and V1. The oscillatory baseline fluctuations in others leads, at a \"rate\" of about 300 cycles/min, is typical of tremor artifact with Parkinson's disease. Note that the artifact is least apparent in lead III (LL-LA), implying that the tremor is most marked in the right hand, accounting for the non-cardiac oscillations being most evident in lead I (LA-RA) and II (LL-RA). There are non-diagnostic Q waves in leads III and aVF so that a prior inferior wall MI cannot be excluded. The biphasic P in V1 with a broad negative component is consistent with left atrial abnormality. (see: Littmann L. Electrocardiographic artifact. J Electrocardiol. 2021;64:23-9.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case543/800x443.jpg",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

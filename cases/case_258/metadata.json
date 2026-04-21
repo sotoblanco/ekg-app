@@ -1,0 +1,24 @@
+{
+    "case_id": "258",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=257&ans=1&caseid=258",
+    "clinical_history": "What is the rhythm and what is the conduction abnormality in this ECG from an 88-year-old female?",
+    "diagnosis": "This ECG shows atrial flutter with variable block with an atrial rate of about 260 bpm. The flutter waves appear to be positive (upright) in the inferior leads, suggesting a clockwise rotation pattern to the flutter reentrant mechanism, rather than the more common counterclockwise pattern that is associated with negative flutter waves in the inferior leads. A classic right bundle branch block pattern with left anterior fascicular block is present as well.\r\n\r\nUnifocal or multifocal atrial tachycardia is excluded as there are no true, discrete P waves, but rather continuous F (flutter) waves. The very fast atrial rate here (about 260/min) also strongly favors flutter rather than atrial tachycardia.  The rapid, irregular oscillatory pattern of atrial fibrillation is not seen.  Wolff-Parkinson-White (WPW) pattern of conduction is excluded as no delta waves are seen.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case258/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Right Bundle Branch Block",
+        "Wolff-Parkinson-White"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "185",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=184&ans=1&caseid=185",
+    "clinical_history": "The following ECG shows which diagnosis?",
+    "diagnosis": "c) The ECG shows prominent Q waves with ST elevations and/or T wave inversions in leads V1-V4 and aVL.  There is also sinus bradycardia, slight PR prolongation and probable left atrial abnormality.  Pathologic Q waves in V1-V3 are classically attributed to \"anteroseptal\" myocardial infarction (MI).  However, angiographic and echocardiographic evidence indicates that Q waves in V1-V3/V4 more often correlate with infarction involving the apical and sometimes even the lateral wall of the left ventricle. (Bogaty P, et al.  Is anteroseptal myocardial infarction an appropriate term?  Am J Med 2002;113:37-41.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case185/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

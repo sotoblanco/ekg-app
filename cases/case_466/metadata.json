@@ -1,0 +1,23 @@
+{
+    "case_id": "466",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=465&ans=1&caseid=466",
+    "clinical_history": "ECG from a middle-aged woman. What is the rhythm?",
+    "diagnosis": "The ECG shows atrial fibrillation with a relatively rapid ventricular response at rest (mean rate: about 115; beat-to-beat range of about 75-150/min). A single probable ventricular premature complex (PVC) is present (third beat). Slow R wave progression in leads V1-V3 is non-diagnostic; a prior anterior infarct cannot be excluded. Borderline voltage criteria (Cornell) for left ventricular (LV) hypertrophy (confirmed with echocardiogram) are present, consistent with a prior history of systemic hypertension. Borderline leftward QRS axis deviation is present. Non-specific ST-T changes are present. The patient had a history of multivessel coronary artery disease, with well-preserved LV function.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case466/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Premature Ventricular Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

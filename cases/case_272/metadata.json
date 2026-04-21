@@ -1,0 +1,24 @@
+{
+    "case_id": "272",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=271&ans=1&caseid=272",
+    "clinical_history": "26 year-old female with complaint of palpitations. The ECG shows all of the following findings, EXCEPT?",
+    "diagnosis": "This ECG shows sinus bradycardia at about 58 bpm, with frequent premature ventricular premature beats (VPBs) in a bigeminal pattern. Sinus beats have right axis deviation with a borderline intraventricular conduction delay (QRS=110 msec). The precordial leads have prominent voltage with possible left ventricular hypertrophy (deep S wave in V2) and the rightward axis also raises consideration of biventricular hypertrophy. (Young adults may have prominent precordial voltage as a physiologic finding.) \r\n\r\nThe VPBs have right bundle branch block morphology with a superior-rightward axis consistent with an origin in the apicolateral portion of the left ventricle.\r\n\r\nAberrated APBs are excluded as there are no ectopic P waves seen prior to the QRS of the premature beat. The sinus P waves actually \u0093march through\u0094 (partly obscured at times), giving a classic compensatory pause pattern characteristic of VPBs.\r\n\r\nThis patient had an idiopathic cardiomyopathy and episodes of ventricular tachycardia from a site or sites in the apical left ventricle not amenable to ablation therapy.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case272/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Ventricular Tachycardia",
+        "Right Bundle Branch Block",
+        "Premature Ventricular Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

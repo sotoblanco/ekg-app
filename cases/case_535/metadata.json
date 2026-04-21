@@ -1,0 +1,25 @@
+{
+    "case_id": "535",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=534&ans=1&caseid=535",
+    "clinical_history": "ECG recorded from a middle-aged man. What is the diagnosis?",
+    "diagnosis": "The ECG shows sinus rhythm with a classical WPW pre-excitation pattern. Note the triad of a: short PR interval (100 ms), wide QRS (140 ms), and delta waves (slurring of the QRS onset). The QRS morphology is indicative of a posterior (probably postero-septal) bypass tract. This pattern mimics an inferior (-posterior) infarct, and also may mistaken for RVH and/or RBBB. The ST-T changes are secondary to the altered depolarization pattern, which is opposite in polarity to the major QRS vector in the frontal and horizontal planes. The patient presented with a narrow complex tachycardia consistent with a reentrant circuit (down the AV node and back up the bypass tract in a retrograde direction). This type of paroxysmal supraventricular tachycardia (PSVT) is referred to as orthodromic atrioventricular reentrant tachycardia (AVRT).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case535/800x484.jpg",
+    "difficulty": 2,
+    "topics": [
+        "Ventricular Tachycardia",
+        "Right Bundle Branch Block",
+        "Wolff-Parkinson-White",
+        "Supraventricular Tachycardia",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

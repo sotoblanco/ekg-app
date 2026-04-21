@@ -1,0 +1,23 @@
+{
+    "case_id": "482",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=481&ans=1&caseid=482",
+    "clinical_history": "This ECG from an elderly woman with multiple risk factors for coronary  artery disease, status post anterior MI, shows which ONE of the following rhythms?",
+    "diagnosis": "The rhythm is wandering atrial pacemaker (WAP). Note the variable P waves (3 or more morphologies/axes) and PR intervals, with a slightly slow to average rate over 10 seconds of about 67/min (range 58-75bpm). Left axis deviation is present with a QRS axis of about -40 degrees, borderline for left anterior fascicular block. Some of the P waves are broad and notched, with a prominent negative component in lead V1, consistent with left atrial abnormality. The QRS voltage is borderline (lead aVL) for LVH. R wave progression in V3-V6 is very slow, with anterior-lateral T wave inversions consistent with ischemia/MI. \r\n\r\nClinical correlation confirmed extensive coronary artery disease, status post anterior MI, with a left ventricular ejection fraction by echocardiography of 40%, associated with marked regional anterior wall motion abnormalities. \r\n\r\nWAP can be seen in a variety of settings. Especially at slower rates due to augmented vagal tone (e.g., during deep sleep), it may be a physiologic variant. More gradual variations in P wave appearance are usually seen in the physiologic context. Here WAP is likely a subtle marker of sinus node and atrial electrical dysfunction, but it does not require any specific therapeutic response. \r\n\r\nAn alternative answer in this case would be \u0093sinus rhythm with multifocal atrial ectopy.\u0094  But this type of multifocal rhythm is not MAT, which requires a rapid rate by definition. Physiologic respiratory sinus arrhythmia (RSA), not seen here (see Case #300), is associated with increases and decreases in heart rate synchronized with inspiration and expiration, respectively, and is a marker of intact vagal cardiac modulation.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case482/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

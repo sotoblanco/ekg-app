@@ -1,0 +1,21 @@
+{
+    "case_id": "265",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=264&ans=1&caseid=265",
+    "clinical_history": "This ECG from a  68 year-old woman is consistent with which of the following?",
+    "diagnosis": "This ECG shows sinus rhythm at rate about 90 bpm with normal intervals (PR 0.18 second, QRS 0.08 second and QT 0.36 second). There are frequent isolated atrial premature beats (APBs): 3rd, 7th 10th beats. The P wave for the atrial premature beats is located on the T wave of the preceding sinus beats.\r\n\r\nThe QRS axis is about +90 degrees, which may be physiologic or indicate borderline right axis deviation in adults. Non-specific T wave inversion is seen in V1-V2 which could be physiologic or might be associated with right ventricular overload, ischemia, etc. Left atrial abnormality is present.\r\n\r\nThe previous ECG of the same day showed atrial fibrillation.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case265/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

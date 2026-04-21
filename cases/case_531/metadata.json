@@ -1,0 +1,25 @@
+{
+    "case_id": "531",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=530&ans=1&caseid=531",
+    "clinical_history": "A 65 year old man presents with a slow pulse and dyspnea. The ECG shows ALL but which ONE of the following findings?",
+    "diagnosis": "Sinus rhythm at about 75 beats/min is present (with left atrial abnormality). Advanced second-degree AV block is present. When 2:1 conduction is seen, the PR is at the upper limits of normal (200 ms) and there is a left bundle branch block (LBBB). The third P wave in each of these sequences is interrupted by a wide-complex beat with a right bundle branch block/marked left axis deviation morphology, suggesting that it arises from the left posterior fascicle. (Note that 3:1 block cannot be excluded because of the interruptive escape beats.) However, complete AV block is NOT present. A dual chamber pacemaker is indicated for symptomatic, advanced second-degree AV block. Severe infranodal (type II) conduction disease can be inferred by the LBBB pattern in conducted beats and the consistent (but not prolonged) PR interval of the conducted beats. With complete heart block and sinus rhythm, the ventricular rate is substantially slower than the atrial rate and unrelated to it. PACs are not seen. These findings occurred in the clinical context of underlying heart failure with preserved LV ejection fraction in a patient  with a history of hypertension and prominent concentric LVH on transthoracic echocardiogram. (Note: Amended 4/3/2023.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case531/800x458.jpg",
+    "difficulty": 4,
+    "topics": [
+        "Left Bundle Branch Block",
+        "Right Bundle Branch Block",
+        "AV Block",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

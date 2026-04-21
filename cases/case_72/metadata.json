@@ -1,0 +1,21 @@
+{
+    "case_id": "72",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=71&ans=1&caseid=72",
+    "clinical_history": "53-yr-old woman. What service is she on?",
+    "diagnosis": "Coronary Care Unit. The ST elevations in leads I and aVL with probable reciprocal ST depressions inferiorly are consistent with acute lateral ST elevation ischemia/MI. Remember that ST elevations like this are never reciprocal but indicate the primary region of ischemia, c/w a diagonal or circumflex \"culprit\" blockage, confirmed at cardiac catheterization/angiography in this case. The prominent negative P wave in lead V1 along with broad notched P waves in other leads (e.g., V3) are consistent with left atrial abnormality.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case72/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "case_id": "486",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=485&ans=1&caseid=486",
+    "clinical_history": "ECG from a middle-aged woman is most consistent with which ONE of the following conditions?",
+    "diagnosis": "The ECG shows sinus rhythm at a rate of about 70/min with normal PR, QRS and QTc intervals. The mean QRS axis is leftward, at -31 degrees measured electronically. However, strict criteria (including an axis of -45 degrees or more leftward) for left anterior fascicular block are not present. Left atrial abnormality (biphasic P in V1 with prominent negative component) and left ventricular hypertrophy are present (Cornell criteria). Of note are the classic \u0093peaked\u0094 or \u0093tented\u0094 T waves, especially in leads V3-V6, strongly suggestive of hyperkalemia. There are non-specific ST-T changes in lead aVL and the Q waves in I and aVL are not diagnostic.  The patient had renal failure with hyperkalemia.  (A serum potassium level of 5.4 mEq/L was obtained about an hour prior to this ECG. The ECG is consistent with at least moderate hyperkalemia.) Echocardiogram showed concentric left ventricular hypertrophy and left atrial enlargement due to hypertension, a common finding in cases of chronic renal failure.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case486/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Hyperkalemia",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

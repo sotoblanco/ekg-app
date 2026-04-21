@@ -1,0 +1,23 @@
+{
+    "case_id": "248",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=247&ans=1&caseid=248",
+    "clinical_history": "This ECG is consistent with all of the following EXCEPT?",
+    "diagnosis": "The ECG shows a very long QT/QTc=0.56 sec/ 0.60 sec. The patient has renal failure with a serum calcium of 7.2 (normal range 8.4-10.2 mg/dL); a serum albumin level of 2.5 (normal range 3.4-4.8 g/dL); low normal serum potassium of 3.6 (normal range 3.5-5.0 mEq/L) after therapy for hyperkalemia, and low normal serum magnesium 1.7 mg/dL (normal 1.6-2.6 mg/dL) about the time this ECG was obtained.\r\n\r\nSotalol and amiodarone may also prolong the QT interval, along with a wide range of other medications. Ventricular repolarization prolongation (QT-U) is the major risk factor for torsade de pointes type of ventricular tachycardia. Digitalis, in contrast, shortens ventricular repolarization (QT interval), often producing \u0093scooping\u0094 of the ST-T complex.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case248/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Ventricular Tachycardia",
+        "Hyperkalemia",
+        "Long QT Syndrome"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

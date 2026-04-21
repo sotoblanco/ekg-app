@@ -1,0 +1,21 @@
+{
+    "case_id": "518",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=517&ans=1&caseid=518",
+    "clinical_history": "Narrow complex tachycardia from a critically ill 85-year-old patient in the ICU shows diffusely low voltage, and which ONE of the following arrhythmias?",
+    "diagnosis": "This ECG poses a challenge because of the diffusely low voltage (due to anasarca and pancreatitis, not pericardial effusion) that makes atrial activity harder to discern at the usual gain.  For most of the recording, one sees a very regular narrow complex (i.e., normal duration QRS) tachycardia at a ventricular rate of 150/min, with intermittent, abrupt slowing of the rate. The atrial activity is predominantly negative in lead II and positive in V1. Careful inspection reveals a section of the \"hidden,\" second atrial wave, partly apparent just after the QRS. Thus, the atrial rate is actually 300/min and the ventricular rate is usually exactly half that. The only rhythm in adults that meets these specs is atrial flutter (typical, counterclockwise here) with predominant 2:1 AV conduction.  As a rule of thumb, sustained resting QRS rates of 150/min or more are almost never seen in octogenarians, and the negative polarity of the atrial waves in II definitively excludes a sinus mechanism.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case518/800x423.png",
+    "difficulty": 4,
+    "topics": [
+        "Atrial Flutter"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

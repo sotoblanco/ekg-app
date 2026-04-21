@@ -1,0 +1,23 @@
+{
+    "case_id": "275",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=274&ans=1&caseid=275",
+    "clinical_history": "80 year-old man presented to emergency department complaining of fatigue and shortness of breath? What is the rhythm?",
+    "diagnosis": "This ECG shows typical atrial flutter with 2:1 block.  The atrial rate is 320 with 2:1 AV block (conduction), yielding a ventricular response is 160 bpm. There are classic flutter \u0093F\u0094 waves (consistent with a typical counterclockwise right atrial reentrant circuit) giving a \u0093saw tooth\u0094 appearance to the atrial activity. (see also Cases 87,129,202.)\r\n\r\nA resting rate of 160 bpm excludes sinus tachycardia in this age group. Atrial fibrillation is ruled out because of the regularity of the ventricular response. Apparent flutter waves at 320/min exclude AVNRT or atrial tachycardia.\r\n\r\nThis patient was treated with calcium channel blockade for rate control and electrically cardioverted to sinus rhythm.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case275/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "AV Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "case_id": "336",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=335&ans=1&caseid=336",
+    "clinical_history": "86 year-old woman with increased dyspnea on exertion. What is the most likely rhythm? (Clue: look for atrial activity in lead V1.)",
+    "diagnosis": "This ECG shows subtle atrial flutter with 2:1 block, right bundle branch block and right axis deviation. The atrial rate is about 260 bpm (see upright flutter waves in lead V1) with a ventricular response rate of about 130 bpm. The right axis deviation here, in the absence of clinical evidence of right ventricular hypertrophy or lateral infarction, likely represents left posterior fascicular block. The patient had persistent atrial flutter with variable block or atrial fibrillation at other times.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case336/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Right Bundle Branch Block",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

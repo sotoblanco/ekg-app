@@ -1,0 +1,21 @@
+{
+    "case_id": "434",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=433&ans=1&caseid=434",
+    "clinical_history": "An elderly woman presents with palpitations and shortness of breath. What is the rhythm?",
+    "diagnosis": "This resting ECG shows a very fast ventricular rate (average about 170/min). The cadence is irregular if you measure it carefully, without any pattern. Atrial fibrillatory activity is difficult to see because of the short R-R intervals and the low amplitude of the f waves. The rate is too fast for sinus in an elderly patient at rest and the apparent P waves are actually coarse fibrillatory (f) waves. No flutter waves are seen and AVNRT is usually highly regular.  The ECG also shows borderline left axis deviation, non-specific ST-T changes and delayed precordial R wave transition, all non-diagnostic findings. The slight variability in QRS morphology is not unusual in AF and may be due to subtle change in ventricular conduction and/or respiration.  The patient was not hyperthyroid. She did have a history of hypertension and her echocardiogram showed concentric LVH, left atrial dilation and mild-moderate mitral regurgitation associated with thickening of the valve leaflets. This episode of AF occurred in the context of recent orthopedic surgery and the rapid rate was related to stress with increased catecholamine levels facilitating AV nodal conduction in a patient with multiple risk factors for AF.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case434/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

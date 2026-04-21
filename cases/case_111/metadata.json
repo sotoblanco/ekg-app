@@ -1,0 +1,24 @@
+{
+    "case_id": "111",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=110&ans=1&caseid=111",
+    "clinical_history": "Is this ventricular tachycardia?",
+    "diagnosis": "No.  The rhythm is atrial fibrillation with a rapid ventricular response (irregular rate at about 120 beats/min).  There is an extremely wide QRS of left bundle branch block morphology; the QRS duration of over 200ms is suggestive of drug effect or hyperkalemia.  Flecainide is a class Ic (Na+ channel blocking) drug, which exhibits \"use dependency\":  at faster rates with less time for dissociation of the drug from the channel, Na+ channels are increasingly saturated with the drug.  This increases the degree of QRS prolongation, and may be mistaken for ventricular tachycardia. (see Crijns HJ, et al.  Am J Cardiol 1988; 62: 1303-1306.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case111/800x400.gif",
+    "difficulty": 5,
+    "topics": [
+        "Atrial Fibrillation",
+        "Ventricular Tachycardia",
+        "Hyperkalemia",
+        "Left Bundle Branch Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

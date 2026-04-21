@@ -1,0 +1,21 @@
+{
+    "case_id": "367",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=366&ans=1&caseid=367",
+    "clinical_history": "51 year-old man with complaint of progressive shortness of breath for over a year. This ECG is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "This ECG shows atrial fibrillation with a relatively rapid ventricular response rate of about 115 bpm.  There is an indeterminate to rightward QRS axis and a right ventricular conduction delay (rSr~S~~ pattern in V1 and V2). This combination suggests a right ventricular overload syndrome. Prominent lateral precordial voltage raises consideration of biventricular hypertrophy. Non-specific ST-T wave changes are also present. The constellation of atrial fibrillation and right or biventricular hypertrophy, while not specific, is a classic combination in rheumatic heart disease. A transthoracic echo showed marked left atrial enlargement and stasis, along with findings that were typical of rheumatic mitral valve deformity and stenosis, and a reduced left ventricular ejection fraction of 40-46~.   The patient underwent cardiac catheterization and was found to have severe mitral stenosis with a mean gradient of 15mmHg and calculated value area of 0.68 cm squared and underwent successful balloon-catheter mitral valvuloplasty via a trans-septal approach.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case367/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

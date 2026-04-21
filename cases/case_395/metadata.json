@@ -1,0 +1,24 @@
+{
+    "case_id": "395",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=394&ans=1&caseid=395",
+    "clinical_history": "Elderly man with history of coronary disease and chronic atrial fibrillation presents with palpitations and hypotension. What is the mechanism of this wide-complex tachycardia?",
+    "diagnosis": "This ECG shows a regular wide-complex (QRS duration 0.13 sec) tachycardia (rate of about 180/min). The QRS has a right bundle branch block (RBBB) morphology with a normal axis and QR complexes in V1-V3 consistent with monomorphic VT in the setting of underlying anterior MI. Under conscious sedation, the patient was cardioverted to his baseline atrial fibrillation with pathologic Q waves V1-V4, RBBB and a leftward axis with a QRS duration of 0.15 sec. (note: longer than that during VT). Cardiac EP testing revealed easily inducible VT of several morphologies, including that on the present ECG. He underwent ICD placement. He had documented prior anterior infarction, with a markedly reduced left ventricular ejection fraction of 25-30~.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case395/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Ventricular Tachycardia",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

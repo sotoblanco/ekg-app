@@ -1,0 +1,25 @@
+{
+    "case_id": "180",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=179&ans=1&caseid=180",
+    "clinical_history": "Which abnormality is not present in the following ECG?",
+    "diagnosis": "d) This ECG shows a classic evolving anterior infarct pattern with loss of precordial R wave progression (V1-V4) and ischemic ST-T changes. There is also left axis deviation (consistent with left anterior fascicular block), QT prolongation (QTc is about 0.49sec) and voltage criteria for left ventricular hypertrophy:sum of the R in aVL plus S in V3 are greater than 28mm (2.8mV) in men or greater than 20mm (2.0mV) in women. The QT prolongation in this context is likely due to the evolving myocardial infarction pattern with prominent T wave inversions reflecting prolonged ventricular repolarization. (Other factors such as drug effects or hypokalemia are not excluded.)\r\n\r\nLeft posterior fascicular block (LPFB) causes marked right axis deviation (i.e., 120 degrees or more positive), just the opposite of what is seen here, and is a diagnosis of exclusion. This diagnosis requires ruling out other and usually more common causes of rightward QRS axis, including physiologic variant (especially in infants and children), right ventricular overload states, including right ventricular hypertrophy, severe chronic obstructive lung disease, etc and lateral myocardial infarction (with Q waves in I and aVL and a rightward axis shift by \"default\"). LPFB is uncommon as an isolated abnormality and is typically seen in conjunction with right bundle branch block as a form of bifascicular block.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case180/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Hypokalemia",
+        "Right Bundle Branch Block",
+        "Left Ventricular Hypertrophy",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

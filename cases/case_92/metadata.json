@@ -1,0 +1,22 @@
+{
+    "case_id": "92",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=91&ans=1&caseid=92",
+    "clinical_history": "62-year-old female. Can you relate the arrhythmia to the other findings? Note: right-sided chest leads!",
+    "diagnosis": "The rhythm is sinus with long, atypical AV Wenckebach cycles (e.g., probable 6:5 block). The reason for the type 1 second degree AV block is apparent from the rest of the tracing which shows classic findings of an acute inferior/right ventricular myocardial infarction, consistent with proximal to mid-occlusion of the right coronary artery (RCA). The finding of ST elevation in lead III>II, as present here, is also consistent with this finding (see Zimetbaum et al. Am J Cardiol 1998;81:918).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case92/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "AV Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "443",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=442&ans=1&caseid=443",
+    "clinical_history": "This ECG, from a young adult, is consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The ECG shows prominent sinus arrhythmia (probably respiratory, a common finding in young adults), as well as two atrial premature beats (APBs).  The PR is very short in the sinus beats and the QRS is prolonged, with a classic delta wave (positive in V1-V3, lead II, etc). The overall QRS axis is horizontal (+25 degrees or so), but not frankly leftward. These findings are consistent with WPW pre-excitation from a right-sided bypass tract. The first APB does not show pre-excitation, probably because it originates in the low left atrium (negative P~ in aVL), close to the AV node, and also conducts during a period of decreased vagal tone (note the relatively increased heart rate during inspiration). These factors would enhance the likelihood of predominant nodal vs. bypass tract conduction. The second APB does conduct with some degree of pre-excitation. This beat has a shorter coupling interval compared to that betwen the prior sinus beat with the previous APB and occurs during a period of increased vagal tone modulation (consistent with the expiratory phase of breathing), as inferred from the longer R-R intervals. Both factors would tend to increase AV nodal delay and favor conduction down the bypass tract.  The patient had syncope, which by history sounded vaso-vagal/orthostatic, not arrhythmogenic in origin. Referral to cardiology was made for further assessment of possible WPW-related tachyarrhythmias (i.e., the WPW syndrome, not just the pattern).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case443/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Wolff-Parkinson-White"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

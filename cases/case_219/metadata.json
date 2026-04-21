@@ -1,0 +1,22 @@
+{
+    "case_id": "219",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=218&ans=1&caseid=219",
+    "clinical_history": "The ECG from this 81-yr-old woman shows which of the following?",
+    "diagnosis": "d) Sinus rhythm with a rate of about 65/min is present. The ventricular QRS rate is much slower (about 40/min), with a normal (\u0093narrow\u0094) QRS duration. There is no relationship between the P waves and QRS complexes. Thus, the mechanism is sinus rhythm with third degree or complete AV block. The narrow QRS complexes indicate that the block is in the AV node area and that the ventricles are being paced by a subsidiary (\u0093back-up\u0094 or escape) pacemaker in the AV junction area.Extra credit! An interesting and easily overlooked finding here is the subtle variability in the sinus (P-P) rate. If you look carefully at the last section of the rhythm strip, for example, you will note that the P-P interval with the QRS in-between (QRS complex #6) is shorter than the previous P-P interval which does not have an intervening QRS. This pattern, called ventriculo-phasic sinus arrhythmia, is often seen with high grade heart block. The mechanism is generally attributed to rapid, baroreceptor-mediated changes in vagal tone associated with the presence or absence of ventricular contraction. Note also the prominent P waves here consistent with left atrial abnormality.This patient, with a history of hypertension and coronary artery disease, was symptomatic with increased fatigue and underwent placement of a dual-chamber pacemaker.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case219/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

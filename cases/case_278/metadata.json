@@ -1,0 +1,24 @@
+{
+    "case_id": "278",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=277&ans=1&caseid=278",
+    "clinical_history": "Resting ECG in a 65 year-old male with complaint of palpitations. What is the tachycardia?",
+    "diagnosis": "This ECG shows a regular, narrow complex tachycardia at a rate of 150 bpm without preceding P waves. However, if you look very closely, there appears to be a negative (retrograde) P wave in the early part of the ST segment of lead V6 and a subtle P waves just after the terminus of the S waves in leads II, III and aVF, along with a positive P wave in lead aVR causing a \u0093pseudo\u0094 R wave pattern. The most likely diagnosis, therefore, and is AV nodal reentrant tachycardia, a common type of paroxysmal supraventricular tachycardia (PSVT).  Also see Cases 7, 106, 222.\r\nThe resting rate of 150 bpm by itself is strongly against sinus tachycardia in this older gentleman and no sinus P waves are identifiable. No atrial flutter waves are seen and the near-metronomically regular and rapid rate is not consistent with atrial fibrillation. \r\nVoltage criteria for left hypertrophy are present. The ventricular rate here (150/min) also precludes atrial tachycardia with 2:1 block since this would yield an atrial rate of 300/min, too fast for atrial tachycardia (but typical of atrial flutter).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case278/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Ventricular Tachycardia",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "case_id": "529",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=528&ans=1&caseid=529",
+    "clinical_history": "Elderly woman with lightheadedness and slow pulse. What is the rhythm? (Note the baseline artifact.)",
+    "diagnosis": "Sinus rhythm (with artifact) is present at an atrial rate of about 75/min (with possible biatrial abnormality), well seen in lead II and V1 rhythm strips. Complete AV block is present with an escape pacemaker at a regular rate of about 33 beats/min. No relationship exists between the P waves and QRS complexes. The wide QRS complexes have a right bundle branch block/left anterior fascicular block morphology consistent with severe infra-nodal disease. Prior anterior MI cannot be excluded. There is probable left ventricular hypertrophy (history of hypertension; not aortic stenosis). The prominent T wave inversions may associated with high-degree AV block, and/or due to ischemia/MI, etc. Cardiac enzyme biomarkers for acute MI were negative. No reversible causes of AV block were found. The patient underwent dual chamber pacemaker implantation.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case529/800x439.jpg",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Bundle Branch Block",
+        "AV Block",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "271",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=270&ans=1&caseid=271",
+    "clinical_history": "What is the rhythm in this asymptomatic 47 year-old man?",
+    "diagnosis": "This ECG shows an ectopic atrial rhythm with inverted (negative) P waves in lead II,III, aVF, V5-V6. There is a normal PR interval of 0.15 second. The apparently short PR in V1 and V2 is due to the fact that the beginning of the P wave is nearly isoelectric in these leads (see simultaneously recorded lead II in rhythm strip.)  The QRS duration is normal (0.09 second.)   \r\n\r\nSinus arrhythmia and sinus with pre-excitation are excluded as there are no sinus P waves (upright in lead II invariably). Junctional escape rhythms are usually at slower rates and the P wave is typically hidden within the QRS or appears just before or just after the QRS. The P wave here occurs distinctly before the QRS consistent with an ectopic atrial focus, probably left atrial given the P wave axis.\r\n\r\nEctopic atrial rhythms (usually transient) may occur without organic heart disease or with a variety of different cardiac syndromes. The ECG here is otherwise entirely unremarkable.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case271/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

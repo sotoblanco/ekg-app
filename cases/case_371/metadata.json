@@ -1,0 +1,22 @@
+{
+    "case_id": "371",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=370&ans=1&caseid=371",
+    "clinical_history": "Elderly woman with known coronary artery disease, status post bypass surgery, is admitted for chest pain. What is the major diagnosis?",
+    "diagnosis": "The ECG shows sinus rhythm with a single isolated ventricular premature beat (VPB; 4th beat on the rhythm strip). There are ST segment elevations in leads I and aVL, and less apparent changes in V5 and V6, accompanied by reciprocal ST segment depressions in leads III and aVF.  Two days prior to this ECG, the patient had had stents placed in the saphenous vein graft (SVG) to the obtuse marginal and diagonal vessels for treatment of an acute coronary syndrome. One day post procedure she re-developed substernal chest pain and was found to have in-stent thrombosis of the SVG to the diagonal vessel. She underwent a successful percutaneous intervention. Creatine kinase peaked at 2,181 IU. Note that different sources may use somewhat variable terminology for the the acute STEMI pattern shown here including lateral, high lateral, antero-lateral and anterolateral.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case371/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Acute Coronary Syndrome",
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

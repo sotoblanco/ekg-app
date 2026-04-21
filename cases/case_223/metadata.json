@@ -1,0 +1,22 @@
+{
+    "case_id": "223",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=222&ans=1&caseid=223",
+    "clinical_history": "The ECG findings here are most consistent with which life-threatening serum laboratory abnormality? (Note: there is 60 Hz electrical interference in some of the leads here, esp. V1-V2.)",
+    "diagnosis": "b) The ECG findings are diagnostic of severe hyperkalemia. The two key features are a very wide QRS complex (intraventricular conduction delay) and no evident P waves so that the underlying atrial mechanism cannot be determined. (The bizarre QRS morphology seen here with wide terminal R waves in V1 and V2 and very wide S waves in other leads is also not uncommon in this context; although a variety of other wide complex morphologies are also seen with severe hyperkalemia. See other Wave-Maven cases for multiple other examples.) Of further note, ST elevations localized in leads V1-V2, as seen here, are also   sometimes observed with severe hyperkalemia in the absence of acute ischemia/myocardial infarction (MI), although the latter cannot be excluded by the ECG alone. CK-MB and troponin assays were negative in this case. The patient had severe hyperkalemia with combined renal and hepatic failure (hepato-renal syndrome).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case223/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Hyperkalemia"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

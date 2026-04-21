@@ -1,0 +1,22 @@
+{
+    "case_id": "389",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=388&ans=1&caseid=389",
+    "clinical_history": "ECG from a patient status post a coronary angioplasty procedure shows which ONE of the following findings? (Note: lead V5 was not recorded.)",
+    "diagnosis": "This anomalous appearing ECG shows baseline artifact (simulating atrial fibrillation) with underlying sinus rhythm. Inadvertent reversal of the left and right arm electrodes accounts for the \"strange\" P wave and QRS axes, associated with a negative P and negative QRS combination in lead I (in concert with a positive P and positive QRS in lead aVR). The QRS findings mimic those of a high lateral Q wave MI.  A \u0093corrected\u0094 limb lead ECG can be imagined  if you do the following: \"flip\" lead I, reverse leads II and III, and reverse leads aVR and aVL. After these corrective maneuvers, note  that the true QRS axis is close to 0 degrees and, therefore, does not qualify for left axis deviation (-30 degrees or more negative), and certainly not for left anterior fascicular block (-45 degree or more negative).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case389/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

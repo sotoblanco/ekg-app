@@ -1,0 +1,24 @@
+{
+    "case_id": "65",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=64&ans=1&caseid=65",
+    "clinical_history": "ECG from an elderly man with congestive heart failure and sustained ventricular tachycardia. What type of structural heart disease does the ECG indicate?",
+    "diagnosis": "The problem here is that the ECG at first glance looks like \"just another\" case of sinus rhythm with left bundle branch block (LBBB). However, if you look closely, you will note the prominent (wide) Q waves in leads I, aVL, and V6 as part of qR complexes (or equivalent). Such qR complexes (with 30-40 ms or wider Q waves) in the lateral and/or inferior leads with LBBB are strongly suggestive of underlying prior myocardial infarction (MI). The notching of the ascending limb of the S wave in V4 is also consistent with the underlying scarring/MI with a LBBB-type pattern (Cabrera's sign). There is a prolonged PR interval (about 240 ms) with left atrial abnormality. In concert with the LBBB, the finding of LAA is strong evidence for underlying LVH.  This patient had congestive heart failure (CHF) secondary to prior MIs with very severe left ventricular systolic and diastolic dysfunction (\"ischemic cardiomyopathy\"). He also had sustained, monomorphic ventricular tachycardia due to ventricular scarring and was referred to the cardiac electrophysiology service.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case65/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Ventricular Tachycardia",
+        "Left Bundle Branch Block",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

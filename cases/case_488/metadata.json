@@ -1,0 +1,22 @@
+{
+    "case_id": "488",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=487&ans=1&caseid=488",
+    "clinical_history": "ECG from a young adult man is most consistent with which ONE of the following conditions?",
+    "diagnosis": "The ECG shows sinus rhythm at a rate of about 80/min with a prolonged PR interval (240 ms), a prolonged QRS duration (130 ms) and a normal QTc interval. The QRS axis is normal. Left atrial abnormality is present along with voltage criteria (Cornell) for left ventricular hypertrophy. Of particular note are the tall and peaked (narrow based or \u0093tented\u0094) T wave waves seen diffusely. In conjunction with the wide QRS, and prolonged PR interval, the T tented waves point to severe hyperkalemia. The clinical laboratory reported a serum potassium ion concentration of >10mEq/L, occurring in the context of chronic renal disease.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case488/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Hyperkalemia",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "case_id": "242",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=241&ans=1&caseid=242",
+    "clinical_history": "A 55-year-old man was admitted to the hospital for a bleeding peptic ulcer.  His admission ECG is notable for the all of the following EXCEPT:",
+    "diagnosis": "d) The rate is approximately 100 beats per minute, and there are upright P waves in lead II, fulfilling the criteria for sinus tachycardia. This patient is likely tachycardic because of volume depletion and anemia secondary to blood loss. The QRS axis is normal at +15\u00b0. The transition zone is in lead V3, where the ratio of R wave to S wave equals approximately 1. The PR interval is normal at 0.17 second (normal PR < 0.20 second). There is no ECG evidence of left ventricular hypertrophy (LVH), such as prominent voltage in the chest leads, left ventricular conduction delay, T wave inversions in leads with tall R waves, left axis deviation, or left atrial abnormality. Let\u0092s take a moment to review the steps you should follow every time you read an ECG.  Try to get into the habit of following the steps in the same order each time: 1. Check the standardization and quality of the ECG (The usual calibration is 25 mm/sec and 10mm/mV) 2. Calculate the heart rate 3. Analyze the rhythm (Is it sinus; sinus plus ectopic beats; or some entirely non-sinus mechanism such as atrial fibrillation, ventricular tachycardia or a junctional escape rhythm?) 4. Check the PR interval 5. Check the P wave size 6. Check the QRS width 7. Check the QT interval 8. Check the mean QRS electrical axis 9. Check the QRS voltage 10. Check the R wave progression in the chest leads 11. Look for abnormal Q waves 12. Look for ST segment abnormalities 13. Look for T wave abnormalities 14. Look for prominent U waves",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case242/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Atrial Fibrillation",
+        "Ventricular Tachycardia",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

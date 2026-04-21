@@ -1,0 +1,21 @@
+{
+    "case_id": "120",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=119&ans=1&caseid=120",
+    "clinical_history": "47-year-old man with chest pain, history of hypertension, and high cholesterol.  Right-sided chest leads (V1R-V6R) are shown.  What did coronary angiography show?",
+    "diagnosis": "This is a classic inferior/posterior/right ventricular myocardial infarction (MI) pattern.  Note the Q waves and ST elevations/hyperacute T waves in the inferior leads.  A tall R wave is also noted in V1R (equivalent to V2), consistent with posterior involvement.  Reciprocal ST depressions are present in I, aVL, V1R, and V2R.  Right ventricular ischemia/MI is indicated here by ST elevations in V4R-V6R.  A totally occluded right coronary artery was found at catheterization.  Right ventricular end-diastolic pressure (RVEDP) was elevated at 22 mg Hg.  He underwent successful rheolytic thrombectomy and stenting of the right coronary artery (RCA).  Echocardiogram the next day showed right ventricle (RV) dilation and dysfunction with inferior/septal hypokinesis. Note: \"right-sided\" chest V3R-V6R leads, as the name implies, mirror the usual (\"left-sided\") montage. In addition, lead V1R is equivalent to V2; V2R to V1, as mentioned above. Right-sided chest leads are most commonly used in adults, as seen here, to increase the sensitivity of diagnosing right ventricular ischemia/MI in the context of acute inferior ST elevation MI. They are also used in neonatal ECGs, with certain types of congenital or acquired cardiopulmonary diseases and cardiac malpositions (e.g., dextrocardia with situs inversus totalis).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case120/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

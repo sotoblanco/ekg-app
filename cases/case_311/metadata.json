@@ -1,0 +1,23 @@
+{
+    "case_id": "311",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=310&ans=1&caseid=311",
+    "clinical_history": "59 year old woman with a history of palpitations. What does the ECG show?",
+    "diagnosis": "The ECG shows the classic triad of WPW preexcitation with a short PR interval, widened QRS and delta waves (slurring of the initial onset of the QRS). The polarity of the delta waves (negative in the inferior leads and positive in leads V1-V3) is consistent with a posterior-septal bypass tract. This WPW pattern simulates an inferior-posterior MI.  The patient had a history of palpitations associated with both atrioventricular reentrant tachycardia (AVRT) and atrial fibrillation. At cardiac electrophysiology study (EPS), she was found to have both a posterior septal bypass tract conducting only in an antegrade direction that caused this ECG pattern as well as a concealed left lateral bypass tract (associated with inducible AVRT). Multiple bypass tracts have been reported in 10-30~ of patients with WPW undergoing EPS.~~~~",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case311/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Wolff-Parkinson-White"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

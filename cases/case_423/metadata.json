@@ -1,0 +1,24 @@
+{
+    "case_id": "423",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=422&ans=1&caseid=423",
+    "clinical_history": "Elderly woman with multiple co-morbidities in the ICU. This ECG is most consistent with which ONE of the following life-threatening conditions?",
+    "diagnosis": "The ECG is very suggestive of digitalis overdose. The underlying rhythm is atrial fibrillation with predominant ventricular bigeminy (note the fixed coupling of the premature ventricular complexes). Toward the end of the rhythm strip there is a slow (escape-type) ventricular couplet. An intraventricular conduction delay is present in the supraventricular beats which, in addition, show slow R wave progression, two non-specific findings that may be associated with ventricular dysfunction. The patient had a history of heart failure and atrial fibrillation in the context of ischemic heart disease, as well as chronic obstructive lung disease. The relatively short QT with \u0093scooping\u0094 of the ST segment is typical of digitalis effect (which does not imply digitalis toxicity per se.). These ST changes may also be due to ischemia or left ventricular hypertrophy, or some combination thereof. The combination of atrial fibrillation with a slow or regularized ventricular response, premature ventricular complexes and ST-T changes consistent with digitalis \u0093effect\u0094 is strongly suggestive of digitalis excess. The latter can lead to fatal ventricular tachyarrhythmias if not recognized. The serum digoxin level at about the time of this ECG was markedly elevated at 4.0 ng/ml, decreasing the next day to 2.5 ng/ml (still elevated) after the drug was stopped.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case423/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Atrial Fibrillation",
+        "Supraventricular Tachycardia",
+        "Premature Ventricular Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

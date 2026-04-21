@@ -1,0 +1,22 @@
+{
+    "case_id": "380",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=379&ans=1&caseid=380",
+    "clinical_history": "55 year-old African-American male with hypercholesterolemia and multiple complaints, including anginal sounding chest pain, as well as more atypical symptoms. This resting ECG was unchanged from previous. The ECG findings of ST elevation and tall T waves here are most consistent with which ONE of the following?",
+    "diagnosis": "The ECG shows sinus rhythm 60 bpm with normal AV conduction (PR interval .18 sec). The precordial voltage is prominent without other signs of left ventricular hypertrophy. J point elevation (V2-V5) and a distinctive J point notching without PR segment deviations or reciprocal changes are most consistent with normal variant early repolarization  Echocardiogram was normal. The patient ruled out for recent MI. Cardiac catheterization showed a 90% mid right coronary artery lesion which was treated with a percutaneous coronary intervention. The anterior ST segment changes are unrelated to his finding. The presence of a normal ECG does not rule out underlying heart disease.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case380/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

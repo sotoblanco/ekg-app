@@ -1,0 +1,21 @@
+{
+    "case_id": "116",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=115&ans=1&caseid=116",
+    "clinical_history": "31-year-old woman with ECG simulating ischemia.  What metabolic abnormality should you suspect?",
+    "diagnosis": "Hypokalemia.  K+ here was 2.2mEq/L.  Very severe hypokalemia can cause ST depressions and T-wave inversions as seen here, mimicking ischemia.  But also note large U wave (positive deflection after ST-T and before P).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case116/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Hypokalemia"
+    ],
+    "category": "Diverse disease",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

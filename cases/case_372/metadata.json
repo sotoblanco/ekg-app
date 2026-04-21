@@ -1,0 +1,21 @@
+{
+    "case_id": "372",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=371&ans=1&caseid=372",
+    "clinical_history": "21 year-old female seen in the emergency department with complaints of chest pain and shortness of breath. What does this ECG show?",
+    "diagnosis": "This ECG is entirely within the normal limits.  The rhythm is sinus at about 78 bpm. Basic intervals are as follows: QRS duration 0.08s; PR interval 0.13s; and QT/QTc interval 0.36s/0.39s--all are within normal limits. The QRS axis is also normal at about +70 degrees. There is no ECG evidence of left or right ventricular hypertrophy. P wave morphology and duration are normal. R wave progression is normal, as are the ST-T waves.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case372/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

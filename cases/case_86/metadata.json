@@ -1,0 +1,21 @@
+{
+    "case_id": "86",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=85&ans=1&caseid=86",
+    "clinical_history": "34-year-old male. What's going on here?",
+    "diagnosis": "ECG shows classic findings of acute/hyperacute anterior wall Q wave myocardial infarction (MI), with reciprocal inferior ST depressions. The distribution of changes is consistent with a proximal left anterior descending (LAD) occlusion which was confirmed at cardiac catheterization and treated with angioplasty/stent. Premature atherosclerosis here was associated with multiple risk factors for coronary artery disease:hypertension, hyperlipidemia, family history and tobacco.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case86/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

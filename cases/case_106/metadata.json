@@ -1,0 +1,21 @@
+{
+    "case_id": "106",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=105&ans=1&caseid=106",
+    "clinical_history": "51-year-old female with post-operative palpitations (first and only episode). Reversion to sinus rhythm occurred after IV adenosine. What is major differential diagnosis?",
+    "diagnosis": "The findings are that of a reentrant type PSVT. Note the inverted P waves in leads II, III, and F; with upright P waves in aVR, consistent with retrograde activation of the atria from region in or near the AV node.  Somewhat atypically for AVNRT, the P waves are located in the ST segment proper, not hidden in the QRS or just after the QRS.  However, most likely this is still an AV nodal reentrant tachycardia variant with somewhat slow conduction in the retrograde (\"fast pathway\") limb. AV reentrant tachycardia (AVRT) involving a concealed bypass tract in the septal area is possible. The clinical setting (single event in middle-aged woman) favors AVNRT. The ECG, by itself, could represent either mechanism. Adenosine response (which blocks the reentrant circuit in the AV node) does not distinguish between response to AVNRT or AVRT. Definitive answer would likely call for EP study, not indicated by the present clinical scenario, but would be consideration for recurrent, symptomatic episodes. Compare with other examples of PSVT on the site. (Revised: 4/20/2020.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case106/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

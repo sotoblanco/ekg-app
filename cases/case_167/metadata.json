@@ -1,0 +1,23 @@
+{
+    "case_id": "167",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=166&ans=1&caseid=167",
+    "clinical_history": "This ECG shows evidence of which of the following?",
+    "diagnosis": "The patient had hypertrophic obstructive cardiomyopathy with chronic left bundle branch block (LBBB).  Note evidence of left  atrial abnormality (LAA).  Most patients with LBBB have left ventricular hypertrophy (LVH).  The presence of LAA with LBBB is also strongly suggestive of underlying LVH. (Note: there is some baseline artifact here that at times simulates a pacemaker stimulus--however the patient did not have an electronic pacemaker and the P waves and wide QRS are due to native conduction entirely.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case167/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Left Bundle Branch Block",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

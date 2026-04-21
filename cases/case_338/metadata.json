@@ -1,0 +1,23 @@
+{
+    "case_id": "338",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=337&ans=1&caseid=338",
+    "clinical_history": "78 year-old woman one day following successful emergency cardiac surgery to repair a proximal (Type A) dissecting thoracic aortic aneurysm. What is the rhythm?",
+    "diagnosis": "This ECG shows sinus rhythm (about 80 bpm) with AV dissociation and an independent accelerated junctional rhythm at rate of about 90 bpm. On the rhythm strip (lead II) note the sinus P waves ~marching right through~ in and out of the QRS, supporting the presence of two independent pacemakers, along with intermittent sinus ~capture~ beats (e.g., 10th beat). Generalized low voltage and non-specific ST-T wave changes are also present.  This type of AV dissociation, characterized by desynchonization of the sinus and AV junctional pacemakers, is a minor arrhythmia that needs to be distinguished from complete AV heart block, major conduction disturbance that usually requires electronic pacemaker therapy. Unfortunately, the terminology used by cardiologists is confusing since the term ~AV dissociation~ is used in two ways:  First, the term is used generically to describe any rhythm where there is independence or relative independence of intrinsic pacemakers controlling the atria and ventricles. This definition includes complete heart block, isorhythmic AV dissociation and other related forms such as that noted here, and also cases of ventricular tachycardia where the atria are paced by the sinus node and there may be capture and fusion beats.  Second, the term AV dissociation, is used specifically to refer to the type of mechanism present here, where the intrinsic sinus node and AV junction pacemakers transiently get ~out of synch~ due to either sinus slowing and/or to acceleration of the AV junctional escape mechanism, and not to actual AV conduction block. Complete (third-degree AV block) is essentially excluded by the finding of a QRS rate that is over 50-60 bpm and more definitively by intermittent ventricular capture when the sinus P wave is timed during a period during which the AV node/junction area is not refractory. Also, usually with complete heart block, the QRS rate is not only very slow, but slower than the atrial rate. With the AV dissociation mechanism seen here, the ventricular (QRS) rate is actually as fast as or faster than the atrial (sinus P wave) rate.~~~~",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case338/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Ventricular Tachycardia",
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

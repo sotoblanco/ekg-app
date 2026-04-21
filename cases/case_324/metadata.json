@@ -1,0 +1,24 @@
+{
+    "case_id": "324",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=323&ans=1&caseid=324",
+    "clinical_history": "71 year-old female admitted with shortness of breath. What is the rhythm?",
+    "diagnosis": "This ECG shows underlying coarse atrial fibrillation (AF) with (right) ventricular demand pacing at a rate about 78 bpm with a relatively wide QRS complex (left bundle branch block morphology) at about 180 milliseconds. Two PVCs are seen (2nd and 6th beat).  There are no sinus P waves or flutter waves and no atrial spikes to indicate dual chamber pacing. In cases of ventricular pacemaking, it is very important to identify the atrial mechanism if possible since atrial fibrillation in this context carries the same adverse prognostic indications with respect to thromboembolic disease and other complication as in other settings.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case324/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Left Bundle Branch Block",
+        "Premature Ventricular Contractions",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

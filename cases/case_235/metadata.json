@@ -1,0 +1,22 @@
+{
+    "case_id": "235",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=234&ans=1&caseid=235",
+    "clinical_history": "A 70-yr-old man presents with severe chest pain, nausea, vomiting and diaphoresis.  Right-sided chest leads are shown (i.e., V1R to V6R). The baseline is uneven probably due to suboptimal electrode contact or patient movement. Correct statements about this ECG from a critically-ill patient include all of the following except which ONE?",
+    "diagnosis": "e) The ECG shows atrial fibrillation with subtle signs of acute inferior myocardial infarction (MI) with ST elevations intermittently apparent in leads II, III and aVF. The right-sided chest leads show evidence of concomitant right ventricular (RV) ischemia/MI with slight ST elevations in leads V4R to V6R. (The ST changes here are somewhat difficult to assess because of the superimposed fibrillatory waves and the baseline movement.)The ST depression in leads V1R and V2R is likely reciprocal to acute posterior (and possibly lateral) ischemia with ST elevations in that distribution. The Q waves in the right chest leads are not of diagnostic significance, however, and do not indicate anterior MI. Note: With right chest leads, lead V1R is placed in the standard V2 position, while V2R is in the standard V1 position. The other leads V3R-V6R) are in their usual relative locations, just on the right side of the chest.At the time of emergency cardiac catheterization, the patient, as expected with this type of acute inferior wall/right ventricular MI/ischemic syndrome had complete proximal occlusion of a dominant right coronary artery.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case235/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

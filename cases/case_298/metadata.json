@@ -1,0 +1,21 @@
+{
+    "case_id": "298",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=297&ans=1&caseid=298",
+    "clinical_history": "This 54 year old man\u0092s ECG shows all of the following EXCEPT?",
+    "diagnosis": "This ECG shows sinus rhythm at about 70 bpm with a markedly prolonged PR interval of 0.40 second (marked 1st degree AV conduction abnormality). Left atrial abnormality and low voltage diffusely are present. Slow R wave progression could be due to lead placement versus chronic obstructive pulmonary disease, anterior myocardial infarction, etc. QRS axis is normal.  This patient had a significant history for coronary artery disease with a recent cardiac catheterization showing 80% left anterior descending coronary artery re-stenosis at the site of a prior angioplasty/stent and was also status post aortic valve replacement. His medications included lopressor.  The markedly prolonged PR interval here could be related to a number of factors including intrinsic AV node disease (possibly with dual AV nodal pathways and block in the fast pathway), beta blocker therapy and prior aortic valve replacement.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case298/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

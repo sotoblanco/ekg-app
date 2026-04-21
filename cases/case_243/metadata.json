@@ -1,0 +1,23 @@
+{
+    "case_id": "243",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=242&ans=1&caseid=243",
+    "clinical_history": "87 year old man with slow pulse. What is the rhythm? (Note: there is artifact in lead V4.)",
+    "diagnosis": "This ECG shows classic findings of sinus bradycardia (rate around 43 BPM) with isorhythmic AV dissociation (AVD). Note that the P waves appear to glide \u0093in and out\u0094 of QRS complexes which have a nearly identical rate, hence the term \u0093isorhythmic.\u0094 (This finding also accounts for the apparently short, but slightly variable PR intervals.)  This rhythm is sometimes confused with complete heart block. But in isorhythmic AVD there is a functional dissociation of the sinus pacemaker (normal P waves) and a junctional escape mechanism (narrow QRS) at about the same rate, and not true conduction block. It is as if the two pacemakers (sinus and AV junction) get \u0093out of synch\u0094 transiently.  \r\n\r\nIn contrast, actual complete heart block is due, as the name implies, to true conduction block, not to functional dissociation. In most cases of complete (third-degree AV block), the atrial rate is substantially faster than the ventricular rate and none of the P waves can conduct. In isorhythmic AVD, there may be intermittent conduction of sinus P waves. \r\n\r\nAV Wenckebach is characterized by progressive PR prolongation with non-conducted P waves and group beating pattern, not seen here. This ECG also does not show finding of abrupt nonconducted sinus P waves seen with Mobitz II AV block.\r\n\r\nNote of semantic confusion: Complete heart block is often considered as a type of AV dissociative rhythm. However, there are multiple different types of AV dissociation rhythms other than complete heart block. Isorhythmic AV dissociation is one such example.\r\n\r\nIsorhythmic AV dissociation may occur as a functional variant in healthy individuals (e.g., during sleeping hours with high vagal tone), or due to drugs (especially beta-blockers and calcium channel blockers), or hyperkalemia. In other cases, it may be related to primary sinus node dysfunction.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case243/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Hyperkalemia",
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "21",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=20&ans=1&caseid=21",
+    "clinical_history": "The patient is a 47-yr-old, asymptomatic  woman with the following ECG finding, reportedly persent since birth.",
+    "diagnosis": "The tracing shows sinus rhythm with complete heart (AV) block and an A-V junctional (narrow QRS) type escape rhythm. Note that the P-P intervals \"surrounding\"  individual QRS complexes are shorter than the P-P intervals between two QRS complexes. Sinus rate variation of this type with complete heart block is called ventriculophasic sinus arrhythmia. The patient had congenital complete heart block. This entity is usually idiopathic but may be secondary to placental transfer of anti-Ro and La antibodies from the mother. The spectrum of disease ranges from patients who are born with severe bradycardia and require pacemakers in infancy to patients who live full life spans without artificial pacemakers. The escape rhythm in this instance is proximal in the conduction system and a pacemaker was not required at this time.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case21/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "Sinus rhythm with complete heart (AV) block and A-V junctional escape rhythm",
+        "rate": "N/A",
+        "axis": "N/A",
+        "intervals": "Narrow QRS; PR interval is dissociated (complete heart block)",
+        "findings": "Complete heart block, ventriculophasic sinus arrhythmia, proximal junctional escape rhythm",
+        "comparison": "Condition reportedly present since birth",
+        "impression": "Congenital complete heart block with a stable A-V junctional escape rhythm; asymptomatic and no pacemaker required at this time."
+    }
+}

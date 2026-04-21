@@ -1,0 +1,21 @@
+{
+    "case_id": "357",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=356&ans=1&caseid=357",
+    "clinical_history": "67 year-old male with a history of idiopathic cardiomyopathy and atrial septal defect, with congestive heart failure. What is the rhythm?",
+    "diagnosis": "This ECG shows typical atrial flutter (negative flutter waves in lead II) with 2:1 AV conduction. The ventricular rate is about 135/min with an atrial rate of 270/min (every other flutter wave is partly hidden in the QRS). Marked right axis deviation, an intraventricular conduction delay (IVCD) and slow R wave progression are also present. The triad of relatively low limb lead voltage, slow R wave progression and relatively prominent precordial voltage noted here has been reported with cardiomyopathy syndromes.  Atrial tachycardia, sinus tachycardia and multifocal atrial tachycardia are ruled out as there are no discrete P waves. The atrial rate of 270/min with negative atrial waves in lead II confirms atrial flutter. See also Cases # 129 and 275.  Echocardiogram showed a dilated left ventricle with severe global dysfunction and moderate right ventricular dysfunction. Mitral annular calcification was noted with mild to moderate mitral regurgitation. A secundum type atrial septal defect with significant left to right flow at rest was also noted.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case357/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Flutter"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "case_id": "198",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=197&ans=1&caseid=198",
+    "clinical_history": "64-year-old man with chest pain at rest.  The ECG shows all of the following except:",
+    "diagnosis": "b) Sinus rhythm with baseline artifact is present, simulating atrial fibrillation.  Such artifact may be caused by a variety of factors including poor electrode contact, muscle tremor and electrical interference.  A single  premature ventricular complex (PVC) is present with a compensatory pause such that the RR interval surrounding the PVC is twice as long as the preceding sinus RR interval.  Evidence of a prior anterior MI is present with pathologic Q waves  in V1-V3.  Borderline low precordial voltage is a nonspecific finding.  Cardiac catheterization showed a 90~ stenosis in the proximal portion the left anterior descending coronary, which was treated with angioplasty and stenting.   The broad P wave in lead V1, with a prominent negative component (terminal negative force), is consistent with left atrial abnormality.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case198/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Premature Ventricular Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

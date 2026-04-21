@@ -1,0 +1,22 @@
+{
+    "case_id": "28",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=27&ans=1&caseid=28",
+    "clinical_history": "67-year-old man after VF arrest. What is the underlying disease?",
+    "diagnosis": "ECG shows sinus rhythm with right bundle branch block (RBBB) and left axis deviation, the latter consistent with left anterior fascicular block.There are pathologic anterior Q waves V1-V3 with very slow R wave progression thereafter. The patient had severe coronary artery disease (CAD) with a trans-thoracic echo showing septal dyskinesis and apical akinesis. Note the rSr&39; morphology in V4. This polyphasic QRS phenotype  in the left chest leads has been reported with ventricular aneurysm (El-Sherif sign). The patient was treated  with amiodarone for ventricular tachyarrhythmias associated with chronic CAD with extensive scarring of left ventricle.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case28/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Ventricular Fibrillation",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "Sinus rhythm",
+        "rate": "56 bpm",
+        "axis": "Left axis deviation",
+        "intervals": "PR: 180ms, QRS: 140ms, QTc: 425ms",
+        "findings": "Right bundle branch block (RBBB), left anterior fascicular block (LAFB), pathologic anterior Q waves (V1-V3), poor R-wave progression, polyphasic QRS phenotype in lead V4 (El-Sherif sign).",
+        "comparison": "N/A",
+        "impression": "Chronic coronary artery disease with extensive myocardial scarring and ventricular aneurysm (suggested by El-Sherif sign), status post VF arrest."
+    }
+}

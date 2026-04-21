@@ -1,0 +1,23 @@
+{
+    "case_id": "117",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=116&ans=1&caseid=117",
+    "clinical_history": "67-year-old man with previous ECG showing acute myocardial infarction (MI) with normal QRS duration.  What is the most likely diagnosis for the rhythm?  Serum potassium was normal.",
+    "diagnosis": "c) This tracing is most consistent with AIVR originating from the left ventricle and, therefore, accounts for the atypical RBBB morphology.  ST elevations in the precordial leads are likely due to the injury current from an underlying acute myocardial infarction (MI). AIVR may be marker of reperfusion following acute MI. The rate of about 83 per minute is too slow for ventricular tachycardia and too fast for complete heart block (with rare exceptions).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case117/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Ventricular Tachycardia",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "case_id": "304",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=303&ans=1&caseid=304",
+    "clinical_history": "ECG from a 34 year old woman with human immunodeficiency virus (HIV) infection. No cardiac murmur was noted. What is the most likely cause of the right axis deviation?",
+    "diagnosis": "The ECG shows sinus tachycardia with evidence of severe right ventricular hypertrophy (RVH) due to a pressure load. The diagnostic findings include: right axis deviation with a tall R wave in lead V1 (in this case as part of a qR complex), T wave inversions in the right-mid precordial leads, and peaked P waves due to associated right atrial abnormality. Note that with prominent right atrial overload, the P waves in V1 may be peaked and negative, simulating left atrial abnormality. This pattern is probably due to the fact that lead V1 may be relatively superior to the enlarged right atrium. The tall, but not wide P wave in lead II supports this interpretation. The S1Q3T3 pattern morphology here, while nonspecific, may also be seen with RV overload syndromes, acute or chronic.  There are two major general classes of abnormalities causing pressure-load related RVH:  pulmonary hypertension (with multiple possible etiologies) and pulmonic valve stenosis or other abnormalities of pulmonary outflow obstruction. The patient had severe pulmonary hypertension, which has been reported in association with HIV infection. (For general review of pulmonary hypertension, see, for example, Ann Internal Med 2005; 143:282.)  Left/right arm lead reversal causes right axis deviation but with a negative P wave in lead I and does not affect the precordial leads. The normal PR interval and absence of a delta wave preclude a WPW pattern. \u0093True\u0094 posterior MI does not cause an initial Q in lead V1 and is almost invariably associated with evidence of lateral and or inferior Q wave MI. (The inferior Q waves here are relatively narrow.) Left posterior fascicular block is a diagnosis of exclusion that can only be made when other causes of marked right axis deviation have been ruled out, including right ventricular overload syndromes, lateral MI, right ventricular conduction abnormalities, hypertrophic cardiomyopathy, etc.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case304/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Wolff-Parkinson-White",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

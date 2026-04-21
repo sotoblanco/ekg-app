@@ -1,0 +1,24 @@
+{
+    "case_id": "351",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=350&ans=1&caseid=351",
+    "clinical_history": "90 year old woman with sepsis and multiple ECG abnormalities. All of the following are present EXCEPT:",
+    "diagnosis": "This ECG shows sinus tachycardia at a rate of 109 beats per minute with a complete left bundle branch block (QRS duration 140 milliseconds), left atrial abnormality and probable left ventricular hypertrophy. The sharply peaked and narrow (~tented~) T waves in leads V1-V2 raise the question of hyperkalemia and/or ischemia. The prominent lateral ST depressions in this context are non-diagnostic but could also relate to ischemia with left bundle branch block. The axis is leftward, not rightward.  The patient ruled in for myocardial infarction with creatine kinase (CK) of 298 and elevated MB fraction of 9.4. Cardiac catheterization revealed severe 3-vessel disease, not amenable to angioplasty. Serum potassium was 7.2 mEq/L at the time of this ECG. The notching (fractionation) of the the ascending limb of the S wave in lead V4 (V3-V5, more generally) in complete LBBB has been reported as a sign (low sensitivity) of underlying myocardial scarring (Cabrera's sign).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case351/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Hyperkalemia",
+        "Left Bundle Branch Block",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "471",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=470&ans=1&caseid=471",
+    "clinical_history": "ECG from an elderly man with a very rapid ventricular rate and palpitations. Which ONE is the likely diagnosis?",
+    "diagnosis": "The ECG shows atrial fibrillation with a very rapid ventricular response (average ventricular rate about 125/min; range about 80-180/min). An intraventricular conduction delay is present, along with marked left axis deviation (close to -50 degrees), the latter finding consistent with left anterior fascicular block. There is a delayed R wave transition zone, with non-specific ST-T changes. Note that the intermittently large amplitude fibrillatory (f) waves (e.g., in lead V1)  may simulate flutter or even P waves. In other leads, very low amplitude, fast f waves may be overlooked leading to misdiagnosis.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case471/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

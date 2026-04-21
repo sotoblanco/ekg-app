@@ -1,0 +1,21 @@
+{
+    "case_id": "418",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=417&ans=1&caseid=418",
+    "clinical_history": "57 year old man with an irregular pulse. The ECG shows which ONE of the following rhythms?",
+    "diagnosis": "The ECG shows underlying sinus rhythm at about 75/min with frequent atrial ectopic (premature) beats that appear as couplets (two in a row following some of the sinus beats). Subtle P' waves can be seen in the ST-T complexes. The premature atrial beats show slight variations in QRS morphology, without actual aberrancy. The remainder of the ECG is unremarkable. The patient had severe chronic obstructive lung disease and was using an albuterol inhaler, which may account for the increased atrial ectopy. The latter is a non-specific finding, one precipitant of which is enhanced cardiac sympathetic stimulation.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case418/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

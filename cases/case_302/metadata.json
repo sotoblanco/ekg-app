@@ -1,0 +1,26 @@
+{
+    "case_id": "302",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=301&ans=1&caseid=302",
+    "clinical_history": "68 year-old  non-cyanotic woman awaiting surgery for congenital heart disease. The ECG is most consistent with which one of the following diagnoses?",
+    "diagnosis": "The ECG shows sinus rhythm at about 70 bpm with an incomplete right bundle branch block type pattern (rSR's' morphology in lead V1 and QRS duration =0.11 second). The QRS axis is normal. There is also notching of the R wave in leads III and aVF. ST-T abnormalities are present in leads V1-V4.  Atrial septal defects may present in young or middle-age adults (and sometimes even later in life) with symptoms of progressive exercise intolerance, fatigue or dyspnea, and sometimes atrial fibrillation or atrial flutter. Physical examination may be notable for a right ventricular heave with fixed, wide splitting of the second heart sound and a systolic ejection murmur in the pulmonic area (i.e., left parasternal area, around the second intercostal space). A diastolic rumble due to flow across the tricuspid valve may be present in severe cases. The ECG with the secundum (common) type ASDs typically shows a right ventricular conduction delay (as seen here) with a vertical to rightward QRS axis (not present). Notching of the R wave peak in one or more of the inferior leads (~crochetage sign~) is also often present. ST-T abnormalities in the right to mid precordial leads may be related to the RV conduction delay as well as to right ventricular overload. Tall P waves due to right atrial abnormality may be seen (not present here). In older individuals, especially those with systemic hypertension or coronary disease, signs of left or bi-atrial abnormality may be present.  This patient had a large secundum type ASD confirmed by echocardiogram and at cardiac catheterization. There was predominant left to right shunting with a pulmonary to systemic flow ratio of about 2. She underwent surgical repair of the large ASD since closure with a percutaneously inserted device was not technically feasible.  Ostium primum ASDs are associated with endocardial cushion defects with cleft mitral valves and sometimes ventricular septal defects. The ECG classically shows right ventricular conduction delays with left axis deviation, and sometimes AV conduction abnormalities. Tetralogy of Fallot and pulmonic stenosis are associated with pressure load types of right ventricular hypertrophy; the ECG typically shows a tall R wave in V1 with marked right axis deviation.  For an excellent discussion of ASDs in older adults, see the European Association of Clinical Echocardiography Clinical Case Portal-- Case181: http://www.escardio.org/bodies/associations/EAE/CasePortal/cases/Case+181/case181.htm",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case302/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Right Bundle Branch Block",
+        "Premature Atrial Contractions",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

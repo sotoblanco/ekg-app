@@ -1,0 +1,22 @@
+{
+    "case_id": "359",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=358&ans=1&caseid=359",
+    "clinical_history": "57 year-old man with complaints of palpitations, dyspnea and a systolic murmur. What does the ECG show?",
+    "diagnosis": "This ECG shows sinus rhythm at a rate about 96 bpm with prominent left atrial abnormality (see V1). There are frequent isolated VPBs (right bundle branch block morphology consistent with left ventricular origin) in a bigeminal pattern and also 2 ventricular couplets.  The patient had a history of mitral valve prolapse with chronic mitral regurgitation. A repeat echocardiogram revealed severe mitral regurgitation and a partially flail posterior leaflet secondary to a ruptured chorda tendinea. Cardiac EP study did not indicate inducible sustained ventricular tachycardia. Mitral valve surgery was scheduled.~~~~",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case359/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Ventricular Tachycardia",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

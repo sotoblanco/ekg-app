@@ -1,0 +1,22 @@
+{
+    "case_id": "473",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=472&ans=1&caseid=473",
+    "clinical_history": "An elderly woman is noted to have a relatively fast heart rate. What is the rhythm?",
+    "diagnosis": "The ECG shows atrial fibrillation with a rapid ventricular response. The mean (resting) ventricular rate over 10 seconds is about 114/minute and is irregular (range about 80-160/min), without any discernable pattern. Note the continuous atrial activity (lead V1).  The coarser fibrillatory waves may simulate P waves or atrial flutter waves, leading to mis-diagnosis. Non-specific ST-T changes are present as well here.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case473/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

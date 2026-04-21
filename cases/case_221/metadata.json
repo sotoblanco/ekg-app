@@ -1,0 +1,23 @@
+{
+    "case_id": "221",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=220&ans=1&caseid=221",
+    "clinical_history": "This ECG from an elderly man (with a possible prior inferior myocardial infarction shows an interesting rhythm most consistent with which of the following diagnoses?",
+    "diagnosis": "d) The initial rhythm for the first 10 beats is sinus at a rate of about 88/min followed by abrupt slowing of the sinus frequency to close to half that rate. All the P waves are conducted (with a minimally prolonged PR interval) excluding second degree AV block.  This pattern of abrupt change is consistent with 2:1 block in the sino-atrial (SA) node area (exit block) so that only every other sinus impulse is effectively conducted to the atria. This pattern is analogous to 2:1 AV block, except in the latter case you see two P waves/QRS. With 2:1 SA block, the impulse is blocked from leaving the (SA) node itself, so an entire P-QRS cycle is \u0093missing.\u0094 This pattern is relatively rare and may be due to intrinsic SA node disease (\u0093sick sinus syndrome\u0094) or specific factors (drugs, increased vagal tone, etc.) that depress SA conduction. The abrupt change excludes physiologic respiratory sinus arrhythmia (RSA), which produces more gradual increases and decreases in heart rate coupled to inspiration and expiration, respectively. Further, RSA is most evident in young healthy subjects and is not usually apparent in the elderly to any noticeable extent. Therapy of 2:1 SA block consists in addressing reversible causes of sinus node dysfunction. If prolonged, symptomatic sinus pauses still occur, a pacemaker is indicated.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case221/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

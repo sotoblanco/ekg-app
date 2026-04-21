@@ -1,0 +1,21 @@
+{
+    "case_id": "207",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=206&ans=1&caseid=207",
+    "clinical_history": "The following ECG, from a 62-year-old patient with increasing dyspnea, is most consistent with which diagnosis?",
+    "diagnosis": "A) This ECG shows the classic triad of findings for pericardial effusion with cardiac tamponade.  These findings include: 1) sinus tachycardia; 2) low QRS voltages; and 3) electrical alternans (best seen in leads V3 and V4 in this case).  This triad is highly specific for cardiac tamponade, but of limited sensitivity.  Electrical alternans in cardiac tamponade is marked by beat-to-beat alternation of the QRS complex (and other waveform components) usually with sinus tachycardia.  This so-called 2:1 alternans is due to mechanical effects of the heart swinging to-and-fro in the pericardial effusion.  With tamponade, the heart systematically shifts in position on a beat-to-beat basis, accounting for the alternating QRS vector and amplitude in multiple leads.Chronic obstructive pulmonary disease may be associated with low voltage complexes and sinus tachycardia as seen here, but not with electrical alternans.Massive pulmonary embolism would also not account for the combination of low voltage and electrical alternans, nor would acute anterior myocardial infarction.  (The poor R wave progression in leads V1-V2 here is non-specific.)Myxedema may cause low voltage due to pericardial effusion.  However, this syndrome generally does not lead to tamponade physiology and is most likely to be associated with sinus bradycardia. This patient had known non-small cell metastatic lung cancer.  Transthoracic echocardiogram confirmed a large pericardial effusion, with right ventricular diastolic collapse, consistent with tamponade physiology.  The patient underwent pericardiocentesis with drainage of about 1L of serosanguinous fluid.   A follow-up ECG (several weeks  after the pericardiocentesis) was notable for increased QRS voltage and disappearance of the electrical alternans. However, the resting sinus tachycardia persisted in association with widespread metastatic disease and related problems.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case207/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

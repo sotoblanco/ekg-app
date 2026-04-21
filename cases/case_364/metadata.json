@@ -1,0 +1,22 @@
+{
+    "case_id": "364",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=363&ans=1&caseid=364",
+    "clinical_history": "68 year old man with irregular pulse rate. The ECG shows ischemic-appearing T wave inversions with QT prolongation in a patient with severe multivessel coronary artery disease and decreased left ventricular systolic function. Which ONE of the following rhythms is present?",
+    "diagnosis": "Superficially, this rhythm looks like atrial fibrillation. Closer inspection shows that there are discrete P waves with variable appearance and variable PR intervals. The rate is not fast enough for multifocal atrial tachycardia but shows more variability than the classic wandering atrial pacemaker. The term \u0093multifocal atrial rhythm\u0094 can be used in such cases. This rhythm may be a precursor of atrial fibrillation. The patient was on metoprolol and amiodarone at the time of this ECG and had a history of atrial fibrillation.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case364/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

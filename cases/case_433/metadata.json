@@ -1,0 +1,21 @@
+{
+    "case_id": "433",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=432&ans=1&caseid=433",
+    "clinical_history": "This ECG from a middle-aged woman is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "This ECG shows prominent resting sinus tachycardia (at 120/min) with PR prolongation, especially for this sinus rate (210 ms). The most notable findings are right atrial abnormality (tall, peaked P waves in leads II and V1), markedly rightward QRS axis deviation in the frontal plane (about +120 degrees), relatively tall R waves in V1-V2 and T wave inversions  in V1-V3. This constellation of findings is virtually diagnostic of a severe right heart overload syndrome. In this case, the patient had chronic pulmonary hypertension (multifactorial), including severe restrictive lung disease.~~~~Note that a relatively tall R wave in lead V1 is an ECG marker of posterior infarction (equivalent to a pathologic Q wave in posterior leads, which are not generally recorded). However, posterior infarction would not account for the ensemble of findings, also including right axis deviation of the QRS, peaked P waves consistent with right atrial abnormality and ST-T wave abnormalities, consistent with right ventricular overload. Furthermore, what is called \"posterior MI\" by ECG is usually associated with concomitant evidence of inferior and/or lateral wall involvement.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case433/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

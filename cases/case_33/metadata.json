@@ -1,0 +1,24 @@
+{
+    "case_id": "33",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=32&ans=1&caseid=33",
+    "clinical_history": "64-year-old man with increasing pedal edema. What is the ECG diagnosis?",
+    "diagnosis": "Sinus rhythm with left atrial abnormality. Most striking are tall right precordial R waves with pathologic inferior and lateral Q waves giving a \"reverse\" type R wave progression. There are also ST-T abnormalities in I, aVL, V6. Thus the patient has coronary artery disease (CAD), s/p large infero-(postero)-lateral myocardial infarction (MI) accounting for congestive heart failure (CHF) findings.   Recall that differential diagnosis of tall right precordial R waves includes: 1) Normal/positional variants, 2) Right ventricular hypertrophy (RVH) (look for right axis deviation, P pulmonale),  3) Posterior/lateral MI (usually signs of inferior MI, too), 4) hypertrophic cardiomyopathy/idiopathic hypertrophic subaortic stenosis (HCM/IHSS), 5) right bundle branch block (RBBB), 6) Wolff-Parkinson-White (WPW ) variants with posterior/lateral pre-excitation 7) Duchenne muscular dystrophy (young men with myopathy).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case33/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Bundle Branch Block",
+        "Wolff-Parkinson-White",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Sinus rhythm",
+        "rate": "75 bpm",
+        "axis": "Left axis deviation",
+        "intervals": "PR: 160ms, QRS: 80ms, QTc: ~450ms",
+        "findings": "Left atrial abnormality; pathologic Q waves in inferior (II, III, aVF) and lateral (I, aVL, V6) leads; tall R waves in right precordial leads (V1, V2) indicating posterior involvement; 'reverse' R-wave progression; ST-T wave abnormalities in leads I, aVL, and V6.",
+        "comparison": "N/A",
+        "impression": "Large old infero-postero-lateral myocardial infarction, likely contributing to the patient's clinical signs of congestive heart failure."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "case_id": "25",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=24&ans=1&caseid=25",
+    "clinical_history": "A 38-yr-old woman with weakness. Previous ECG was normal and she was on no medications. What is the most likely diagnosis?",
+    "diagnosis": "The ECG shows sinus bradycardia with diffuse T wave flattening or inversions, and markedly prominent U waves. These are best seen in leads V2 and V3, but are essentially invisible in lead aVL. The two most common causes of this finding are 1) Hypokalemia (K+ here was 2.4 mEq/L) and 2) Drugs, especially the class 1A antiarrhythmics (like quinidine, procainamide, disopyramide) and related agents (like the phenothiazines and tricyclics), etc. Patients with hereditary (congenital) long QT syndromes due to \"channelopathies\" may show a similar finding (see Case 1). This ventricular repolarization prolongation pattern is of great importance because it identifies patients at high risk of torsade de pointes type of polymorphic ventricular tachycardia.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case25/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Ventricular Tachycardia",
+        "Hypokalemia",
+        "Long QT Syndrome"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "Sinus bradycardia",
+        "rate": "46 bpm",
+        "axis": "Normal axis",
+        "intervals": "PR: 160 ms, QRS: 80 ms, QU: 600 ms, QTc: ~530 ms",
+        "findings": "Diffuse T-wave flattening and inversions; markedly prominent U-waves, most visible in leads V2 and V3; prolonged ventricular repolarization (QU prolongation).",
+        "comparison": "Previous ECG was normal.",
+        "impression": "Severe hypokalemia (K+ 2.4 mEq/L) causing characteristic U-waves and repolarization prolongation, placing the patient at high risk for torsade de pointes."
+    }
+}

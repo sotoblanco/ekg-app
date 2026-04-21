@@ -1,0 +1,21 @@
+{
+    "case_id": "154",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=153&ans=1&caseid=154",
+    "clinical_history": "This ECG from a 74-year-old woman shows which of the  following?",
+    "diagnosis": "c)  Flutter waves are well-seen in V1 and lead III (at a  rate of about 280/min, with a ventricular response at about 70/min).   A classic right bundle branch block (RBBB ) pattern is also present. The patient has rheumatic mitral valve disease, moderate pulmonary hypertension, and  tricuspid regurgitation.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case154/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Right Bundle Branch Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "22",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=21&ans=1&caseid=22",
+    "clinical_history": "A 60-year-old woman with increasing exertional dyspnea and orthopnea is awaiting a cardiac surgical procedure. She gave a history of having a \"heart murmur\" and an \"extra heart sound\" first noted in her teenage years. Which ONE of the following is the likely cause of her problem? (Focus point clues: P waves, QRS axis, and R/S ratio in lead V1.)",
+    "diagnosis": "Her ECG shows sinus rhythm with ventricular premature complexes. The relatively prominent R wave in V1 (by R/S ratio; not absolute R wave magnitude) in combination with right axis deviation is consistent with right ventricular hypertrophy (RVH). In addition, there is also prominent left atrial abnormality (LAA) evidenced by a biphasic P in V1 with a broad negative component and wide, notched P waves elsewhere). The ST-T changes inferiorly are non-specific. The combination of ECG findings consistent with RVH with marked left atrial abnormality (LAA) is strongly suggestive of mitral stenosis, usually due to rheumatic heart disease. The patient was pre-op for mitral valve replacement. Auscultation in the left lateral decubitus position revealed a diastolic \"rumble,\" following an opening snap.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case22/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "Sinus rhythm with ventricular premature complexes",
+        "rate": "N/A",
+        "axis": "Right axis deviation",
+        "intervals": "N/A",
+        "findings": "Right ventricular hypertrophy (prominent R/S ratio in V1), left atrial abnormality (biphasic P in V1 with broad negative component; wide, notched P waves), non-specific inferior ST-T changes",
+        "comparison": "N/A",
+        "impression": "Mitral stenosis, likely due to rheumatic heart disease"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "case_id": "156",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=155&ans=1&caseid=156",
+    "clinical_history": "Middle-aged man with lightheadedness several weeks after aortic valve replacement.  Name the rhythm/conduction disturbance(s).",
+    "diagnosis": "a) Electrophysiology study revealed both slow AV nodal conduction (note long PR of conducted beats) and infra-nodal block with His-Purkinje disease (note right bundle branch block (RBBB).  A dual-chamber pacemaker was implanted.  Bacterial endocarditis was ruled out.   In addition to the sinus rhythm with 2:1 AV block and RBBB, this ECG is notable  for left ventricular hypertrophy (LVH) (lead aVL), left atrial abnormality (LAA), and borderline left  axis deviation.  There are also marked T-wave inversions in the  anterolateral leads with QT prolongation, which was not due to myocardial infarction (MI)/coronary disease here.  Prominent T-wave inversions like these  have been reported after episodes of profound bradycardia and syncope, and may have a neural basis, in part.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case156/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Bundle Branch Block",
+        "AV Block",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

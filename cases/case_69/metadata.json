@@ -1,0 +1,22 @@
+{
+    "case_id": "69",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=68&ans=1&caseid=69",
+    "clinical_history": "A 69-yr-old woman presented with dyspnea. Chest X-ray was unrevealing. Which ONE of the following diagnoses does this ECG suggest?",
+    "diagnosis": "The ECG shows sinus tachycardia at rest with an S1Q3 pattern and a \"minor\" right ventricular (RV) conduction delay (polyphasic complex in V1, with terminal S waves in V5 and V6). These findings, while non-diagnostic, in concert with the clinical history of dyspnea, strongly raise consideration  of acute cor pulmonale, a major cause of which is pulmonary embolism (PE). Other findings that may be present include T wave inversions V1-V3 (due to RV \"strain\"), right axis shift, right bundle branch block and peaked P waves.  With massive PE, the ECG may also show ST depressions due to subendocardial ischemia.  Arrhythmias such as atrial fibrillation may occur, but are not that common, and often indicate underlying heart disease. Sinus tachycardia is the most common finding. In many, even with large PE, this non-specific sign may be the only ECG finding. However, clinicians need to be mindful that overall the ECG is fairly insensitive and non-specific in PE. Also, the ECG may change over relatively short periods of time in PE and comparison with previous tracings may be very helpful. The S1Q3T3 pattern by itself is neither sensitive nor specific for acute cor pulmonale. Quantitative criteria for the amplitude (relative or absolute) of the S and Q wave components of this waveform have been suggested, but are not agreed upon. The new appearance of this phenotype, especially in concert with sinus tachycardia and other findings noted above, likely adds to the specificity of the classic S1Q3T3 morphology first described nearly a century ago by McGinn and White (doi:10.1001/jama.1935.02760170011004).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case69/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

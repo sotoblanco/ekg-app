@@ -1,0 +1,25 @@
+{
+    "case_id": "453",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=452&ans=1&caseid=453",
+    "clinical_history": "An elderly patient presents with fatigue. The ECG shows all of the following findings EXCEPT for which ONE?",
+    "diagnosis": "The ECG shows sinus rhythm (with left atrial abnormality; see V1) and intermittent, abrupt non-conducted P waves consistent with Mobitz II (infranodal) AV block (not benign blocked APBs). The sinus P wave rate is about 75/min, while the average QRS (and hence, effective pulse) rate is about 50/min.  In some instances, apparent atrial escape beats occur, evidenced by the change in P wave morphology. Intermittent LBBB (with left axis deviation) is also present. (Very slow r wave progression also raise consideration of underlying anterior MI.) The findings, consistent with severe infra-nodal disease (Mobitz II AV block and LBBB), are an indication for cardiac electrophysiologic (EP) assessment and likely immediate pacemaker implantation due to the high risk of abrupt complete heart block/ventricular asystole. There is also QTc prolongation (about 480 msec), raising question of drug effect or hypokalemia, particular. Slow r wave progression in the narrow QRS beats (e.g., V1-V3) is non-diagnostic. Transthoracic echocardiogram showed moderate calcific aortic stenosis and left atrial dilation. No regional wall motion abnormalities were noted and overall left ventricular systolic function was normal. Cardiac EP study confirmed intermittent infra-nodal block. A dual chamber pacemaker was implanted. The conduction disease here is likely related to sclerodegenerative pathology (fibrosis and calcification) due to advanced aging and/or involvement of the proximal conduction system associated with calcific aortic stenosis.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case453/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Hypokalemia",
+        "Left Bundle Branch Block",
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

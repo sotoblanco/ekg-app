@@ -1,0 +1,24 @@
+{
+    "case_id": "323",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=322&ans=1&caseid=323",
+    "clinical_history": "60 year old woman with palpitations and rapid pulse at rest. The ECG shows which one of the following arrhythmias?",
+    "diagnosis": "The ECG shows a very regular narrow complex tachycardia, ventricular rate of 200 bpm. The rate is too fast for resting sinus tachycardia in a patient of this age group. The rhythm is too regular for atrial fibrillation or MAT.  The rate is not compatible with atrial flutter with 2:1 conduction since the atrial rate would have to be 400 cycles/min, beyond the atrial depolarization of that rhythm. By exclusion the rhythm is paroxysmal supraventricular tachycardia. No definite P waves are evident and the mechanism is likely AV nodal reentry (with P waves \u0093hidden\u0094 in the QRS or perhaps partly visible at the very end of QRS with a superior axis). The ST depressions are non-diagnostic in this context.  For a superb tutorial and simulation of AVNRT and other supraventricular tachycardias, see: http://www.blaufuss.org/SVT/index2.html",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case323/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Ventricular Tachycardia",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

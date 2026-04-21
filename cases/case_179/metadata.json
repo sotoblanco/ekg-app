@@ -1,0 +1,22 @@
+{
+    "case_id": "179",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=178&ans=1&caseid=179",
+    "clinical_history": "Which abnormality is NOT present in the following ECG?",
+    "diagnosis": "Note that the PR (196 ms) is technically in the normal  range for adults (120-200 ms).  However, with sinus tachycardia,  the PR is normally closer to the lower range, due to increased  sympathetic tone/decreased vagal tone.  Thus, a PR of about 200 ms with sinus tachycardia indicates relatively slow AV conduction. The very tall R waves in V5 (30 mm or so) are likely due to LVH with a truncated S in V1 due to the RBBB variant, thus reducing the sensitivity further for LVH in this context.  So calling \"probable or possible LVH\" is reasonable clinically. The QRS axis (measured on the first 100 ms) is about +15 degrees, within normal limits. The wide R waves in V1/V2 are due to a RBBB variant and not to posterior wall ventricular pre-excitation. (Ref: Vandenberg BF, Romhilt DW. Electrocardiographic diagnosis of left ventricular hypertrophy in the presence of bundle branch block. Am Heart J Volume 122 , Issue 3 , 818 - 822.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case179/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Right Bundle Branch Block",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

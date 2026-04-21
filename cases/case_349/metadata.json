@@ -1,0 +1,21 @@
+{
+    "case_id": "349",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=348&ans=1&caseid=349",
+    "clinical_history": "51 year-old female with increasing shortness of breath. With which ONE of the following diagnoses is this ECG most consistent?",
+    "diagnosis": "This ECG shows sinus tachycardia at rate of about 106 bpm with two atrial premature beats (8th and 13th beat on lead II rhythm strip). Other notable findings include: right axis deviation, peaked P waves, a subtle right ventricular conduction delay and non-specific ST-T abnormalities in V1-V3, along with a delayed precordial transition zone. Borderline low limb lead voltage is also present. The combination of these findings is strongly suggestive of acute or subacute right heart overload with severe chronic obstructive pulmonary disease (COPD). See also Case # 77.  Admission arterial blood gases on room air revealed severe hypoxemia and hypercapnea with respiratory acidosis: p02 of 52 Torr and a pC02 of 88 Torr with a pH of 7.30. The patient had a COPD decompensation, associated with probable aspiration pneumonitis. Note that as a  point of possible confusion, the P waves are negative in lead V1, suggesting left atrial abnormality (or biatrial abnormality). The latter cannot be excluded. However, it is important to recognize that pure right atrial overload (abnormality) can be associated with prominent negative and usually narrow P waves (a type of \"pseudo-LAA\" pattern). This finding is most likely to occur when the right atrium lies under the exploring V1 electrode, so that the depolarization forces are oriented away from that locus.  Leads II, III, aVF, e.g., should show tall peaked (but not broad) P waves typical of RAA.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case349/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

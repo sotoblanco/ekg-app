@@ -1,0 +1,24 @@
+{
+    "case_id": "469",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=468&ans=1&caseid=469",
+    "clinical_history": "This ECG with a wide QRS, recorded from a middle-age man, is most consistent with which ONE of the following diagnostic categories?",
+    "diagnosis": "This challenging ECG shows sinus tachycardia at rest (about 100/min) with a uniformly long PR interval of at least 240 msec (\u0093first degree AV block\u0094). The low amplitude P waves are best seen in the magnified views. The wide QRS complexes show a right bundle branch block morphology (rSR\u00b4 in V1) with marked left axis deviation, consistent with left anterior fascicular block. Minuscule or absent inferior lead r waves raise the question of a previous inferior infarction (MI); the decreased lateral R waves also raise question of prior lateral MI. Relatively low amplitude QRS complexes are present. Of particular note are the T waves, which have a subtle symmetric, peaked appearance (either negative or positive, even though they are not of absolute high amplitude). This finding of relative T wave peaking raises the strong consideration of hyperkalemia. The intraventricular conduction delays can also be induced or worsened by hyperkalemia, as can AV block. This patient had an arterial K+ of about 6.9 mEq/L at this time, with a history of severe decompensated chronic renal failure and advanced coronary disease.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case469/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Hyperkalemia",
+        "Right Bundle Branch Block",
+        "AV Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

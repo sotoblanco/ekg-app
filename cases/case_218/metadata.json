@@ -1,0 +1,23 @@
+{
+    "case_id": "218",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=217&ans=1&caseid=218",
+    "clinical_history": "This ECG shows which ONE of the following?",
+    "diagnosis": "d) The classic triad of  Wolff-Parkinson-White (WPW) pre-excitation is present with wide QRS complex, a short PR interval and delta waves.  The latter are represented by the notching or slurring of the initial portion of the QRS complex.  In this ECG, the delta waves are predominantly negative in lead V1 and lead III, and positive in other leads (I, aVL, and the lateral chest leads).This distinctive pattern is due to electrical activation of the ventricles during sinus rhythm via an atrio-ventricular bypass tract, an accessory conduction pathway, which allows an impulse to short-circuit the slowly conducting AV node.  Pre-exciting the ventricles in this abnormal way during sinus rhythm causes the PR interval to be shortened.  The QRS is widened, not because of a bundle branch block or related delay in activation, but because the pre-excitation actually starts the QRS off earlier than normal.  Of note, the bypass tract activates the myocardium, rather than the faster specialized (His-Purkinje) conducting system in the ventricles.  This early myocardial conduction imparts the distinctive notching or slurring (delta wave) to the initial part of the QRS.The polarity of the delta wave on the 12-lead ECG provides a major clue to the location of the bypass tract.  For example, when the bypass tract pre-excites the lateral wall of the left ventricle, the initial QRS vector will point from left to right.  Thus, the delta wave with a lateral bypass tract will be negative in lead I and positive in lead VI. In the present ECG, what does the vector of the delta wave indicate about the likely location of the bypass tract?  Ans: the fact that the delta waves are predominantly negative in VI and positive in the lateral leads is consistent with a bypass tract inserting into the free wall of the right ventricle. WPW pre-excitation is clinically important because it is a substrate for the development of tachycardias, especially atrio-ventricular reentrant tachycardia (AVRT).  Some patients may have multiple bypass tracts.  The therapy of choice for patients with WPW syndrome with AVRT or atrial fibrillation is radiofrequency ablation of the bypass tract(s).For an excellent tutorial presentation and animation of these and related supraventricular arrhythmias, see:  http://blaufuss.org.The patterns of WPW may be mistaken for bundle branch blocks, hypertrophy and infarction due to the anomalous pattern of ventricular activation which can lead to tall R waves and Q waves in selected leads, along with the wide QRS.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case218/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Wolff-Parkinson-White",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

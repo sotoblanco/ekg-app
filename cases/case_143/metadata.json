@@ -1,0 +1,23 @@
+{
+    "case_id": "143",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=142&ans=1&caseid=143",
+    "clinical_history": "Wide complex tachycardia in a 77-year-old man with coronary artery disease.  What is the rhythm?",
+    "diagnosis": "c)  There is a wide complex tachycardia at about 165/min with an right bundle branch block (RBBB) morphology.  Underlying sinus tachycardia at about 136/min and AV dissociation are noted, confirming the diagnosis of ventricular tachycardia (VT).  (Note the clear sinus P waves, e.g., just after 5th QRS.)  The QRS morphology and axis are consistent with origin of the VT from the posterior septum.  The patient had had a prior large inferior-posterior myocardial infarction (MI).  (Of additional note here is the relatively low limb lead voltage and sinus tachycardia).  There was a small-moderate pericardial effusion remaining after recent pericardiocentesis for tamponade.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case143/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Ventricular Tachycardia",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "case_id": "514",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=513&ans=1&caseid=514",
+    "clinical_history": "A middle-aged man, with recent psychological stress, presented with chest pain, heart failure and elevated troponin levels, but no angiographically apparent obstructive coronary artery disease.  Prior ECGs (24-48 hrs) before this tracing showed slight diffuse ST elevations. (There was a prior history of hypertrophic cardiomyopathy with mild left ventricular outflow obstruction.) Which ONE of the following scenarios best applies to this ECG in the present context?",
+    "diagnosis": "The ECG shows sinus rhythm with T wave inversions (and QT prolongation) consistent with \"Wellens' pattern,\" usually a sign of high grade left anterior descending obstruction. However, in this case the finding appeared in the context of takotsubo syndrome, a combination that has been reported primarily in case studies. (e.g., Clin Pract Cases Emerg Med. 2017;3:175; Marra MP et al. Heart Rhythm. 2013;10:70.)  Takotsubo syndrome, in general, may closely mimic the ECG of acute coronary syndromes due to obstructive coronary disease, with ST elevations or depressions, T wave inversions and left bundle branch block (Eur J Heart Fail 2016;18:8-27). The ECG also shows left atrial abnormality and left ventricular hypertrophy. The long QT is consistent with prolongation of action potential duration in the area of myocardial injury.  Transthoracic echocardiogram here showed classical apical ballooning.  The other choices are excluded as follows: Brugada pattern (see Case #253) is associated with right precordial ST elevations sometimes with T wave inversions and a \"pseudo\" right bundle branch block morphology.  Intermittent left bundle branch block or right ventricular pacing may induce T wave inversions in normally conducted beats that previously showed a QS or rS pattern with the wide QRS, and would not account for the T wave inversions seen here in leads aVL and I (Shvilkin A, et al. Circulation. 2005;111:969-974). Yamaguchi's syndrome (see Case #14) is classically associated with very deep mid-precordial T wave inversions. Pulmonary embolism, due to right heart overload, may present with right precordial T wave inversions, as well as rightward axis shifts, S1Q3T3 patterns, qR in V1, peaked T waves, none of which is seen here (see Case #32). See also: Singh T, et al. Circulation. 2022;145:1002~1019.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case514/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Acute Coronary Syndrome",
+        "Long QT Syndrome",
+        "Left Bundle Branch Block",
+        "Right Bundle Branch Block",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

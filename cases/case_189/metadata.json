@@ -1,0 +1,25 @@
+{
+    "case_id": "189",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=188&ans=1&caseid=189",
+    "clinical_history": "The following ECG with sinus rhythm from a severely-ill 67-year-old woman is most consistent with which diagnosis?",
+    "diagnosis": "b)  The findings of left ventricular hypertrophy (LVH) and relatively tall, narrow (tented) T waves (V5, V6) are most consistent with chronic renal failure causing hypertension and hyperkalemia, respectively.) There are small U waves in some leads (V2), which are not diagnostic as they of low relative and absolute amplitude.) The T waves are not as peaked as often seen with moderate hyperkalemia;  but typical LVH tends to be associated with T wave inversions (\"strain\" pattern). Whether these T waves represent paradoxical normalization due to hyperkalemia cannot be assessed without the previous ECG.  Lab studies obtained 30 min after this ECG showed a BUN 42 mg/dl, creatinine 8.0mg/dl, serum potassium 6.4 mEq/L.  Severe mitral stenosis classically produces signs of right ventricular hypertrophy and marked left atrial abnormality (or atrial fibrillation).  Myxedema (severe hypothyroidism) is associated with low voltage QRS complexes and sinus bradycardia.  Subarachnoid hemorrhage may be associated with deep T wave inversions or tall positive T waves, which are usually very broad with a long Q-T, not narrow-based (\"CVA T wave pattern\").  Finally, the hyperacute T waves of anterior myocardial infarction (MI) are usually also broader, often with a high take-off of the ST segment or J point.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case189/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Hyperkalemia",
+        "Left Ventricular Hypertrophy",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

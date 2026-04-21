@@ -1,0 +1,25 @@
+{
+    "case_id": "303",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=302&ans=1&caseid=303",
+    "clinical_history": "This ECG from a 64 year old woman is most consistent with which of the following clinical scenarios?",
+    "diagnosis": "The ECG shows borderline sinus tachycardia at rest with complete left bundle branch block (LBBB). The very prominent voltage and LBBB suggest left ventricular hypertrophy. The notching on the ascending limb of the S wave in lead V4 is an example of Cabrera\u0092s sign, a marker of ventricular scarring usually due to prior infarction in the presence of LBBB. The variations in QRS amplitude are consistent with respiratory-related changes and are not the beat-to-beat pattern seen with pericardial effusion/tamponade.  Atrial septal defects (secundum type) are associated with right bundle branch block patterns. Severe mitral stenosis is associated with marked left atrial abnormality (or atrial fibrillation) and right ventricular hypertrophy.  Primary pulmonary hypertension typically causes right ventricular hypertrophy with right atrial abnormality.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case303/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Left Bundle Branch Block",
+        "Right Bundle Branch Block",
+        "Left Ventricular Hypertrophy",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

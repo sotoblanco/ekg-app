@@ -1,0 +1,21 @@
+{
+    "case_id": "30",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=29&ans=1&caseid=30",
+    "clinical_history": "A 43-year-old man diagnosed with \"lateral subendocardial ischemia\" based on ST depressions in aVL.  Do you agree?",
+    "diagnosis": "You shouldn't! There are subtle but real ST elevations inferiorly (II,III and aVF) and in V5 and V6, and very slight ST depressions in V2.  Cardiac catheterization/angiography showed postero-basal hypokinesis and he underwent circumflex/obtuse marginal angioplasty after ruling in for a small MI. ST depressions here in aVL are reciprocal to primary ST elevations infero-laterally. Slight ST depressions in V2 may be reciprocal lateral or posterior involvement. Whenever you see ST depressions, always look in contralateral leads for ST elevations. Remember  that you do not get reciprocal ST elevations with acute ischemia. Extra leads V7-V9 may be useful in such cases to help reveal lateral and posterior involvement.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case30/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Normal Sinus Rhythm",
+        "rate": "67 bpm",
+        "axis": "Normal axis",
+        "intervals": "PR: 160ms, QRS: 80ms, QTc: 421ms",
+        "findings": "Subtle ST-segment elevation in inferior (II, III, aVF) and lateral (V5, V6) leads. Reciprocal ST-segment depression in lead aVL. Subtle ST depression in lead V2 suggesting posterior involvement.",
+        "comparison": "N/A",
+        "impression": "Acute infero-latero-posterior myocardial infarction (STEMI) due to circumflex/obtuse marginal artery occlusion."
+    }
+}

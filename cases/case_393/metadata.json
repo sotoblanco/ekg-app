@@ -1,0 +1,21 @@
+{
+    "case_id": "393",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=392&ans=1&caseid=393",
+    "clinical_history": "70 year-old woman with type II diabetes mellitus presented to emergency room with complaint of chest pain.  What is the diagnosis?",
+    "diagnosis": "The rhythm is sinus at about 65 bpm.  ST elevations are present in leads II, III and aVF and V4-V6 with ST segment depressions in lead I, aVR, aVL and VI-V2.  These findings are consistent with acute inferior-lateral wall (and possibly posterior) myocardial infarction. Cardiac enzymes were elevated.  The patient was taken to the cardiac catheterization laboratory and found to have a totally obstructed left anterior descending vessel;  a 20~ stenosis of the left main; the left circumflex system had 60-70 ~ stenoses and the right coronary artery had a 95~ sub-total occlusion of its mid-portion with distal thrombus. Echocardiogram showed a normal global left ventricular ejection fraction with moderate inferior hypokinesis. The patient underwent successful emergency coronary artery bypass grafting (CABG) for multivessel disease.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case393/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

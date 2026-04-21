@@ -1,0 +1,21 @@
+{
+    "case_id": "262",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=261&ans=1&caseid=262",
+    "clinical_history": "What is the rhythm in this 47 year-old woman with bacterial endocarditis?",
+    "diagnosis": "The ECG shows sinus tachycardia at rate about 110 bpm with a prominent AV conduction delay (PR interval=0.28 second) and diffuse, non-specific ST-T changes. The P wave is just visible at the end of the T wave. (Ectopic atrial tachycardia with 1:1 conduction cannot be excluded based on this single ECG. However, the patient had clear evidence of sinus rhythm on multiple ECGs with PR prolongation.) \r\n\r\nThe prolonged PR interval is especially notable in the presence of sinus tachycardia since this rhythm is usually associated with a PR interval at the lower range of normal due to increased sympathetic and decreased vagal tone. \r\n\r\nThe patient had a history of intravenous drug use and had recurrent bacterial endocarditis with a non-coronary sinus abscess, and was status post aortic valve replacement, accounting for the prolonged AV conduction in the presence of sinus tachycardia.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case262/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

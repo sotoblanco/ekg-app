@@ -1,0 +1,22 @@
+{
+    "case_id": "64",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=63&ans=1&caseid=64",
+    "clinical_history": "81-yr-old woman with dyspnea. What are the major findings?",
+    "diagnosis": "There is a wide-complex tachycardia. The QRS shows a classic left bundle branch block (LBBB) pattern. If you look carefully, you will see atrial activity in the limb leads, with negative polarity in lead II, at rate of 320/min. Hence, atrial flutter with 2:1 conduction and LBBB.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case64/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Flutter",
+        "Left Bundle Branch Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

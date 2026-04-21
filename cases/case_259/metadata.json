@@ -1,0 +1,25 @@
+{
+    "case_id": "259",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=258&ans=1&caseid=259",
+    "clinical_history": "28 year old female with symptoms of palpitations and lightheadness. What is the arrhythmia?",
+    "diagnosis": "This ECG shows sinus rhythm (normal QTc) with runs of non-sustained monomorphic ventricular tachycardia (starting 2nd beat, rate 170 bpm).  The ventricular beats have a left bundle branch block pattern and inferior/borderline rightward QRS axis raising consideration of repetitive monomorphic ventricular tachycardia arising from the right ventricular outflow tract (RVOT). Isolated premature ventricular complexes (PVCs) and two ventricular couplets are also present with the same morphology. ~~~~Atrial tachycardia is excluded as there are no premature P waves prior to the runs. The P waves associated with the wide complex beats appear to be retrograde consistent with ventricular-atrial conduction. No atrial flutter waves are seen. There is no delta wave to suggest Wolff-Parkinson-White pattern. ~~~~The patient had an idiopathic cardiomyopathy with global mild ventricular hypokinesis. Previous attempts at ablation in the RVOT region had been made. At the time of repeat cardiac electrophysiologic study, the arrhythmia was not inducible, despite intensive programmed electrical and pharmacologic stimulation. The diagnosis was monomorphic ventricular tachycardia of unknown mechanism, possibly arising from the superior portion of the interventricular septum. ~~~~",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case259/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Flutter",
+        "Ventricular Tachycardia",
+        "Left Bundle Branch Block",
+        "Wolff-Parkinson-White",
+        "Premature Ventricular Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

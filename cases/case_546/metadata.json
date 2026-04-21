@@ -1,0 +1,22 @@
+{
+    "case_id": "546",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=545&ans=1&caseid=546",
+    "clinical_history": "ECG recorded from a 54 year-old man. The findings are most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The ECG shows sinus rhythm with a PR of about 120 ms and no delta waves. The key findings are pathologic Q waves inferiorly with ischemic ST elevations in II, III and aVF (and reciprocal ST depressions in aVL), consistent with an evolving ST elevation-Q wave MI. The tall right precordial R waves with ST depressions and borderline prominent Q waves in V6 with slight ST elevations are consistent with concomitant postero-lateral involvement. The patient had advanced coronary atherosclerosis with a complete mid-occlusion of a dominant right coronary artery. Additional leads V7-V9 would likely show Q waves and ST elevations.  RVH would not account for inferior Q waves and ST changes. Hypertrophic cardiomyopathy can cause tall right precordial R waves and infero-lateral Q waves, but not the ST-T changes seen here.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case546/800x365.jpg",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

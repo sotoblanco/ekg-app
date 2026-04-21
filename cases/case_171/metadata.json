@@ -1,0 +1,22 @@
+{
+    "case_id": "171",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=170&ans=1&caseid=171",
+    "clinical_history": "What is the arrhythmia in this 73-year-old with very severe coronary disease, status-post inferior and anterior-lateral Q-wave myocardial infarction?",
+    "diagnosis": "a) Atrial fibrillation  The highly irregular ventricular response and the variable, oscillatory atrial activity (see V1, e.g.) are classic for atrial fibrillation.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case171/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

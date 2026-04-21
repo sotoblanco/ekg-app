@@ -1,0 +1,21 @@
+{
+    "case_id": "476",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=475&ans=1&caseid=476",
+    "clinical_history": "ECG from a middle-aged woman with severe heart failure. This ECG is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The rhythm is atrial fibrillation. The QRS mean frontal plane axis is vertical to rightward (+85 degrees). This finding, in concert with the right ventricular conduction delay pattern (V1 and V2) and the S1Q3 pattern, raise strong consideration of a right heart overload syndrome. (The findings are not specific for a given etiology. For example, pulmonary hypertension due to a variety of factors may cause a similar pattern, including that due to recurrent pulmonary emboli. The prominent R waves in the left chest leads, in combination with the evidence of RV overload, strongly suggest biventricular overload/hypertrophy. Biventricular hypertrophy, by itself and certainly with AF, should suggest the possibility of chronic rheumatic heart disease with major components due to mitral stenosis and aortic valve disease. The ST-T changes are not specific. The T wave inversions in the right-middle precordial leads in this context could due to RV overload (formerly called a \"strain\" pattern). Ostium primum atrial septal defects (endocardial cushion defects or atrioventricular septal defects), most common in Down syndrome, are typically associated with right ventricular conduction delays and marked left (superior) axis deviation.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case476/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

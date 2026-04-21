@@ -1,0 +1,23 @@
+{
+    "case_id": "102",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=101&ans=1&caseid=102",
+    "clinical_history": "Premature ventricular complexes unmask rhythm.  What is it?",
+    "diagnosis": "Borderline sinus tachycardia is present with a markedly prolonged PR at about 300 ms (\"1st degree AV block\").  The P waves, partly obscured by the T waves of the preceding sinus beats, are more clearly evident after the premature ventricular complexes (PVCs) -- beats 3 and 9, and the last beat. In addition, there is a left ventricular intraventricular conduction delay (IVCD; QRS duration about 160 ms), borderline left axis deviation, probable left atrial abnormality and non-specific lateral ST-T wave changes. The QT appears long in part because of the superimposed P wave deflection at the terminal portion of the T wave. Note the notching on the upstroke of the S waves in V2-V4, consistent with myocardial scarring with the IVCD (\"Cabrera&39;s sign\"), in a patient with a history of multiple previous myocardial infarctions. The findings are consistent with  severely impaired left ventricular function.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case102/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "AV Block",
+        "Premature Ventricular Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

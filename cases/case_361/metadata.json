@@ -1,0 +1,24 @@
+{
+    "case_id": "361",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=360&ans=1&caseid=361",
+    "clinical_history": "Elderly woman admitted for peripheral vascular surgery is noted to have an irregular pulse. She has a history of severe coronary disease and an ICD/pacemaker device. The ECG is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The ECG shows borderline sinus bradycardia (the P wave rate is about 60/min) with intermittent AV block and with electronic ventricular pacemaker escape beats (VVI at 40/min, with very low amplitude pacing spikes). Ventricular premature beats are also present. The QT interval in the supraventricular beats is short/normal and there are non-specific ST-T changes consistent with digitalis effect,  left ventricular hypertrophy, ischemia, etc. Note: the scooping of the ST-T complex may be due to \u0093digitalis effect\u0094 and does not necessarily indicate \u0093digitalis excess.\u0094 The latter term relates to certain brady- and tachyarrhythmias and constitutional symptoms (e.g., visual changes, nausea, and even dementia) associated with digitalis toxicity. The diagnosis of digitalis excess in this case is suggested by the AV block in conjunction with ventricular ectopy and evidence of digitalis-related repolarization effects.   The initial digoxin levels were elevated (up to 3.6ng/ml).  Also note: the pacing appears to be a single lead ICD since it is not pacing the atrium. The programming is VVI 40, which is standard single lead ICD bradycardia programming to minimize the adverse effects of ventricular pacing (Dual-Chamber Pacing or Ventricular Backup Pacing in Patients With an Implantable Defibrillator: The Dual Chamber and VVI Implantable Defibrillator (DAVID) Trial JAMA 2002;288:3115-3123) in patients who do not have pacemaker indications at the time of the implant.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case361/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "AV Block",
+        "Supraventricular Tachycardia",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "358",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=357&ans=1&caseid=358",
+    "clinical_history": "ECG from a 30-year old woman shows sinus rhythm and which ONE of the following?",
+    "diagnosis": "This ECG is entirely within normal limits. The rhythm is sinus at a rate of about 70 bpm. The basic intervals are as follows:  PR 0.13s; QRS duration 0.07s, and QT interval 0.38s--all within normal limits. The mean QRS axis is about +30 degrees. The P wave morphology and duration are normal. There is no evidence of left or right ventricular hypertrophy. R wave progression is normal in the chest leads and the T wave axis in the frontal and horizontal planes is normal. ST segments are normal. Note is made that a normal resting (or even exercise) ECG does not exclude underlying clinically important cardiac pathology or intermittent arrhythmias.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case358/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

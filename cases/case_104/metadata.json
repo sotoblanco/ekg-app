@@ -1,0 +1,21 @@
+{
+    "case_id": "104",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=103&ans=1&caseid=104",
+    "clinical_history": "33-year-old male with a systolic murmur.  What's the diagnosis?",
+    "diagnosis": "The patient has hypertrophic obstructive cardiomyopathy (HOCM; formerly IHSS).  The ECG is very suggestive with unusually prominent septal forces with tall R wave in V1 and deep Q waves in the antero-lateral leads (I, aVL, V3-6).  The classic systolic murmur of HOCM gets louder during the strain phase of the Valsalva maneuver and with standing, and softer with squatting.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case104/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Diverse disease",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

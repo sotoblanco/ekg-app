@@ -1,0 +1,21 @@
+{
+    "case_id": "145",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=144&ans=1&caseid=145",
+    "clinical_history": "What is the rhythm in this 66-year-old woman?",
+    "diagnosis": "Atrial fibrillation with a rapid ventricular response (about 150/min).  Non-specific ST-T changes are also noted.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case145/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

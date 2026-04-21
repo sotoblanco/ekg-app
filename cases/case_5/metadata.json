@@ -1,0 +1,24 @@
+{
+    "case_id": "5",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=4&ans=1&caseid=5",
+    "clinical_history": "85-year-old male without symptoms and on no pertinent cardiac medications. What is the rhythm here?",
+    "diagnosis": "The ECG  shows a very slow ventricular rate (about 32/min) with non-conducted sinus P waves alternating with normally conducted P waves. The sinus (P) wave rate is about 64. The conducted PR intervals are constant at about 200ms. It is not possible to identify with certainty the location of block (nodal vs. infranodal) from this single ECG showing 2:1 AV conduction. The site of block could be proximal (in the AV node) or more distal, in the His-Purkinje system, especially intra-Hisian in this case given the narrow QRS.  In general, with 2:1 block, involvement of the AV node is favored by a narrow QRS complex and a prolonged PR interval, or by the presence of intermittent AV Wenckebach. Block that is infranodal (in the His-Purkinje system) would be favored by a concomitant bundle branch block and/or  a PR interval of 160 ms or less. Possibly useful bedside diagnostic tests for locating the site of chronic 2:1 block (in the absence of active ischemia) would include autonomic interventions. Sympathetic stimulation (e.g. by mild exercise) should increase heart rate and improve conduction with a nodal location of block, but worsen conduction in infra-nodal block. Carotid sinus massage (if not contraindicated) would decrease heart rate and worsen AV conduction in the case of nodal block but might improve AV conduction in infra-nodal block. Pacemaker placement is indicated for symptomatic 2:1 block at any site without a reversible cause (e.g., drug effect, Lyme disease) and for asymptomatic 2:1 block due to infranodal disease. Intracardiac His bundle electrograms would definitively locate the site of block. This patient had intermittent 3:2 AV Wenckebach at other times, and then resumed 1:1 conduction on subsequent ECGs, consistent with AV node disease. The ECG also shows left atrial abnormality, borderline left axis deviation and LVH by voltage, along with non-specific ST-T changes. The LVH could be from systemic hypertension, but always raises concern about aortic stenosis.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case5/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "AV Block",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "2:1 Atrioventricular (AV) block",
+        "rate": "Ventricular rate 32 bpm, Atrial (P-wave) rate 64 bpm",
+        "axis": "Borderline left axis deviation",
+        "intervals": "PR: 200 ms, QRS: ~90 ms, QTc: ~321 ms",
+        "findings": "Non-conducted P waves alternating with conducted P waves (2:1 block), narrow QRS complex, Left Atrial Abnormality (LAA), Left Ventricular Hypertrophy (LVH) by voltage, and non-specific ST-T wave changes.",
+        "comparison": "Intermittent 3:2 AV Wenckebach and 1:1 conduction were observed on other recordings for this patient.",
+        "impression": "Asymptomatic 2:1 AV block (second-degree heart block), likely localized to the AV node given the narrow QRS and subsequent observation of Wenckebach."
+    }
+}

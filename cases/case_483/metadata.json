@@ -1,0 +1,22 @@
+{
+    "case_id": "483",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=482&ans=1&caseid=483",
+    "clinical_history": "ECG from an elderly man shows findings most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The ECG shows marked sinus bradycardia (46/min). The QT/QTc intervals are extremely prolonged, even given the very slow heart rate (556ms/531ms), using Hodges rate correction formula. The QRS duration and PR intervals are normal. There is borderline voltage for left ventricular hypertrophy (V1/V5; aVL) and probable left atrial abnormality (wide, notched P waves in some leads). ~~~~The very long QT here, with bradycardia, is most consistent with dofetilide and beta-blocker Rx among the choices given above. (The patient was transiently on both agents, which were promptly discontinued under monitoring to prevent torsades de pointes). The absence of J waves is against hypothermia. With hypocalcemia and LQTS-3, the ST phase of the QT is prolonged, especially in the latter syndrome. Here the T wave is broad, subtending the entire JT interval. Dofetilide blocks the one of the major currents responsible for the intracellular-to-extracellular movement of K ions during myocardial repolarization. Sotalol or amiodarone can produce similar looking ECGs to the ones seen, here.~~",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case483/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Long QT Syndrome",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

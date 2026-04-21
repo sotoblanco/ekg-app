@@ -1,0 +1,23 @@
+{
+    "case_id": "519",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=518&ans=1&caseid=519",
+    "clinical_history": "ECG from an elderly woman with \"cough\" shows underlying sinus rhythm with which ONE of the following causes of \"dropped\" beats?",
+    "diagnosis": "Sinus rhythm is present at a rate of about 85/min with intermittent non-conducted P waves. Left bundle branch block (LBBB) is present with borderline left axis deviation. (Low/borderline low voltage QRS complexes are noted in the limb and lateral chest leads.) The P waves come \"on time,\" ruling out non-conducted (blocked) PACs as well as SA exit block. The PR interval is within normal limits (about 160 msec) and is constant in all of the conducted beats. With AV Wenckebach, the PR interval after the non-conducted P wave is characteristically shorter than the PR preceding the non-conducted P wave. Mobitz II AV block is consistent with severe infra-nodal conduction disease, further supported by the presence of the LBBB here. This presentation of Mobitz II AV block, with a widened QRS and no reversible causes, even in the absence of overt cardiac symptoms of syncope or near syncope, is a Class I indication for implantation of a dual-chamber pacemaker due to high risk of sudden progression to complete AV block.~~~~",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case519/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Left Bundle Branch Block",
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

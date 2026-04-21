@@ -1,0 +1,21 @@
+{
+    "case_id": "199",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=198&ans=1&caseid=199",
+    "clinical_history": "What diagnostic study is most appropriate in this 60-year-old man with rest chest pain?",
+    "diagnosis": "c) A cardiac catheterization is warranted.  The ECG shows sinus rhythm with ventricular ectopy, left axis deviation, consistent with left anterior fascicular block (hemiblock), and T wave inversions in V2-V5 with subtle upward bowing of the ST segments.  There are also ST-T abnormalities in I and aVL.  The presence of symmetric T wave inversions, especially with upward bowing of the ST segments is highly suggestive of ischemia in the left anterior descending distribution (LAD) in this context.  (Hayden GE, et al. Am J Emerg Med 2002;20:252-262).  This finding is sometimes referred to as the \"LAD T wave pattern.\"  In this patient with a history suggesting unstable angina and these ECG changes, the most expeditious test to order is a cardiac catheterization, which showed significant LAD (and obtuse marginal) disease.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case199/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

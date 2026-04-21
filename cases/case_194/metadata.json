@@ -1,0 +1,23 @@
+{
+    "case_id": "194",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=193&ans=1&caseid=194",
+    "clinical_history": "A middle-aged woman with recent onset palpitations.  This arrhythmia is most consistent with which endocrine disorder?",
+    "diagnosis": "a) The rhythm is atrial fibrillation with a rapid ventricular response.  Left ventricular hypertrophy (LVH) by voltage is noted.  The patient was markedly hyperthyroid.  An estimated 5-15% of patients with hyperthyroidism (especially older ones) will develop atrial fibrillation.  Conversely, a low TSH level was reported in about 5% of patients with recent onset atrial fibrillation (or flutter) (Krahn AD, et al.  Arch Intern Med 1996:156:2221-2224).  Hypothyroidism as well as Addison's disease may be associated with low QRS voltage, non-specific ST-T changes, and sinus bradycardia.  Hyperparathyroidism may produce signs of hypercalcemia (short QT interval; see Case 67).  Cushing's disease may be associated with LVH (hypertension) and a long Q-T(U) (hypokalemia).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case194/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Hypokalemia",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

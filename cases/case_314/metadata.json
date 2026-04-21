@@ -1,0 +1,23 @@
+{
+    "case_id": "314",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=313&ans=1&caseid=314",
+    "clinical_history": "46 year-old man is found unconscious. What is the rhythm?",
+    "diagnosis": "This ECG shows a relatively regular, wide complex polymorphic ventricular tachycardia, rate 150 bpm, that is most likely a type of torsade(s) de pointes. See leads V4-V6 for classic \u0093turning of the points\u0094 morphology.  Intermittent ventricular fusion beats may be present. Causes of this life-threatening arrhythmia include a variety of drugs and specific electrolyte abnormalities (especially hypokalemia and hypomagnesemia) associated with long QT (U) intervals, as well as hereditary long QT syndromes due to \u0093channelopathies.\u0094   Admission laboratory testing revealed a serum potassium of 2.2 (normal range 3.5-5.3 mEq/L), sodium of 143 (range 135-148 mEq/L), bicarbonate of 16 (normal 21-30mEq/L), phosphate 1.0 (range 2.7-4.5 mg/dL) and magnesium 2.5 (range 1.6-2.6 mg/dL.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case314/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Ventricular Tachycardia",
+        "Hypokalemia",
+        "Long QT Syndrome"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

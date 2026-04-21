@@ -1,0 +1,22 @@
+{
+    "case_id": "239",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=238&ans=1&caseid=239",
+    "clinical_history": "A 67-year-old man is admitted to the hospital for a large abscess in his lower abdomen with surrounding cellulitis.  Which of the following statements about his admission ECG is (are) correct:",
+    "diagnosis": "d) a and c The rate is approximately 100 beats per minute upright P waves in lead II, fulfilling the criteria for sinus tachycardia. His tachycardia is likely related to pain and to his infection. The QRS axis is -15\u00b0, borderline left axis.  Frank left axis deviation is usually defined by an axis between -30\u00b0 and -90\u00b0. Finally, there is a complete right bundle branch block (RBBB). The criteria for complete RBBB include: 1. QRS duration of  0.12 second or greater 2. In V1, an rSR' complex with a wide terminal R wave 3. In V6, a qRS complex with a wide S wave Additional comments:RBBB may be seen in normal hearts but is usually associated with an underlying pathology. Conditions such as chronic obstructive pulmonary disease (COPD), pulmonary hypertension, atrial septal defect (ASD), or pulmonic stenosis may, in the long run, result in RBBB because of the hypertrophy that occurs in response to pressure or volume overloads.  The conduction systems of aging hearts may also undergo degenerative changes, causing RBBB in the absence of any other pathology. Occlusion of the left anterior descending artery (LAD), causing an acute anterior myocardial infarction, can also cause RBBB because the LAD typically supplies the proximal right bundle.  The lesions causing RBBB typically occur in the proximal right bundle, though they can also occur at the level of the moderator band and in the terminal portion of the right bundle.  Also note the T wave inversions in leads V1 and V2.  T wave inversions in leads with tall R\u00a2 waves are typical in RBBB and are called secondary changes. Since depolarization of the right ventricle is delayed with RBBB, repolarization is delayed as well.  This altered sequence changes the direction of the repolarization vector, resulting in T wave inversions in leads with terminal R waves. In contrast, primary T wave abnormalities reflect an intrinsic disturbance of the action potentials, which may occur with ischemia, electrolyte abnormalities, or drug toxicity.This patient had his abscess drained under anesthesia.  His cellulitis was treated with antibiotics and improved.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case239/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "case_id": "436",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=435&ans=1&caseid=436",
+    "clinical_history": "This ECG from a 78-year-old woman in critical condition shows all of the following EXCEPT?",
+    "diagnosis": "The ECG shows sinus tachycardia (P wave rate of 100/min) with Mobitz I AV block (3:2 and 2:1) in the context of an acute ST elevation inferior and possibly posterolateral MI. The effective ventricular (pulse rate) is about 66/min. The AV Wenckebach periodicity simulates atrial premature beats. Note the reciprocal ST segment depressions in leads I, aVL, V2 and V3, with a relatively tall R wave in V2 (the latter consistent with postero-lateral involvement) as well as incipient Q waves inferiorly. ST depressions in V4-V6 also raise strong consideration of lateral involvement. Borderline low limb lead QRS voltage is present. ST segment elevation in lead III >II (with ST depression in I) is consistent with total occlusion of a dominant right coronary (RCA) artery supplying the posterior descending artery (confirmed at angiography), as opposed to a dominant left circumflex occlusion. This large infarct was complicated by an acquired ventricular septal defect (VSD) due to the extensive myocardial necrosis.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case436/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "AV Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

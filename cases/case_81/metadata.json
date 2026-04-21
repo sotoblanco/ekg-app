@@ -1,0 +1,24 @@
+{
+    "case_id": "81",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=80&ans=1&caseid=81",
+    "clinical_history": "66-yr-old male: what evidence (subtle) is there that he has chronic renal failure?",
+    "diagnosis": "The tracing shows sinus rhythm with a prolonged PR interval, intraventricular conduction defect (IVCD), left atrial abnormality (LAA), probably underlying left ventricular hypertrophy (LVH) and probably underlying anteroseptal  myocardial infarction (MI).  Of note is the subtle T wave peaking in V5, with a slightly long QT (450 ms).  The former is consistent with hyperkalemia (5.9 mEq/L); the latter with possible hypocalcemia (level not available).  Sometimes hyperkalemia produces only subtle T wave peaking, without absolutely tall T waves, as is the case here.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case81/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Hyperkalemia",
+        "Long QT Syndrome",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

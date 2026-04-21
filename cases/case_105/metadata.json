@@ -1,0 +1,22 @@
+{
+    "case_id": "105",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=104&ans=1&caseid=105",
+    "clinical_history": "\"Couples therapy.\"  What's causing the group beating?",
+    "diagnosis": "Sinus rhythm with atrial bigeminy (this pattern starts after the 4th sinus beat).  In addition, there are voltage criteria for left ventricular hypertrophy (LVH), possible left atrial abnormality, and poor R-wave progression in V1-V3.  The latter finding could be due to LVH, underlying anterior myocardial infarction (MI), lead placement; or could be a physiologic variant.  The seventh QRS complex exhibits aberrancy, with a left anterior hemiblock morphology.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case105/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

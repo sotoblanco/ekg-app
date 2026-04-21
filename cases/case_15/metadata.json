@@ -1,0 +1,24 @@
+{
+    "case_id": "15",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=14&ans=1&caseid=15",
+    "clinical_history": "59-year-old female with sudden palpitations and lightheadedness. What is the rhythm?",
+    "diagnosis": "The ECG shows a dramatic example of atrial fibrillation with the Wolff-Parkinson-White (WPW) syndrome, with conduction down the bypass tract. This rhythm is for the most part a wide complex tachycardia with a rate of about 230 beats/min.  The differential diagnosis includes 1) ventricular tachycardia, 2) supraventricular tachycardia with aberrancy, and 3) WPW with conduction down the bypass tract. The major clues include the \"irregularly irregular\" rhythm and the extremely rapid rate. Ventricular tachycardia may be mildy irregular but this degree of irregularity would be unusual at this very fast rate.  The short refractory period of certain bypass tracts can allow extremely rapid heart rates, especially during atrial fibrillation.  A correct diagnosis is very important because drugs that slow AV conduction (verapamil, beta blockers, digoxin, adenosine) are not useful. Verapamil by vasodilation and reflex neuroautonomic changes may increase conduction down the bypass tract. The effects of digoxin are still controversial and this drug may shorten the refractory period of the bypass tract.  Call cardiac EP experts stat!  A drug of choice is IV procainamide and if this is unsuccessful, DC cardioversion should be performed promptly, if not otherwise contraindicated.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case15/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Atrial Fibrillation",
+        "Ventricular Tachycardia",
+        "Wolff-Parkinson-White",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "Atrial fibrillation with Wolff-Parkinson-White (WPW) syndrome",
+        "rate": "230 beats/min",
+        "axis": "N/A",
+        "intervals": "PR: N/A, QRS: Wide, QTc: N/A",
+        "findings": "Irregularly irregular, extremely rapid rate, wide complex tachycardia, conduction down bypass tract",
+        "comparison": "N/A",
+        "impression": "Atrial fibrillation with WPW syndrome; medical emergency requiring avoidance of AV nodal blockers and treatment with IV procainamide or DC cardioversion"
+    }
+}

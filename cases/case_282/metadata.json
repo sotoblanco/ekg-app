@@ -1,0 +1,21 @@
+{
+    "case_id": "282",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=281&ans=1&caseid=282",
+    "clinical_history": "This ECG is from an elderly woman and is most consistent with which one of the following severe abnormalities?",
+    "diagnosis": "This ECG shows an extremely wide complex rhythm (QRS duration 0.28 second) at a rate of 70 bpm. This pattern is approaching that of a so-called \u0093sine-wave\u0094 morphology indicative of severe hyperkalemia. Atrial activity is not apparent. The patient\u0092s serum potassium level done about \u00bd hr before was 6.8 mEq/L (and was likely higher at the time of this ECG).  She had end-stage renal disease with a BUN of 78 mg/dL and a serum creatinine of 5.2 mg/dL. Emergency therapy of hyperkalemia is required based on this ECG finding.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case282/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Hyperkalemia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

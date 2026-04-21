@@ -1,0 +1,23 @@
+{
+    "case_id": "49",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=48&ans=1&caseid=49",
+    "clinical_history": "78-yr-old man with complaint of paroxysmal nocturnal dyspnea (PND) and findings of increased jugular venous pressure, bi-basilar rales, a widely but physiologically split S2, a loud S3 gallop, and moderate pedal edema.. He has had the same appearing ECG for 5 yrs, with a history of hypertension and a \"large heart attack\" in the past. What are the major ECG findings? Cardiac enzyme biomarkers were negative. What did the echocardiogram likely show?",
+    "diagnosis": "ECG findings include sinus rhythm at 70/min with PR prolongation (\"first degree\" AV block), left atrial abnormality (LAA), left ventricular hypertrophy (LVH) and right branch bundle block (RBBB). Most important are pathologic Q waves V1-V5, I, aVL with persistent ST elevations in these leads. This is the classical ventricular aneurysm pattern, confirmed by echo here. Note: that there are many (!) different sets of proposed LVH criteria by ECG features. In this case, the diagnosis is made using a version of the Romhilt-Estes criteria, including an R wave of 30 mm or more in V6 and marked left atrial abnormality. Note that RBBB  decreases the sensitivity of criteria which rely on using an S wave in V1-V2. In addition, there are lateral ST-T changes that could be due to LVH, ischemia, etc. He did not have evidence of recurrent infarction, but of increased heart failure.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case49/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Right Bundle Branch Block",
+        "AV Block",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Normal Sinus Rhythm",
+        "rate": "70 bpm",
+        "axis": "Left Axis Deviation",
+        "intervals": "PR: 240 ms, QRS: 140 ms, QTc: 475 ms",
+        "findings": "First-degree AV block, Left Atrial Abnormality (LAA), Left Ventricular Hypertrophy (LVH), Right Bundle Branch Block (RBBB), Pathologic Q waves in leads V1-V5, I, and aVL, Persistent ST-segment elevation in anterior/lateral leads (V1-V5, I, aVL), Lateral ST-T wave changes.",
+        "comparison": "ECG stable for the past 5 years.",
+        "impression": "Left ventricular aneurysm pattern (persistent ST elevation after old extensive anterior myocardial infarction) and chronic heart failure."
+    }
+}

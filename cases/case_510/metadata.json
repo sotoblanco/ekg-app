@@ -1,0 +1,23 @@
+{
+    "case_id": "510",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=509&ans=1&caseid=510",
+    "clinical_history": "This ECG from a 74 year old man shows all of the following EXCEPT for which ONE of the following findings?",
+    "diagnosis": "The ECG shows marked sinus bradycardia at a rate of about 36 /min. Waveform findings are also consistent with left atrial abnormality (broad notched P waves, e.g. in V4; biphasic in V1 with broad negative component on magnified view); left ventricular hypertrophy (R wave of 13 mm in aVL) and borderline left axis deviation (about -20 degrees).The QRS duration is borderline prolonged (computerized measurement is 116 ms), but complete left bundle branch block is not present. The patient required a dual-chamber pacemaker for symptomatic sinus syndrome, with an underlying history of obstructive sleep apnea.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case510/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Left Bundle Branch Block",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

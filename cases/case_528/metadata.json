@@ -1,0 +1,22 @@
+{
+    "case_id": "528",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=527&ans=1&caseid=528",
+    "clinical_history": "75 year-old woman with history of dizziness. What is the rhythm?",
+    "diagnosis": "At first (and perhaps second) glance this ECG appears to show atrial fibrillation with a slow, regularized ventricular response at 50/min, suggesting complete heart block. But (!) more careful inspection reveals discrete, sinus P waves (upright in lead II) with a normal PR interval. (The broad, negative P waves in V1 are suggestive of left atrial abnormality.) The QRS interval is borderline wide (118 msec by computer assessment), consistent with an intraventricular conduction delay, and there is left axis deviation (-30 to -40 degrees). Slow r wave progression is noted in V1-V2 raising consideration of underlying anterior MI. Nonspecific ST-T changes are also present, raising consideration of lateral ischemia. The patient had a classic tremor due to Parkinson's disease to account for the pseudo-atrial fibrillatory oscillations. Subsequent stress testing did not show evidence of active ischemia. Transthoracic echocardiogram showed mild left ventricular dilation with preserved ejection fraction and left atrial enlargement. The patient had a history of hypertension.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case528/800x446.jpg",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

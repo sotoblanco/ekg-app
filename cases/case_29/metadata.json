@@ -1,0 +1,23 @@
+{
+    "case_id": "29",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=28&ans=1&caseid=29",
+    "clinical_history": "ECG from a 38-year-old man on the surgical service. What does this pre-admission ECG show?",
+    "diagnosis": "The ECG shows sinus rhythm with a subtle (very, very subtle if you missed it) Wolff-Parkinson-White (WPW) pattern.  Note shortish PR and delta wave, best seen in lead V4 (on zoomable PDF) as slurring of initial QRS, with tall R (positive delta wave) in V1, negative in aVL, compatable with lateral bypass tract.   What is the differential diagnosis of a tall R in V1/V2? You should consider: 1) normal variant, esp children, but also some adults, or lead (mis)-placement; 2) altered chest/mediastinal configuration with the heart in a more rightward orientation; 3) posterior myocardial infarction (MI) (inferior/lateral ischemia/MI usually also seen); 4) right ventricular hypertrophy (usually associated with rightward axis); 5) WPW with a posterior or lateral bypass tract; 6) right ventricular conduction abnormality; 7) hypertrophic cardiomyopathy (HCM) with or without obstruction; 8) Duchenne muscular dystrophy (due to postero-basal fibrosis). One way of testing hypothesis (not included here) that this pattern is WPW variant would be to increase vagal tone modulation, e.g., during Valsalva maneuver. Increased vagal tone should slow conduction down the AV node, accentuating contribution of bypass tract conduction, and making the WPW pattern more apparent.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case29/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Wolff-Parkinson-White",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Sinus rhythm",
+        "rate": "80 bpm",
+        "axis": "Normal axis",
+        "intervals": "PR: ~120 ms, QRS: ~110 ms, QTc: ~415 ms",
+        "findings": "Short PR interval; delta waves (slurred initial QRS deflection) visible in several leads, most prominently V4; tall R wave in V1; negative delta wave in aVL.",
+        "comparison": "N/A",
+        "impression": "Sinus rhythm with a Wolff-Parkinson-White (WPW) pattern, likely due to a left lateral bypass tract."
+    }
+}

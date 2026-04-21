@@ -1,0 +1,21 @@
+{
+    "case_id": "165",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=164&ans=1&caseid=165",
+    "clinical_history": "84-year-old woman with a history of high-grade heart block  has a [single-lead] ventricular pacemaker, and complains of  lightheadedness.  This representative ECG shows which of the  following?",
+    "diagnosis": "a) There is underlying sinus rhythm with left atrial  abnormality.  The first four beats are ventricular (V) paced with  a preceding non-conducted sinus P wave.  The fifth beat, with an  incomplete right bundle branch morphology, is probably conducted  with a long PR.  This beat is actually a pseudo-fusion beat with  a pacemaker spike superimposed.  The next beats are again fully  V paced with non-conducted P waves superimposed.   The symptom of lightheadedness here was due to a so-called  \"pacemaker syndrome,\" associated with ventricular pacing without  AV synchrony causing reduced cardiac output.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case165/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

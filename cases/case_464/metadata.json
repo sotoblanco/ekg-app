@@ -1,0 +1,22 @@
+{
+    "case_id": "464",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=463&ans=1&caseid=464",
+    "clinical_history": "A young adult presents to the emergency department with chest discomfort.  What is the most likely diagnosis based on this ECG?",
+    "diagnosis": "Sinus tachycardia is present at rate of about 105/min. Precordial voltage is prominent (non-specific in a young adult). The ECG shows classical findings for acute/evolving pericarditis with diffuse (i.e., leads I, II, aVL, V2-V6) concave upward ST segment elevations and concomitant discordant PR segment deviations, which are oriented upward in V1 and aVR (leads with ST depressions) and downward in leads that show ST elevations.  The ST elevations in pericarditis are due to a superficial ventricular current injury associated with the pericardial inflammation and the PR segment displacement has been attributed to a superficial epicardial or sub-epicardial atrial current of injury. Sinus tachycardia is a common finding due to pain and, less often, pericardial effusion/tamponade.  Associated myocarditis may contribute to the ST changes.  The ST segment elevations due to an acute myocardial infarction are usually in a regional lead distribution and reciprocal changes are often (but not always) present. The non-specific inferior T wave inversions are consistent with  changes due to pericarditis, which may evolve in an asynchronous fashion in different leads. Also note that the negative, but not biphasic or wide P wave in lead V1 is not a reliable sign of left atrial abnormality here. Finally, the rSr\u0092 complex in lead V1, with a normal QRS duration and axis, may be seen as a physiologic variant. No concomitant ST elevation is present to indicate a Brugada pattern.\r\nThe history revealed that the chest pain was pleuritic. Cardiac examination was remarkable for a pericardial friction rub. The transthoracic echocardiogram showed normal atrial and ventricular function and size, and normal estimated pulmonary artery systolic pressure. No wall motion abnormalities or pericardial effusion were present. Aortic root diameter was normal. Chest X-ray was unremarkable. Cardiac biomarkers were negative and SpO2 was normal.  See other examples of acute/evolving pericarditis on this site for further discussion of the ECG changes (e.g., cases 3, 60, 205, 207, 363). Also see: N Engl J Med 2004; 351:2195-2202, and N Engl J Med 2013; 369:1522-1528.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case464/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Pericarditis"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

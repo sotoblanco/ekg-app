@@ -1,0 +1,22 @@
+{
+    "case_id": "20",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=19&ans=1&caseid=20",
+    "clinical_history": "This ECG from a 58-yr-old man shows evidence of WHICH one of the following groups of diagnoses?",
+    "diagnosis": "The ECG reveals an acute (likely large) anteroseptal myocardial infarction (MI) in the setting of a (preexisting) right bundle branch block (RBBB). This is a dramatic example of the fact that ischemia and infarction can still be diagnosed, even in the setting of conduction abnormalities. The anterior precordial leads reveal a qR pattern (analagous to an RSR' with the R replaced by a pathologic Q), marked ST elevation, and upright T waves. This pattern is essentially pathognomonic for an acute infarction. Three points are worth making with regard to a RBBB: 1) Secondary T wave inversions are typically seen in the right precordial leads (only in those leads with a terminal R'). Upright T waves in such leads might indicate ischemia, etc. T wave inversions in leads with no terminal R' might also be ischemic. 2) ST elevations are not normally seen in RBBB.  3) Right precordial Q waves may be seen in RBBB without an infarct (especially in the setting of acute right ventricular overload), but if the Q waves extend past V2 or if they are slurred or wide, they suggest pathology.  Bottom Line:  Bundle branch block, especially RBBB does not render the ECG uninterpretable!!",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case20/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "N/A",
+        "rate": "N/A",
+        "axis": "N/A",
+        "intervals": "N/A",
+        "findings": "Right bundle branch block (RBBB), qR pattern in anterior precordial leads (pathologic Q replacing initial R), marked ST elevation, upright T waves in right precordial leads, pathologic Q waves extending past V2",
+        "comparison": "The right bundle branch block (RBBB) is noted as likely preexisting",
+        "impression": "Acute anteroseptal myocardial infarction (MI) in the setting of a preexisting right bundle branch block (RBBB)"
+    }
+}

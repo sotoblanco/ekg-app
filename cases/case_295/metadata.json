@@ -1,0 +1,24 @@
+{
+    "case_id": "295",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=294&ans=1&caseid=295",
+    "clinical_history": "What is the etiology of the wide QRS?",
+    "diagnosis": "This ECG shows both atrial and ventricular pacing. The atrial and ventricular spikes are clearly seen, i.e., in lead II before each P wave there is an atrial spike and before each QRS there is a ventricular spike at a rate of 60 bpm. All of the ventricular beats are of the left bundle branch block pattern (QRS duration of 0.18 second), with a prolonged QT interval of 0.50 second, possibly secondary to amiodarone therapy. (See Case # 158 for comparison.)  This patient had a history of atrial fibrillation and ventricular tachycardia for which he was started on amiodarone therapy and subsequentially developed a profound bradycardia for which a dual chamber pacemaker was implanted.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case295/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Ventricular Tachycardia",
+        "Left Bundle Branch Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

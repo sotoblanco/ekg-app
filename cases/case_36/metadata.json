@@ -1,0 +1,24 @@
+{
+    "case_id": "36",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=35&ans=1&caseid=36",
+    "clinical_history": "A 65-year-old man presents for evaluation of weakness. What should you do before calling the interventional cardiology team for what was called a \"hyperacute myocardial infarction\" pattern?",
+    "diagnosis": "Put the \"lytes\" on! This is classic hyperkalemia with tall peaked T waves, along with PR prolongation and probable underlying left ventricular hypertrophy (LVH). The patient has renal disease with hypertension. Note the QRS prolongation also seen with moderate-severe hyperkalemia. The serum potassium level was 9.6mEq/L. Important note:not all tall positive T waves are \"hyperacute.\"  The latter term should be reserved for increased T wave positivity secondary to transmural ischemia.  Major clues to hyperkalemia include narrowness (tenting) of T waves along with other findings noted above. Note also that LVH here is supported by extremely deep S waves in lead V2 and probable left atrial abnormality (broad P waves on magnified views). LVH in adults is usually but not always associated with a horizontal to leftward QRS axis. Here the axis is vertical (inferior) at about +80 degrees). The latter finding could (in absence of prior ECGs for comparison)  be due to physiologic factors, COPD, biventricular enlargement, partial left posterior fascicular block due to hyperkalemia, etc.  Also of interest (and for extra credit) are the PR segment elevations in lead aVR and the PR segment depressions most notable in the inferior-lateral leads. In this clinical context, these subtle findings (even without accompanying ST elevations) raise consideration of uremic pericarditis, which could be asymptomatic and not detectable by an audible friction rub. Emergency therapy would include intravenous administration of calcium gluconate and of insulin/glucose.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case36/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Pericarditis",
+        "Hyperkalemia",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Sinus rhythm with first-degree AV block",
+        "rate": "94 bpm",
+        "axis": "Vertical axis (+80 degrees)",
+        "intervals": "PR: 240 ms, QRS: 160 ms, QTc: 500 ms",
+        "findings": "Tall peaked (tented) T waves, PR and QRS prolongation, left ventricular hypertrophy (LVH) by voltage (deep S waves in V2), broad P waves (left atrial abnormality), PR segment depression in inferior-lateral leads with PR segment elevation in lead aVR.",
+        "comparison": "N/A",
+        "impression": "Severe hyperkalemia (Serum K+ 9.6 mEq/L) and suspected uremic pericarditis."
+    }
+}

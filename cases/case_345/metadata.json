@@ -1,0 +1,22 @@
+{
+    "case_id": "345",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=344&ans=1&caseid=345",
+    "clinical_history": "76 year old man with a history of chronic heart failure. What is the rhythm?",
+    "diagnosis": "This ECG shows underling atrial fibrillation (AF) with ventricular pacing at 45 beats per minute. The pacemaker is programmed in the VVI mode due to the underlying AF with a slow intrinsic ventricular rate.  The patient has a long history of coronary artery disease with congestive heart failure and chronic atrial fibrillation. The ST-T abnormalities are non-diagnostic in the presence of the paced ventricular rhythm (medications also included digoxin). The paced QRS complexes have the anticipated left bundle-branch block morphology due to the right ventricular site of pacing. (This case predated the era of biventricular pacing which is now employed in some cases of congestive heart failure where a pacemaker is needed.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case345/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

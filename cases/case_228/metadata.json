@@ -1,0 +1,25 @@
+{
+    "case_id": "228",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=227&ans=1&caseid=228",
+    "clinical_history": "What is this arrhythmia?",
+    "diagnosis": "c) This is a classic example of atrial fibrillation (AF) with a very rapid ventricular response (average about 170/min). The baseline shows the characteristic wriggly fibrillatory activity (not discrete P waves) and the ventricular response is highly irregular (\u0093irregularly irregular\u0094).  The absence of clearly defined P waves excludes sinus rhythm with premature atrial complexes (PACs) or multifocal atrial tachycardia (MAT.) There are also no consistent flutter (\u0093saw-tooth\u0094) waves and this degree of beat-to-beat irregularity with atrial flutter is rare. AV nodal reentrant tachycardia (AVNRT), a specific type of paroxysmal supraventricular tachycardia (PSVT), is usually highly regular. The initial therapy in patients with AF with a rapid ventricular response is directed at slowing the heart rate. This effect is usually accomplished by using drugs that slow impulse conduction through the AV node, such as calcium channel blockers (diltiazem, verapamil), beta-blockers, or digoxin, as well as by addressing underlying factors that enhance adrenergic tone (e.g., hyperthyroidism, fever, heart failure, etc). For a detailed discussion of diagnostic and therapeutic considerations in AF, see: http://www.acc.org/clinical/guidelines/atrial_fib/af_index.htm",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case228/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Ventricular Tachycardia",
+        "Supraventricular Tachycardia",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

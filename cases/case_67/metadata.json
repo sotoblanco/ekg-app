@@ -1,0 +1,21 @@
+{
+    "case_id": "67",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=66&ans=1&caseid=67",
+    "clinical_history": "35-yr-old: If you could only obtain one lab test what would it be?",
+    "diagnosis": "Classic (!) ECG for hypercalcemia (13.9 mg/dl here). Note the very abbreviated ST segment such that the T wave looks like it takes off directly from QRS in some leads. High take-off of ST segment in V2/V3 is also sometimes seen in this context. Hypocalcemia is just the opposite: prolonged QT due to long ST segment (corresponding to changes in action potential plateau phase duration).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case67/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Diverse disease",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

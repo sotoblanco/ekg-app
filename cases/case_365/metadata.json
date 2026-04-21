@@ -1,0 +1,22 @@
+{
+    "case_id": "365",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=364&ans=1&caseid=365",
+    "clinical_history": "39 year old-man with a very abnormal ECG. Which ONE of the following is present?",
+    "diagnosis": "This ECG shows the classic the Wolff-Parkinson-White (WPW) pre-excitation triad: short PR, wide QRS (140 msec) and delta waves. The polarity of the delta waves, negative in II, III and aVF, and positive in I and aVL, V2-V6 is consistent with a posterior bypass tract.  The patterns of WPW may be mistaken for bundle branch blocks, hypertrophy and infarction due to the anomalous ventricular activation. Of interest (extra credit here) is the finding of marked left atrial abnormality (see prominent biphasic P in lead V1). The patient also had severe chronic aortic insufficiency, giving left ventricular hypertrophy (superimposed on the WPW) and left atrial abnormality/enlargement.  For a more detailed explanation of WPW, see Case # 218 and others on this site.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case365/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Wolff-Parkinson-White",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

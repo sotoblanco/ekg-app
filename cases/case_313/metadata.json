@@ -1,0 +1,21 @@
+{
+    "case_id": "313",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=312&ans=1&caseid=313",
+    "clinical_history": "40 year-old man seen in the emergency ward with complaint of chest pain.  The ECG is most consistent with which one of the following diagnoses?",
+    "diagnosis": "The ECG shows sinus rhythm with slight J point and ST segment elevations most apparent in the mid-precordial leads consistent with the \u0093early repolarization\u0094 variant.  There is also very slight notching of the terminal QRS (V4) which is often seen in conjunction with this physiologic pattern. (For a detailed explanation and comparison see Case #130.)  Note: A normal ECG does not exclude myocardial ischemia. A detailed history and physical examination suggested non-cardiac pain. Relevant laboratory tests, including cardiac enzymes, were within the normal limits.  Diagnoses of gastroesophageal reflux disease (GERD) and musculo-skeletal pain were made.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case313/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

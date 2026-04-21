@@ -1,0 +1,27 @@
+{
+    "case_id": "274",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=273&ans=1&caseid=274",
+    "clinical_history": "78 year-old man with a history of \u0093heart attack\u0094 comes into the emergency department with complaints of palpitations and shortness of breath.  What is the wide-complex rhythm?\r\n\r\nNote: serum K+ was normal and he was not on any antiarrhythmic drugs.",
+    "diagnosis": "This ECG shows a very wide-complex (between 180-200 msec) tachycardia at a rate about 180 bpm with a right bundle branch (RBBB) morphology. The diagnosis of monomorphic ventricular tachycardia with a RBBB morphology is strongly supported by the following criteria: 1) Wide QRS (greater than 140 ms) in the absence of drugs or hyperkalemia (the QRS here is extremely wide); 2) wide monophasic R wave in lead V1 (or RS or QR complex in that lead); 3) QR complexes in the inferior leads with extreme axis deviation; 4) rS or QS waves in V6.\r\n\r\nA resting rate of 180 bpm excludes sinus tachycardia, especially in this age group. There is no evidence of atrial flutter or atrial tachycardia, and, as described, the QRS morphology here is strongly against aberrant supraventricular conduction. \r\n\r\nThis patient had a complicated cardiac history of coronary artery disease, status post bypass graft surgery and prior inferior infarction. He had recurrent ventricular tachycardia, likely originating the area of the prior inferior infarct.  An echocardiogram revealed showed a dilated left atrium and left ventricle, extensive thinning with an akinetic scar of the inferior base and moderately severe mitral regurgitation. Estimated left ventricular ejection fraction was 35%. Under conscious sedation the patient was converted to sinus rhythm with a 300-joule shock An automatic implantable cardioverter-defibrillator (ICD) was placed the following day.\r\n\r\nCompare this ECG with Case #270 showing monomorphic ventricular tachycardia with a left bundle branch block morphology and underlying myocardial infarction. Also, note that the QRS duration in lead II may appear to be normal, with the false appearance of a P wave at the end. However, if you draw lines down from the onset and end of the QRS in simultaneously acquired lead I, you will see that the QRS in lead II is actually close to 200 msec wide and that the terminal deflection is not a P wave, but part of the QRS.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case274/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Flutter",
+        "Ventricular Tachycardia",
+        "Hyperkalemia",
+        "Left Bundle Branch Block",
+        "Right Bundle Branch Block",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

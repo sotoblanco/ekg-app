@@ -1,0 +1,21 @@
+{
+    "case_id": "417",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=416&ans=1&caseid=417",
+    "clinical_history": "Elderly man with a history of \u0093heart disease.\u0094 What did the echocardiogram show?",
+    "diagnosis": "The ECG shows borderline resting sinus tachycardia (95/min). The constellation of low limb lead voltage, prominent precordial voltage and slow R wave progression (rS here in V4) has been reported as a relatively specific, but non-sensitive triad in dilated cardiomyopathy. The marked left atrial abnormality noted here (low amplitude but very broad P waves, with a prolonged negative phase in V1) are also consistent with this diagnosis. The QRS axis is borderline leftward. Non-specific ST-T changes are present.  Echocardiogram showed marked biventricular and biatrial dilation with severely reduced left ventricular (LV) ejection fraction and global LV dysfunction. The etiology of the cardiomyopathy was not certain, but possibly related to prior chemotherapy for Waldenstrom\u0092s macroglobulinemia. Cardiac amyloid (more likely to be associated with diffusely low voltage) was not seen on myocardial biopsy.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case417/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

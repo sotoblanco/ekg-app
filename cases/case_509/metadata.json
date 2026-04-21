@@ -1,0 +1,21 @@
+{
+    "case_id": "509",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=508&ans=1&caseid=509",
+    "clinical_history": "This ECG, from a middle-aged man, is most consistent with which ONE of the following major diagnoses?",
+    "diagnosis": "This remarkable ECG shows resting sinus tachycardia at about 100/min, with right axis deviation (+100 degrees) and normal intervals. Biphasic P waves in V1-V2 with broad negative components speak to left atrial abnormality, as does the biphasic P wave with a broad positive (leftward-oriented) component in lead aVL. The P waves are also relatively tall (at least 2mm; but not meeting the classic 2.5 mm threshold) in the limb leads raising consideration of right, and therefore, biatrial abnormality. (Echocardiogram showed biatrial enlargement.) Left ventricular hypertrophy/enlargement is likely given the very deep S waves in the right to mid-precordial leads (up to 24 mm). R wave progression is delayed. Non-specific ST-T changes are present; the J point/ST segment elevation in the right to mid-chest leads (with rS complexes) is consistent with early repolarization and with LVH.   The basis of the global cardiac chamber overload (which cannot be determined from the ECG alone) was multifactorial, occurring in the context of severe obstructive sleep apnea, with chronic heart failure and recurrent atrial tachyarrhythmias.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case509/800x400.gif",
+    "difficulty": 5,
+    "topics": [
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

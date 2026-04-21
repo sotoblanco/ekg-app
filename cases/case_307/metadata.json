@@ -1,0 +1,25 @@
+{
+    "case_id": "307",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=306&ans=1&caseid=307",
+    "clinical_history": "86 year-old man with history of hypertension and coronary artery disease, (status post coronary bypass surgery and angioplasty procedures) with recent exertional fatigue and dyspnea. The serum K+ was normal (note: there is some baseline artifact and a probable premature ventricular complex at the beginning of the recording). What is the rhythm?",
+    "diagnosis": "This ECG shows sinus rhythm (about 75/min) with predominant 2:1 AV block (one 3:2 conduction episode is seen on the rhythm strip) and a complete LBBB pattern. (The first beat, as noted, is probably at PVC.) The PR interval of the conducted beats is slightly prolonged (240 msec).  Left atrial abnormality is also present (confirmed by echocardiogram), consistent with underlying left ventricular hypertrophy.  The finding of 2:1 block with a wide QRS is consistent with, but not diagnostic of infranodal block.(The long PR interval may also relate in part to AV node disease.)  The patient was symptomatic (dyspnea, fatigue) and underwent dual chamber pacemaker implantation.  Wenckebach periodicity (marked by progressive PR prolongation followed by a nonconducted P wave and then a conducted PR interval shorter than the one immediately before the nonconducted P wave) is not seen. Evidence of left atrial abnormality (LAA) here (broad biphasic P wave in lead V1), along with LBBB, is strongly suggestive of underlying left ventricular hypertrophy (LVH) and consistent with the clinical history of hypertension.~~~~",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case307/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Left Bundle Branch Block",
+        "AV Block",
+        "Premature Ventricular Contractions",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

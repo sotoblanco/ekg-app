@@ -1,0 +1,24 @@
+{
+    "case_id": "454",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=453&ans=1&caseid=454",
+    "clinical_history": "Challenging ECG from a middle-age man who shortly thereafter developed atrial fibrillation, while taking COPD medications.  Which ONE of the following is most likely?",
+    "diagnosis": "The ECG shows a narrow (normal QRS duration) rhythm at a rate of about 70/min. Most of the beats (e.g., 1-5) are junctional in origin, with retrograde P waves (negative in lead II), apparent just after the QRS. In the 6th beat there is more retrograde AV delay, so the P wave appears at the end of the T wave (longer R-P interval). Following that beat, there is an upright P wave in lead II, partly merged with the QRS, most likely due to sinus rhythm with AV dissociation. The next beat is sinus in origin, followed by the resumption of the accelerated junctional rhythm.  The term \u0093accelerated\u0094 is applied here to contrast this type of junctional rhythm with classical junctional escape rhythms in which the rate is usually 60/min or less. Accelerated junctional rhythms may be seen in a variety of contexts. Usually they do not cause hemodynamic compromise, although right atrial contraction may occur against a closed tricuspid valve, causing cannon A waves, visible on exam of the neck. Digitalis toxicity is one of the most clinically important causes because more severe arrhythmias may ensue. However, the absence of digitalis effect (shortening of the QT interval with scooping of the ST-T) makes this unlikely. In this case, the rhythm was probably related to the sympathomimetic drugs the patient was taking for chronic obstructive pulmonary disease (COPD). Other reported contexts for accelerated junctional rhythms include recent cardiac surgery, hyperkalemia, acute myocardial infarction, and following AV node ablation procedures. The rhythm may also occur transiently in healthy individuals.  From an electrophysiologic viewpoint, these narrow complex rhythms originate above the bifurcation of the bundle of His, either in the His bundle itself, or in the vicinity of the AV node. They have been ascribed to increased automaticity of pacemaker tissue or to triggered activity (i.e., afterdepolarizations). Finally. the term \u0093non-paroxysmal junctional tachycardia\u0094 is sometimes used to describe accelerated junctional rhythms (rates 70-130/min). However, some authors balk at using  the term \u0093tachycardia\u0094 for rhythms with rates below 100/min.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case454/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Hyperkalemia",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

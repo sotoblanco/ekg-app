@@ -1,0 +1,25 @@
+{
+    "case_id": "73",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=72&ans=1&caseid=73",
+    "clinical_history": "86-yr-old man with slow pulse and fatigue. What is the atrial mechanism?  What is the likely AV relationship? What is pacing the ventricles?",
+    "diagnosis": "The underlying rhythm is atrial fibrillation (AF) with a very slow, regularized ventricular response (45/min). This finding is consistent with complete heart block (CHB) with a junctional escape mechanism.  However, slight variabilitiy is noted in the ventricular response and intermittent antegrade conduction cannot be excluded. The QRS complexes (120 msec) show an intraventricular conduction delay (IVCD) with left axis deviation (consistent with left anterior fascicular block) and probable left ventricular hypertrophy (LVH). In addition, there is Q-T(U) prolongation, with nonspecific ST-T changes.  Etiologic differential diagnosis includes intrinsic conduction disease, with the need to rule out drug toxicity or metabolic factors. The long QT here is against digitalis as sole factor (digitalis shortens the QT).  Hypokalemia (not a cause of bradycardia usually) or relevant drug effects, such as sotalol or amiodarone, should be excluded. Treatment: If no reversible cause(s) is found, the patient will likely require an implanted ventricular pacemaker, as well as anticoagulation for AF (even with a pacemaker).  Additional note: a commonly posed question is whether LVH can be diagnosed by voltage criteria alone in lead aVL in the presence of left axis deviation consistent with LAFB (-45 degrees or more negative). This issue is compounded by the fact that some of the widely used voltage criteria for LVH were derived in many cases before LAFB was defined and that the two may co-exist, which is likely what is occurring here. In favor in this case of LVH, not just LAFB, is the very tall R wave in aVL, the widened QRS at 120 msec, the ST-T changes and the atrial fibrillation (which may count as a kind of left atrial abnormality equivalent). Echocardiogram would provide more definite information about LVH wall thickness and mass.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case73/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Atrial Fibrillation",
+        "Hypokalemia",
+        "Long QT Syndrome",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

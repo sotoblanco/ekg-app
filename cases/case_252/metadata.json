@@ -1,0 +1,22 @@
+{
+    "case_id": "252",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=251&ans=1&caseid=252",
+    "clinical_history": "What is the rhythm in this 79-year-old woman with complaint of shortness of breath?",
+    "diagnosis": "The rhythm is atrial flutter/fibrillation with a rapid ventricular response rate of about 120 bpm with left axis deviation (LAD) and a borderline intraventricular conduction delay (QRS duration=0.11 second).  Slow R progression and non-specific ST-T changes are present.  There is no evidence of discrete P waves, either normal or ectopic, excluding sinus tachycardia or a type of atrial tachycardia. The baseline shows some artifact with atrial flutter/coarse atrial fibrillatory activity. The regularized response at the beginning is consistent with flutter and the more erratic response response later suggests intermittent atrial fibrillation. Not uncommonly, these two \"cousin\" atrial tachyarrhythmias alternate or co-exist, so the term flutter/fibrillation, or \"fib-flutter\" is used clinically.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case252/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

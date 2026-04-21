@@ -1,0 +1,23 @@
+{
+    "case_id": "513",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=512&ans=1&caseid=513",
+    "clinical_history": "This ECG obtained at rest from a 65 year old woman shows which ONE of the following rhythms? (Note the baseline artifact.)",
+    "diagnosis": "The ECG shows definite P waves, which at first glance may seem sinus in origin. However, more careful inspection reveals that there are actually two P waves/QRS, one partly hidden at the end of the QRS complexes. The atrial rate is regular at 160/min, too fast for resting sinus tachycardia in a person of this age, but fully consistent with (ectopic) atrial tachycardia,  The mean P wave vector is rightward in the frontal plane and directed toward the positive pole of  lead V1, consistent with a left atrial origin. The arrhythmia occurred in the context of a history of atrial fibrillation, with prior pulmonary vein isolation (PVI) procedures using ablation technology. At the time of repeat cardiac EP study, a macro-reentrant type mechanism was observed and the left atrial tachycardia was successfully ablated. The rate is too slow for classic atrial flutter.  Moreover, typical counterclockwise atrial flutter is usually associated with negative atrial waves in lead II and positive ones in V1; clockwise atrial flutter usually with the opposite. Here the P waves are positive in both leads V1 and II. (However, inferring the mechanism and exact locus of atrial tachyarrhythmias from the surface ECG lacks precision; thus intra-atrial verification prior to interventional therapy is needed.) The ECG also shows borderline low voltage, nonspecific ST-T changes and QS waves in V1-V2. The latter finding raises consideration of underlying anterior MI, but is not diagnostic. Note also that the P wave superimposed on the end of the QRS gives a \"pseudo-intraventricular conduction delay (IVCD)\" pattern.  Finally, atrial tachycardia may be sustained, as was the case here, or paroxysmal (\"PAT\"). Although atrial tachycardia with block may be caused by digitalis toxicity, most cases, including this one, are not.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case513/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Atrial Flutter"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

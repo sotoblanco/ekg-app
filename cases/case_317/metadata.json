@@ -1,0 +1,26 @@
+{
+    "case_id": "317",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=316&ans=1&caseid=317",
+    "clinical_history": "This ECG from an 85 year woman shows all of the following abnormalities EXCEPT which one?",
+    "diagnosis": "The ECG shows atrial flutter with a 4:1 conduction pattern (the flutter rate is about 240 cycles/min and the ventricular response about 60/min) with right bundle branch block, and left axis deviation consistent with left anterior fascicular block. The R wave of about 15 mm (1.5 mV) in aVL is consistent with underlying left ventricular hypertrophy, as is the sum of the R wave in aVL plus the S wave in V3 (> 20mm in women by Cornell criteria). There are also nonspecific ST-T changes in lead aVL and non-diagnostically slow R wave progression in V1-V4.  Mobitz II AV block is not present.  The patient had a history of sick sinus syndrome with the brady-tachy variant (atrial fibrillation and flutter) and had previously undergone dual chamber pacemaker implantation (no pacing activity evident here at these atrial/ventricular rates).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case317/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Right Bundle Branch Block",
+        "AV Block",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

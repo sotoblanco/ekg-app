@@ -1,0 +1,21 @@
+{
+    "case_id": "376",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=375&ans=1&caseid=376",
+    "clinical_history": "66 year old woman presents with chest pain. The ECG is consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The rhythm is sinus with ST elevations in leads II, III and aVF, along with (reciprocal) ST depressions in I and aVL. Note that ST elevations in this context are always primary and not reciprocal. ST depressions in V2 and V3, along with nonspecific repolarization abnormalities in the lateral precordial leads may indicate reciprocal change from posterior involvement and possibly associated lateral ischemia. At cardiac catheterization, she was found to have a near total (95%) mid right coronary artery (RVA) occlusion in a dominant right coronary vessel. A percutaneous coronary intervention was successfully performed.  Acute inferior STEMI is usually due to occlusion of the right coronary, and less frequently to occlusion of the left circumflex coronary. When the amplitude of ST elevation in lead III is greater than that in lead II, this finding strongly favors the right coronary, rather the circumflex, as the \u0093culprit\u0094 artery. ST elevation in right precordial leads (not seen here) favors a proximal RCA occlusion with right ventricular involvement. See also Zimetbaum PJ, Josephson ME. Use of the electrocardiogram in acute myocardial infarction. N Engl J Med 2003; 348:933.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case376/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

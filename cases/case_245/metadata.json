@@ -1,0 +1,22 @@
+{
+    "case_id": "245",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=244&ans=1&caseid=245",
+    "clinical_history": "What is the rhythm in this 19 year old female?",
+    "diagnosis": "This ECG shows an important physiologic finding called \u0093respiratory sinus arrhythmia\u0094 (RSA) associated with respiration. The rate of the sinus pacemaker progressively goes from slower to faster and back to relatively slower at the end of the strip. This variability is dependent on cyclic changes in vagal tone associated with the phases of respiration (see Case # 217). RSA is an important marker of intact cardiac autonomic (parasympathetic) function and is best seen in young healthy individuals. As one ages RSA declines as it does with pathologic conditions that impair neuroautonomic regulation, such as diabetes mellitus and congestive heart failure.\r\n\r\nNote that the PR intervals are constant which excludes AV Wenckebach. The P waves are also of the same, normal morphology and polarity, excluding wandering atrial pacemaker. There is no evidence for blocked atrial premature beats. Sino-atrial (SA) exit block is associated with either an abrupt drop in an entire P-QRS cycle or with more subtle \u0093group beating\u0094 due to SA Wenckebach. Neither pattern is present here.  SA exit block differs from RSA which shows a gradual increase and decrease in sinus P wave intervals (see Case # 221.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case245/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "case_id": "151",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=150&ans=1&caseid=151",
+    "clinical_history": "What would the patient's cardiac exam most likely show?",
+    "diagnosis": "c)  The ECG shows left bundle branch block (LBBB), a common cause of paradoxical splitting of S2 (i.e., splitting during expiration, becoming single during inspiration, the opposite of normal).  Right ventricular pacing is another common cause of this subtle finding, since it is associated with delayed left ventricular (LV) activation.  Other less common causes include aortic overflow obstruction (when A2 is preserved), Wolff-Parkinson-White (WPW) syndrome with right ventricular pre-excitation, and patent ductus arteriosus.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case151/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Left Bundle Branch Block",
+        "Wolff-Parkinson-White",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "431",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=430&ans=1&caseid=431",
+    "clinical_history": "This ECG from a 50 year old man shows findings consistent with all of the following EXCEPT for which one?",
+    "diagnosis": "The ECG shows sinus rhythm with baseline artifact. The QRS axis is vertical but not frankly rightward. The major findings are related to an acute/evolving anterior Q-wave/ST elevation MI. Inferior Q waves consistent with a prior MI in that distribution are present. Cardiac catheterization and coronary angiography showed evidence of a recently formed  thrombus in the proximal left anterior descending (LAD) vessel and an old occlusion of the right coronary artery. The patient underwent angioplasty and stenting of the LAD lesion. About one month later, a transthoracic echocardiogram showed overall LV systolic function to be moderately-to-severely depressed (estimated ejection fraction about 30 percent) associated with persistent severe hypokinesis of the interventricular septum and anterior free wall and akinesis of the apex.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case431/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

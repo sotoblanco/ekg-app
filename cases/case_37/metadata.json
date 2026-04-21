@@ -1,0 +1,21 @@
+{
+    "case_id": "37",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=36&ans=1&caseid=37",
+    "clinical_history": "A 67-year-old man. What is the QRS duration?  What is going on?",
+    "diagnosis": "The QRS duration is normal.  What may appear to be a wide QRS in leads V2-V6 is actually massive ST elevation due to acute transmural anterior ischemia/myocardial infarction (MI) here.  There is reciprocal inferior lead ST depression.  Q waves are starting to appear in the precordial leads.  This ST pattern, called \"tombstones\" in the earthy parlance of the housestaff, is more technically known as a \"monophasic current of injury.\"  This is also the pattern you see if you touch the epicardium of the heart with a needle (e.g. during pericardiocentesis).  Sometimes this pattern is mistaken for a bundle branch block. The left anterior descending (LAD) was occluded here and was opened with emergency catheterization and a \"precutaneous transluminal et (PTCA) procedure\" was the therapy of choice in this setting.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case37/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Sinus tachycardia",
+        "rate": "110 bpm",
+        "axis": "Left axis deviation",
+        "intervals": "PR: ~160 ms, QRS: Normal (< 120 ms), QTc: N/A (prolonged due to massive ST segment distortion)",
+        "findings": "Massive 'tombstone' ST-segment elevation in leads V2-V6, I, and aVL (monophasic current of injury); Reciprocal ST-segment depression in inferior leads II, III, and aVF; Early Q wave formation in precordial leads.",
+        "comparison": "N/A",
+        "impression": "Acute transmural anterior myocardial infarction (STEMI) due to left anterior descending (LAD) coronary artery occlusion."
+    }
+}

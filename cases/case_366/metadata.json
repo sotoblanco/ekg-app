@@ -1,0 +1,23 @@
+{
+    "case_id": "366",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=365&ans=1&caseid=366",
+    "clinical_history": "43 year-old man with idiopathic cardiomyopathy and an implantable cardioverter-defibrillator (IDC) is seen in the Emergency Department for shortness of breath, What is the rhythm?",
+    "diagnosis": "This ECG shows sinus rhythm at a rate of about 60, with a borderline intraventricular conduction delay (QRS =110 ms). Low amplitude P waves and mild QT prolongation (QTc=460 ms) are also present with a borderline left axis (about -15 degrees). Slow R wave progression with non-specific T wave flattening in the inferior leads and inverted T waves in leads V4-V6 are also present. Noisy fluctuations in the baseline are seen intermittently in all leads, most evident in the limb leads. This kind of artifact, which could be electronic in origin (or due to poor electrode contact, myopotentials, etc.) may simulate atrial flutter, atrial fibrillation or other atrial tachyarrhythmia. He did not have an atrial pacemaker. The fact that the underlying QRS cadence is regular and that true P waves can be seen in certain leads are major clues to the presence of artifact.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case366/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

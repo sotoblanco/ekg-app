@@ -1,0 +1,21 @@
+{
+    "case_id": "60",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=59&ans=1&caseid=60",
+    "clinical_history": "50-year-old man with pleuritic chest pain. What are two major considerations raised by the ECG?",
+    "diagnosis": "Acute pericarditis.  Rule out acute pulmonary embolism (PE). ECG shows classic signs of acute pericarditis with diffuse ST elevation (ventricular current of injury from associated epicarditis) and PR changes (up in aVR/down infero-laterally) from an atrial current of injury. Voltage is not low but heart rate is up. Echo here did not show more than trivial pericardial effusion and chest x-ray showed concomitant right lower lobe pneumonitis (uncertain etiology).  The S1Q3 pattern here also raises consideration of acute cor pulmonale and PE.  A V/Q scan did not suggest pulmonary emboli.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case60/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Pericarditis"
+    ],
+    "category": "Diverse disease",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

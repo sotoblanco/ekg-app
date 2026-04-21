@@ -1,0 +1,21 @@
+{
+    "case_id": "498",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=497&ans=1&caseid=498",
+    "clinical_history": "Middle-aged woman admitted to intensive care with mental status changes. ECG findings are most consistent with which ONE of the following syndromes?",
+    "diagnosis": "The ECG, with baseline artifact, shows borderline resting sinus tachycardia at about 100/min. Notable features include very prominent, diffuse T wave inversions, most apparent in the precordial leads, with marked ventricular repolarization prolongation (QT/QTc Hodges method = 440 ms/520 ms). In addition there is a relatively tall R wave in lead V1, but without right axis deviation, peaked P waves or T wave inversion in this lead (hence, against RV overload states). Posterior MI is not excluded but does not account for other findings. Diffuse ischemia due to imbalance in supply/demand mechanisms is also possible, as is takotsubo cardiomyopathy. Borderline low limb lead voltage is present, a non-diagnostic finding.  The constellation of major ECG findings here is fully consistent with the clinical scenario of a right pontine/midbrain/thalamic bleed. The mechanism of pronounced repolarization changes seen with so-called neurogenic T waves (\"CVA T-wave pattern\") is not definitively established, but likely relates to autonomic activation and to direct myocardial injury from catecholamine/stress response. This syndrome is most widely reported in hemorrhagic vs. thrombotic or embolic type cerebrovascular events. The relationship between takostubo cardiomyopathy and neurogenic stress cardiomyopathy is an ongoing area of interest. See, e.g., Ancona F et al. Takotsubo cardiomyopathy and neurogenic stunned myocardium: similar albeit different. Eur Heart J 2016; 37:2830-2.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case498/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

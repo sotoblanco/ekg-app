@@ -1,0 +1,22 @@
+{
+    "case_id": "450",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=449&ans=1&caseid=450",
+    "clinical_history": "Why does this 68 year old man have palpitations?",
+    "diagnosis": "The ECG shows atrial fibrillation (AF) with a rapid ventricular response at rest (average over 10 seconds of about 140/min and range of about 110-185/min). A single wide complex beat (probable premature ventricular complex) is present. Fibrillatory (f) waves are of low amplitude. The rapid ventricular response may give the false impression of regularity. Try measuring the distance between the first and third QRS complexes, then the second and fourth, and so on, to test the hypothesis that there is subtle, but definite irregularity in the ventricular response. Non-specific ST-T changes are present. The limb leads show borderline low QRS voltages (probably related to underlying emphysema).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case450/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Premature Ventricular Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

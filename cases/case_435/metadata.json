@@ -1,0 +1,25 @@
+{
+    "case_id": "435",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=434&ans=1&caseid=435",
+    "clinical_history": "The following ECG is from a elderly man with advanced coronary disease. What is the rhythm? (Also, at least four other abnormalities are present. Can you find them?)",
+    "diagnosis": "The rhythm is sinus (P wave rate about 75/min) with 3:2 AV Wenckebach (Mobitz I block), yielding an effective ventricular (pulse) rate of about 50/min. The group beating pattern (repeating QRS pairs) here is due to the Wenckebach conduction. The AV Wenckebach is consistent with block in the AV node (note also the long PR interval that initiates each sequence, further indicating prolonged proximal AV conduction, even after a pause). This finding could be due to intrinsic AV node disease and/or AV nodal blocking agents.  ~~~~Of note, the ECG shows a number of other major abnormalities including: right bundle branch block (RBBB) and right axis deviation, the latter raising consideration of left posterior fascicular block in this context. Together, these findings would constitute evidence of bifascicular block due to infra-nodal disease. The combination of left atrial abnormality and RBBB raise consideration of underlying left ventricular hypertrophy (LVH).  In addition, prominent inferior lead Q waves raise suggestion of previous inferior MI. The patient had undergone multi-vessel coronary bypass grafting with occlusion of all three major native coronary branches. Echocardiogram showed left atrial enlargement, LVH, overall preserved LV function with antero-apical hypokinesis. The patient developed more advanced AV block with symptoms and required dual chamber pacemaker insertion.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case435/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Bundle Branch Block",
+        "AV Block",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

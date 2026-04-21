@@ -1,0 +1,21 @@
+{
+    "case_id": "32",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=31&ans=1&caseid=32",
+    "clinical_history": "39-year-old man with acute dyspnea and \"muscle strain\" in left leg.",
+    "diagnosis": "The ECG shows sinus tachycardia with an indeterminate (not \"indeterminant\") axis and prominent T wave inversions in V1-V4 with delayed precordial transition zone (R=S in V6). The QT is at upper normal limits and there is an S wave in lead I with a minuscule R in III and aVF. P waves are peaked (well, almost) in II.  Obviously it doesn't take an Oslerian wizard to think of anterior ischemia when you see poor wave progression and T wave inversions.  But you should always think about acute right ventricular (RV) overload (\"strain\") due to pulmonary embolus, etc. That's what this patient with a history of deep vein thrombosis (DVT) had. Contrary to common wisdom, there is no diagnostic ECG in pulmonary embolus, but there are suggestive ones. Unfortunately, most of the time the ECG is non-specific; although, with a large PE, sinus tachycardia is usual.  Possible other findings include: T wave inversions in the right to mid chest leads; Poor R wave progression--due to acute RV dilation; the latter may also lead to S1Q3 pattern simulating inferior myocardial infarction (MI); P pulmonale; RV conduction delays; right axis shift.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case32/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Sinus tachycardia",
+        "rate": "120 bpm",
+        "axis": "Indeterminate axis",
+        "intervals": "PR: ~160 ms, QRS: ~90 ms, QTc: ~452 ms (upper normal limits)",
+        "findings": "Prominent T-wave inversions in V1-V4; delayed precordial transition zone (R=S in lead V6); prominent S-wave in lead I with minuscule R-waves in III and aVF; peaked P-waves in lead II (P-pulmonale); poor R-wave progression.",
+        "comparison": "N/A",
+        "impression": "Acute right ventricular (RV) strain pattern highly suggestive of pulmonary embolism (PE) in this clinical context."
+    }
+}

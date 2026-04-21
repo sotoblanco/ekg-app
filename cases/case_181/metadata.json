@@ -1,0 +1,23 @@
+{
+    "case_id": "181",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=180&ans=1&caseid=181",
+    "clinical_history": "Which ONE of the following abnormalities is not present in the following ECG?",
+    "diagnosis": "e) AV Wenckebach. The rhythm is sinus with premature atrial complexes (PAC's), accounting for the slight pauses. The biphasic P waves in lead V1 with broad negative component are indicative of left atrial abnormality. The Q waves in lead II, III and AVF are due to prior myocardial infarction with associated nonspecific ST-T abnormalities in the inferolateral leads. AV Wenckebach with progressive PR prolongation and non-conducted sinus P waves is not seen.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case181/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

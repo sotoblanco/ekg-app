@@ -1,0 +1,21 @@
+{
+    "case_id": "153",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=152&ans=1&caseid=153",
+    "clinical_history": "This ECG was obtained in a 71-year-old woman, who had just  undergone which of the following emergency operations?",
+    "diagnosis": "d)  ECG shows a constellation of findings consistent with acute cor pulmonale from massive pulmonary embolus (PE) including: sinus tachycardia; qR in V1; rightward to indeterminate axis; S1, S2, S3 pattern;  incomplete right bundle branch block (RBBB); ST depressions consistent with diffuse subendocardial  ischemia; and right atrial overload (P pulmonale).  Low voltage is a  non-specific post-operative finding here.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case153/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Right Bundle Branch Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

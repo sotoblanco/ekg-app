@@ -1,0 +1,21 @@
+{
+    "case_id": "377",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=376&ans=1&caseid=377",
+    "clinical_history": "44 year-old male with complaints of chest pain.  Which ONE of the following diagnoses best applies to the ECG?",
+    "diagnosis": "This ECG shows the classic Wolff-Parkinson-White (WPW) pre-excitation triad: short PR interval, wide QRS and delta waves. The latter are positive in the precordial leads and in leads II, III and aVF. The delta wave is predominantly negative in lead aVL and isoelectric in lead I. This delta wave vector orientation is most consistent with left lateral wall insertion of an atrioventricular bypass tract.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case377/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Wolff-Parkinson-White"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

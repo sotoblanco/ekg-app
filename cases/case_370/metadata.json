@@ -1,0 +1,22 @@
+{
+    "case_id": "370",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=369&ans=1&caseid=370",
+    "clinical_history": "48 year-old man with palpitations. What is the rhythm?",
+    "diagnosis": "This ECG shows atrial flutter (note F waves are negative in lead II and upright in V1/V2) with 2:1 AV conduction. The atrial (F wave) rate is ~232 cycles/min and the ventricular response rate ~116 bpm. The flutter morphology and axis are consistent with typical (\u0093isthmus-dependent\u0094) counterclockwise atrial flutter. There is a borderline intraventricular conduction defect (QRS duration 0.11 second) and non-specific ST-T wave changes.  This patient had a history chronic atrial fibrillation and was status post pulmonary vein isolation/ablation procedure but reverted back to atrial fibrillation and then to atrial flutter. The patient was on quinidine (type 1A agent) at the time of this ECG which likely accounts for the finding that the flutter (F) rate is somewhat slower than the usual 240-350 cycles/min).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case370/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

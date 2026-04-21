@@ -1,0 +1,22 @@
+{
+    "case_id": "251",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=250&ans=1&caseid=251",
+    "clinical_history": "Which one of the following statements about this ECG from a 24- year-old male is CORRECT?",
+    "diagnosis": "The ECG shows sinus rhythm with a physiologic sinus arrhythmia at an average rate of about 60 bpm and is completely within the normal limits. The basic intervals (PR interval 0.15 sec, QRS 0.09 sec, and QT 0.39 sec) are all within normal limits. The P wave duration and morphology are normal.  The precordial leads  show normal R wave progression with very slight ST segment elevations (V2-V6) consistent with normal variant early repolarization. The QRS axis is normal at about +60 degrees. There is no evidence of left or right ventricular hypertrophy.\r\n\r\nSevere hypokalemia generally causes repolarization (QT-U) prolongation (usually with flat T waves and sometimes ST sagging), often with prominent U waves.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case251/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Hypokalemia",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

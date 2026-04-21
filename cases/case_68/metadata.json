@@ -1,0 +1,24 @@
+{
+    "case_id": "68",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=67&ans=1&caseid=68",
+    "clinical_history": "74-yr-old woman. Why is she weak and lightheaded?",
+    "diagnosis": "ECG shows sinus rhythm at 75/min but with 2:1 AV block. There is also left atrial abnormality (LAA). Conducted QRS complexes show right bundle branch block (RBBB) with left axis deviation, most c/w left anterior fascicular block.  Minuscule R waves in II, III, aVF also raise question of prior inferior myocardial infarction (MI). The normal PR interval in conducted beats and the RBBB favor an infranodal location of block.  Aficionados may also note the ventriculophasic sinus arrhythmia (P-P interval with QRS in-between is shorter than P-P without intervening QRS due to vagal tone fluctuations).  Treatment: pacemaker.  Compare this case with #89, which shows sinus rhythm with atrial bigeminy and blocked atrial premature beats which might be mistaken for either sinus bradycardia or sinus rhythm with 2:1 AV block.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case68/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Bundle Branch Block",
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

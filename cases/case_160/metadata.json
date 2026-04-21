@@ -1,0 +1,21 @@
+{
+    "case_id": "160",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=159&ans=1&caseid=160",
+    "clinical_history": "(Note: The chest leads in this tracing are right precordial--V1R to V6R!)  The following ECG shows all of the following EXCEPT:",
+    "diagnosis": "a) The rhythm here is actually sinus at a rate of 94/min with 2:1 AV block and very (!) subtle non-conducted P waves hiding on the T waves. The ventricular (effectve pulse rate, thus, is 1/2 the sinus rate or 47 bpm. Look carefully in V1R and V2R, for instance. Of note, is also the acute inferior/RV infarct pattern which accounts for the 2:1 block, which almost certainly located in the AV node (Type 1 mechanism). AV conduction disturbances are not unusual in the setting of acute inferior right ventricular infarction. The ST depression in lead V1R (V2) suggests posterior involvement with reciprocal change in this anterior chest lead.  In addition there are reciprocal ST depressions in I and aVL with primary ST elevations in II, III and aVF.  The ST elevations in leads V4R to V6R indicate concomitant right ventricular ischemia/infarction.  Note that the ST-segment elevation in lead III is greater than in lead II, which in concert  with  the signs of acute right ventricular ischemia, suggests that the occlusion is in the right coronary artery rather than a left dominant circumflex vessel.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case160/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "AV Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

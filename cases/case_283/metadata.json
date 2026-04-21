@@ -1,0 +1,21 @@
+{
+    "case_id": "283",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=282&ans=1&caseid=283",
+    "clinical_history": "This ECG is most consistent with which of the following diagnoses?",
+    "diagnosis": "The rhythm is sinus with intermittent multifocal atrial rhythm/multifocal atrial tachycardia (MAT) at a rate of about 95 bpm. MAT is strictly defined by 3 or more consecutive, non-sinus P waves at a rapid rate.  If you look closely in leads 2 and 3, for example, there are, intermittently, multiple consecutive P wave morphologies somewhat marred by baseline artifact. Four other findings of note here are: low limb lead voltage, borderline right axis deviation of the QRS (+95 degrees), and a vertical P wave axis (about +80 degrees), with slow R wave progression V1-V3. This constellation of findings is very suggestive of chronic obstructive lung disease. (The P waves are also intermittently somewhat peaked, suggesting right atrial abnormality, another supportive finding in this context.)  Compare with Case # 149, another example of MAT with chronic obstructive lung disease.\r\n\r\nThis patient\u0091s pulmonary function studies revealed a marked obstructive ventilatory defect.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case283/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

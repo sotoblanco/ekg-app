@@ -1,0 +1,23 @@
+{
+    "case_id": "176",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=175&ans=1&caseid=176",
+    "clinical_history": "What AV conduction abnormality is present in this ECG showing  sinus rhythm with right bundle branch block and left atrial abnormality?",
+    "diagnosis": "c) The record begins with a long AV Wenckebach (type I block) sequence with 6:5 block, followed by 2:1 block, and then the onset of a longer sequence of progressively prolonging PR intervals. This pattern is characteristic of AV Wenckebach and not Mobitz II AV block or complete heart block. Note that some of the P waves are partly \"hidden\" in the T waves. The PR after the non-conducted P wave is considerably shorter than the one before, a hallmark of AV Wenckebach. The fact that the sinus P waves come \"on time\" excludes blocked premature atrial depolarizations. For an example of isorhythmic AV dissociation, please see Case # 243.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case176/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Right Bundle Branch Block",
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

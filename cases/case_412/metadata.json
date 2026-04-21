@@ -1,0 +1,26 @@
+{
+    "case_id": "412",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=411&ans=1&caseid=412",
+    "clinical_history": "A 64 year old man with a history of hypertension and atrial flutter is noted to have \u0093group beating\u0094 on his ECG.  What is the rhythm?",
+    "diagnosis": "The ECG shows sinus rhythm with atrial bigeminy (i.e., each sinus beat is coupled to a premature atrial complex). In addition there are findings of left atrial abnormality, left ventricular hypertrophy (LVH) and non-specific ST-T changes. Note that the P waves of the atrial premature complexes \u0093sit on\u0094 the T waves of the preceding sinus beats, giving the misleading appearance of Q-T(U) prolongation. Echocardiogram confirmed left atrial enlargement and symmetric LVH, consistent with hypertension. The echocardiogram also showed right atrial enlargement, which cannot be diagnosed from the ECG in this case.  Sinus rhythm with AV Wenckebach would require the consistent appearanc of sinus P waves with prolonging PR intervals, followed by a non-conducted P wave. This pattern is not seen here. SA Wenckebach is usually at slower rate and P waves should be identical. Here, the second P wave in each group is not only premature, but varies in morphology from the previous sinus. The QRS complexes of the premature beats are nearly identical with sinus conducted beats, further indicating supraventricular, not ventricular bigeminy. There is no evidence of atrial tachycardia here, although atrial bigeminy, particularly with atrial overload syndromes may be associated with increased risk of sustained atrial tachyarrhythmias such as atrial fibrillation, atrial flutter and atrial tachycardia.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case412/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "AV Block",
+        "Supraventricular Tachycardia",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "case_id": "78",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=77&ans=1&caseid=78",
+    "clinical_history": "This ECG is most consistent with:",
+    "diagnosis": "c) There is classic evidence of hyperkalemia with tall, narrow T waves, most evident in leads V3-V4, along with QRS prolongation (about 120 ms in V3). These \"tented T waves\" are different from the broader hyperacute T waves of acute MI (usually seen with at least slight ST elevation). The borderline low limb voltage is non-specific; although a pericardial syndrome is not excluded, diffuse ST elevations (due to pericarditis) or electrical alternans (a specific but not sensitive sign of tamponade when present with sinus tachycardia) are not seen. Myxedema is classically associated with sinus bradycardia and low voltage complexes (\"low and slow\"). The QTc interval here--0.45 sec--is borderline prolonged.  This may be due to the wide QRS, but also raises question of concomitant hypocalcemia in conjunction with hyperkalemia due to chronic renal failure. The precordial voltages (S in V3  plus R in aVL) meet the criterion for left ventricular hypertrophy (LVH) for women, and is borderline for men, by Cornell criteria (http://content.onlinejacc.org/article.aspx?articleid=1139534). LVH is commonly seen in chronic renal failure syndromes, due to associated hypertension.  Note also the slight ST elevations and subtle \"saddle back\" ST-T morphology in V2 which mimic a primary Brugada pattern. This finding, possibly related to altered sodium channel conductance, has been reported with hyperkalemia and the finding should be reversible with lowering of serum potassium.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case78/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Pericarditis",
+        "Hyperkalemia",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

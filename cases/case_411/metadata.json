@@ -1,0 +1,22 @@
+{
+    "case_id": "411",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=410&ans=1&caseid=411",
+    "clinical_history": "A young adult woman presents with a history of palpitations and has high grade ventricular arrhythmias. This ECG is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The ECG shows sinus rhythm with normal intervals and QRS axis. There is borderline low limb lead voltage. The QRS shows a narrow rSr morphology in V1 and V2, with T wave inversions in V1-V3/V4 and nonspecific inferior ST-T changes as well. The patient had ARVC, formerly called arrhythmogenic right ventricular dysplasia (ARVD), and required an implanted cardioverter-defibrillator for recurrent sustained ventricular tachycardia. A variety of ECG findings have been reported with ARVC including: T wave inversions V1-V3/V4 (present here), right ventricular conduction delays (narrow rSr only here), wide right precordial S waves (>55ms) in V1-V3, and epsilon waves in V1/V2 (very small amplitude high frequency waves in the ST segment of right precordial leads; not seen here). In addition, ventricular ectopy, especially with a left bundle branch block morphology, may be seen. For a review, see Jain R, et al. Circulation 2009;120: 477.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case411/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Ventricular Tachycardia",
+        "Left Bundle Branch Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

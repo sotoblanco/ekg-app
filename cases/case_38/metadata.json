@@ -1,0 +1,24 @@
+{
+    "case_id": "38",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=37&ans=1&caseid=38",
+    "clinical_history": "A 71-yr-old man has a routine ECG as part of yearly clinic visit. What major findings does this outpatient ECG show?",
+    "diagnosis": "The ECG appears to show sinus rhythm at  60/min with left bundle branch block (LBBB). In actuality, it shows sinus tachycardia at about 120/min with 2:1 AV block (hidden P waves in T waves, e.g. leads V2 and V3) and left bundle branch block (LBBB). This most likely is Type 2 (infranodal) block given its occurrence with sinus tachycardia and presence of LBBB.  The patient was referred for evaluation for a pacemaker. Remember the \"meet me halfway\" rule: always look halfway in between obvious P waves for hidden ones. A longer rhythm strip and recording under different physical activity (e.g., with a Holter monitor) might be very useful in this of case where there is ambiguity about wheter a hidden P wave is present with presumed underlying sinus rhythm. Note also that in presence of LBBB, the slow R wave progression is non-diagnostic and some degree of J point elevation is typically seen in right chest leads (i.e., with wide QS waves) in LBBB that may simulate ischemia. LBBB may both mask and mimic ischemia/MI.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case38/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Bundle Branch Block",
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Sinus tachycardia with 2:1 AV block",
+        "rate": "Atrial rate ~120 bpm, Ventricular rate ~60 bpm",
+        "axis": "Left axis deviation",
+        "intervals": "PR: ~180 ms (for conducted beats); QRS: ~160 ms; QTc: ~440 ms",
+        "findings": "2:1 atrioventricular (AV) block with hidden P waves in T waves; Left Bundle Branch Block (LBBB) characterized by wide QRS, QS pattern in V1-V3, and monophasic/notched R waves in I, aVL, and V6; secondary ST-T wave changes; J-point elevation in right precordial leads (common in LBBB).",
+        "comparison": "N/A",
+        "impression": "Sinus tachycardia with 2:1 AV block (likely Type II infranodal) and Left Bundle Branch Block (LBBB). Requires clinical evaluation for pacemaker implantation."
+    }
+}

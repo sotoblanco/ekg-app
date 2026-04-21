@@ -1,0 +1,21 @@
+{
+    "case_id": "211",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=210&ans=1&caseid=211",
+    "clinical_history": "Middle-aged female smoker with chest pain refractory to medication and an elevated serum cardiac troponin level.  These ECG findings are consistent with which of the following syndromes?",
+    "diagnosis": "e) All of the diagnoses listed are possible.  The patient underwent urgent cardiac catheterization which revealed diffuse severe coronary spasm (most marked in the left circumflex system) without any fixed obstructive lesions.  Severe left ventricular wall motion abnormalities were present involving the anterior and inferior segments. A question of so-called tako-tsubo cardiomyopathy (left ventricular apical ballooning syndrome is also raised (see Annals of Internal Medicine 2004: 141:858). The latter is most often reported in post-menopausal, middle-aged to elderly women in the context of acute emotional stress and may cause ST elevations acutely with subsequent T wave inversions.  A cocaine-induced cardiomyopathy (possibly related to coronary vasospasm) is a consideration, but was excluded here.  Myocarditis may also be associated with this type of ECG and the cardiomyopathic findings  here.  No fixed obstructive epicardial coronary lesions were detected by coronary arteriography.  The ECG findings include: low amplitude QRS complexes in the limb leads (with an indeterminate QRS axis), loss of normal precordial R wave progression (V1-V3), and prominent anterior/lateral T wave inversions.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case211/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Diverse disease",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

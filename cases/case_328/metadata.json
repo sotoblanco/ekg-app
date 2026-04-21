@@ -1,0 +1,23 @@
+{
+    "case_id": "328",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=327&ans=1&caseid=328",
+    "clinical_history": "This ECG from a 29 year old cyanotic woman without prior cardiac surgery is most consistent with which one of the following diagnoses?",
+    "diagnosis": "This ECG shows borderline sinus tachycardia at a rate of about 100 bpm. Of particular note are the very prominent, tall P waves which are actually of greater amplitude than the QRS complexes in leads V1-V3. The QRS complexes show a right ventricular conduction delay (rSr' in lead V1) with marked right axis deviation. Slow initial R wave progression is present in leads V1-V3. In addition, there are nonspecific ST-T abnormalities.  Ebstein\u0092s anomaly is a rare form of congenital heart disease that usually presents in infancy/childhood and more rarely adulthood with cyanosis, heart failure symptoms and supraventricular tachyarrhythmias. Developmental abnormalities result in malformation and malpositioning of the tricuspid valve with apical displacement of the posterior and septal leaflets. This pathoanatomy results in \u0093atrialization\u0094 of part of the right ventricle, which is small and sometime hypoplastic. Tricuspid regurgitation contributes to marked right atrial overload.  Multiple other congenital cardiac defects are often found in Ebstein\u0092s anomaly including atrial septal defects or patent foramen ovale, pulmonic stenosis, ventricular septal defects, patent ductus arteriosus, tetralogy of Fallot, and congenitally corrected transposition of the great arteries. Two ECG hallmarks of classic Ebstein\u0092s anomaly include giant (\u0093Himalayan\u0094) P waves and a right ventricular conduction delay (the latter often suggesting a \u0093second\u0094 QRS following the initial depolarization). A Wolff-Parkinson-White pattern associated with preexcitation of the right ventricle may be present (see http://www.cmaj.ca/cgi/content/full/172/12/1553 for a nice example and see:J Cardiovasc Electrophysiol 2006; 17: 1332\u00961336 for a comprehensive series).  Ostium primum atrial septal defects are typically associated with left axis deviation (often with right ventricular conduction delays). Ventricular septal defect with Eisenmenger syndrome or preoperative tetralogy of Fallot are most likely to be associated with classic signs of right ventricular pressure overload (tall right precordial R waves and marked right axis deviation). Pulmonic stenosis by itself does not produce cyanosis and would also be associated with ECG findings of typical pressure-load right ventricular hypertrophy.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case328/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Wolff-Parkinson-White",
+        "Supraventricular Tachycardia",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

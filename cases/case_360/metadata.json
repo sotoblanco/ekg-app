@@ -1,0 +1,24 @@
+{
+    "case_id": "360",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=359&ans=1&caseid=360",
+    "clinical_history": "30 year-old woman with an intermittently irregular pulse and no other symptoms or cardiac history. This ECG showing underlying sinus rhythm is most consistent with which ONE of the following additional diagnoses to account for the non-conducted P waves?",
+    "diagnosis": "The ECG shows sinus rhythm at about 80min. The P waves are slightly peaked but not are diagnostic of right atrial overload. The 5th and 6th beats comprise a premature couplet with an aberrant morphology, followed by 2 sinus beats and then a single non-conducted P wave. The PR intervals of the conducted P waves are constant, ruling out classical AV Wenckebach. (SA exit block does not cause non-conducted P waves.) The non-conducted P wave also comes \u0093on time,\u0094 excluding a premature atrial beat and there is no preceding sinus slowing.  The diagnosis of Mobitz II block is suggested by the abrupt non-conducted P wave. However, its occurrence in the context of a narrow QRS complex and the preceding manifest premature beats is strongly suggestive of a concealed His/junctional extrasystole mechanism causing pseudo-AV block.  The patient underwent 24 hr Holter monitoring which showed underlying sinus rhythm with frequent supraventricular and ventricular premature beats, one ventricular couplet and no ventricular tachycardia or AV Wenckebach. Frequent non-conducted P waves were noted with a narrow QRS, again supporting a concealed His/junctional extrasystole-type mechanism rather than true Mobitz II (infranodal) AV block. For a superb, critical review of AV block and its variants and simulators, see: Barold SS and Hayes DL, Mayo Clin Proc 2001; 76:44-57.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case360/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Ventricular Tachycardia",
+        "AV Block",
+        "Supraventricular Tachycardia",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

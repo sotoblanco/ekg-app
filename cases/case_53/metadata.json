@@ -1,0 +1,21 @@
+{
+    "case_id": "53",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=52&ans=1&caseid=53",
+    "clinical_history": "71-year-old woman whom you see on a consult service.  To which unit are you likely heading",
+    "diagnosis": "Pulmonary. The ECG shows sinus tachycardia (about 100/min) at rest with peaked P waves (at least 2.5 mm in amplitude) in lead 2 (\"P pulmonale\" pattern) and an inferior-rightward P wave axis (about +80 degrees; note the negative P waves in lead aVL). However, the QRS limb lead voltage is only relatively, but not absolutely low, and slow R wave progression is not seen. The QRS axis is about +45-50 degrees, whiich is within normal limits.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case53/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "Sinus tachycardia",
+        "rate": "100 bpm",
+        "axis": "Normal QRS axis (+45-50 degrees); inferior-rightward P-wave axis (+80 degrees)",
+        "intervals": "PR: ~160 ms, QRS: ~80 ms, QTc: ~390 ms",
+        "findings": "Peaked P waves (at least 2.5 mm in amplitude) in lead II (P pulmonale pattern); negative P waves in lead aVL; relatively low (but not absolutely low) QRS limb lead voltage; normal R-wave progression.",
+        "comparison": "N/A",
+        "impression": "Sinus tachycardia with P pulmonale, highly suggestive of chronic pulmonary disease (e.g., COPD or emphysema)."
+    }
+}

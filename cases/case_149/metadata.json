@@ -1,0 +1,21 @@
+{
+    "case_id": "149",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=148&ans=1&caseid=149",
+    "clinical_history": "What is this rhythm?",
+    "diagnosis": "e)  Three or more consecutive ectopic (non-sinus) P waves are present at a rapid rate.  The patient had an exacerbation of severe chronic obstructive pulmonary disease (COPD), a common substrate in patients with multifocal atrial tachycardia (MAT).  In contrast, wandering atrial pacemaker (WAP) is a slower rhythm, usually with more gradual change in P waves.  (Note that some of the ectopic P waves are non-conducted.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case149/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "case_id": "326",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=325&ans=1&caseid=326",
+    "clinical_history": "Very elderly woman brought to the emergency department by her family for evaluation of a recent fall with complaints of fatigue and weakness. She was noted to have a very slow pulse. What is the rhythm?",
+    "diagnosis": "This ECG shows sinus rhythm at rate about 90/min (P wave rate) with complete heart block and a wide (QRS 160 milliseconds) complex escape mechanism at rate of about 36 bpm with a right bundle branch block/left axis deviation morphology. There is no relationship between the sinus P waves and the much slower QRS complexes. Prominent biphasic P waves in lead V1 are consistent with left atrial abnormality. Left ventricular hypertrophy (very prominent R in aVL) and slow initial R wave progression are also present, with non-diagnostic T wave inversions. Marked QT interval prolongation (QTc 600 milliseconds) is present.  The patient was admitted and a permanent dual-chamber pacemaker was implanted. Patients with complete heart block may have syncope (Stokes-Adams syndrome) from marked bradycardia alone or from transient episodes of torsade de pointes ventricular tachycardia in the setting of long QT syndrome that is sometimes associated with the bradycardia.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case326/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Ventricular Tachycardia",
+        "Long QT Syndrome",
+        "Right Bundle Branch Block",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

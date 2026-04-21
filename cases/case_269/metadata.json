@@ -1,0 +1,22 @@
+{
+    "case_id": "269",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=268&ans=1&caseid=269",
+    "clinical_history": "27 year-old female with variable pulse. What is the rhythm?",
+    "diagnosis": "This ECG shows a physiologic sinus arrhythmia, a normal variant, associated with respiration and, therefore, termed as respiratory sinus arrhythmia (RSA). This finding is most apparent in young healthy individuals and decreases or disappears with aging and autonomic dysfunction. The rate of the sinus pacemaker increases (starting the 3rd beat with inspiration and decreases starting the 6th beat with expiration). This variability is associated with cyclic changes in vagal tone occurring during the phases of respiration. For a more detailed explanation see Cases # 217 and 245.\r\n\r\nEctopic atrial rhythm and blocked premature atrial complexes are excluded as the P wave has a normal axis and is not premature. SA exit block (see Case # 221) would not produce the graduated fluctuations in sinus rates seen here. There are no non-conducted sinus P waves as part of AV Wenckebach type second degree AV block.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case269/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

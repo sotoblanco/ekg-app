@@ -1,0 +1,23 @@
+{
+    "case_id": "517",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=516&ans=1&caseid=517",
+    "clinical_history": "ECG from a 40-year old man with palpitations and weakness, in the context of complex medical problems, including a toxic shock-type syndrome. Which ONE of the following arrhythmias is present?",
+    "diagnosis": "A narrow complex tachycardia is present with a very rapid ventricular rate (mean about 168/min). The cadence is irregular with the QRS rate varying from about 150 to 190/min over 10 seconds. Baseline artifact is present; but in V1 the characteristic \"squiggly\" pattern of atrial fibrillation is seen. Occasionally the low amplitude fibrillatory waves are more prominent and may be mistaken for true P waves. The R-R intervals are constantly varying, but at this fast a rate \"pseudo-regularization\" may cause confusion. For example, consider that the difference between 9 and 10 small (40 ms box widths) between R-R intervals represents instantaneous rates of 166 and 150/min, respectively. Sinus tachycardia at this rate (usually achieved only transiently with vigorous exercise) is usually quite regular; no sinus P waves are seen. AVNRT is among the most metronically regular rhythms. No atrial flutter waves are seen.  Non-specific ST-T changes are present in the inferior leads, with a non-diagnostic Q in lead III. No evidence of acute myocardial infarction was observed.  Variability in QRS amplitude is noted, which is not uncommon with AF. This variability may be due to respiration, subtle variations in conduction, etc. The patient underwent successful DC cardioversion.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case517/800x385.png",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Atrial Flutter"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

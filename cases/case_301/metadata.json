@@ -1,0 +1,24 @@
+{
+    "case_id": "301",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=300&ans=1&caseid=301",
+    "clinical_history": "This ECG is consistent with which of the following markedly abnormal laboratory findings?",
+    "diagnosis": "This ECG shows sinus bradycardia (52 bpm) with T wave flattening and very prominent U waves, best seen in leads V2-V3, most consistent with severe hypokalemia and/or certain types of drug effect/toxicity. The patient had marked hypokalemia.  A low TSH with an elevated T4 level would be consistent with severe hyperthyroidism, which is associated with resting sinus tachycardia (or atrial fibrillation). Digoxin toxicity may be associated with sinus bradycardia but the QT interval would be relatively short. Hyponatremia and hyperchloremia are not associated with specific ECG findings.  A long QT-U syndrome, hereditary or acquired, as present here, is the key ECG marker of risk for syncope or sudden cardiac death due to torsade(s) de pointes type ventricular tachycardia.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case301/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Ventricular Tachycardia",
+        "Hypokalemia",
+        "Long QT Syndrome"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

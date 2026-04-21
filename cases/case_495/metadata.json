@@ -1,0 +1,21 @@
+{
+    "case_id": "495",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=494&ans=1&caseid=495",
+    "clinical_history": "Elderly man with a previously functional electronic pacemaker. What is the rhythm at present?",
+    "diagnosis": "The ECG shows a narrow (QRS) complex, very regular bradycardia at about 40/min, indicating pacemaker malfunction. The atria are fibrillating, not in flutter; the latter produces an unchanging atrial pattern from one section to next. The diffuse T wave inversions (but not in leads I and aVL) are consistent with \"T wave memory\" from intermittent RV pacing. (See, e.g., Shvilkin A et al. Circulation. 2005;111:969-74.) His paced ECGs showed positive QRS morphologies in aVL and I and negative QRS complexes in V1-V6, consistent with the polarity of the post-pacing (memory) T waves, which tends to be concordant with vector of the QRS during prior pacing.  The limb leads show non-specifically low voltage.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case495/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

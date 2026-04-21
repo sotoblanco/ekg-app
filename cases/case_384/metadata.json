@@ -1,0 +1,21 @@
+{
+    "case_id": "384",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=383&ans=1&caseid=384",
+    "clinical_history": "Abnormal ECG in a middle-aged, acyanotic woman. The findings are most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The ECG shows sinus rhythm with classic findings of severe right ventricular hypertrophy (RVH) consistent with a sustained pressure load. Note the combination of a tall R wave in V1 with marked right axis deviation (normal QRS duration), along with tall peaked P waves due to right atrial overload. This triad is specific for marked right ventricular hypertrophy due to a pressure load with either severe pulmonary artery hypertension or pulmonic stenosis. Note also the delayed precordial transition zone and terminal S waves in the left chest leads as part of this pattern. There are non-specific ST-T abnormalities with slight T wave inversions in the right chest leads consistent with right ventricular overload in this context. Note that the P wave is quite negative in V1\u0097this finding simulates left atrial abnormality and has to do with the exploring electrode being placed over a large right atrium that is depolarizing away from the positive pole of that lead. The narrowness of the P waves in the limb leads supports this contention.  The patient had recurrent pulmonary emboli. Similar findings might be seen with pulmonary hypertension and RVH from other causes, including Eisenmenger\u0092s syndrome, primary pulmonary hypertension, or end-stage pulmonary restrictive lung disease.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case384/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

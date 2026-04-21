@@ -1,0 +1,24 @@
+{
+    "case_id": "195",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=194&ans=1&caseid=195",
+    "clinical_history": "The following ECG from a middle-aged man with congestive heart failure is most consistent with which diagnosis?",
+    "diagnosis": "b) The ECG shows evidence of severe left ventricular hypertrophy (LVH) with prominent precordial voltage, left atrial abnormality, lateral ST-T abnormalities and a somewhat leftward QRS axis (-15 degrees).  The patient had malignant hypertension with congestive heart failure (CHF), accounting also for the sinus tachycardia (blood pressure initially 280/180 mmHg).  Recurrent pulmonary emboli may lead to pulmonary hypertension and right ventricular hypertrophy (RVH). Mitral stenosis leads to left atrial abnormality (or atrial fibrillation) with signs of RVH.  Severe chronic obstructive pulmonary disease (COPD) is often associated with low voltage QRS complexes, slow R wave progression and a vertical or rightward QRS axis, as well as right atrial overload.  The ST-T changes here are nonspecific and could be due to LVH alone, coronary disease, etc.  However, the ECG is not consistent with extensive inferolateral myocardial infarction (MI) per se.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case195/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Left Ventricular Hypertrophy",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

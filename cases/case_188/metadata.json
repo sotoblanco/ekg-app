@@ -1,0 +1,22 @@
+{
+    "case_id": "188",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=187&ans=1&caseid=188",
+    "clinical_history": "The ECG shows which ONE of the following diagnoses?",
+    "diagnosis": "c)  The ECG shows typical atrial flutter waves. The ventricular response is not highly irregular as in atrial fibrillation, but is also not strictly regular.  The rate here has a definite pattern; the conduction pattern is not consistently 3:1 or 4:1, but rather more variable.  Parkinsonian tremor may simulate atrial flutter or fibrillation. In such cases the underlying rhythm is usually recognizable upon close inspection.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case188/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

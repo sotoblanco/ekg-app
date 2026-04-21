@@ -1,0 +1,24 @@
+{
+    "case_id": "41",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=40&ans=1&caseid=41",
+    "clinical_history": "69-yr-old female with a long history of \"heart murmurs\" since teenage years. 1) What single valve was most likely replaced? 2) What is the rhythm? 3) What questions are raised by the ventricular repolarization waveform?",
+    "diagnosis": "1) The patient had undergone mitral valve replacement. The ECG here is suggestive, but not diagnostic of biventricular hypertrophy, with a borderline left ventricular hypertrophy (LVH) type pattern in the precordial leads, but with a vertical (albeit not frankly right) axis of about +80 degrees. This combination, especially in adults, (prominent precordial voltage due to presumptive LVH) with an inferior/rightward, (not leftward) axis may occur with rheumatic heart disease with mitral regurgitation/mitral stenosis. Finding of left atrial abnormality or atrial fibrillation may be present. 2) Here, the rhythm is junctional, evidenced by retrograde P waves (negative in II; positive in aVR) with a relatively long RP interval  and with single ventricular premature beat. 3) Also of note is the long repolarization interval with prominent U waves, raising the question of drug effect/toxicity or hypokalemia in an older adult in whom congenital long QT is less likely. The patient was on a phenothiazine-type agent. The patient was also on low dose digoxin, which in concert with the LVH, may account for the lateral ST depressions in the absence of ischemia.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case41/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Atrial Fibrillation",
+        "Hypokalemia",
+        "Long QT Syndrome",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "Junctional rhythm with retrograde P waves (long RP interval) and a single ventricular premature beat.",
+        "rate": "54 bpm",
+        "axis": "+80 degrees (vertical axis)",
+        "intervals": "QRS: ~80ms; QTc: prolonged (estimated ~480ms); long repolarization interval with prominent U waves.",
+        "findings": "Borderline LVH by precordial voltage; vertical axis suggesting biventricular hypertrophy (typical for mitral valve disease); lateral ST-segment depressions (likely digoxin effect/LVH strain); prominent U waves.",
+        "comparison": "N/A",
+        "impression": "Junctional rhythm with prolonged repolarization and evidence of biventricular hypertrophy, likely related to rheumatic mitral valve disease and medication effects (digoxin, phenothiazine)."
+    }
+}

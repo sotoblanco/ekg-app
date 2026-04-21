@@ -1,0 +1,21 @@
+{
+    "case_id": "522",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=521&ans=1&caseid=522",
+    "clinical_history": "Middle-aged woman with severe, progressive dyspnea. This ECG, which is unchanged over several months, is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "This ECG, which has been unchanged over several months, is most consistent with a severe right heart overload syndrome, evidenced by resting sinus tachycardia, peaked (tall, narrow) P waves in multiple leads (inferior, V1, etc) consistent with right atrial overload (abnormality), right axis deviation (about +95 degrees), and T wave inversions in V1 and V2, consistent with RV overload (\"strain\") in this context. In addition, there is relatively low voltage in the limb and lateral precordial leads. R wave transition is somewhat delayed, with terminal S waves laterally and relatively prominent R waves in V1-V2. The primary underlying cause was severe pulmonary hypertension due to pulmonary fibrosis from chronic obstructive pulmonary disease (COPD). While anterior ischemia cannot be excluded (as with Wellens' or takotsubo syndromes), the chronicity of the findings and the constellation of ECG abnormalities, make right heart overload the leading diagnosis, as confirmed by transthoracic echocardiogram. Cardiac enzyme biomarkers were negative. (Mitral valve stenosis will cause RV overload, but should be associated with marked left atrial abnormality or atrial fibrillation.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case522/800x450.jpg",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

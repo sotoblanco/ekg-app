@@ -1,0 +1,21 @@
+{
+    "case_id": "121",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=120&ans=1&caseid=121",
+    "clinical_history": "Why is this young individual with cocaine-use disorder in the emergency department ?",
+    "diagnosis": "He is having an evolving anteroseptal myocardial infarction attributable to cocaine use.  There are Q waves in V2-V3 with ST segment elevation in V2-V5 associated with T-wave inversion.  Also noted are biphasic T-waves in the inferior leads.  These multiple abnormalities suggest occlusion of a large left anterior descending (LAD) artery that wraps around the apex of the heart (or of multivessel coronary artery disease).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case121/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "355",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=354&ans=1&caseid=355",
+    "clinical_history": "A 51 year-old man with prolonged chest discomfort and dyspnea is transferred from a local hospital. The ECG is diagnostic of which ONE of the following?",
+    "diagnosis": "Sinus rhythm is present at rate of about 78/min with relatively low voltage diffusely. The most notable findings are Q waves V2-V3 (normal QRS duration) with abnormal ST elevations most apparent in leads I, aVL, V2-V6. Emergency cardiac catheterization revealed multivessel coronary disease with a presumed \u0093culprit\u0094 total occlusion of the mid-portion of the left anterior descending coronary artery after the first diagonal branch and main septal perforators. The patient underwent successful coronary angioplasty for this ST elevation/evolving Q wave MI. Algorithms to precisely localize the site of LAD occlusion from the surface ECG  have been proposed but are necessarily limited in unselected cases by the presence of multivessel disease, collateral flow, ventricular conduction disturbances and time varying changes in perfusion and infarct evolution. In general, the absence of prominent ST elevation in V1,as in the present case, is against occlusion of the LAD proximal to the main septal perforator system.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case355/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

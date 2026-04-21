@@ -1,0 +1,23 @@
+{
+    "case_id": "129",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=128&ans=1&caseid=129",
+    "clinical_history": "What is the rhythm in this very elderly man?  What are the other major abnormalities? (Note: leads were properly placed.)",
+    "diagnosis": "Atrial flutter (NOT sinus tachycardia!) with 2:1 AV conduction is present.  Note the very subtle flutter waves at an atrial rate of about 260/min in lead aVL, lead II, etc.  There is also right bundle branch block (RBBB) with borderline left axis deviation (LAD), consistent with possible bifascicular block. Probable left ventricular hypertrophy (LVH) is present  (R = 11 mm in aVL, despite relatively low voltage in  other leads).  The patient had severe calcific aortic stenosis accounting for these findings. The very low amplitude QRS voltage in lead II indicates that the mean QRS vector in the frontal plane is orthogonal to lead II, directed toward lead I. Furthermore, this finding implies that the overall projection of the vector loop in the frontal lane is very narrow and symmetric around the positive pole of the -30 degree axis line.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case129/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Flutter",
+        "Right Bundle Branch Block",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

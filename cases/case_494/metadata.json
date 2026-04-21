@@ -1,0 +1,22 @@
+{
+    "case_id": "494",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=493&ans=1&caseid=494",
+    "clinical_history": "Middle-aged man has a relatively with benign looking ECG at first glance. More focused examination is consistent with which ONE of following major syndromes?",
+    "diagnosis": "The ECG shows sinus rhythm at about 70/min. The QT is prolonged at this rate (QTc by Bazett&39;s formula = 0.47 sec) with relatively peaked T waves (especially V2-V4). There is also prominent precordial voltage raising question of left ventricular hypertrophy (LVH). This constellation of findings, while subtle, strongly merits consideration of chronic renal disease. Moderate concentric LVH was confirmed by echocardiogram. The serum K+ was mildly elevated 5.2 mEq/L, with a low serum calcium ion concentration of 6.3 mg/dL (albumin was 2.9 g/dL) to account for the long QTc. The patient had end-stage kidney disease.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case494/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Long QT Syndrome",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "308",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=307&ans=1&caseid=308",
+    "clinical_history": "47 year old woman with a history of breast cancer and a life-threatening problem. Echocardiogram showed normal ventricular function and no pericardial effusion. This ECG is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The clinical diagnosis was hypercalcemia (Ca++ 15.8 mg/dL) due to metastatic breast cancer. The ECG shows resting sinus tachycardia with borderline left axis deviation.  There is also borderline low limb lead voltage. The key finding is the very short <300-320 msec) QT interval (QT=280 msec) such that the T wave appears to take off dirrectly from the J point with marked abbreviation of the ST segment. This finding correlates with shortening of ventricular action potential [hase 2 duration. Elevation of the J point in leads V1-V2/V3 is sometimes also seen with hypercalcemia, simulating ischemia.  The lower limits of the absolute QT and rate-corrected QT (QTc) intervals are not well defined, and relative shortening occurs physiologically at higher sinus rates. The two major pathologic causes of an acquired relatively short QT are hypercalcemia and digitalis glycoside effect. The latter is excluded here by the absence of characteristic \"scooped\" ST depressions. A hereditary form of short QT syndrome has been described recently in families with a history of sudden cardiac death (e.g., Eur Heart J 2006; 27:2382).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case308/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

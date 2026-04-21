@@ -1,0 +1,23 @@
+{
+    "case_id": "526",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=525&ans=1&caseid=526",
+    "clinical_history": "This ECG, from an elderly man with dyspnea, is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The ECG shows a characteristic triad of findings: sinus tachycardia, electrical alternans (best seen in multiple chest leads), and relatively low voltage diffusely. The patient underwent emergency pericardiocentesis with echocardiographic guidance, revealing metastatic pulmonary adenocarcinoma. The total electrical alternans pattern, associated with to-fro swinging of the heart under pressure in the fluid filled pericardial sac, is referred to as 2:1 alternation. The triad of findings seen here is a highly specific, but not sensitive ECG sign of  pericardial effusion. This distinct type of pathologic waveform alternation should not be confused with the slower alternation of QRS amplitude due to respiration or to the erratic, beat-to-beat variations in QRS amplitude associated with atrial fibrillation. QRS alternans (2:1) may also be seen with various types of paroxysmal supraventricular tachycardia (PSVT), such as atrio-ventricular reentrant tachycardia (AVRT), or in some cases of ventricular tachycardia. These other causes of QRS alternans, with non-sinus tachycardia, are likely due to subtle, periodic changes in ventricular conduction on a beat-to-beat basis, not to the \"swinging heart\" phenomenon.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case526/800x436.jpg",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Ventricular Tachycardia",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

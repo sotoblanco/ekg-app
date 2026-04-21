@@ -1,0 +1,23 @@
+{
+    "case_id": "95",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=94&ans=1&caseid=95",
+    "clinical_history": "60-yr-old male. Why is this not just a \"regular\" left bundle branch block?",
+    "diagnosis": "This is an important ECG because it shows evidence of prior and possibly evolving myocardial infarction (MI) superimposed on a left bundle branch block (LBBB) or related left ventricular conduction delay pattern. Prior MI is indicated by Q waves as part of a qR in I and V6. In addition, notching of the ascending limb of the S wave in the mid-left chest leads is also consistent with prior MI (Cabrera's sign). The biphasic T waves in the mid-left chest leads raise consideration of evolving ischemia/MI. Left axis deviation is also present. Thus: the statement that \"LBBB precludes diagnosing MI\" is not correct. On the other hand, LBBB often does mask changes of prior or acute MI, thereby reducing the sensitivity of the ECG in this setting. The presence of LAA with a LBBB-type pattern is consistent with underlying left ventricular hypertrophy.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case95/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Bundle Branch Block",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

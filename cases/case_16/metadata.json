@@ -1,0 +1,23 @@
+{
+    "case_id": "16",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=15&ans=1&caseid=16",
+    "clinical_history": "60-yr-old female with a history of anti-phospholipid syndrome who presented with anterior chest discomfort.",
+    "diagnosis": "Sinus rhythm is present (note the positive P waves in lead II) with AV Wenckebach causing 4:3 conduction in the setting of an acute/evolving ST elevation/Q wave inferior wall infarction. The ECG demonstrates pathologic Q waves and prominent ST elevations in leads 2, 3, and aVF. There are also ST segment depressions in leads 1 and aVL, consistent with reciprocal changes; slight ST depressions in V2-3 are also noted. In this context these ST depressions are likely reciprocal to posterior--lateral ST elevations (not seen on the standard 12-lead). The rhythm, as described, is sinus with AV Wenckebach showing progressive prolongation of the PR intervals, shortening of the R-R intervals (not always seen) and block of every fourth P wave. Note that the PR of the conducted P wave after the non-conducted (\"dropped\") one is shorter than the PR before the last conducted PR in each cycle. This is the key marker of AV Wenckebach. The presence of \"group\" beating is an important clue  and characteristic of second degree blocks. Group beating may also be seen with pauses after atrial (conducted or blocked) or ventricular premature beats. AV Wenckebach in the context of an acute inferior MI is attributed to high vagal tone and/or nodal ischemia.  The block proximal, i.e., at the level of the AV node and transient. The findings are consistent with occlusion of a dominant right coronary that also supplies the AV node and the posterior and possibly lateral wall. Of further note, is the subtle finding that the 4th P wave in each Wenckebach cycle comes somewhat earlier than anticipated. This pattern is most consistent with a ventriculo-phasic sinus arrhythmia, and not to a blocked PAC. The  term ventriculo-phasic response (VR) refers to transient shortening of the sinoatrial cycle interval when a QRS complex occurs between two sinus P waves during second or third degree AV block. The actual mechanism is not fully ascertained; it may be related to mechano-electrical interactions.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case16/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Sinus rhythm with second-degree AV block (Wenckebach/Mobitz Type I) causing 4:3 conduction and ventriculo-phasic sinus arrhythmia",
+        "rate": "N/A",
+        "axis": "N/A",
+        "intervals": "PR: progressive prolongation; QRS: N/A; QTc: N/A",
+        "findings": "Pathologic Q waves and ST elevations in leads II, III, and aVF; Reciprocal ST depressions in leads I, aVL, V2, and V3; Group beating",
+        "comparison": "N/A",
+        "impression": "Acute/evolving inferior ST-elevation myocardial infarction (STEMI) with associated AV Wenckebach block, likely due to dominant right coronary artery occlusion."
+    }
+}

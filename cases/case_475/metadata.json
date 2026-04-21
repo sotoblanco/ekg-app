@@ -1,0 +1,21 @@
+{
+    "case_id": "475",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=474&ans=1&caseid=475",
+    "clinical_history": "ECG from a middle-aged man shows which ONE of the following?",
+    "diagnosis": "The ECG shows an atrial paced rhythm at about 54/min. Small but clearly evident atrial pacemaker spikes are visible in most of the leads. The patient had a dual chamber (DDD) pacemaker implanted for sinus node dysfunction. During this recording, the pacemaker is properly functioning in an atrial pacing/ventricular sensing mode. The native QRS complexes (not preceded by any pacemaker spikes) are normal, with non-specific ST-T changes. The mean frontal plane QRS axis here is horizontal, but not frankly leftward (about 0 degrees). One goal in atrial pacing with DDD pacemakers and intact AV conduction is to adjust the pacemaker parameters so as to minimize the need for and duration of ventricular pacing. The A-QRS interval (about 160 ms) here allows for physiologic AV conduction to proceed with normal QRS activation after the atrial pacing stimulus.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case475/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

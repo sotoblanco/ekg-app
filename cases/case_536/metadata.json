@@ -1,0 +1,23 @@
+{
+    "case_id": "536",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=535&ans=1&caseid=536",
+    "clinical_history": "70 year-old woman with a history of hypertension presents with chest discomfort and dyspnea. Cardiac enzyme markers were mildly elevated. Coronary angiography revealed no significant epicardial coronary disease. The findings are most consistent with WHICH ONE of the following diagnoses?",
+    "diagnosis": "The ECG shows borderline sinus tachycardia (about 96 beats/min) with prominent, widespread T wave inversions most apparent in the anterior and lateral leads: I, aVL, V3-V6, as well as in II and aVF. Left axis deviation is present, along with QT/QTc prolongation  (420/478 ms). Prominent voltage in aVL is consistent with left ventricular hypertrophy (history of hypertension), along with probable left atrial abnormality (biphasic P wave in V1 with a broad negative component). In the context of the clinical findings, the most likely diagnosis is takotsubo (stress or apical ballooning) cardiomyopathy. Left ventriculography performed during coronary angiography revealed apical akinesis. Intermittent right ventricular pacing (or intermittent left bundle branch block) can induce anterior (\"memory\") T wave inversions. However, these changes are not usually seen in leads I and aVL. Right ventricular overload due to acute pulmonary embolism may cause T wave inversions in the right to mid-precordial leads (formerly called \"right ventricular strain\") usually in conjunction with sinus tachycardia, and sometimes with an S1Q3T3 pattern, right axis shift and peaked P waves. However, T waves inversions in 1 and aVL would not be expected. Apical hypertrophic cardiomyopathy (Yamaguchi's syndrome) would be unlikely to present in this manner at this age. This syndrome is marked by very deep (\"spade-like\") T wave inversions usually most apparent in the mid precordial leads, as opposed to the pattern of broadly inverted antero-lateral T wave inversions.Refs:Hughes RK, et al.  Apical hypertrophic cardiomyopathy: the variant less known. J. Am. Heart Assoc. 2020;9:e015294.Shvilkin A, et al. T-vector direction differentiates postpacing from ischemic T-wave inversion in precordial leads. Circulation. 2005:111:969.Singh T, et al. Takotsubo syndrome: pathophysiology, emerging concepts, and clinical implications. Circulation. 2022;145:1002.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case536/800x353.jpg",
+    "difficulty": 3,
+    "topics": [
+        "Left Bundle Branch Block",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

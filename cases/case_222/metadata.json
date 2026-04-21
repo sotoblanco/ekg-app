@@ -1,0 +1,25 @@
+{
+    "case_id": "222",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=221&ans=1&caseid=222",
+    "clinical_history": "Elderly man with hypertension and asthma complains of palpitations and dizziness. This resting ECG is most consistent with which of the following?",
+    "diagnosis": "b) The ECG shows a very regular narrow complex tachycardia at a rate of close to180/min. The rate is too fast for sinus tachycardia in the elderly and no sinus P waves are seen. The regularity and absence of multiple different P wave excludes multifocal atrial tachycardia (MAT.)  Regularization of the ventricular response with atrial fibrillation (AF) is rare and usually only seen at much slower rates (i.e., under 110-120/min). No flutter waves are seen and usually the ventricular response with atrial flutter and 2:1 conduction is 120-160/min. Atrial flutter at a rate of 360/min (to give a regular ventricular response at 180/min) would be highly unusual. The narrow complex tachycardia here is a type of paroxysmal supraventricular tachycardia (PSVT.)  If you look carefully, you will see subtle negative P waves just after the QRS in lead II and positive P waves just after the QRS in lead aVR. This very short RP interval is most consistent with AV nodal reentry and retrograde atrial activation. Therapeutic options to prevent recurrences of AVNRT include  drugs and catheter ablation. The ECG in this case also shows probable left ventricular hypertrophy by Sokolow-Lyon criteria (consistent with the hypertension history) and non-specific ST-T changes during the tachycardia.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case222/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Ventricular Tachycardia",
+        "Supraventricular Tachycardia",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

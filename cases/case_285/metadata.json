@@ -1,0 +1,22 @@
+{
+    "case_id": "285",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=284&ans=1&caseid=285",
+    "clinical_history": "Young adult male is found unresponsive. The ECG is most consistent with one of the following diagnoses?",
+    "diagnosis": "This ECG shows classic signs of systemic hypothermia with prominent sinus bradycardia (about 45 bpm) with marked J (Osborn) waves (see, e.g., leads V4 and V5, simulating a bundle branch block or ischemic pattern). There are also prominent T wave inversions and QT prolongation.\r\n\r\nThe patient, with a history of polysubstance abuse, was found unresponsive, last seen the day before. His rectal temperature was 80.0 degrees F. Following rewarming, his ECG completely normalized.\r\n\r\nFor comparison examples of typical hypercalcemia, see Cases # 9 and 67, and for tricyclic antidepressant overdose, see Case # 100.  Myxedema coma is classically associated with sinus bradycardia and low voltage. (J waves have been reported with hypercalcemia but giant deflections of the type seen in this case are not a feature of hypercalcemia which may be associated with right precordial lead ST elevation (e.g., V1-V2). J waves have also been reported in subarachnoid hemorrhage, which may also be accompanied by hypothermia.\r\n\r\nIn marked cases, the distinctive, convex J wave (\u0093hypothermic hump\u0094) appears to be an added deflection at the end of the QRS and beginning of the ST segment. The waveform is related pathophysiologically to altered transmural action potential features with hypothermia as described by the elegant work of Antzelevitch and colleagues (Circulation 1996; 93:372). Patients with this pattern are at increased risk of ventricular fibrillation which may occur during rewarming.\r\n\r\nIn contrast with Brugada-type patterns (see Case 253) which are associated with \u0093coved\u0094 (downsloping) or \u0093saddle-back\u0094 right precordial J point/ST elevations, the hypothermic pattern is more diffuse.\r\n\r\nSee also New Engl J Med (2005; 352:184) for another example of giant Osborn waves with systemic hypothermia.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case285/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Ventricular Fibrillation"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

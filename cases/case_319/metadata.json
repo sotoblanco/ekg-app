@@ -1,0 +1,22 @@
+{
+    "case_id": "319",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=318&ans=1&caseid=319",
+    "clinical_history": "30 year-old man admitted with coma. This ECG is most consistent with which of the following abnormalities?",
+    "diagnosis": "This ECG shows classic signs of systemic hypothermia with sinus bradycardia (at about 52 beats/min), prominent J (Osborn) waves and QT prolongation (540 msec). The patient had a body temperature of 26.4 degrees C (79.5 degrees F).  He also had hyperkalemia (serum K+  6.9 mEq/L that may account for the prominent T waves superimposed on the hypothermia pattern and probably on an underlying physiologic early repolarization variant in this young adult man.  For comparison and further discussion, see Case #285.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case319/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Hyperkalemia"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

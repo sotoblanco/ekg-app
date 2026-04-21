@@ -1,0 +1,22 @@
+{
+    "case_id": "544",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=543&ans=1&caseid=544",
+    "clinical_history": "This ECG, from a middle-aged woman, is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The ECG shows sinus rhythm at about 60 beats/min. The ECG may look unremarkable at first glance. However, a notable abnormality is the very long QT/QTc=530/530ms.The T waves are somewhat broad, without T wave notching or prominent U waves (e.g., as seen with LQTS2 or with hyperaldosteronism with hypokalemia) and without ST prolongation (seen with LQTS3, as well as with chronic kidney disease with hypocalemia). The diagnosis was congenital long LQTS1--specifically due to a KCNQ1 mutation. She was taking a beta-blocker, accounting for the borderline sinus bradycardia, and had undergone implantable cardioverter-defibrillator (ICD) placement. (See: Krahn A, et al. Congenital Long QT Syndrome. J Am Coll Cardiol EP. 2022; 8:687-706.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case544/800x367.jpg",
+    "difficulty": 3,
+    "topics": [
+        "Hypokalemia",
+        "Long QT Syndrome"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

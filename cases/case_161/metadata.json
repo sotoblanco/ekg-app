@@ -1,0 +1,21 @@
+{
+    "case_id": "161",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=160&ans=1&caseid=161",
+    "clinical_history": "ECG from a young adult with a major bradycardia.  The findings are most consistent with which scenario?",
+    "diagnosis": "c) The patient had documented Lyme carditis.  Sinus rhythm is present with advanced  AV block and probable paroxysmal complete heart block with transient ventricular asystole.  Several non-conducted  P waves are seen at the beginning of the recording, after an initial partially (and artifactually) truncated P wave that is likely dissociated from the initial QRS, too. The sinus P waves after the asystolic pause (rate about 90/min; some nearly completely \"hidden\" in the QRS, toward end of recording) are dissociated from the slower, junctional (narrow complex) escape beats, rate about 50/min. Prior and subsequent recordings would be needed to better ascertain the initiation and duration of this case of advanced AV heart block due to Lyme carditis. Strongly against a vagal mechanism is that the sinus rate is relatively fast. (see: Yeung C, Baranchuk A. Diagnosis and treatment of Lyme carditis: JACC Review Topic of the Week. JACC. 2019;73: 717-726. https://doi.org/10.1016/j.jacc.2018.11.035.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case161/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "AV Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

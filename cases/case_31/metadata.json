@@ -1,0 +1,21 @@
+{
+    "case_id": "31",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=30&ans=1&caseid=31",
+    "clinical_history": "82-yr-old woman. What is the rhythm?",
+    "diagnosis": "Be careful here. This may look superficially like sinus but if you look in V1, you can see P waves just before the QRS (there is right bundle branch block (RBBB) and also P waves in the T wave (halfway in between) which are partly hidden. Atrial rate is about 150, ventricular rate 75. This is an atrial tachycardia with 2:1 block (paroxysmal atrial tachycardia or \"PAT with block\" if it occurs paroxysmally) which may be due to digoxin toxicity, atrial disease, etc. If you got this right, PAT yourself on back; if you choked on it, a more forceful interscapular blow may be indicated. (Note that \"PAT\" is often a misnomer since the tachycardia may be sustained. So the term \"atrial tachycardia with block\" is most accurate here.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case31/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Right Bundle Branch Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "Atrial tachycardia with 2:1 block",
+        "rate": "Ventricular rate 75 bpm; Atrial rate 150 bpm",
+        "axis": "Left axis deviation (approx -45 degrees)",
+        "intervals": "PR: ~160 ms (conducted beats), QRS: ~130 ms, QTc: ~450 ms",
+        "findings": "2:1 conduction ratio with hidden P waves in T-waves; Right Bundle Branch Block (RBBB) indicated by RSR' in V1 and wide S in I and V6; Left Anterior Fascicular Block (LAFB) indicated by left axis deviation; Bifascicular block",
+        "comparison": "N/A",
+        "impression": "Atrial tachycardia with 2:1 AV block and bifascicular block (RBBB + LAFB)."
+    }
+}

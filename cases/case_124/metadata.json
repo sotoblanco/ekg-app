@@ -1,0 +1,23 @@
+{
+    "case_id": "124",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=123&ans=1&caseid=124",
+    "clinical_history": "74-year-old woman is admitted to you with \"left bundle branch block.\"  What more can you say?",
+    "diagnosis": "The rhythm is  sinus with borderline PR prolongation. There is evidence of acute/evolving anterior ischemia/myocardial infarction (MI) superimposed on the left bundle branch block-like (LBBB) pattern.  Note the primary T wave inversions in V2-V4, rather than the expected discordant (upright) T waves in leads with negative QRS.  Although this finding is not particularly sensitive for ischemia/MI with LBBB, such primary T wave changes are relatively specific.  The prominent voltage with left atrial abnormality and leftward axis in concert with the left ventricular intraventricular conduction delay (IVCD) are consistent with underlying left ventricular hypertrophy. This ECG is an example of \"bundle branch block plus.\"",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case124/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Bundle Branch Block",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

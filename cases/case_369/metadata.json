@@ -1,0 +1,22 @@
+{
+    "case_id": "369",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=368&ans=1&caseid=369",
+    "clinical_history": "Elderly male with history of coronary artery disease and end stage renal failure on hemodialysis is admitted with fever. He rules out for myocardial infarction. ALL of the following are present EXCEPT which ONE? (Note: Prior ECGs, including the day before, consistently showed an R wave in leads I and aVL.",
+    "diagnosis": "This ECG shows atrial fibrillation with a rapid ventricular response rate at about 125 bpm. The right/left arm electrodes are reversed. Taking this into account (lead I is \u0093upside down,\u0094 lead II=III, aVR= aVL), there is marked left axis deviation consistent with left anterior fascicular block.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case369/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

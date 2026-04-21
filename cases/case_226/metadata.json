@@ -1,0 +1,24 @@
+{
+    "case_id": "226",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=225&ans=1&caseid=226",
+    "clinical_history": "60-yr-old woman complains of the sudden onset of palpitations. This resting ECG is most consistent with which of the following diagnoses? (Note that there is some artifactual distortion of the waveforms in the last beats in leads aVR, aVL and aVF.)",
+    "diagnosis": "b) The ECG shows a very fast and very regular narrow complex tachycardia at a rate of 200/min. The rate is much too fast for resting (or exertional) sinus tachycardia in this older age group and no sinus P waves are seen.  The regularity and absence of multiple different P wave excludes multifocal atrial tachycardia (MAT.)  Regularization of the ventricular response with atrial fibrillation (AF) is rare and usually only seen at much slower rates (i.e., under 110-120/min). No flutter waves are seen and usually the ventricular response with atrial flutter and 2:1 conduction is 120-160/min. Atrial flutter at a flutter rate of 400/min (to give a regular ventricular response at 200/min) or at 200/min with 1:1 conduction would be highly unusual.The narrow complex tachycardia here is most likely a specific type of paroxysmal supraventricular tachycardia (PSVT.)  The pathophysiology involves a small reentrant circuit in the AV node area, and therefore is termed AV nodal reentrant tachycardia (AVNRT). With typical AVNRT, the P waves are often not apparent due to simultaneous stimulation of atria and ventricles. Alternatively, retrograde (negative in lead II, positive in aVR) P waves may appear just before the QRS or, more commonly, just after the QRS (at the J point, just after the QRS). In the present ECG, no definite P waves are seen, although retrograde P waves just after the QRS are not excluded.Acute therapy of sustained AVNRT usually involves vagal maneuvers (Valsalva or carotid sinus massage, if not contraindicated), and then intravenous drugs, especially adenosine, calcium channel blockers (diltiazem or verapamil), or sometimes beta-blockers, depending on the clinical context. For patients with hemodynamic collapse (shock), pulmonary edema or severe ischemia who do not respond promptly to initial therapy, synchronized DC cardioversion may be required. Therapeutic options to prevent recurrences of AVNRT include catheter ablation and drugs.  The ECG in this case also shows non-specific ST-T changes during the tachycardia. See: Page RL, et al. 2015 ACC/AHA/HRS guideline for the management of adult patients with supraventricular tachycardia: executive summary: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. Circulation 2016:133:e471-e505.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case226/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Ventricular Tachycardia",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

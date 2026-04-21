@@ -1,0 +1,22 @@
+{
+    "case_id": "14",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=13&ans=1&caseid=14",
+    "clinical_history": "36-yr-old male with the development of chest pain at rest, transferred for cardiac evaluation after a presumed myocardial infarction. (However, serial cardiac enzymes were negative). This ECG is most consistent with which ONE of the following?",
+    "diagnosis": "Hypertrophic cardiomyopathy, apical variant (Yamaguchi's syndrome).  The ECG shows sinus bradycardia at about 58/min with marked left ventricular hypertrophy (LVH) and unusual, very deep (\"giant\") T wave inversions in the precordial and limb leads. ST depressions are seen in the lateral chest leads. Yamaguchi's cardiomyopathy is characterized by isolated apical hypertrophy. The surface ECG shows LVH and T wave inversions predominantly in V3-V5 but often present in other leads.  Apical hypertrophic cardiomyopathy as well as more common forms of hypertrophic cardiomyopathy are important causes of pseudo-infarct patterns.  The initial report of Yamaguchi's syndrome can be found in Am J Cardiol 44:401,1979.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case14/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Sinus bradycardia",
+        "rate": "58 bpm",
+        "axis": "N/A",
+        "intervals": "N/A",
+        "findings": "Marked left ventricular hypertrophy (LVH); deep (giant) T wave inversions in precordial (V3-V5) and limb leads; ST depressions in lateral chest leads; pseudo-infarct pattern",
+        "comparison": "N/A",
+        "impression": "Hypertrophic cardiomyopathy, apical variant (Yamaguchi's syndrome)"
+    }
+}

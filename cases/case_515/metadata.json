@@ -1,0 +1,23 @@
+{
+    "case_id": "515",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=514&ans=1&caseid=515",
+    "clinical_history": "This complex ECG, from a patient status post aortic valve replacement, is most consistent with which ONE of the following rhythms? The patient reportedly was on metoprolol and amiodarone at the time. (Note: revised as of 10/20/2022.)",
+    "diagnosis": "This ECG poses a challenging pattern. At first glance, the variable underlying atrial waveforms appear diagnostic of atrial fibrillation (AF) with a regularized ventricular response (approximately 60/min), suggesting complete heart block with a junctional escape mechanism. However, on closer inspection the atrial wave pattern is almost exactly superimposable from one section to the next, most consistent with an atrial flutter (or tachycardia) variant, not atrial fibrillation. The periodic atrial waves also appear notched, which may be due to an unusual alternans pattern. Furthermore, the interval between the last part of the atrial wave and the next QRS is constant, strong evidence against complete heart block. The QTc is ~450 ms, at the upper limits of normal. There is non-diagnostic notching of the QRS in V1 with a delayed precordial transition zone. However, no frank intraventricular conduction delay is noted. Nonspecific ST-T changes are present. The S1Q3 pattern is non-diagnostic. The patient was on metoprolol as well as amiodarone (given to treat an episode of AF with a rapid ventricular response).  Tremor artifact should be excluded; however, with tremor (e.g. Parkinsonian), sinus P waves can usually be discerned in at least one lead. Electronic pacing is perhaps the most common cause of atrial fibrillation with a near constant rate. However, it would be most unusual to have the escape rate set this low and pacing stimuli (spikes), which may be of very low amplitude, are not seen. Transthoracic echocardiography revealed normal left ventricular (LV) systolic function, moderate concentric LV hypertrophy, and a well-seated bioprosthetic aortic valve. With cessation of amiodarone and metoprolol, the regularized AF resolved, and subsequent ECGs revealed recurrence of definite AF with a faster, variable rate. Intracardiac recordings were not available. (We anticipate \"variable\" interpretations from EP mavens)  Also see cases 74, 432, 456, 493 and 495.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case515/800x456.png",
+    "difficulty": 5,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

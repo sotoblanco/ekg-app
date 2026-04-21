@@ -1,0 +1,22 @@
+{
+    "case_id": "491",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=490&ans=1&caseid=491",
+    "clinical_history": "A middle-aged man has a history of coronary artery disease, hypertension and evidence of what other major disease process?",
+    "diagnosis": "The ECG shows sinus tachycardia at about 105/min and specific ST-T changes. R wave progression is very slow. The P waves are very tall and peaked (>.2.5 mm) in the inferior leads, but not broad, consistent with primarily right atrial overload (classical \u0093P pulmonale\u0094 pattern). The narrow negative P wave in lead V1 in this context may be due to right (not bi-) atrial overload, with the exploring electrode positioned over the enlarged chamber. (In this instance the left atrium was only mildly enlarged.) The patient had very severe COPD in addition to coronary disease and hypertension. The slow R wave progression may have related to a combination of all three factors (prior anterior MI, COPD and LVH).  Note that the gradual changes in QRS amplitude most evident in the chest leads are probably related to airflow fluctuations and are not characteristic of beat-to-beat electrical alternans with pericardial tamponade. In general, pure COPD is associated with low QRS voltages diffusely.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case491/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

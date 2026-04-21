@@ -1,0 +1,21 @@
+{
+    "case_id": "277",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=276&ans=1&caseid=277",
+    "clinical_history": "What is the rhythm?",
+    "diagnosis": "This ECG shows a fully atrial (electronically) paced (not sinus) rhythm at a rate of 90 bpm. There is normal (intrinsic) AV conduction. The QRS is within normal limits at 0.08 second, without a preceding ventricular pacing spike.  Non-specific ST-T changes are present.\r\n\r\nThis ECG was done post-operatively (accounting also for the low limb lead voltage) just after the patient had undergone a mitral valve replacement for rheumatic valvular disease.\r\n\r\nIn A-V sequential pacing you will find an atrial spike that initiates the P wave and then a ventricular spike that precedes the QRS with the resultant wide QRS complex, generally with a left bundle branch morphology QRS (see Case # 158.) There is no ventricular pacing on this ECG.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case277/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "case_id": "187",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=186&ans=1&caseid=187",
+    "clinical_history": "ECG (with noisy baseline) from a critically-ill elderly man shows all of the following except:",
+    "diagnosis": "e) The first four beats show a complete left bundle branch block (LBBB) pattern (not accelerated idioventricular rhythm) which abruptly disappears at a nearly identical heart rate.  An acute inferior myocardial infarction (MI) pattern is apparent in both sets of beats, with reciprocal ST depressions in I, aVL and V2-V3.  LBBB can mask the diagnosis of acute or prior MI.  In this somewhat unusual case, the acute MI is readily confirmable in the normally conducted beats.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case187/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "case_id": "294",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=293&ans=1&caseid=294",
+    "clinical_history": "78 year old male. All of the following are present EXCEPT?",
+    "diagnosis": "This ECG shows intrinsic sinus P waves at a rate of 65 bpm.  The patient has a dual chamber pacemaker with atrial sensing and ventricular pseudo- fusion beats--all the beats except the 3rd (last) beat in the V4-V6 display are pseudo-fusion--note that the morphology of this beat is slightly different and wider.  Q waves in V1-V3 are most likely due to underlying anterior myocardial infarction. The patient had a history of sick sinus syndrome and coronary artery disease with prior angioplasty/stenting of the left anterior descending coronary.  AV sequential pacing is ruled out as there is a clear sinus \u0093P\u0094 wave and no evidence of an atrial spike preceding this.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case294/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

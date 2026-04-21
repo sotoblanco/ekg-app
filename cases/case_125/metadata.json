@@ -1,0 +1,21 @@
+{
+    "case_id": "125",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=124&ans=1&caseid=125",
+    "clinical_history": "73-year-old woman presenting with dyspnea.  What is the most likely diagnosis?",
+    "diagnosis": "c)  Findings here are highly suggestive of moderately severe Chronic obstructive pulmonary disease (COPD), including 1) relatively low voltage; 2) incomplete right bundle branch block (rsr' in V1 - V3); 3) borderline peaked P waves (possible right atrial overload); 4) poor initial R wave progression; and 5) atrial premature beats.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case125/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Right Bundle Branch Block"
+    ],
+    "category": "Diverse disease",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

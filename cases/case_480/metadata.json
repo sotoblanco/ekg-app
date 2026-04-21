@@ -1,0 +1,23 @@
+{
+    "case_id": "480",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=479&ans=1&caseid=480",
+    "clinical_history": "Young adult male with increasing dyspnea and fatigue with no history of obstructive lung disease. This ECG is most consistent with which ONE of the following scenarios?",
+    "diagnosis": "Electronically measured intervals: (msec; except HR in bpm):  ~~Rate  PR  QRS   QT    QTc (Hodges)    Axes (degrees): P  QRS  T ~~104   153    87   359      436                                             66 -17 112~~The ECG shows resting sinus tachycardia with borderline leftward QRS axis deviation, especially given the patient~s age. There is slow initial R wave progression (V1-V3), with non-specific ST-T changes in the lateral leads. The P waves are notable for their increased amplitude consistent with right atrial overload (sometimes referred to as ~P pulmonale~); the biphasic P waves in lead V1 and V2 are consistent with biatrial overload. Borderline low QRS limb lead voltage is present, in concert with borderline prominent precordial voltage. The only answer that accounts for this constellation of findings is dilated cardiomyopathy, with right atrial overload, possibly due to increased pulmonary hypertension from bilateral pulmonary emboli, in this case. The findings were confirmed by echocardiography and by computed tomography angiography (CTA). The patient had a history of idiopathic heart failure with a severely reduced left ventricular ejection fraction. ~~Ebstein~s anomaly is associated with giant (~Himalayan~) P waves, but with a right ventricular conduction delay (often with wide, atypical qR complexes in V1-V3. Tetralogy of Fallot is associated with signs of right ventricular hypertrophy due to pulmonary outflow obstruction before repair, and with right bundle branch block afterward. No specific markers of myocardial infarction are present. Diffusely low voltage may be a clue to cardiac amyloid, especially in the setting of clinical evidence of restrictive cardiomyopathy.~~~~~~",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case480/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Bundle Branch Block",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

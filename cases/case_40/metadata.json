@@ -1,0 +1,25 @@
+{
+    "case_id": "40",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=39&ans=1&caseid=40",
+    "clinical_history": "Predict the future!",
+    "diagnosis": "Sinus bradycardia at a rate of 55/min. The QT interval appears prominent, measuring about 0.52 sec in lead II and 0.56 in lead V2. Using Bazett's formula, the QTc is between 0.50 and 0.54 sec.(Best to take the longest one.) The patient developed torsade de pointes, subsequently.  The patient was taking erythromycin and haloperidol. Note that there is no consensus on the formula that should be used to rate-correct the QT. Also, note that the QT can be less than half than R-R interval at slower rates and still be markedly prolonged.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case40/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "Sinus bradycardia",
+        "rate": "55 bpm",
+        "axis": "Normal axis",
+        "intervals": {
+            "PR": "160 ms",
+            "QRS": "80 ms",
+            "QTc": "540 ms"
+        },
+        "findings": "Sinus bradycardia; Markedly prolonged QT interval (measured up to 0.56 sec in lead V2).",
+        "comparison": "N/A",
+        "impression": "Marked QT prolongation (QTc 0.54 sec) in the setting of sinus bradycardia and drug therapy (erythromycin and haloperidol), placing the patient at high risk for Torsade de Pointes."
+    }
+}

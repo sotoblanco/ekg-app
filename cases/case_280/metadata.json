@@ -1,0 +1,22 @@
+{
+    "case_id": "280",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=279&ans=1&caseid=280",
+    "clinical_history": "61 year-old asymptomatic gentleman. What does this ECG show?",
+    "diagnosis": "This ECG is striking for marked PR interval prolongation at about 0.40 second. The rhythm is sinus at a rate of 64 bpm with a QT interval at the upper limits of normal or minimally prolonged (0.44 sec). The QRS complex is of normal duration.\r\n\r\nThe patient was not on any medications that may prolong AV nodal conduction, such as beta-blockers, certain calcium channel blockers (verapamil, diltiazem), or digoxin.  There was no evidence of other possible contributors with specific clinical implications such as Lyme disease, sarcoid, endocarditis (with AV junction involvement) or acute ischemia. Thus, the prolonged PR interval here likely represents intrinsic AV node disease. \r\n\r\nPacemaker therapy is not indicated for asymptomatic PR prolongation (first degree AV \u0093block\u0094).  Appropriate management, in addition to looking for reversible or other clinically important causes, includes follow-up to track possible progression to symptomatic or asymptomatic degrees of higher degree AV block. Holter monitoring may be useful in such cases.\r\n\r\nIt should be noted that the term \u0093first degree AV block\u0094 is actually something of a misnomer since this finding represents conduction delay rather than block per se.  An alternative designation advocated by some electrophysiologic purists is to simply say \u0093prolonged PR interval\u0094 or \u0093prolonged AV conduction.\u0094",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case280/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

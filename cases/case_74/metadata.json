@@ -1,0 +1,24 @@
+{
+    "case_id": "74",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=73&ans=1&caseid=74",
+    "clinical_history": "83-yr-old women with congestive heart failure and heart murmurs noted since early adulthood. What is a unifying etiology that would account for rhythm, precordial voltage, and axis here? (Note: leads were correctly placed.)",
+    "diagnosis": "The ECG shows atrial fibrillation (AF) with left ventricular hypertrophy (LVH), but with RIGHT axis deviation. This combination should make you think of biventricular hypertrophy; and with AF, rheumatic heart disease is an important etiology (mitral stenosis and aortic valve disease in this case). The patient&39;s advanced age does not exclude clinically significant rheumatic heart disease, which is supported by long history of heart murmurs. Right axis deviation can also be due to left posterior fascicular block (LPFB). However, this type of \"hemiblock\" is not common as isolated finding (usually it is seen with right bundle branch block) and the diagnosis of LPFB requires exclusion of other causes of right axis (e.g., right ventricular hypertrophy).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case74/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Atrial Fibrillation",
+        "Right Bundle Branch Block",
+        "Left Ventricular Hypertrophy",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

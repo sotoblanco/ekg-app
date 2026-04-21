@@ -1,0 +1,23 @@
+{
+    "case_id": "175",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=174&ans=1&caseid=175",
+    "clinical_history": "What was the cause of the tall right precordial R waves in this 32-year-old woman?",
+    "diagnosis": "b) The limb leads are normal, so dextrocardia is not  present.  But the chest leads were inadvertently reversed:  Lead V6=V1, V5=V2, etc. This artifact may simulate posterior or posterolateral myocardial infarction (MI ) (see Case #56) or RVH (see Case # 51). The degree of Wolff-Parkinson-White pre-excitation is excluded by the absence of the triad of short PR interval, wide QRS and delta wave (see Case # 184).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case175/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Wolff-Parkinson-White",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

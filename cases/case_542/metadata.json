@@ -1,0 +1,23 @@
+{
+    "case_id": "542",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=541&ans=1&caseid=542",
+    "clinical_history": "This ECG from a middle-aged man is consistent with which ONE of the following diagnoses?",
+    "diagnosis": "This ECG shows sinus bradycardia at about 54 beats/min. The QRS axis is indeterminate with biphasic complexes in aVL, I  and III.  QRS duration is normal. The major findings are prominent R waves in V1-V3 with prominent Q waves in II, III and aVF in concert with slight ST elevations and T wave inversions in these three leads, as well as in V5 and V6. Slight reciprocal ST depressions are present in I and  aVL. The T waves are reciprocally positive in V1-V3.  This constellation of findings is accounted for by an acute/evolving inferior-posterior-lateral ST elevation/Q wave MI. The notched R wave in V1 and small S waves laterally may indicate a minor right ventricular conduction delay, but not a full right bundle branch block. The broad, albeit low amplitude P wave in V1 with a prolonged negative component (magnified view) is consistent with  left atrial abnormality. The patient was treated with a percutaneous coronary intervention for complete occlusion of a dominant distal right coronary.  Key ECG teaching points include the following. 1) Acute ST elevation MIs undergo evolutionary changes within hours to days usually, such that the ST elevations return toward baseline, with the appearance of T wave inversions in those leads. Pathologic Q waves may may appear if sufficient muscle mass is infarcted. 2) When right ventricular hypertrophy causes tall R waves in leads V1-V2/V3,  it is usually associated with T wave inversions (formerly called an \"RV strain\" pattern) and a vertical to frankly rightward QRS axis. 3) The \"classic\" S1Q3T3 pattern of acute pulmonary embolism (PE) is neither sensitive nor specific and is not associated with pathologic Q waves in lead II. In addition, acute PE is typically associated with sinus tachycardia.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case542/800x441.jpg",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Bundle Branch Block",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

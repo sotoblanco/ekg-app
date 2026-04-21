@@ -1,0 +1,22 @@
+{
+    "case_id": "496",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=495&ans=1&caseid=496",
+    "clinical_history": "Very elderly woman with ECG showing which ONE of following?",
+    "diagnosis": "ECG shows sinus rhythm (you can march out sinus P waves at rate of about 85/min) with complete AV heart block and a ventricular paced rhythm (VVI) at about 70/min. None of P waves is conducted. Whenever you see an LBBB pattern, always look for hidden pacemaker spikes, which may be of low amplitude. P wave prominent and morphology speak to left atrial abnormality. ST-T changes, discordant with QRS, are secondary to asynchronous pacemaker activation of the ventricles, causing the wide QRS. This patient would be candidate for developing \"memory T waves\" if the pacing were intermittent.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case496/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Left Bundle Branch Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

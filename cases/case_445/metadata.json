@@ -1,0 +1,23 @@
+{
+    "case_id": "445",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=444&ans=1&caseid=445",
+    "clinical_history": "Elderly woman with an irregular pulse. What is the rhythm? What other abnormalities are present.",
+    "diagnosis": "The ECG shows baseline artifact (simulating a premature ventricular complex at the end of the recording). The rhythm is atrial fibrillation with a relatively rapid ventricular response at rest (mean about 100/min; range about 85 to 125/min). A complete right bundle branch block (RBBB) is present. The QRS voltage is relatively low diffusely. Non-specific ST-T changes are present. Note that the fibrillatory waves are relatively \u0093fine\u0094 (low amplitude and high frequency) and may be missed entirely. At times higher amplitude \u0093f\u0094 waves simulate sinus P waves. The ventricular rate may look regular at first glance, but if you measure the R-R intervals carefully, beat-by-beat, they are always changing. AF is one of the most commonly over- and under-diagnosed major arrhythmias.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case445/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Right Bundle Branch Block",
+        "Premature Ventricular Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "case_id": "422",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=421&ans=1&caseid=422",
+    "clinical_history": "This ECG from a 56 year old man who was found unresponsive is most consistent with which ONE of the following clinical scenarios?",
+    "diagnosis": "The ECG shows atrial fibrillation (AF) with an average ventricular response of about 100/min.  Nonspecific ST-T changes are present with QT prolongation (about 400 ms). Of special note are the prominent Osborn waves, seen at the J junction (at end of the QRS and beginning of ST segment). Not including the J waves, the QRS duration (width) is at the upper limits of normal or slightly prolonged. The patient had severe hypothermia (rectal temperature of (28.4 degrees C or 83.1 F). Serum potassium was borderline low (3.3 mEq/L) and serum calcium was normal. The AF converted spontaneously back to sinus rhythm.  The J wave of hypothermia has been attributed to altered action potential characteristics in epicardial cells leading to a voltage gradient between the endocardium and the outer ventricular layers at the time the J wave is inscribed. (See: Yan G-X, Antzelevitch C. Cellular basis for the electrocardiographic J wave. Circulation. 1996; 93:372\u0096379.)  Renal failure would be associated with signs of hyperkalemia, not seen here. Tricyclic antidepressant overdose is typically associated with resting sinus tachycardia, a wide QRS and a long QT.  ECG findings in myxedema coma would include sinus bradycardia and diffusely low QRS voltage. Hypercalcemia is associated with QT (ST segment portion) shortening.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case422/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Hyperkalemia",
+        "Long QT Syndrome"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

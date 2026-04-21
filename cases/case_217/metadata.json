@@ -1,0 +1,22 @@
+{
+    "case_id": "217",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=216&ans=1&caseid=217",
+    "clinical_history": "What is the rhythm in this 35-yr-old woman? (Note: there is slight baseline artifact due to electrical interference or poor electrode contact.)",
+    "diagnosis": "e) This ECG shows an important normal variant, namely respiratory sinus arrhythmia (RSA). The progressive fluctuations in sinus rate are quite apparent here, going from slow to faster and back to slower again at the end of the rhythm strip.  This heart rate variation over about 10 sec is due to cyclic changes in vagal tone associated with the two major phases of respiration. With inspiration there is increased filling of the right heart and a concomitant decrease in left ventricular output. As a result of this and other factors related to breathing, vagal tone quickly decreases and the heart rate increases, thereby increasing cardiac output. With expiration, the opposite changes occur and vagal tone transiently increases, associated with a decrease in heart rate. RSA is an important marker of intact cardiac autonomic (parasympathetic) function and is most noticeable in young, healthy individuals. RSA declines with age and with conditions that impair neuroautonomic regulation, such as diabetes mellitus and congestive heart failure.Note that the PR intervals are constant and all the P waves are conducted, excluding AV Wenckebach. The P waves are also consistent in morphology and axis, excluding wandering atrial pacemaker. No prolonged sinus pauses are present. The heart rate here changes in a progressive way, in contrast to the abrupt shortening of the RR intervals (with a change in P wave appearance) seen with premature atrial complexes.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case217/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

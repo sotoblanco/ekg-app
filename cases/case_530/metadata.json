@@ -1,0 +1,23 @@
+{
+    "case_id": "530",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=529&ans=1&caseid=530",
+    "clinical_history": "70 year-old man with a life-threatening syndrome. The ECG is most consistent with which ONE of the following?",
+    "diagnosis": "Sinus tachycardia at rest is present (about 110 beats/min) with the following findings strongly suggesting a right heart overload syndrome, in this case due to advanced idiopathic pulmonary fibrosis. 1) right bundle branch block (RBBB) variant with a polyphasic rSr'S' pattern; 2) tall, narrow P waves (\"P pulmonale\"); 3) T wave inversions V1-V4. Note that the T wave inversions in leads with an rSR'-type morphology may be secondary to the RBBB. T wave inversions extending to V3 and V4, however, are most consistent with RV overload (\"strain\") in the context of the other findings. RBBB and left posterior fascicular block (a form of \"bifascicular block\") is a diagnosis of exclusion that requires ruling out RV overload syndromes and other causes of RBBB/RAD, also including antero-lateral MI with RBBB. Mitral stenosis may be associated with right ventricular overload, but one would expect left atrial abnormality (or atrial fibrillation). Cardiac amyloidosis may have a wide variety of ECG presentations, including low voltage, nonspecific ST-T changes and pseudo-infarct Q waves.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case530/800x472.jpg",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

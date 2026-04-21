@@ -1,0 +1,24 @@
+{
+    "case_id": "18",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=17&ans=1&caseid=18",
+    "clinical_history": "79-year-old woman with shortness of breath requiring intubation. Which ONE of the following findings is NOT present?",
+    "diagnosis": "The ECG shows atrial fibrillation with a rapid ventricular response; and  marked right (not left) axis deviation and a qR morphology in V1 without a full right bundle branch block. The latter two findings are consistent with right ventricular hypertrophy (RVH). This patient has severe mitral stenosis with pulmonary congestion, pulmonary hypertension, and right heart failure.  A qR in lead V1 (with a relatively normal QRS duration) is one of the most specific signs for right ventricular hypertrophy. Other causes of a qR in V1 include a right bundle branch block (RBBB) in patients with an anterior myocardial infarction; usually the Q's extend to V2/V3 and with RBBB and left anterior fasicular block (very small q waves may be present).  This patient has right axis deviation in addition to the qR in V1 which suggests RVH.  Given atrial fibrillation and RVH one should strongly consider mitral stenosis. Other diagnoses would include severe cor pulmonale from COPD, and coronary artery disease with a large lateral MI (although the absence of Q waves in the lateral chest leads is against this diagnosis.) See below.\r\n\r\nAdditional note on differentiating right ventricular hypertrophy (RVH) from lateral MI: In some cases of severe (RVH) with marked right axis deviation, leads I and aVL may show rS or even QS waves, simulating lateral MI. In this case, lead V1 notably shows a narrow qR complex (not just a tall R wave) strongly suggestive of RVH, rather than posterior-lateral MI. Also, the lateral precordial leads here show rS type complexes, not QR waves. Physical examination, echocardiogram and other imaging modalities also provide often essential important information about RVH vs. lateral MI or mtrial stenosis in cases where the ECG is ambiguous.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case18/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Right Bundle Branch Block",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Atrial fibrillation with rapid ventricular response",
+        "rate": "Rapid",
+        "axis": "Marked right axis deviation",
+        "intervals": "PR: N/A; QRS: Relatively normal; QTc: N/A",
+        "findings": "qR morphology in V1; rS or QS waves in leads I and aVL; rS type complexes in lateral precordial leads",
+        "comparison": "N/A",
+        "impression": "Right ventricular hypertrophy (RVH) consistent with severe mitral stenosis, pulmonary hypertension, and right heart failure."
+    }
+}

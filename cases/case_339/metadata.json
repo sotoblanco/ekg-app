@@ -1,0 +1,22 @@
+{
+    "case_id": "339",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=338&ans=1&caseid=339",
+    "clinical_history": "19 year-old man seen in the emergency department with complaint of palpitations. What is the rhythm?",
+    "diagnosis": "This ECG shows baseline artifact with borderline sinus tachycardia and physiologic sinus arrhythmia at rates ranging from about 80 to 100 bpm without ectopy.  A consistent single sinus P wave can be seen which is upright in lead II.  A combination of baseline artifact and sinus arrhythmia can mimic atrial fibrillation or other supraventricular arrhythmias. The phasic variation of sinus rate here (cyclically faster and slower) is due to respiration, and referred to as respiratory sinus arrhythmia (see Cases 217, 245 and 300).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case339/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

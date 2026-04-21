@@ -1,0 +1,23 @@
+{
+    "case_id": "208",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=207&ans=1&caseid=208",
+    "clinical_history": "This 49-year-old man with known coronary disease, S/P coronary artery bypass surgery, and end stage renal failure presents for dialysis with this ECG.  What is the most appropriate next step?",
+    "diagnosis": "b) Urgent cardiac catheterization is indicated, as the ECG is consistent with an acute infero-postero-lateral myocardial infarction (MI).  Selected cardiac echo and cardiac catheterization findings on this patient are shown in the link below.  The ECG shows sinus tachycardia with left atrial abnormality, marked ischemic ST segment elevation in the inferior limb leads and lateral precordial leads, and prominent ST segment depression with upright T waves in the early precordial leads consistent with posterior infarct (see Brady WJ. Am J Emerg Med 1998;16:409-413).  Hyperkalemia and drug toxicity would cause true QRS widening which is not seen here.  Rather, the injury current with marked ST segment deviation makes the QRS appear wide.  There is 1:1 atrioventricular conduction with sinus tachycardia and a narrow QRS excluding ventricular tachycardia.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case208/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Ventricular Tachycardia",
+        "Hyperkalemia"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

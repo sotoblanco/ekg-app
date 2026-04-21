@@ -1,0 +1,25 @@
+{
+    "case_id": "193",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=192&ans=1&caseid=193",
+    "clinical_history": "Young adult male with palpitations and syncope.  The diagnosis is:",
+    "diagnosis": "e) The classic triad of Wolff-Parkinson-White (WPW) is present: short PR, wide QRS and delta waves.  The delta waves are negative in III and aVF, and positive in V1-V3 which is consistent with a left posterior bypass tract.  This pattern simulates inferior-posterior myocardial infarction (MI).  WPW may also simulate left ventricular hypertrophy (LVH) or right ventricular hypertrophy (RVH,) as well as bundle branch blocks.  Duchenne's muscular dystrophy may be associated with a pattern resembling posterior MI. This patient had a cardiac electrophysiology (EP) study.  He was found to have a left posterior bypass tract (as well as a concealed left lateral bypass tract).  He had inducible atrioventricular reentrant tachycardia (AVRT) and atrial fibrillation.  Both bypass tracts were successfully ablated.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case193/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Wolff-Parkinson-White",
+        "Left Ventricular Hypertrophy",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

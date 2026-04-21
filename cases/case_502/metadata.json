@@ -1,0 +1,23 @@
+{
+    "case_id": "502",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=501&ans=1&caseid=502",
+    "clinical_history": "ECG from a 74 year old woman shows which ONE of the following rhythm disturbances?",
+    "diagnosis": "The ECG shows a regular, wide-complex tachycardia (WCT) at 130/min with an RBBB morphology (V1). Definite P waves are not seen. With an RBBB morphology, the diagnosis of VT is very strongly favored by the presence of multiple findings seen here including: a monophasic wide R wave in V1 (or an Rsr~ or qR-type morphology), a very wide QRS (>140-160 ms here, especially without hyperkalemia or sodium channel blocking drug effect), and an rS or QS in V6. Marked right axis deviation is also present here.  ~~~~The patient had severe coronary disease with an underlying posterior-inferior wall aneurysm, the likely general origination site of the tachyarrhythmia. This type of monomorphic VT is usually originates in the vicinity of an underlying ventricular scar. The absence of evident AV dissociation (including independent sinus P waves, and/or capture or fusion beats) is non-diagnostic, as is the absence of positive or negative QRS concordance. The ST depressions (V1-V4) are not diagnostic in the context of the VT, but acute ischemia or even infarction, e.g., as a consequence of the tachycardia, is not excluded.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case502/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Ventricular Tachycardia",
+        "Hyperkalemia",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

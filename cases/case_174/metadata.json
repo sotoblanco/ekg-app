@@ -1,0 +1,21 @@
+{
+    "case_id": "174",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=173&ans=1&caseid=174",
+    "clinical_history": "What arrhythmia is present in this elderly woman with a history of mitral valve replacement for rheumatic mitral valve disease?",
+    "diagnosis": "b) The patient had long standing atrial fibrillation.  There are no discrete P waves which excludes sinus rhythm or multifocal atrial tachycardia see (Case # 149).  The erratic irregular oscillatory baseline with an erratic ventricular response is typical of atrial fibrillation. No flutter waves are seen (see Case # 52).  The scooping of the ST-T waves in the inferolateral leads is consistent with \"digitalis effect.\"",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case174/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Atrial Fibrillation"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

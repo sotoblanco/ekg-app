@@ -1,0 +1,22 @@
+{
+    "case_id": "44",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=43&ans=1&caseid=44",
+    "clinical_history": "30-yr-old man, not on any medication. What waveform is prominent? What is the likely diagnosis, assuming prior normal ECG?",
+    "diagnosis": "There are very (!) prominent U waves with Q-T or QT(U) prolongation. He had severe hypokalemia (1.5 mEq/L) due to diarrhea. Calcium was normal, as was magnesium (remember pure hypocalcemia prolongs the ST segment primarily but does not give large U waves.) Obviously, this acquired-type long-QT(U) syndrome puts the subject at risk for torsade de pointes which he fortunately did not have before coming to hospital. The same type ECG may occur with drug-related QT(U) prolongation syndromes and with hereditary long QT(U) syndromes related to \"channelopathies,\" including the previousl designated, classic Romano-Ward and Jervell Lange-Nielsen syndromes.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case44/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Hypokalemia",
+        "Long QT Syndrome"
+    ],
+    "category": "Diverse disease",
+    "report": {
+        "rhythm": "Normal Sinus Rhythm",
+        "rate": "75 bpm",
+        "axis": "Normal axis",
+        "intervals": "PR: 160 ms, QRS: 80 ms, QT(U): ~600 ms, QTc: ~670 ms",
+        "findings": "Very prominent U waves, prolonged QT(U) interval, mild ST depression in inferior and lateral leads.",
+        "comparison": "New changes compared to assumed prior normal EKG.",
+        "impression": "Acquired long QT(U) syndrome due to severe hypokalemia (1.5 mEq/L), posing a risk for torsade de pointes."
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "62",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=61&ans=1&caseid=62",
+    "clinical_history": "What is this patient's chief complaint and what is the cause?",
+    "diagnosis": "Probably pleuritic-type chest pain with ECG pattern of acute pericarditis (diffuse ST elevations and subtle PR segment shifts--PR up in aVR and down inferior-laterally, opposite of ST segment). Sinus tachycardia with pericarditis pattern may be due to a number of factors including a) pain; b) pericardial effusion/tamponade; c) associated myocarditis; d) fever.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case62/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Pericarditis"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

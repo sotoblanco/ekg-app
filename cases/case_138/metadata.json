@@ -1,0 +1,23 @@
+{
+    "case_id": "138",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=137&ans=1&caseid=138",
+    "clinical_history": "64-year-old-man with a dual chamber pacemaker (right atrial and right ventricular).  Can you diagnose the likely underlying cause of his severe chronic heart failure? This ECG was not significantly changed from recent previous ones over a few months.",
+    "diagnosis": "Ischemic heart disease, s/p prior myocardial infarctions MI(s), with very severe left ventricular (LV) dysfunction with an LV ejection fraction (LVEF) about 20%.  There is intermittent AV sequential pacing with subtle pacing spikes. The first 4 beats are atrial paced, ventricular sensed (i.e., native QRS complexes). Importantly, these QRS complexes do not show a typical left bundle branch (LBBB) pattern.  Instead, the native QRS complexes in the lateral leads (I, aVL) show prominent Q waves with QR-type complexes.  In addition, there are QR waves with persistent ST elevations in V5 and V6 in the paced/fused beats.  These findings also raise the possibility of underlying anterior MI with a  ventricular aneurysm-type pattern, although their specificity in right ventricular paced beats may be limited.  Note the gradual change in QRS appearance in the lead II rhythm strip. The QRS appears to get wider, most consistent with the onset of ventricular pacing with progressive ventricular fusion type beats. the 10th beat and beyond appear to be fully AV paced. A longer rhythm strip and a respiratory signal would be needed to see if this variation in pacing correlated with respiratory-related changes in autonomic modulation (either physiologic or due to Cheyne-Stokes cycling).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case138/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Bundle Branch Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

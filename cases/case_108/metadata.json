@@ -1,0 +1,23 @@
+{
+    "case_id": "108",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=107&ans=1&caseid=108",
+    "clinical_history": "Why is this patient with a dual chamber pacemaker presyncopal?",
+    "diagnosis": "He is having an inferior myocardial infarction (MI).  Note the markedly elevated J point and convex ST segment elevations inferiorly, with reciprocal changes in I, aVL, and V2.  The pacemaker is a dual chamber pacemaker, with intermittent A-V sequential pacing alternating with an A-sensed V-paced rhythm. (The ninth complex may represent a sensed, low amplitude, partly concealed premature atrial premature beat, masquerading as atrial pacing failure.)  Ventricular paced ECGs are usually not interpretable for ischemia.  However, just as with an intrinsic left bundle branch block, >5 mm ST segment elevation in right precordial or inferior leads, and especially ST depressions/T wave inversions in leads with QS or rS complexes, are highly suggestive of ischemia. (see: Sgarbossa et al.  Am J Cardiol  1995; 77:423-424.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case108/800x400.gif",
+    "difficulty": 5,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Bundle Branch Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

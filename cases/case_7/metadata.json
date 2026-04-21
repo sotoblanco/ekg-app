@@ -1,0 +1,21 @@
+{
+    "case_id": "7",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=6&ans=1&caseid=7",
+    "clinical_history": "49-year-old woman with a \"rapid heart beat\" has the following ECG. What is the rhythm?",
+    "diagnosis": "The ECG shows classic AV nodal reentrant tachycardia (AVNRT). This tracing demonstrates a regular, narrow complex tachycardia at a rate of 150 bpm. The differential diagnosis of a regular narrow tachycardia in general includes 5 major mechanisms: sinus tachycardia, AVNRT, atrial tachycardia, orthodromic atrio-ventricular reentrant tachycardia (AVRT) involving retrograde conduction over a \"concealed\" bypass tract, or atrial flutter with 2:1 block. If P waves can be located it can be helpful in determining the mechanism of the tachycardia.  In this tracing,  P waves can be located at the end of the QRS in lead II (best seen on the rhythm strip). In the beginning of the tracing, P waves are buried in the end of QRS complex, but then gradually come further out behind it.  By the end of the tracing inverted P waves can be clearly seen in the rhythm strip. This finding rules out the diagnosis of AV re-entry due to a concealed bypass tract (in which case the R-P interval is fixed and cannot be as short as in the beginning of this tracing since the ventricles and atria are activated sequentially).  There is clearly a 1:1 AV relationship here with no extra atrial waves in between ruling out atrial flutter with 2:1 AV conduction. That leaves 2 diagnoses: AVNRT and atrial tachycardia. Often it is impossible to tell the difference between the two unless initiation or termination of arrhythmias is recorded. However, in this case there are subtle but important diagnostic clues allowing one to infer the exact diagnosis. Note that not only the R-P relationship is changing, but ventricular rate is becoming faster. At the same time, the P-R interval gets shorter. Usually, if ectopic P waves are conducted over the AV node, the PR interval increases with increased heart rate consistent with decremental properties of the AV node. In this case PR interval gets shorter suggesting that P waves are unrelated to the subsequent QRS. This strongly supports the diagnosis of AVNRT. The gradual increase in the R-P interval (slowing of conduction over the ~fast~ AV nodal pathway can often be seen in typical AVNRT prior to spontaneous termination (that typically occurs in the ~fast~ pathway). Slowing of fast pathway conduction results in more delayed engagement of the ~slow~ pathway giving it more time to recover, hence the apparent shortening of PR the interval.   Absence of  visible P waves or the presence of a \"pseudo S\" pattern in II, III, or aVF, or a \"pseudo R prime\" pattern in V1 is characteristic of AVNRT due to near simultaneous activation of the atrium and the ventricle from the AV node. If the diagnosis is still in doubt, adenosine (if not contraindicated) may be useful in slowing conduction in the AV node. Reentrant rhythms (AVNRT or AVRT) may \"break\" abruptly, converting to sinus; the ventricular response of either atrial tachycardia or atrial flutter will sometimes slow abruptly often revealing underlying atrial activity. (Note: the final \"wide complex\" waveform appears to be an artifact superimposed on an AVNRT beat.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case7/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Atrial Flutter"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "AV Nodal Reentrant Tachycardia (AVNRT)",
+        "rate": "150 bpm",
+        "axis": "Normal axis",
+        "intervals": "PR: variable/short (retrograde); QRS: ~80 ms; QTc: ~410 ms",
+        "findings": "Regular narrow complex tachycardia; retrograde P waves seen as pseudo-S waves in inferior leads and pseudo-R' in V1; dynamic R-P interval lengthening and P-R interval shortening during the rhythm; terminal wide-complex artifact.",
+        "comparison": "N/A",
+        "impression": "AV Nodal Reentrant Tachycardia (AVNRT)"
+    }
+}

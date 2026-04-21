@@ -1,0 +1,21 @@
+{
+    "case_id": "182",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=181&ans=1&caseid=182",
+    "clinical_history": "Which clinical syndrome best fits the ECG in this 60-year-old male in the Intensive Care Unit?",
+    "diagnosis": "d) The serum potassium was 8.9 mEq/L.  Note the wide QRS with tall (\"peaked\" or \"tented\") T waves in V2-V4.  The PR interval is prolonged.  Left atrial abnormality is also present.  (Borderline right axis deviation is present which is non-diagnostic and could be due to incipient left posterior fascicular block associated with hyperkalemia or to other factors such as chronic obstructive pulmonary disease).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case182/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Hyperkalemia"
+    ],
+    "category": "Axis",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

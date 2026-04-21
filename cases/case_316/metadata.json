@@ -1,0 +1,21 @@
+{
+    "case_id": "316",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=315&ans=1&caseid=316",
+    "clinical_history": "84 year-old female status post cardioversion for atrial fibrillation.  The ECG is most consistent with which of the following rhythms?",
+    "diagnosis": "This ECG shows probable ectopic atrial rhythm at rate about 70 bpm, although sinus rhythm with unusually leftward P wave axis is not excluded.  The PR interval is slightly prolonged (0.22 seconds) indicating first degree AV conduction abnormality.  Left atrial abnormality (biphasic P in V1 with prominent negative component) is present. The predominantly negative P waves in lead II and biphasic P waves in aVR strongly suggest an ectopic atrial focus following cardioversion in this case.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case316/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

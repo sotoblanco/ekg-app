@@ -1,0 +1,22 @@
+{
+    "case_id": "240",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=239&ans=1&caseid=240",
+    "clinical_history": "A 61-year-old man with a history of hypertension and congestive heart failure presents to the emergency department with shortness of breath after eating breakfast.  All of the following statements about his ECG are correct EXCEPT:",
+    "diagnosis": "d) The QRS axis is normal at approximately 0\u00b0.  The rate is approximately 100 beats per minute, and there are upright P waves in lead II, fulfilling the criteria for sinus tachycardia. This patient is likely tachycardic because of neurohormonal changes related to congestive heart failure (CHF) exacerbation, namely increased sympathetic tone and decreased vagal tone.  The PR interval is normal at 0.16 second (normal PR < 0.20 second). There is ECG evidence of left ventricular hypertrophy (see below). There is no left bundle branch block (LBBB).  The criteria for complete LBBB include: 1. QRS duration > 0.12 second 2. A wide deep QS complex in V1 3. A wide tall R wave in V6 Additional comments: LVH can lead to a number of ECG abnormalities, including prominent voltage in the chest leads and selected limb leads, a widened QRS, T wave inversions in leads with tall R waves, left axis deviation, and left atrial abnormality (LAA).  Voltage criteria for left ventricular hypertrophy (LVH) should be used with caution, as various criteria have limited sensitivity or specificity.  Commonly used voltage criteria include one or more of the following: 1. SV1 + RV5 or V6 > 35 mm (3.5 mV) 2. RaVL > 11 mm (1.1 mV) 3. For men: SV3 + RaVL > 28 mm (2.8 mV) 4. For women: SV3 + RaVL > 20 mm (2.0 mV) This ECG shows clear evidence of LVH with LAA, T wave inversions in the lateral leads, and very prominent voltage in the chest leads (SV1 + RV5 = 45 mm). The lateral T wave inversions could be related to LVH or they could indicate lateral wall ischemia. However, this patient\u0092s serial cardiac enzymes were all negative.  His shortness of breath was due to worsening of his CHF, resulting in pulmonary edema.  He improved with standard therapy.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case240/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Left Bundle Branch Block",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

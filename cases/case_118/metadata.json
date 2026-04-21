@@ -1,0 +1,21 @@
+{
+    "case_id": "118",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=117&ans=1&caseid=118",
+    "clinical_history": "26-year-old man prior to enrolling in anti-convulsive medication trial.  What is your summary interpretation (choose ONE)?",
+    "diagnosis": "The ECG is within normal limits. Sinus rhythm is present at a rate of about 66/min with normal QRS axis (about +75 degrees) and intervals.  Precordial (chest lead) voltage may appear somewhat prominent but is well within normal range, especially in young adults, without left atrial abnormality or ST-T changes of left ventricular hypertrophy.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case118/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

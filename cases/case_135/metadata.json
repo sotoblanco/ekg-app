@@ -1,0 +1,21 @@
+{
+    "case_id": "135",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=134&ans=1&caseid=135",
+    "clinical_history": "What is the ECG diagnosis?",
+    "diagnosis": "a)  ECG shows sinus rhythm with the classic Wolff-Parkinson-White (WPW) triad of a short PR; wide QRS; and delta waves.  The bypass tract was postero-septal, consistent with the positive delta waves V2-V5, I and aVL; and negative delta wave in III.  Left posterior free wall bypass tracts have a similar pattern, but usually with prominent positive delta waves in all the precordial leads, including V1, as well as negative delta waves in the inferior leads.  Left lateral bypass tracts usually produce positive delta waves inferiorly and in all the precordial leads, with negative delta waves in I and aVL.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case135/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Wolff-Parkinson-White"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

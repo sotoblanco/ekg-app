@@ -1,0 +1,22 @@
+{
+    "case_id": "373",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=372&ans=1&caseid=373",
+    "clinical_history": "68 year-old man with a history of severe chronic obstructive pulmonary disease (COPD) with rapid heart rate. What is the rhythm? Note: Lead V2 is not recorded.",
+    "diagnosis": "This ECG shows atrial fibrillation with a rapid ventricular response rate at about 150 bpm. Diffuse non-specific ST-T wave changes are present. The highly irregular rate with an oscillatory (wavy) baseline is typical of atrial fibrillation. There are no discrete P waves which rules out sinus or atrial tachycardia and no atrial flutter waves. There is borderline low voltage diffusely, consistent with COPD.   For reference also see cases # 310 and 332.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case373/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

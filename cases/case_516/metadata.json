@@ -1,0 +1,22 @@
+{
+    "case_id": "516",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=515&ans=1&caseid=516",
+    "clinical_history": "This ECG, from a young adult man with progressive weakness and dyspnea is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The ECG shows sinus rhythm with right axis deviation. The right-mid precordial R waves are very prominent, with a drop-off in voltage laterally. The P waves are notched raising consideration of left atrial abnormality. The T waves are inverted in the right precordial leads. While the findings raise consideration of right ventricular hypertrophy, they do not account for the P waves (one might expect RAA). In the context of the neuromuscular history in a young adult male, these findings are most consistent with Duchenne muscular dystrophy. The tall right precordial R waves are attributable to posterior-basal fibrosis. Additional features often include prominent Q waves laterally, producing a pseudo-infarction pattern (posterolateral MI mimic), and sometimes concomitant atrial arrhythmias and other conduction disturbances.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case516/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

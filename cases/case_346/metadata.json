@@ -1,0 +1,22 @@
+{
+    "case_id": "346",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=345&ans=1&caseid=346",
+    "clinical_history": "Elderly female admitted with dementia and mild congestive heart failure. What is the rhythm?",
+    "diagnosis": "This ECG shows multifocal atrial tachycardia (MAT) at an average rate about 106 bpm. There are three or more consecutive non-sinus P waves present on the lead II rhythm strip at a rapid rate. Of interest, the ECG also shows right bundle branch block (RBBB) with marked right axis deviation. The differential diagnosis centers on right ventricular (RV) overload vs. RBBB with left posterior fascicular block. (The latter requires clinical exclusion of other causes of right axis deviation, especially RV overload and lateral infarction.)  Left atrial abnormality and non-specific ST-T changes were noted. The patient refused an echocardiogram.  MAT is most commonly seen in context of chronic obstructive pulmonary disease or congestive heart failure of various causes. The arrhythmia may be precursor of atrial fibrillation.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case346/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

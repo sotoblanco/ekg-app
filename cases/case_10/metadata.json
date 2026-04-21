@@ -1,0 +1,22 @@
+{
+    "case_id": "10",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=9&ans=1&caseid=10",
+    "clinical_history": "The patient is an elderly man who presented to the emergency ward with dizziness and new renal failure. What is the cause of the very wide QRS?",
+    "diagnosis": "Dx: Hyperkalemia (7.6 mEq/L), secondary to the renal failure. The ECG demonstrates findings consistent with severe hyperkalemia -- most importantly marked widening of the QRS complex. The QRS complex here shows an intraventricular conduction delay (IVCD) with a left bundle branch block (LBBB) morphology and left axis deviation. However, the QRS duration (about 240 ms) is much wider than that seen with an \"uncomplicated\" LBBB (or with left anterior fascicular block) due to intrinsic conduction disease. There is also peaking of the T waves with prolongation of the PR interval and flattening of the P waves. If the hyperkalemia is left untreated, the ECG will progress to a sinusoidal pattern and eventually asystole with subsequent hemodynamic collapse and death.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case10/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Hyperkalemia",
+        "Left Bundle Branch Block"
+    ],
+    "category": "Axis",
+    "report": {
+        "rhythm": "Sinus rhythm",
+        "rate": "65 bpm",
+        "axis": "Left axis deviation",
+        "intervals": "PR: 240 ms, QRS: 240 ms, QTc: 540 ms",
+        "findings": "Marked QRS widening (intraventricular conduction delay) with LBBB morphology, peaked T waves, flattened/low-amplitude P waves, and prolonged PR interval (1st degree AV block).",
+        "comparison": "N/A",
+        "impression": "Severe hyperkalemia (7.6 mEq/L) resulting in profound intraventricular conduction delay and characteristic repolarization changes."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "case_id": "268",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=267&ans=1&caseid=268",
+    "clinical_history": "85-year-old female with asymptomatic bradycardia. What does this ECG show?",
+    "diagnosis": "This ECG shows borderline sinus tachycardia (about 105/min) and a ventricular rate of about 35/min, yielding 3:1 \"advanced\" AV block. There is an intraventricular conduction delay with right  bundle branch block and left anterior fascicular block (QRS = 0.13 second, with marked left axis deviation). The conducting P (\"third) wave has a prolonged PR interval of about 230 ms and is constant.  Left atrial abnormality and left ventricular hypertrophy are noted.~~~~The constancy of the conducted PR intervals rules out AV Wenckebach. The consistent sinus P waves (at a rate close to 105 bpm) rules of out sick sinus syndrome/SA exit block. Complete heart block is excluded as every 3rd P wave is conducted. This pattern is referred to as advanced second degree AV block. The finding of 3:1 block with bifascicular block is consistent with advanced infranodal disease and is an indication for permanent pacemaker even without overt symptoms.~~~~~~",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case268/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "AV Block",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

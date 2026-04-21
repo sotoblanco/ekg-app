@@ -1,0 +1,21 @@
+{
+    "case_id": "233",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=232&ans=1&caseid=233",
+    "clinical_history": "Which of the following statements about this ECG from a 23-yr-old woman with chest pain is correct?",
+    "diagnosis": "a) The ECG shows sinus rhythm at a rate of about 60/min and is completely within normal limits. The electrical axis (about +50 degrees) and basic intervals (PR, QRS and QT) are all normal. The P waves are normal. The QRS complexes have a normal morphology. The precordial leads show normal R wave progression (transition zone between V3 and V4). The ventricular repolarization (ST-T complex) is physiologic (with a normal QT interval) making severe hypokalemia or hypocalcemia unlikely. Severe hypokalemia generally causes repolarization (QT-U) prolongation (usually with flat T waves and sometimes ST sagging). Severe hypocalcemia prolongs the plateau phase of the ventricular action potential, associated QT prolongation due to a \u0093stretched out\u0094 ST segment.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case233/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Hypokalemia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "case_id": "110",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=109&ans=1&caseid=110",
+    "clinical_history": "\"Alternate hypothesis.\"  What's going on here?",
+    "diagnosis": "The rhythm is sinus with underlying left anterior fascicular block (LAFB), and 2:1 conduction in the left posterior fascicle (LPF).  When both the LPF and LAF are blocked, a complete left bundle branch block (LBBB) morphology results.  Beat #12 is likely a His extrasystole or junctional premature beat, consistent with underlying infra-nodal conduction disease.  There is underlying left ventricular hypertrophy with non-specific ST-T wave changes most prominent in the lateral leads, and left atrial abnormality.~~This challenging ECG is most likely to be mistaken for sinus rhythm with frequent premature ventricular complexes (PVCs) in a bigeminal pattern (ventricular bigeminy). A key finding here is that the PR interval is not shorter with these wide complex beats.  Usually, with ventricular bigeminy and late diastolic PVCs (the more common cause of this type of bigeminal pattern with intermittent wide complexes), the PVCs come slightly early and hence the PR is noticeably shorter.    The differential diagnosis also includes intermittent Wolff-Parkinson-White (WPW) pre-excitation in a bigeminal pattern. However, the absence of a short PR interval and delta waves excludes this diagnosis. Supraventricular bigeminy with aberrant ventricular conduction, another consideration, is excluded by the fact that the P waves are all sinus in origin.  Further notes: The very broad, negative P waves in lead V1 are consistent with left atrial abnormality and the concomitant biphasic P waves in II, III and aVF with an advanced interatrial conduction delay (see: Ariyarajah V, Spodick DH: Cardiology 2005;104:33-34.)  The prominent R wave in lead aVL in the narrow beats (even with the left axis deviation) is consistent with underlying left ventricular hypertrophy.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case110/800x400.gif",
+    "difficulty": 5,
+    "topics": [
+        "Left Bundle Branch Block",
+        "Wolff-Parkinson-White",
+        "Supraventricular Tachycardia",
+        "Premature Ventricular Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

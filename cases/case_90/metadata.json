@@ -1,0 +1,22 @@
+{
+    "case_id": "90",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=89&ans=1&caseid=90",
+    "clinical_history": "61-yr-old female. Can you predict what type of heart disease she has from ECG?  Clues: axis; rhythm",
+    "diagnosis": "Rheumatic valve disease with severe mitral stenosis (MS) and mitral regurgitation (MR) as well. The ECG shows very coarse atrial fibrillation (or fibrillation/flutter) with a moderate ventricular response. There is right axis deviation, along with T wave inversions in V1-V4 and a delayed precordial transition zone, all consistent with right ventricular overload. The prominent S waves in V3 in this context suggest possible biventricular hypertrophy. Whenever you see marked left atrial abnormality or atrial fibrillation in the presence of  right ventricular hypertrophy signs, always think about rheumatic mitral valve disease. Mitral stenosis is the only single lesion that can readily account for the combination of left atrial enlargement and right ventricular hypertrophy.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case90/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

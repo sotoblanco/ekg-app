@@ -1,0 +1,25 @@
+{
+    "case_id": "348",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=347&ans=1&caseid=348",
+    "clinical_history": "54 year-old male status post mitral valve replacement with complaint of palpitations. What is the rhythm?",
+    "diagnosis": "This ECG shows a regular paroxysmal supraventricular tachycardia (PSVT) at rate of 160 beats per minute with apparent positive P waves in lead II superimposed on the preceding T waves, suggesting atrial tachycardia with 1:1 AV conduction. There is borderline left axis deviation and non-specific ST-T wave changes. Very deep S waves in the right-mid precordial leads raise strong consideration of underlying left ventricular hypertrophy. See also Case # 222  The patient was treated with adenosine without change in rhythm, and then was given intravenous verapamil, unmasking atrial tachycardia with variable AV conduction. He was treated successfully with radiofrequency (RF) ablation of a high right atrial focus during a cardiac electrophysiology procedure.  There are no atrial flutter (F) waves and the regularity of the R-R intervals excludes atrial fibrillation or MAT. The very high resting rate is strongly against sinus tachycardia in a subject of this age.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case348/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Ventricular Tachycardia",
+        "Supraventricular Tachycardia",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

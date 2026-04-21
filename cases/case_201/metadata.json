@@ -1,0 +1,21 @@
+{
+    "case_id": "201",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=200&ans=1&caseid=201",
+    "clinical_history": "Markedly low voltages here are due to pleural effusions.  What is the arrhythmia?",
+    "diagnosis": "d) The ventricular response here is fast and irregular.  Fibrillatory waves are seen on close inspection (V1, for example).  Generalized low voltage and atrial fibrillation should also make you think about pericardial disease (effusive or constrictive), chronic obstructive pulmonary disease (COPD), and cardiomyopathy.  This patient did not have a significant pericardial effusion but did have bilateral pleural effusions (and left hydropneumothorax).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case201/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

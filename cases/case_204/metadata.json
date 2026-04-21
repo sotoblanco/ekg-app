@@ -1,0 +1,22 @@
+{
+    "case_id": "204",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=203&ans=1&caseid=204",
+    "clinical_history": "The following ECG from an 84-year-old woman with \"indigestion\" shows all of the following findings EXCEPT which ONE?",
+    "diagnosis": "d) This patient, with a history of hypertension, ruled in by serum biomarkers for a non/ST segment elevation/non-Q wave (ST segment depression)  myocardial infarction (MI).  The ECG shows left ventricular hypertrophy (LVH) by voltage (R wave 12-13 mm in aVL) plus left atrial abnormality (LAA). The QRS axis is horizontal (-7 degrees), but without frank left axis deviation (i.e., -30 degrees or more negative) or evidence for left anterior fascicular block (strictly -45 degrees or more negative).  Although LVH alone may be associated with ST-T abnormalities (sometimes referred to as a \"strain pattern\"), like those in lead aVL, the prominent horizontal or downsloping ST depressions in other leads (I, II, aVF, V5, V6) here are strongly suggestive of ischemia superimposed on LVH. Importantly, the concomitant ST elevations in aVR.exceeding those in lead V1 strongly suggest three vessel disease and sometimes left main stenosis. The patient had positive cardiac enzymes and underwent cardiac catheterization, which did show left main and three vessel coronary disease, necessitating emergency coronary artery bypass graft surgery.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case204/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

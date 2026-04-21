@@ -1,0 +1,22 @@
+{
+    "case_id": "337",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=336&ans=1&caseid=337",
+    "clinical_history": "A 43 year-old man is found unresponsive. What is the most likely diagnosis?",
+    "diagnosis": "The rhythm is sinus bradycardia at a rate of about 46 bpm with prominent \u0093J\u0094 (Osborn) waves in leads V4-V6 and marked QT prolongation (620 msec). The baseline noise in this context is consistent with shiver-related artifact. This combination of findings is virtually pathognomonic of systemic hypothermia. (The precordial voltage is borderline prominent without definite evidence of left ventricular hypertrophy.)  This patient was a homeless man with no known medical history who was found unresponsive with a body temperature of 74.6 degrees F during an extremely cold spell.  Laboratory findings revealed a low serum potassium level of 3.2 (normal range 3.5-5.0 mEq/L) that may have contributed to the repolarization prolongation, low serum calcium of 7.3 (normal range 8.4-10.2 mg/dL) proportional to the low serum albumin of 2.7 g/dL, and low normal serum magnesium 1.7 (range 1.6-2.6 mg/dL).  A transthoracic echocardiogram showed a normal left ventricular ejection fraction of 60 % and symmetric, diastolic left ventricular wall thickness (septum and posterior wall) at the upper limits of normal (11 mm).  See also Cases 285 and 319 for comparison and further discussion. The term Osborn waves was adopted in honor of Dr. John .J. Osborn who systematically studied these hypothermia-related waves in a canine model in a classic 1953 article. For a nice write-up on this pioneering physician-scientist (Am J Physiol 1953; 175:389). The earliest published recognition of the J wave in systemic hypothermia is credited to W. Tomaszewski (Arch Mal Coeur 1938:31:525).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case337/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

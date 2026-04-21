@@ -1,0 +1,22 @@
+{
+    "case_id": "362",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=361&ans=1&caseid=362",
+    "clinical_history": "This ECG, from an 80 year-old woman, shows sinus rhythm with which of the following?",
+    "diagnosis": "This ECG shows sinus rhythm with ventricular premature beats (VPBs) in a bigeminal pattern. The VPBs have a right bundle branch/superior axis configuration, consistent with a left ventricular/inferior wall origin. The sinus conducted QRS complexes show inferior ST segment elevations with probable reciprocal ST segment depressions in leads 1 and aVL and V2-V3. The sinus beats also show right axis deviation raising consideration of left posterior fascicular block (no evidence of right ventricular hypertrophy by echocardiogram). Lateral ST depressions are also seen in leads V5/V6 consistent with ischemia in this zone. Low limb lead voltage and delayed precordial transition zone, which are non-specific findings, are present.  The patient had an acute STEMI coronary syndrome with multi-vessel coronary disease at angiography including several 80-90~ lesions in the dominant right coronary artery. Overall left ventricular systolic function was preserved. She underwent urgent coronary artery bypass graft surgery.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case362/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "123",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=122&ans=1&caseid=123",
+    "clinical_history": "Can you find your sense of direction with this wide complex tachycardia?",
+    "diagnosis": "This is relatively slow bi-directional ventricular tachycardia (VT).  Note the sinus P waves (sinus tachycardia) at a rate of about 110 beats/min (most visible in the lead II rhythm strip toward end of recording) with apparent atrioventricular (AV) dissociation and a wide complex tachycardia at about 100 beats/min.  The QRS complex alternates between two morphologies.  This arrhythmia should always raise suspicion of digitalis toxicity (not present in this patient with a recent myocardial infarct).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case123/800x400.gif",
+    "difficulty": 5,
+    "topics": [
+        "Ventricular Tachycardia"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

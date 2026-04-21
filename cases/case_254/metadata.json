@@ -1,0 +1,22 @@
+{
+    "case_id": "254",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=253&ans=1&caseid=254",
+    "clinical_history": "The following ECG with a heart rate of 32 bpm shows what bradyarrhythmia?",
+    "diagnosis": "AV junctional bradycardia is indicated by the normal (narrow) QRS complexes with retrograde P waves seen just afterward causing pseudo S waves in lead II and pseudo terminal R waves in V1. There is also a prolonged QT interval.\r\n\r\nThe QRS duration is normal excluding idioventricular rhythm. No sinus P waves are seen and conduction is retrograde (1:1) from junction to atria, excluding complete heart block or atrial fibrillation. \r\n\r\nThe cause of the junctional bradycardia here was intrinsic SA node disease.  Serum potassium and thyroid function were normal. No \u0093culprit\u0094 drugs were identified (e.g., beta blockers, certain calcium channel blockers such as diltiazem or verapamil, lithium carbonate, sotalol, amiodarone, etc).  Symptomatic sick sinus syndrome (e.g., with syncope or pre-syncope, fatigue or heart failure) without reversible causes is an indicator for pacemaker therapy.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case254/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

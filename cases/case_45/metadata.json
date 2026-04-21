@@ -1,0 +1,21 @@
+{
+    "case_id": "45",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=44&ans=1&caseid=45",
+    "clinical_history": "An elderly man complains of increasing weakness. Which ONE of following is the most likely diagnosis from the ECG alone?",
+    "diagnosis": "This ECG shows sinus rhythm with normal intervals and classic pseudo atrial flutter/fib type waves associated with Parkinsonian tremor. These artifactual waves can also mimic ventricular tachyarrhythmias. The marked amplitude of the waves, absence of an irregular ventricular rate and subtle, hidden true P waves in selected leads (lead 2, intermittently seen; aVR) indicate underlying sinus rhythm.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case45/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Flutter"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "Sinus rhythm",
+        "rate": "75 bpm",
+        "axis": "Normal axis",
+        "intervals": "Normal intervals (PR, QRS, and QTc within expected ranges)",
+        "findings": "Marked pseudo-arrhythmia artifact due to Parkinsonian tremor, mimicking atrial flutter, atrial fibrillation, or ventricular tachycardia; true P waves are intermittently visible (e.g., lead II and aVR).",
+        "comparison": "N/A",
+        "impression": "Sinus rhythm with prominent Parkinsonian tremor artifact mimicking various tachyarrhythmias."
+    }
+}

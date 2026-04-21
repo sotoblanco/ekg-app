@@ -1,0 +1,21 @@
+{
+    "case_id": "459",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=458&ans=1&caseid=459",
+    "clinical_history": "This ECG, from an elderly woman, is consistent with which ONE of the following conditions?",
+    "diagnosis": "The ECG shows sinus rhythm at a rate of about 70/min. Marked left axis deviation of the mean frontal plane QRS axis is present, consistent with left anterior fascicular block (with normal QRS duration). The PR interval is at the upper limits of normal (about 200 msec). The most dramatic findings are ST elevations, sometimes in association with hyperacute T waves in leads V2-V6, I and aVL, with reciprocal ST depressions in lead III, and slightly in lead aVF. The ST segment is also depressed in lead V1. These findings are consistent with relatively proximal occlusion of the left anterior descending (LAD) coronary artery, probably below the origin of the septal perforators but before the take-off of first diagonal branch, to account for the orientation of the ST (current of injury vector) antero-laterally. The key point is that a very large amount of myocardium is jeopardized.  There has been interest in precise localization of the area of LAD blockage from the 12-lead ECG. However, factors such as multivessel involvement (especially with jeopardized collaterals), anatomic variations, and evolving size and location of the \u0093culprit\u0094 clot, etc. preclude algorithmic predictions about the location of occlusion within the LAD system, which have both high sensitivity and specificity. In cases showing new RBBB and/or ST elevations in leads V1 and aVR, very proximal occlusion of the LAD before the first septal perforators (or even left main occlusion) is likely to be present.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case459/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Right Bundle Branch Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

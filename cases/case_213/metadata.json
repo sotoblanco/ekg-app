@@ -1,0 +1,22 @@
+{
+    "case_id": "213",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=212&ans=1&caseid=213",
+    "clinical_history": "A 55-yr-old woman complains of severe dyspnea. The ECG is most consistent with which diagnosis?",
+    "diagnosis": "c) The ECG shows prominent resting sinus tachycardia with an S1Q3T3 pattern. This combination, while not specific, raises the possibility of acute cor pulmonale due to a variety of causes, including acute asthma, acute pulmonary emboli, extensive pneumonitis, etc.  The borderline low QRS voltage in the precordial leads (10mm or less in most of the chest leads) is also consistent with chronic obstructive lung disease here. An rSr\u2032 morphology in lead aVR (but not in V1) along with qRS waves in the lateral leads with a normal QRS duration is present. These findings do not strictly qualify for a right ventricular conduction delay but are also consistent with the acute right ventricular overload. P pulmonale (right atrial overload) may also be seen in this context but is not observed here since the P waves are not especially tall. The inferior lead changes are relatively subtle without diagnostic Q waves or ST-T changes to support an ECG diagnosis of inferior myocardial infarction (MI.) The absence of marked left atrial abnormality and signs of right ventricular overload excludes severe mitral stenosis. Left pneumothorax may be associated with a rightward shift in the QRS axis and a marked reduction in lateral precordial QRS voltages with loss of normal R wave progression. The absence of evidence for left ventricular hypertrophy (LVH) essentially excludes critical aortic stenosis.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case213/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

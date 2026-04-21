@@ -1,0 +1,21 @@
+{
+    "case_id": "155",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=154&ans=1&caseid=155",
+    "clinical_history": "This ECG from a 68-year-old woman is diagnostic of which ONE of the following?:",
+    "diagnosis": "b)  Note loss of R waves V1 - V4, with ST elevations in  V2 - V5/V6 (as well as slightly in I and aVL) with underlying sinus rhythm.  Marked left axis deviation is present with a normal QRS duration consistent with left anterior fascicular block (LAFB). (However, by itself, LAFB does NOT account for the loss of R wave progression.)  The patient had had a very recent ST elevation/Q wave anterior myocardial infarction (MI).  Cardiac catheterization revealed 3-vessel disease with a 90~ mid-LAD \"culprit\" lesion that was treated successfully with angioplasty/stenting.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case155/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "322",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=321&ans=1&caseid=322",
+    "clinical_history": "This ECG from a 53 year old woman is most consistent with which of the following diagnoses?",
+    "diagnosis": "This ECG shows an unusual combination of spurious findings since there is both limb lead (left/right arm) and chest lead reversal. The negative P wave in lead I with a negative QRS strongly suggests right/left arm lead reversal. This most common type of limb lead reversal can be visually corrected by reversing the polarity of lead I, relabeling leads II and III, and leads aVR and aVL. The chest leads are also mislabeled here so that V1 is actually V6, V2 is V5 etc. The ECG after \u0093correction\u0094 is entirely normal. Note that dextrocardia with situs inversus in the absence of underlying organic heart disease will not usually be associated with a tall R wave in V1 (see Case 19).  Also, see Cases 2 and 175 for other examples of lead reversals.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case322/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Fundamentals",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "case_id": "24",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=23&ans=1&caseid=24",
+    "clinical_history": "A 68-year-old man presents with dyspnea. What does the ECG show?",
+    "diagnosis": "Ventricular paced rhythm with underlying complete heart block (sinus P waves, with left atrial abnormality, \"march\" through independently at a rate of about 70/min). Most important is the superimposed current of injury with hyperacute ST-T changes inferiorly and laterally with reciprocal change V1-V3 consistent with acute infero-postero-lateral ischemia/ myocardial infarction (MI). Pacemaker patterns, like left bundle branch block (LBBB), often mask acute or chronic MI.  But sometimes, as in the present case, the ischemic changes \"show through.\" The unusually marked notching (possibly equivalent to a fractionated electrogram) of the initial and latter portions of the paced QRS complexes, which have a LBBB morphology, raise consideration of underlying ventricular scarring from prior infarction.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case24/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Bundle Branch Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Ventricular paced rhythm with underlying complete heart block and independent sinus P waves (AV dissociation)",
+        "rate": "Ventricular rate ~55 bpm; Atrial rate ~70 bpm",
+        "axis": "Right axis deviation",
+        "intervals": "PR: N/A (AV dissociation); QRS: ~180 ms; QTc: ~460 ms",
+        "findings": "Ventricular pacemaker spikes; underlying complete heart block with sinus rhythm marching through; hyperacute ST-segment elevation in inferior (II, III, aVF) and lateral (V5, V6) leads; reciprocal ST-segment depression in V1-V3; marked notching of paced QRS complexes; left atrial abnormality",
+        "comparison": "N/A",
+        "impression": "Acute infero-postero-lateral myocardial infarction superimposed on a ventricular paced rhythm with underlying complete heart block and evidence suggesting prior ventricular scarring."
+    }
+}

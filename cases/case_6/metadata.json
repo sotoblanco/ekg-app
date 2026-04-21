@@ -1,0 +1,25 @@
+{
+    "case_id": "6",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=5&ans=1&caseid=6",
+    "clinical_history": "71-year-old female with mitral stenosis and a history of atrial fibrillation.  What is the rhythm now?",
+    "diagnosis": "Rhythm: Ectopic atrial (non-sinus) rhythm (borderline for atrial tachycardia -- atrial rate around 95/min) with 2:1 block and 3:2  AV Wenckebach (beats 4 and 5), accounting for the bradycardic QRS rate (about 48/min). Note the negative P waves in lead II indicating a non-sinus pacemaker.  Other important abnormalities: right bundle branch block, left anterior fascicular block and a markedly prolonged QT(U) interval. This patient was on digoxin and quinidine.  The evidence for quinidine excess (assuming the serum potassium is normal and no other factors prolonging ventricular repolarization are identifiable) is the very long QT(U) interval best seen in V2-V5. This finding predisposes to torsade de pointes and may occur with \"therapeutic\" or \"subtherapeutic\"  levels of quinidine or other class 1A antiarrhythmic drugs.  Atrial rhythm/ tachycardia with Mobitz I block also strongly raises the question of digitalis toxicity in patients on that class of medication.  (However, atrial tachycardias with AV block in the general population are usually not due to digitalis excess.) With pure 2:1 AV block, it may be impossible from the surface ECG to tell if the non-conducted beats are due to nodal or infranodal block. The clue here centers on beats 4 and 5 where 3:2 Wenckebach is evident, indicating block in the AV node. The atrial rate of close to 100 cycles/min is faster than the usual ectopic atrial escape rhythm, so this ECG can be read as accelerated ectopic atrial rhythm or \"slow/borderline atrial tachycardia\" with AV block.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case6/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Atrial Fibrillation",
+        "Long QT Syndrome",
+        "Right Bundle Branch Block",
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "Ectopic atrial rhythm (borderline atrial tachycardia) with mixed 2:1 AV block and 3:2 AV Wenckebach",
+        "rate": "Atrial rate: ~95 bpm; Ventricular rate: ~48 bpm",
+        "axis": "Left axis deviation",
+        "intervals": "PR: variable (due to Wenckebach); QRS: >120 ms (widened); QT(U): markedly prolonged",
+        "findings": "Negative P waves in inferior leads (indicating ectopic atrial focus), Right Bundle Branch Block (RBBB), Left Anterior Fascicular Block (LAFB), markedly prolonged QT(U) interval most prominent in V2-V5",
+        "comparison": "N/A",
+        "impression": "Slow atrial tachycardia with high-grade AV block and bifascicular block; clinical features and EKG findings (prolonged QT/U and AV block) are highly suggestive of digitalis and quinidine toxicity."
+    }
+}

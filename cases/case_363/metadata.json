@@ -1,0 +1,22 @@
+{
+    "case_id": "363",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=362&ans=1&caseid=363",
+    "clinical_history": "A young adult man with chest discomfort and dyspnea presents to the emergency ward. The ECG is diagnostic of which ONE of the following?",
+    "diagnosis": "Borderline sinus tachycardia is present at rate of about 95/min. Precordial voltage is prominent. The ECG shows classic findings for acute pericarditis with diffuse (leads I, II, III, aVL, aVF, V2-V6) upsloping ST segment elevations and concomitant PR segment deviations (up in aVR and down in other leads that show ST depressions).  Clinically, the patient had recurrent pericarditis, with an acute exacerbation or recurrence. He also had pericardial effusion, without tamponade physiology on the day of this ECG but with right ventricular collapse noted on the following day. Echocardiogram also showed a moderate pericardial effusion. He underwent pericardiocentesis and subsequently a subtotal pericardiectomy (\u0093pericardial stripping\u0094) procedure for his idiopathic pericardial inflammatory syndrome.  The prominent precordial voltage here is non-diagnostic in a young adult male. The patient did have hypertension and concentric left ventricular hypertrophy. The only ECG evidence for hemodynamic compromise is the borderline resting tachycardia. Low voltage and electrical alternans are absent. Some useful references include: NEJM 2004: 351:21 and Circulation 2005;112:1921",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case363/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Pericarditis",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

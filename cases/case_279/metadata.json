@@ -1,0 +1,22 @@
+{
+    "case_id": "279",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=278&ans=1&caseid=279",
+    "clinical_history": "ECG from a 69 year old woman. The ECG is most consistent with which of the following drug effects?",
+    "diagnosis": "This ECG shows sinus rhythm at a rate 60 bpm left atrial abnormality (with leftward P wave axis) and a borderline leftward QRS axis. The prominent negative component of the P waves in leads II, III and aVF is likely related to an intra-atrial conduction delay which may be a marker of increased risk of atrial fibrillation.  AV conduction is normal. The QT interval is prolonged at 0.47 sec for the rate of 60 bpm (QTc= .47) consistent with the patient\u0092s history of atrial fibrillation treated with the class III agent, amiodarone.  (The T wave is somewhat notched here as well, probably related to drug effect on repolarization.) \r\n\r\nOther factors that can cause a long QT were excluded here (e.g., electrolytes were normal and no other relevant drugs were being taken.) \r\n\r\nDigoxin shortens the QTc interval and the other drugs listed above do not have any major direct effects.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case279/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Long QT Syndrome"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

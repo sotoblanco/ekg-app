@@ -1,0 +1,23 @@
+{
+    "case_id": "57",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=56&ans=1&caseid=57",
+    "clinical_history": "Rapid palpitations. Why?",
+    "diagnosis": "Atrial flutter with 2:1 conduction. Don't overlook the subtle \"extra\" atrial wave (it's NOT a true P wave, but a flutter wave) in the early ST segment. Atrial flutter with 2:1 conduction (block) is often mistaken for sinus tachycardia or paroxysmal supraventricular tachycardia (PSVT), as discussed elsewhere in this problem set.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case57/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Flutter",
+        "Ventricular Tachycardia",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "case_id": "485",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=484&ans=1&caseid=485",
+    "clinical_history": "ECG from an older man with witnessed syncopal episodes. The QRS waveform shows a right bundle branch block (RBBB) with marked left axis deviation (LAD). What is the most likely rhythm disturbance?",
+    "diagnosis": "The ECG shows sinus rhythm at a rate of about 80/min (P wave rate) and an effective ventricular (QRS) rate of about 44/min. There are more P waves than QRS complexes, associated with \u0093group beating.\u0094  The appearance of clustered QRS complexes in this case is due to pauses from intermittent 2:1 and 3:2 AV conduction patterns. The conducted PR intervals are at the upper normal limits (about 200 ms). Of note, the PR intervals before and after the non-conducted (\u0093dropped\u0094 or blocked) P waves are about the same duration. With AV Wenckebach (3:2, 4:3, etc.), the PR intervals after the non-conducted P waves are shorter than those of the PR intervals before them. The abrupt non-conducted P waves with 3:2 (or other than 2:1 block) are typical of Mobitz II block, strongly implicating infranodal disease. Supporting an infranodal (His-Purkinje) locus of block here are the underlying RBBB and marked left axis deviation, the latter consistent with left anterior fascicular block (LAFB).  The ECG also shows probable left atrial abnormality (LAA; biphasic P in V1 with a broad negative component) with probable left ventricular hypertrophy (R in aVL=11mm plus LAA). Echocardiogram confirmed increased left atrial size and also showed mild concentric LVH.  Infranodal disease in older individuals is most likely to be due to sclerodegeneration or calcification of the conduction system (Lev-Len\u00e8gre syndrome). The patient underwent dual chamber pacemaker implantation.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case485/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Right Bundle Branch Block",
+        "AV Block",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

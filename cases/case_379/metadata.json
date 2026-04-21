@@ -1,0 +1,21 @@
+{
+    "case_id": "379",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=378&ans=1&caseid=379",
+    "clinical_history": "66 year-old male status post left upper lobe lobectomy develops a rapid heart beat. What is the rhythm?",
+    "diagnosis": "This ECG shows typical ~counterclockwise~ atrial flutter with 2:1 AV conduction with a ventricular response rate of about 140 bpm. The atrial flutter rate, therefore, is about 280 cycles/min. Non-specific ST-T wave changes are present. . The atrial flutter waves are inverted in lead II and upright in V1/V2, consistent with the counterclockwise rotation of the right atrial based macro-reentrant loop involving the fibrous \"isthmus\" between the inferior vena cava and tricuspid valve (isthmus-dependent).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case379/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Flutter"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

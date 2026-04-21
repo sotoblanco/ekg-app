@@ -1,0 +1,22 @@
+{
+    "case_id": "490",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=489&ans=1&caseid=490",
+    "clinical_history": "This ECG from an elderly woman shows which ONE of the following diagnoses?",
+    "diagnosis": "The rhythm is atrial fibrillation (with some baseline artifact) yielding an average ventricular rate of about 77 bpm. The atrial (f) rate is highly variable and nonstationary. When the atrial rate slows to about 300 cycles/min, the amplitude of the f waves gets larger transiently resembling flutter. However, flutter waveforms are monotonously repetitive (unchanging) in appearance and rate in any given case. However, the ventricular rate may vary and the flutter (F) waves may be superimposed on other waveforms giving the appearance of variability. Non-specific ST-T changes are present with borderline low voltages, a non-diagnostic finding. Of interest, about two months previously the patient had sustained a very large ST elevation/anterior Q wave MI, with percutaneous coronary intervention. This finding (or lack thereof) illustrates that the sensitivity of the ECG may decrease with time following even large infarctions in some patients.~~",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case490/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

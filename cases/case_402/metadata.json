@@ -1,0 +1,24 @@
+{
+    "case_id": "402",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=401&ans=1&caseid=402",
+    "clinical_history": "Elderly female with a history of coronary artery disease (CAD) and paroxysmal atrial fibrillation who presented with CHF exacerbation and a recent history of syncope. The following ECG is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "This ECG shows underlying sinus rhythm (of note, there is right/ left arm lead reversal!) with prominent Q-T/U prolongation and bursts of polymorphic ventricular tachycardia, rate about 190 bpm, diagnostic of non-sustained torsades de pointes. This life-threatening arrhythmia may be the result of a wide variety of drugs, electrolyte disturbances, especially hypokalemia and hypomagnesemia, high degree AV heart blocks, as well as hereditary long QT syndromes (\"channelopathies\"). In some cases, a combination of factors may contribute.  This woman was on dofetilide therapy (a class III drug) for treatment of paroxysmal atrial fibrillation. An echocardiogram revealed mildly-moderately depressed left ventricular ejection fraction of with mid to distal septal and inferior/lateral hypokinesis. Note the QS complexes in V1-V2. Torsades de pointes here was  induced by the dofetilide, in the setting of underlying coronary heart disease and reduced renal clearance.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case402/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Ventricular Tachycardia",
+        "Hypokalemia",
+        "Long QT Syndrome"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

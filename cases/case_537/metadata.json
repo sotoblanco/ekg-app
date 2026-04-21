@@ -1,0 +1,24 @@
+{
+    "case_id": "537",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=536&ans=1&caseid=537",
+    "clinical_history": "A middle age woman presents with a remote history of congenital heart disease and no prior surgery. She is referred for an \"abnormal ECG.\" What is the likely diagnosis?",
+    "diagnosis": "The ECG shows sinus rhythm with a classic Wolff-Parkinson-White (WPW) pre-excitation pattern. Relatively small, positive deltas waves are present in the right precordial leads in concert with predominantly negative QRS complexes in those leads. The mean QRS axis is horizontal (-10 degrees), but not frankly leftward (-30 or more). These findings are consistent with right-sided pre-excitation. The ECG might be mistaken for a LBBB pattern; as well for a prior Q-wave inferior MI. Transthoracic echocardiograms confirmed Ebstein's abnormality with right ventricular apical displacement of the septal tricuspid valve leaflet associated with mild tricuspid regurgitation. No atrial or ventricular septal defects were present. There was no history of tachycardia. Accessory pathways are present in an estimated 10-30~ of cases of Ebstein's anomaly, a very rare congenital type of heart disease. Patients with Ebstein's anomaly without pre-excitation patterns may show a right bundle branch block variant (sometimes with a fractionated QRS), as well as giant (so-called \"Himalayan\") P waves not seen here. See: He B, et al. Ebstein's anomaly: review of arrhythmia types and morphogenesis of the anomaly. J Am Coll Cardiol EP. 2021; 7:1198. https://doi.org/10.1016/j.jacep.2021.05.008",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case537/800x424.jpg",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Bundle Branch Block",
+        "Right Bundle Branch Block",
+        "Wolff-Parkinson-White"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

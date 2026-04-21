@@ -1,0 +1,22 @@
+{
+    "case_id": "47",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=46&ans=1&caseid=47",
+    "clinical_history": "39-yr-old man with chest discomfort. What is the diagnosis and treatment? CLUE: Abnormalities are very subtle!",
+    "diagnosis": "Acute inferior transmural ischemia/MI. Note very subtle ST elevations and ST straightening in inferior leads with reciprocal ST depressions in I and aVL. Such reciprocal changes are not seen with pericarditis or early repolarization variant. The patient had a high grade proximal right coronary artery lesion. He was treated with a percutaneous transluminal coronary intervention procedure and ruled in for MI.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case47/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Pericarditis"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Normal Sinus Rhythm",
+        "rate": "75 bpm",
+        "axis": "Normal axis",
+        "intervals": "PR: ~160 ms, QRS: ~80 ms, QTc: ~440 ms",
+        "findings": "Subtle ST-segment elevation and straightening in the inferior leads (II, III, aVF); reciprocal ST-segment depression in leads I and aVL.",
+        "comparison": "N/A",
+        "impression": "Acute inferior transmural myocardial infarction (MI) due to a high-grade proximal right coronary artery lesion."
+    }
+}

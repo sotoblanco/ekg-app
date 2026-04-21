@@ -1,0 +1,22 @@
+{
+    "case_id": "206",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=205&ans=1&caseid=206",
+    "clinical_history": "What is the most likely clinical scenario in this patient?",
+    "diagnosis": "d)  The ECG shows subtle but diagnostic signs of hyperkalemia (6.8mEq/L in this case of renal failure). Specifically, there are narrow-based (\"peaked\" or \"tented\") T waves best seen here in leads II and V4-V6.  The T waves are not particularly tall, but have a distinctive appearance.   Peaking of the T waves is usually the earliest sign of hyperkalemia on the ECG, followed by widening of the QRS and PR prolongation and eventually loss of P waves. Ultimately, a \"sine-wave\" pattern occurs, preceding ventricular asystole. In some cases, the T waves are quite tall and unmistakable.  In other cases, like this one, one needs to pay attention to the narrowness and relative prominence of the T waves.  Primary hyperaldosteronism leads to hypokalemia, associated with flat T waves and prominent U waves.  Similar changes may occur with metabolic alkalosis which is often associated with hypokalemia.  Syndrome of inappropriate ADH Secretion (SIADH), with hyponatremia, does not by itself produce characteristic changes on the ECG.  Hypercalemia may lead to shortening of the QT interval, due to abbreviation of the ST segment.  The present ECG also shows some non-specific J point sagging and left atrial abnormality (prominent biphasic P wave in V1). The latter finding is not uncommon in patients with chronic renal failure who often have hypertension.  Caution: there is no consistent relationship between the ECG and the degree of hyperkalemia. For example, sometimes relatively marked hyperkalemia may be associated with a paucity of ECG findings.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case206/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Hyperkalemia",
+        "Hypokalemia"
+    ],
+    "category": "Diverse disease",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "case_id": "424",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=423&ans=1&caseid=424",
+    "clinical_history": "62 year old woman with palpitations. The ECG shows which ONE of the following rhythms?",
+    "diagnosis": "This narrow complex tachycardia is atrial fibrillation with a rapid ventricular response. The mean ventricular (QRS) rate is about 120/min at rest (range about 70-150/min). Non-specific ST-T changes are present in the inferior leads. TSH was within normal limits.This rhythm might be mistaken for atrial flutter, MAT or even a PSVT variant. However, the ventricular cadence when looked at carefully shows definite irregularity and the baseline has irregular, low amplitude atrial (f) waves consistent with atrial fibrillation. In contrast, atrial flutter shows monotonously consistent \"saw-tooth\" atrial (F) waves that are invariant across the recording. The ventricular response is either highly regular (usually 2:1 AV conduction) or shows some patterning due to variable block (e.g., 3:2; 3:1; AV Wenckebach variants). Occasionally, atrial fibrillation will change to flutter or vice versa in the same short recording, and patients who show one pattern may show the other on different days, with drug effects or ablation interventions, etc.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case424/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "AV Block",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

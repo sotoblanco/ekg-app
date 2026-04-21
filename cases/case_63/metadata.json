@@ -1,0 +1,23 @@
+{
+    "case_id": "63",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=62&ans=1&caseid=63",
+    "clinical_history": "78-yr-old woman. What would the coronary angiogram show?  What was likely notable about the second heart sound?",
+    "diagnosis": "ECG shows sinus rhythm with premature atrial complexes (PACs). Notable findings are right bundle branch block (RBBB) (causing widely, but physiologically split S2) and pathologic Q wave V1-V3, due to underlying anterior/septal myocardial infarction (MI) caused by left anterior descending occlusion, which could be proximal.\r\nThe T wave inversions may be due to a combination of primary (ischemia) and secondary factors (RBBB-altered depolarization/repolarization). As a rule, \"secondary\" T wave inversions ascribable to RBBB alone, are only seen in leads with an RsR' morphology. In this case, the T wave inversions in leads V4  and aVL cannot be explained as \"secondary.\" So in this case, given the findings of pathologic Q waves, the T wave inversions in the antero-lateral leads are consistent with ischemia. Thus, primary and secondary T wave abnormalities may co-exist in the same ECG (or even in the same lead).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case63/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Bundle Branch Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "425",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=424&ans=1&caseid=425",
+    "clinical_history": "Asymptomatic 60 year old man with ECG as part of pre-operative assessment. What is the rhythm?",
+    "diagnosis": "The rhythm is atrial fibrillation with an average ventricular response at rest of about 84/min (range about 70-120/min).  Relatively low voltage is present diffusely, a non-specific finding that may be seen as a physiologic variant, with obesity, anasarca, pericardial effusion or constriction, chronic obstructive lung disease, amyloid cardiomyopathy, etc. Borderline left axis deviation is also present.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case425/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

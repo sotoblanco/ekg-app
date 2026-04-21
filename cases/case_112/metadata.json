@@ -1,0 +1,23 @@
+{
+    "case_id": "112",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=111&ans=1&caseid=112",
+    "clinical_history": "What's the rhythm?",
+    "diagnosis": "Ventricular tachycardia (VT) at rate of 170.  The right bundle branch block morphology is atypical (monomorphic R, rather than rSR', in V1), and the R:S ratio is less than 1 in V6, both suggestive of ventricular tachycardia.  Although the most common underlying diagnosis in adult North American patients with sustained monomorphic VT is coronary heart disease status post myocardial infarction (MI)s, this patient had a non-ischemic cardiomyopathy.  The morphology of the VT is suggestive of origin from the left side of the heart, near the base (right bundle branch block with inferior/rightward axis).  As with any wide complex tachycardia that is hemodynamically tolerated, the most important data to obtain is the 12-lead ECG, as this can direct possible radiofrequency ablation at the time of electrophysiology study.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case112/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Ventricular Tachycardia",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "case_id": "461",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=460&ans=1&caseid=461",
+    "clinical_history": "Which ONE of the following clinical scenarios fully accounts for the findings on this ECG from an elderly man?",
+    "diagnosis": "This complex ECG is diagnostic of severe CAD, with both acute ischemia and possible acute MI and prior infarction, indicating a medical emergency. It shows sinus rhythm at about 90/min. While not strictly sinus tachycardia, this rate is relatively fast at rest in an elderly adult (especially if the patient is on a beta-blocker, which this patient was). The PR is about 200 msec, at the upper normal limits, especially given the relatively fast resting heart rate. Limb lead voltage is relatively low, a non-specific finding. Complete RBBB is present, with very slow lateral R wave progression, which could be due to lead placement or to lateral wall MI, among other factors. The mean QRS axis is unusual, oriented, superiorly and rightward (so-called \u0093northwest axis\u0094).  Q waves in the inferior lead leads are consistent with prior inferior MI. The markedly superior axis here may be the consequence of inferior and possibly lateral MI, with or without left anterior fascicular block. A predominant R wave in aVR with CAD has been reported with extensive MI, sometimes with a frank ventricular aneurysm. (Note: left posterior fascicular block causes right axis, but not superior axis per se.) ST elevations in the inferior leads could be due to acute ischemia or, if chronic, to an inferior wall aneurysm. The marked ST depressions in the lateral leads are too prominent for digitalis effect alone (the patient was not on this medication; also there is no evidence of actual digitalis toxicity here) and speak to severe global ischemia, in concert with the ST depressions in most other leads. Of additional note is the ST elevation in lead aVR, which is consistent with severe ischemia. ST elevation in lead aVR has been associated with severe three vessel disease, left main ischemia and proximal left anterior descending ischemia (e.g., prior to the take-off of the septal perforators). This repolarization finding may be due to a number of mechanisms including diffuse subendocardial ischemia (global ST depressions with reciprocal ST elevation in aVR) or a primary current of injury emanating from the basal wall.  This patient had severe multi-vessel CAD, with prior coronary bypass surgery, occluded grafts and underlying left main coronary disease. Echocardiogram showed an infero-basal aneurysm. Cardiac enzymes were consistent with an acute MI.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case461/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

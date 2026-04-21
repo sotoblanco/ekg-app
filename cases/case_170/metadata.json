@@ -1,0 +1,23 @@
+{
+    "case_id": "170",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=169&ans=1&caseid=170",
+    "clinical_history": "What arrhythmia is present in this wide-QRS-complex tachycardia?",
+    "diagnosis": "c) Atrial fibrillation with left bundle branch block.~~Note: The coarse atrial fibrillatory waves (lead V1) may be mistaken for atrial flutter waves. However, with fibrillation (versus flutter) the atrial activity varies continuously and usually the ventricular response is completely variable. The QRS complex here shows a typical left bundle branch block morphology with secondary ST-T abnormalities.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case170/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Left Bundle Branch Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

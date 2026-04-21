@@ -1,0 +1,22 @@
+{
+    "case_id": "42",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=41&ans=1&caseid=42",
+    "clinical_history": "A 64-yr-old man is admitted to an intensive care unit. The ECG is most consistent with which ONE of the following major underlying diagnoses?",
+    "diagnosis": "Multiple signs here point to a patient with severe chronic obstructive pulmonary disease (COPD), likely in the MICU. The rhythm is sinus tachycardia with frequent atrial ectopy.  There is evidence of right atrial overload (peaked P waves). The QRS axis is markedly superior. This type of very superior (\"northward\") QRS axis or right axis deviation may be seen with severe COPD. This superior axis pattern of COPD may be a variant of left anterior fascicular block (LAFB) but the axis is more superior than that seen with a pure LAFB. In addition, slow R wave progression with a delayed precordial transition is present.  The P wave axis is vertical to rightward at about +90 degrees. Severe COPD may simulate anterior myocardial infarction (MI) and sometimes inferior MI. In some cases, the R wave progression can be at least partly normalized in COPD/emphysema by recording the chest leads an interspace below usual due to the inferior displacement of the heart and diaphragm associated with hyperinflation of the lungs. The present ECG findings, of course, do not indicate the cause(s) of interim decompensation of the COPD (e.g., pneumonia, bronchitis, medication non-compliance, natural history of disease, and so forth).~~~~You may have asked if this rhythm qualifies for multifocal atrial tachycardia (MAT). The dividing line between sinus tachycardia with frequent atrial ectopy and frank MAT is somewhat arbitrary and this ECG is on the brink of the latter (esp. in the context of COPD). We did not call it since the strictest definition of MAT requires a run of 3 or more (usually more to be convincing) consecutive ectopic atrial (nonsinus) beats at 100 or more with different P wave morphologies (often different PR intervals) with a very erratic rate.  Here, most of P waves are probably sinus in origin with frequent atrial ectopy.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case42/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Sinus tachycardia with frequent atrial ectopy (borderline Multifocal Atrial Tachycardia)",
+        "rate": "115 bpm",
+        "axis": "Markedly superior axis (Extreme axis deviation / Northwest axis)",
+        "intervals": "PR: ~160 ms, QRS: ~90 ms, QTc: ~390 ms",
+        "findings": "Right atrial overload (peaked P waves), markedly superior QRS axis, slow R wave progression with delayed precordial transition (V5/V6), pseudo-infarction pattern in anterior leads",
+        "comparison": "N/A",
+        "impression": "Severe chronic obstructive pulmonary disease (COPD) with associated right heart strain and atrial ectopy."
+    }
+}

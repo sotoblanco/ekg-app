@@ -1,0 +1,24 @@
+{
+    "case_id": "197",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=196&ans=1&caseid=197",
+    "clinical_history": "This ECG from a middle-aged man with heart failure shows which set of findings?",
+    "diagnosis": "d) The rhythm is atrial tachycardia (rate 154/min) with 2:1 AV block.  Note the partially hidden non-conducted P waves on the ST segments (e.g., leads I and aVL).  The QRS is very wide with an atypical intraventricular conduction defect (IVCD) pattern.  The rSR' type complex in lateral leads (I, aVL) is not due to a right bundle branch block, but to an atypical left ventricular conduction defect.  These unexpected rSR' complexes in lateral leads (El-Sherif sign) correlate with underlying extensive myocardial infarction (MI) and sometimes ventricular aneurysm.  (El-Sherif. Br Heart J 1970;32:440-448.)  The notching on the upstroke of the S waves in V4 with a left bundle branch block-type pattern also suggests underlying MI (Cabrera's sign).   This patient had severe cardiomyopathy secondary to coronary artery disease with extensive left ventricular wall motion abnormalities.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case197/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Bundle Branch Block",
+        "Right Bundle Branch Block",
+        "AV Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

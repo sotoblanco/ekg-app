@@ -1,0 +1,21 @@
+{
+    "case_id": "467",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=466&ans=1&caseid=467",
+    "clinical_history": "This ECG from a 77-year old woman is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The ECG shows sinus rhythm with normal intervals and a normal QRS axis. Very prominent convex ST elevations are present in leads II, III and aVF with ST depressions in leads I and aVL. The latter are consistent with reciprocal changes. ST depression in lead V2 may reflect posterior wall involvement. At cardiac catheterization, a dominant right coronary was noted, occluded at the mid-section. Non-diagnostic Q waves are present in the inferior leads. Non-specific ST-T changes are present in the lateral precordial leads. The P waves are slightly peaked without diagnostic evidence of right atrial overload. Orientation of the current of injury (ST) vector toward lead III > II, in concert prominent ST depressions in leads I and aVL, is strongly suggestive of right coronary occlusion. However, ECG criteria for precisely localizing the site of blockage with a specific \u0093culprit\u0094 coronary artery vary from study to study in sensitivity and specificity, likely depending on the vascular anatomy, presence or absence of collaterals, availability of additional leads (e.g., right precordial and posterior), and timing of the acute occlusion.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case467/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

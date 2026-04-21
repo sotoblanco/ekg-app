@@ -1,0 +1,21 @@
+{
+    "case_id": "340",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=339&ans=1&caseid=340",
+    "clinical_history": "61 year old man with history of valvular heart disease and severe heart failure. The combination of ECG findings is most suggestive of which ONE of the following diagnoses?",
+    "diagnosis": "The digoxin level was markedly elevated at 4.2ng/ml. The ECG shows atrial fibrillation (very fine fibrillatory waves) with a slow, regularized narrow QRS rate (possible junctional escape mechanism), with multiform ventricular bigeminy. In addition, the prominent precordial voltage with a vertical QRS axis (about +90 degrees) raises consideration of underlying biventricular hypertrophy (overload). Nonspecific ST-T changes are noted, along with low QRS voltage in the limb leads.  Digitalis intoxication may have myriad presentations. The combination of atrial fibrillation with a slow, regularized response and ventricular ectopy is particularly suggestive. The ventricular ectopy in such cases may be related, at least in part, to digitalis-induced calcium overload and delayed afterdepolarizations, a distinct type of triggered-activity (Rosen MR. J Am Coll Cardiol 1985; 5A:22A).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case340/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Atrial Fibrillation"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

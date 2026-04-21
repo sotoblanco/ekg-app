@@ -1,0 +1,25 @@
+{
+    "case_id": "260",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=259&ans=1&caseid=260",
+    "clinical_history": "74 year old male with symptoms of lightheadedness and dizziness. What is this bradyarrhythmia?",
+    "diagnosis": "The rhythm is sinus with right bundle branch block (RBBB)/left axis deviation pattern and 2:1 conduction for the 1st 2nd and 3rd beats (sinus rate 65 bpm). This is followed by complete heart block (4th & 5th beats) with an escape bradycardia at rate about 33 bpm. Note the subtle change in the QRS morphology, likely indicating a shift to a lower site in the His-Purkinje system with the escape rhythm. The RBBB/marked left axis in the conducted beats indicates bifascicular block (RBBB and left anterior fascicular block) and the intermittent complete heart block is consistent with trifascicular disease and infranodal block.\r\n\r\nA subtle finding here is that the sinus P-P interval is shorter when there is an intervening QRS complex. This phenomenon (sometimes seen with high grade AV block) is called ventriculo-phasic sinus arrhythmia.  The mechanism is attributed to rapid, baroreceptor-mediated changes in vagal tone associated with the presence or absence of ventricular contraction (see Case #219.) \r\n \r\nWolff-Parkinson-White pattern is excluded as there is no evidence of a delta wave or short PR interval. SA exit block would not produce non-conducted P waves and the non-conducted P waves are not premature excluding blocked PACs in a bigeminal pattern.\r\n\r\nCardiac enzymes were normal. (Minuscule r waves are present in leads III and aVF so that prior inferior wall MI is not excluded.) \r\n\r\nThe patient underwent insertion of a dual-chamber rate responsive pacemaker the following day.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case260/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Bundle Branch Block",
+        "AV Block",
+        "Wolff-Parkinson-White",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "case_id": "533",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=532&ans=1&caseid=533",
+    "clinical_history": "An elderly man with chest discomfort and mild elevation of cardiac troponin-T. What is the most likely diagnosis?",
+    "diagnosis": "The rhythm is sinus tachycardia at rest. Of note are diffuse ST elevations, with discordant PR segment deviations (up in aVR and down in infero-lateral leads). Electrical alternans, a specific but not sensitive sign of pericardial effusion, usually with hemodynamic compromise, is not present. Transthoracic echocardiogram showed normal biventricular function and no pericardial effusion.  Clinically, the patient responded to colchicine, with normalization of the ECG and resolution of pleuritic chest pain. Chest computed tomographic angiography (CTA) showed no evidence of pulmonary embolization or aortic dissection. Renal function was normal. COVID-19 testing was negative, without recent m-RNA vaccination. The ECG is most consistent with acute pericarditis or myopericarditis, the latter favored by slight cardiac enzyme elevations. The differential diagnosis is broad, encompassing viral, bacterial and parasitic infections, autoimmune diatheses (e.g., systemic lupus erythematosus, rheumatoid arthritis), metastatic neoplasms, etc. See other Wave-Maven cases for further discussion of the ECG changes in this and related settings.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case533/800x450.jpeg",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Pericarditis"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

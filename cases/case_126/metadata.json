@@ -1,0 +1,23 @@
+{
+    "case_id": "126",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=125&ans=1&caseid=126",
+    "clinical_history": "89-year-old woman with tachycardia.  What is the rhythm? (CLUE:Be careful!)",
+    "diagnosis": "Atrial fibrillation with a very rapid ventricular response (average 160-170/min). Other Findings:  Low limb voltage, minor RV conduction delay with rSr in V1; (or possibly Qr morphology) in lead V1 and non-specific ST-T changes (on digoxin) are also present. If so you said PSVT, go back and take another look. The rate here is subtly irregularly irregular (best seen when magnified at 200x or higher)--since rate is fast, small differences in RR intervals translate into prominent beat-beat variations (e.g., a change between R waves from 8 to 9 of the small (40 ms width) boxes would be 187 to 166/min change. Transient atrial flutter could also cause regularization of a rapid rate with atrial fibrillation. But the maximum atrial rate with atrial flutter is usually about 350/min. PSVT (esp with AVNRT) is usually metronomically regular.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case126/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "497",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=496&ans=1&caseid=497",
+    "clinical_history": "Middle aged woman with striking ECG findings noted on a chronic basis. No hx of congenital heart disease. What would you expect on careful physical exam?",
+    "diagnosis": "ECG shows sinus tachycardia (consistent with autonomic activation) in a patient with classic findings for severe right heart overload. Note the right axis deviation (about +120) in concert with relatively tall R waves in V1 (as part of a qR pattern). ST-T abnormalities in V1-V3 are consistent with RV overload (RV \"strain\" pattern), in this context. The P waves are slightly peaked consistent with right atrial overload. The patient had severe acquired pulmonary hypertensive (PAH) syndrome and restrictive lung disease, with RV dilation/ dysfunction. A holosystolic murmur might also be heard in this context due to tricuspid valve insufficiency, with large \"CV\" waves and possibly an inspiratory increase in murmur intensity during spontaneous inspiration (Carvallo&39;s sign). Note that the ECG constellation here (absent a pulmonic stenosis murmur) speaks strongly to RV overload and PAH, but does not by itself indicate which of the multiple causes of PAH are responsible. For that assessment, clinical further information is needed.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case497/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "case_id": "504",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=503&ans=1&caseid=504",
+    "clinical_history": "ECG from an older man. This recording, showing right bundle branch block and marked left axis deviation consistent with \"bifascicular\" block, also shows which ONE of the following?",
+    "diagnosis": "The ECG shows sinus rhythm (SA rate about 70/min) with variable (3:2 and 2:1) AV block, with a near constant PR interval in the conducted beats. These findings, in concert with the wide complex QRS complexes that are consistent with bifascicular block, point strongly to infranodal (type II) AV block. In addition, the ECG shows left atrial abnormality, along with voltage criterion (aVL) for left ventricular hypertrophy (history of systemic hypertension). Note the subtle sinus rate variability such that the P-P intervals with QRS complexes intervening tend to be minimally shorter than the ones without. This finding, consistent with ventriculophasic sinus arrhythmia, does not have any prognostic implications. The key findings here of infranodal (type II) block with a widened QRS (with or without symptoms), constitute a \"Class I\" indication for implantation of a dual chamber pacemaker. (Note: very (!) subtle infranodal AV Wenckebach cannot be excluded in the 3:2 beats in this surface ECG; but the constellation of findings in this elderly man all point to infranodal and not nodal disease, avoiding any confusion created by the Mobitz I/II eponymic classification.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case504/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Bundle Branch Block",
+        "AV Block",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

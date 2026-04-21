@@ -1,0 +1,23 @@
+{
+    "case_id": "131",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=130&ans=1&caseid=131",
+    "clinical_history": "62-year-old woman with cardiogenic shock.  What are the major ECG findings to account for this syndrome?",
+    "diagnosis": "Atrial fibrillation (AF) with a slow-moderate ventricular response. Suggestion of \"group beating\" also raises the question of underlying junctional rhythm with AV exit block (Wenckebach mechanism).  Acute inferior myocardial infarction (MI) pattern is present.  The ST depressions in I and aVL are consistent with reciprocal change. However, marked ST depressions in V1 - V5 are more prominent and extensive than with anticipated reciprocal changes from an inferior/posterior MI, and suggest additional anterior/lateral subendocardial ischemia.  The patient, in fact, had severe multivessel coronary artery disease (CAD), s/p coronary artery bypass graft (CABG) surgery, with an occluded left main coronary.  There was acute occlusion by thrombus of saphenous vein graft (SVG) to the posterior descending coronary artery.  Other SVGs were occluded.   A left internal mammary graft to the left anterior descending (LAD) was patent.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case131/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "AV Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

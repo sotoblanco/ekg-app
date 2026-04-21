@@ -1,0 +1,21 @@
+{
+    "case_id": "449",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=448&ans=1&caseid=449",
+    "clinical_history": "This ECG, from a 68-year old man with advanced disease, is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "This ECG is classic for severe COPD (emphysema). The recording shows: resting sinus tachycardia (105/min); peaked P waves with a vertical P wave axis, sometimes called the ~P pulmonale~ pattern  (consistent with right atrial overload); relatively low limb lead voltage; a vertical to rightward QRS axis and very slow precordial R wave progression, with a markedly delayed precordial transition zone (RS complex in V6). These findings in COPD have been related to a combination of factors including: right heart pressure overload due to pulmonary hypertension, hyperinflation of the lungs and inferior displacement of the heart and diaphragm. Patients with COPD may show other ECG findings, not seen here, including right ventricular (RV) conduction delays, prominent T wave inversions in right-mid chest leads with rS complexes (formerly called the RV ~strain~), and atrial (e.g., unifocal and multifocal atrial tachycardia or atrial fibrillation) and ventricular tachyarrhythmias.  Of note, since smoking is the most common cause of COPD and also a major risk factor for coronary artery disease (CAD), patients with COPD may have both conditions. In some cases of COPD, loss of precordial R wave progression can occur with either condition, singly or in combination. Therapy with beta-adrenergic stimulants may also play a role in provoking atrial and ventricular arrhythmias.  Note this is the same patient, about one year later, whose ECG is recorded in Case 444.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case449/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

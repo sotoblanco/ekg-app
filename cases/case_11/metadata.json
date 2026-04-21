@@ -1,0 +1,25 @@
+{
+    "case_id": "11",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=10&ans=1&caseid=11",
+    "clinical_history": "51-year-old male with bicuspid aortic valve, aortic insufficiency and hypertension had an episode of chest pain 2 days prior to this tracing. In this context, this type of pattern of prominent T wave inversions is most likely attributable to which ONE of the following?",
+    "diagnosis": "This ECG shows sinus rhythm at about 65 beats/min with diffuse, very prominent anterior T wave inversions consistent with probable ischemia/non-Q wave myocardial infarction (MI). Sometimes this  pattern is referred to as Wellens' T waves (de Zwaan C, Bar FW, Janssen JH, et al. Angiographic and clinical characteristics of patients with unstable angina showing an ECG pattern indicating critical narrowing of the proximal LAD coronary artery. Am Heart J. 1989;117:657- 665 or the \"LAD-T wave\" pattern. The ECG also shows findings consistent with left atrial abnormality and left ventricular hypertrophy, along with non-specific mild PR prolongation (220 msec), QT prolongation for rate (480 msec), and borderline left axis deviation. Ischemia/infarction should be on the top of your differential diagnosis list in this patient with a recent history of chest pain. A tracing during the episode of chest pain revealed 1-2 mm ST elevation in leads I, aVL, V3-V6. Cardiac catheterization revealed noncritical coronary artery disease and global left ventricular dysfunction. A subsequent echocardiogram taken on the day of this tracing revealed normal left ventricular function. Most likely the patient had a transient thrombus or spasm in the proximal LAD, with severe myocardial \"stunning.\" Cardiac enzymes were only slightly elevated.  Other specific diagnoses to consider in a patient with diffuse deeply inverted T waves include 1) CNS disease--not clinically present here (intracranial hemorrhage, head injury, tumor); 2) apical hypertrophic cardiomyopathy (usually most marked in the mid-lateral precordial leads; 3) intermittent right ventricular pacing or intermittent LBBB (\"memory T waves\"; however this syndrome is usually associated with with upright T waves in I and aVL (Shvilkin A, Ho KKL, Rosen MR, Josephson ME. The T vector direction differentiates post-pacing from ischemic T wave inversion in the precordial leads. Circulation  2005; 111:969-974); 4) takotsubo (stress) cardiomyopathy (left ventricular apical \"ballooning\" pattern on angiogram), which is most often reported in middle-aged to older women, and 5)  Evolving pericarditis, which may be associated with diffuse T wave inversions, but they are relatively low amplitude (usually <5mm),",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case11/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Pericarditis",
+        "Left Bundle Branch Block",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Sinus rhythm",
+        "rate": "65 bpm",
+        "axis": "Borderline left axis deviation",
+        "intervals": "PR: 220 ms, QRS: ~100 ms, QT/QTc: 480 ms",
+        "findings": "Diffuse, very prominent symmetric anterior T wave inversions (V2-V6, I, aVL) consistent with Wellens' pattern; Left atrial abnormality; Left ventricular hypertrophy (LVH) by voltage; Mild PR prolongation; QT prolongation.",
+        "comparison": "Previous tracing during chest pain episode 2 days prior showed 1-2 mm ST elevation in leads I, aVL, and V3-V6.",
+        "impression": "Diffuse anterior T wave inversions suggestive of probable ischemia or non-Q wave myocardial infarction (Wellens' syndrome), most likely due to transient proximal LAD occlusion/spasm with subsequent myocardial stunning."
+    }
+}

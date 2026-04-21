@@ -1,0 +1,22 @@
+{
+    "case_id": "249",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=248&ans=1&caseid=249",
+    "clinical_history": "This ECG from a 41 year-old man is consistent with which one of the following diagnoses?",
+    "diagnosis": "The ECG shows borderline resting sinus tachycardia with evidence of right ventricular overload, including a tall terminal R wave in lead V1 as part of a narrow QRS complex with an rsR\u0092 morphology and with borderline right axis deviation (about +96 degrees).  In addition, there are T wave inversions in the right to mid-precordial leads as well. \r\n\r\nThe absence of left atrial abnormality excludes mitral stenosis. Both coarctation of the aorta and aortic regurgitation would be associated with left ventricular hypertrophy. Posterior MI produces tall initial R waves in lead V1 (or V1-V2), usually with concomitant evidence of inferior and/or lateral Q wave myocardial infarction.\r\n\r\nBorderline low limb lead voltage is present, a non-specific finding.\r\n\r\nThis patient has severe pulmonary sarcoid with restrictive lung disease. Echocardiogram showed evidence of pulmonary hypertension with normal left and right ventricular systolic function.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case249/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

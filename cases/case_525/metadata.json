@@ -1,0 +1,23 @@
+{
+    "case_id": "525",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=524&ans=1&caseid=525",
+    "clinical_history": "This ECG from a 75 year-old man is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "This ECG shows atrial fibrillation (not flutter) with a regularized wide-complex QRS, which has a left bundle branch block (LBBB) morphology. However, careful inspection reveals subtle pacemaker stimuli (nearly invisible in some leads) before the QRS (e.g., V2, V3). You can confirm this on the magnified view. The LBBB morphology is due to right ventricular pacing. It is very important to ascertain the underlying atrial mechanism with ventricular pacing since atrial fibrillation is often overlooked, especially when the rate is very regular. Whenever you see an apparent LBBB pattern (especially with a rate around 70/min) always look carefully to make sure you are not missing right ventricular pacing.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case525/800x478.jpg",
+    "difficulty": 4,
+    "topics": [
+        "Atrial Fibrillation",
+        "Left Bundle Branch Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

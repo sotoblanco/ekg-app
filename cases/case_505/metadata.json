@@ -1,0 +1,22 @@
+{
+    "case_id": "505",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=504&ans=1&caseid=505",
+    "clinical_history": "ECG from a middle-aged man with palpitations and a history of ablation therapy for atrial fibrillation and atrial flutter. This rhythm is most consistent with which of the following sets of diagnoses? (Note: there is artifact distorting the first QRS complexes in leads II and III.)",
+    "diagnosis": "The ECG shows a narrow complex tachyarrhythmia with regular occurring atrial waves, which are negative in aVL, upright in lead II, biphasic in V1-V2 and positive in V3-V6, with an atrial rate of about 215/min. The \"P\" wave axis is vertical at about +80 degrees. There is variable AV conduction (predominantly 2:1). The atrial rate is far too fast for resting sinus tachycardia and the atrial rate and morphology are too consistent for MAT. The surface ECG might suggest a focal atrial tachycardia; however the site of the atrial tachyarrhythmia on EP study was actually located to the mitral valve area in this patient with prior ablations for atrial fibrillation and atrial flutter. The mechanism of the present arrhythmia was left atrial flutter/tachycardia (reentrant) variant. This finding is not the usual pattern with spontaneous atrial flutter; but atypical variants of atrial flutter/tachycardia are not uncommon after prior ablation therapy, especially for atrial fibrillation (in which the procedure is performed in the left atrium). The atrial flutter circuit classically orbits the tricuspid annulus in a counterclockwise or clockwise direction. The common anatomic substrate for typical atrial flutter and the preferred site for ablation is a band of fibrous tissue termed the cavotricuspid isthmus. However, in this case, the negative atrial waves in leads I and aVL are most consistent with a left atrial focus of reentry suggesting atypical (or non-cavotricuspid isthmus dependent) atrial flutter or possibly atrial automaticity, rather than the typical (cavotricuspid isthmus dependent) right atrial flutter variant. Distinction of focal (including micro-reentrant) atrial tachycardias from atrial flutter variants based solely on inspection of the surface ECG is often not possible and more precise mechanisms are only revealed at intracardiac EP study with careful mapping. Furthermore, more than one type or site of atrial tachyarrhythmia may also occur in the same patient.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case505/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

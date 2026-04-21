@@ -1,0 +1,24 @@
+{
+    "case_id": "499",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=498&ans=1&caseid=499",
+    "clinical_history": "Adult man has lightheadedness with sinus rhythm at 80/min and 2:1 AV block, yielding an effective ventricular rate of 40/min at rest. The QRS complexes show a right bundle branch block morphology with a borderline rightward axis. Most likely, from the limited information at hand, WHICH ONE of the following etiologies is most likely?",
+    "diagnosis": "A sinus mechanism (somewhat leftward P wave axis) is present (about 80/min), but with 2:1 AV block (probably infranodal given the normal PR interval and the wide QRS at 140 ms due to right bundle branch block.) Borderline right axis deviation is present that could be due to right ventricular overload or left posterior fascicular block.)The patient had history of pulmonary/mediastinal sarcoid and these ECG findings are consistent with conduction system (and possibly myocardial involvement) as well. He underwent uneventful dual chamber ICD/pacemaker placement, as part of his therapy. Lyme disease more often produces transient involvement of the AV node. Serologies for Lyme were repeatedly negative. Complete heart block is not present (and the congenital form of CHB is usually associated with a narrow QRS complex).  Digitalis toxicity with sinus or atrial tachycardia with 2:1 AV block is more likely to present with nodal block and a normal QRS, as well as a short QTc. The rightward axis here (about +100 degrees) could be physiologic in a young adult, or due to RV overload (from pulmonary sarcoid), to left posterior fascicular block, to or some combination of these factors. There was no supportive evidence of acute myocardial infarction.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case499/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Bundle Branch Block",
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

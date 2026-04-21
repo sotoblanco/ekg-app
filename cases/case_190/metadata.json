@@ -1,0 +1,24 @@
+{
+    "case_id": "190",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=189&ans=1&caseid=190",
+    "clinical_history": "Middle-aged man admitted with recent chest pain.  How many abnormalities can you find?",
+    "diagnosis": "Findings include:1. Borderline sinus tachycardia2. Intraventricular conduction delay (IVCD) 3. Second degree AV block (AV Wenckebach).  Note cycles of progressive PR prolongation and then non-conducted P waves in 5:4 and 4:3 patterns. 4. Single premature ventricular complex (PVC) 5. Acute/evolving infero-lateral myocardial infarction (MI )patternIn addition, there is borderline low QRS voltage and left atrial abnormality. Additional comments:  Mobitz type I (AV Wenckebach) block is not uncommon with acute inferior MI.  Usually this condition disturbance is transient with inferior MI and does not require temporary or permanent pacing. Cardiac catheterization in this patient revealed severe three vessel coronary disease with evidence of thrombus in the right posterolateral branch.  Left ventriculography showed a reduced left ventricle ejection fraction of 32% with inferior/posterior and apical/lateral wall motion abnormalities.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case190/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "AV Block",
+        "Premature Ventricular Contractions",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

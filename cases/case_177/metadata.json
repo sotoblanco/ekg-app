@@ -1,0 +1,24 @@
+{
+    "case_id": "177",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=176&ans=1&caseid=177",
+    "clinical_history": "This wide-QRS-complex tachycardia in a 70-year-old woman is most consistent with which ONE of the following?",
+    "diagnosis": "a) There is a classic right bundle branch block (RBBB) morphology (rsR' in V1)  making VT unlikely.  No definite atrial activity is seen (P waves or  flutter waves).  The very regular rate at 150/min excludes AF.  Therefore,  the rhythm is most consistent with (paroxysmal) supraventricular tachycardia (PSVT), most likely AV nodal re-entrant  tachycardia (AVNRT), although AV re-entrant tachycardia or atrial  tachycardia (AT; with hidden P waves) are not excluded. Note: as one of our users correctly pointed out, the word \"paroxysmal\" in PSVT may be a clinical misnomer: unless one sees abrupt an start or termination, the episode could be a sustained, not paroxysmal. However, if you say \"SVT\" alone, be aware that some clinicians will take that to include not just the PSVT group (AT, AVNRT, AVRT), but also sinus tachycardia and atrial fibrillation or flutter. Therefore, it is best to be as explicit as you can be in using clinical terminology and to recognize widespread semantic ambiguities, including those on this website!",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case177/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Ventricular Tachycardia",
+        "Right Bundle Branch Block",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

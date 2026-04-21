@@ -1,0 +1,21 @@
+{
+    "case_id": "381",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=380&ans=1&caseid=381",
+    "clinical_history": "This ECG from a 69 year old woman is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The ECG shows sinus tachycardia at about 105 bpm with several classic findings of COPD, including relatively low limb voltage and peaked P waves (~P pulmonale~) pattern, with a vertical P wave axis (about +85 degrees). The voltage in most of the precordial leads is also relatively low. Not seen is right axis of the QRS or T wave inversions in the right-mid chest leads due to right ventricular (RV) overload.  The absence of marked left atrial abnormality/intra-atrial conduction delay patterns excludes mitral stenosis or mitral regurgitation. Pulmonic stenosis generally causes a severe pressure load type of RV hypertrophy with tall R waves in V1 and V2 and right axis deviation of the QRS. Pericardial effusion and tamponade may cause low voltage and sinus tachycardia. Beat-to-beat electrical alternans is not seen here and the peaked P waves would not be explained by a pericardial syndrome alone.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case381/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

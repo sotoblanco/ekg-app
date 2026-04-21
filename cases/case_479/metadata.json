@@ -1,0 +1,21 @@
+{
+    "case_id": "479",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=478&ans=1&caseid=479",
+    "clinical_history": "ECG from a middle-aged man. The findings are best accounted for by which ONE of the following diagnoses?",
+    "diagnosis": "The ECG shows a distinctive triad: marked sinus bradycardia (rate about 48/min), J waves, and QT prolongation (QT=0.60 sec). The patient was undergoing hypothermia therapy as part of treatment for cardiopulmonary arrest, presumed due to upper airway obstruction. Body temperature (rectal) at the time of this ECG was 32.4 degrees C. J waves (subtle as in this instance or very prominent in others) due to hypothermia are often referred to as Osborn waves (Osborn JJ. Am J Physiol 1953; 175: 389). Perhaps they should be designated as Tomaszewski-Osborn waves (Tomaszewski W. Arch Mal Coeur 1938; 31: 525). These waves have been attributed to a transmural voltage gradient during the earliest phase of ventricular repolarization (Yan GX, Antzelevitch C. Circulation 1996; 93: 372). With hypothermia the J wave vector is usually directed toward the anterior-lateral precordial and inferior limb leads. The long QT is consistent with overall slowing of repolarization due to reduced temperature. As anticipated, the patient\u0092s ECG returned to normal with restoration of euthermia.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case479/800x400.jpg",
+    "difficulty": 3,
+    "topics": [
+        "Long QT Syndrome"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

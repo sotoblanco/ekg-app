@@ -1,0 +1,22 @@
+{
+    "case_id": "244",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=243&ans=1&caseid=244",
+    "clinical_history": "71 year old male was admitted to the hospital for increased shortness of breath. His admission ECG is notable for all of the following EXCEPT?",
+    "diagnosis": "This markedly abnormal ECG shows sinus rhythm at rate of about 100 beats per minute with AV Wenckebach (Type I AV block) with 3:2 conduction and a single (junctional or ventricular) escape beat (4th QRS  complex from the end of the rhythm strip). Note the progressive PR prolongation in the 3:2 Wenckebach cycles with the non-conducted sinus P wave followed by a relatively shorter (but still slightly prolonged) PR interval. The presence of ~group~ beating is easily recognized and characteristic of Wenckebach.~~~~In contrast, Mobitz II AV block shows abrupt non-conducted sinus P waves, not the progressive pattern of PR prolongation seen here. ~~~~Extensive inferior and anterior wall infarction patterns are present. The rSR~ complex in lead V5 is notable and has been reported as a marker of ventricular dyskinesis/aneurysm (El-Sherif sign). ~~~~Criteria are also fulfilled for IVCD (QRS 0.12 seconds); left ventricular hypertrophy (R in aVL plus S in V3 = 2.8 mV [28mm], and left atrial abnormality. There is also borderline low limb lead ~~QRS voltage.~~~~The patient~s echocardiogram showed severe left ventricular dysfunction (history of severe coronary disease) with an estimated left ventricular ejection fraction of 30~, with hypokinesis of the anterior and lateral walls and dyskinesis of the left ventricular apex.~~~~",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case244/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "AV Block",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

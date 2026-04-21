@@ -1,0 +1,24 @@
+{
+    "case_id": "341",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=340&ans=1&caseid=341",
+    "clinical_history": "84 year old man on propafenone is admitted for knee replacement surgery. The ECG shows all of the following EXCEPT?",
+    "diagnosis": "This elderly man was taking propafenone for history of paroxysmal atrial fibrillation (PAF). The ECG shows AF with a single PVC (second to last beat of rhythm strip), along with evidence of bifascicular block (marked left axis deviation and right bundle branch block). The QT is slightly long for the rate on average, probably due to the wide QRS. Indeed, a notable finding here is that the QRS duration (about 180 ms) is wider than with the usual RBBB (typically 120-150 ms). This ~excess duration~ may be due to a number of factors, including Class 1 (sodium-channel blocking) or related drug effect (propafenone in this case), hyperkalemia, or severe myocardial disease.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case341/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Hyperkalemia",
+        "Right Bundle Branch Block",
+        "Premature Ventricular Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

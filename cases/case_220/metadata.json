@@ -1,0 +1,23 @@
+{
+    "case_id": "220",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=219&ans=1&caseid=220",
+    "clinical_history": "This ECG from an elderly woman shows which ONE of the following rhythms?",
+    "diagnosis": "The rhythm is sinus tachycardia (P wave rate is about 100/min) with 2:1 (second degree) AV block.  In this case, the non-conducted (\u0093extra\u0094) sinus P waves on alternate beats simulate U waves located at the end of the T waves.The patient subsequently developed complete heart block and underwent permanent pacemaker implantation.The ECG also shows inferior and anterior Q waves suggesting prior myocardial infarctions. Of interest, multiple echocardiograms showed normal left ventricular (LV) function and no evidence of any wall motion abnormalities. Mild symmetric LV hypertrophy was present with a systolic LV outflow tract gradient raising the question of a hypertrophic cardiomyopathy variant which could account for Q waves in the absence of infarction.Note: Pure 2:1 AV block is considered a special category of second degree AV block and is not characterized as type 1 or type 2 since the block may be nodal or infra-nodal, even with a narrow (normal) QRS duration. In the latter instance, infra-nodal block, if present, is typically in the His area. The presence of typical AV Wenckebach in conjunction with episodes of  2:1 block argues for a nodal mechanism. Worsening block with increased sinus rate suggests an infranodal mechanism. Note that the mean QRS axis here is not sufficiently leftward to qualify for left anterior fascicular block (-45 degrees or more).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case220/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

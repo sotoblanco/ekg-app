@@ -1,0 +1,21 @@
+{
+    "case_id": "80",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=79&ans=1&caseid=80",
+    "clinical_history": "55-yr-old male with chest discomfort 5 days post \"coronary artery bypass graft (CABG) surgery\".",
+    "diagnosis": "ECG shows classic findings of acute pericarditis. Note diffuse ST elevations (leads I, II, aVL, aVF, V3-V6) with concomitant PR segment deviations (PR up in lead aVR, down in II, V4-V6). Thus, ST and PR injury current vectors are discordant.  Cardiac enzymes were not elevated.  There was a subtle pericardial friction rub, best heard after reading the ECG, and no evidence of pericardial compression syndrome.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case80/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Pericarditis"
+    ],
+    "category": "Diverse disease",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

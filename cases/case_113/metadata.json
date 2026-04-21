@@ -1,0 +1,23 @@
+{
+    "case_id": "113",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=112&ans=1&caseid=113",
+    "clinical_history": "63-year-old female immediately status post cardiac arrest with cardioversion.  What is the likely underlying primary structural abnormality?",
+    "diagnosis": "a) Mixed mitral stenosis and regurgitation is most likely.  The ECG shows normal sinus rhythm, left atrial abnormality, and voltage criteria for left ventricular hypertrophy (LVH) with borderline right axis deviation.  The most likely clinical scenario is mixed mitral stenosis and regurgitation, causing left atrial and biventricular hypertrophy.  Hypertensive heart disease alone, or aortic stenosis, would be associated with voltage criteria for LVH on the ECG, but not right axis deviation.  Primary pulmonary hypertension would produce right ventricular hypertrophy.  Chronic obstructive pulmonary disease (COPD) would not produce LVH, either. The marked QT prolongation and diffuse T-wave inversions are consistent with metabolic/ischemic/central nervous system changes occurring post-arrest and after cardioversion.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case113/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Left Ventricular Hypertrophy",
+        "Right Ventricular Hypertrophy",
+        "Normal Sinus Rhythm"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

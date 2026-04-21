@@ -1,0 +1,22 @@
+{
+    "case_id": "511",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=510&ans=1&caseid=511",
+    "clinical_history": "Elderly man complains of palpitations. The ECG is most consistent with which ONE of the following? (Note: V2 and V3 are likely reversed.)",
+    "diagnosis": "The ECG shows classic multifocal atrial tachycardia (MAT). The effective ventricular rate at rest is quite fast (about 130) and irregular, with a narrow (normal) QRS complex duration. The rhythm simulates atrial fibrillation. But, note the true, discrete P waves, with at least three different morphologies occurring sequentially. In addition, there are non-specific ST-T changes and somewhat prominent left precordial R waves without definitive criteria for LVH. See Questions/Answers # 149 & 506 for comparison and further discussion.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case511/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

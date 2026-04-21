@@ -1,0 +1,24 @@
+{
+    "case_id": "136",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=135&ans=1&caseid=136",
+    "clinical_history": "What is the mechanism of the bradycardia in this 61-year-old man.",
+    "diagnosis": "Sinus rhythm is present at about 72/min with 2:1 AV block and complete left bundle branch block (LBBB).  Prominent left atrial abnormality (LAA) is also noted.  The patient had a history of prior silent inferior myocardial infarction (MI), hypertension, and mitral regurgitation (the latter two factors accounting for the prominent LAA).  He underwent dual chamber pacemaker implantation for his new 2:1 second-degree AV block, with marked bradycardia.  The location of the AV block was likely infranodal, given the presence of the left bundle branch block (LBBB). The PR of the conducted beats is only slightly prolonged (220ms), and therefore not, by itelf, indicative of the location of the AV block (nodal vs. infranodal); see Case #5.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case136/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Bundle Branch Block",
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

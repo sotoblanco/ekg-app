@@ -1,0 +1,21 @@
+{
+    "case_id": "257",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=256&ans=1&caseid=257",
+    "clinical_history": "What is the \"syncopated\" cardiac rhythm?",
+    "diagnosis": "This ECG shows sinus rhythm, rate about 70 bpm with normal intervals and normal R wave progression.  A single isolated premature atrial complex (PAC) (7th beat) is present. The P wave comes very early and there is a slightly different P wave morphology from the sinus beats. The QRS complex is identical to sinus beats. There is also evidence of physiologic early repolarization variant with slight notching of the J point in the antero-lateral leads, e.g. lead V5 (see Case # 130, 246). Respiratory sinus arrhythmia causes more gradual increases and decreases in heart rate variability associated with inspiration and expiration, respectively (see Cases # 217, 245).Note that the terms premature beat, complex and depolarization are used interchangeably. These terms are preferable to \"premature contractions\" since not all atrial or ventricular premature depolarizations are actually associated with a mechanical response.Isolated atrial ectopy of this type is very common and may be seen in physiologic and pathologic contexts without any specific clinical implications.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case257/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

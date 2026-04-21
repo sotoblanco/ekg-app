@@ -1,0 +1,24 @@
+{
+    "case_id": "229",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=228&ans=1&caseid=229",
+    "clinical_history": "What is the rhythm in this ECG from a very elderly woman with lightheadedness following therapy for atrial fibrillation?",
+    "diagnosis": "b) This ECG presents a classic example of an AV junctional bradycardia. Note that the normal width QRS complexes at a rate of 56/min are each followed by a single retrograde (negative in II, positive in aVR) P wave. The escape pacemaker, therefore, is located in the AV junction area, causing activation of the atria from bottom to top, opposite of the normal depolarization pattern. The retrograde P waves with AV junctional rhythms may be located just after the QRS (present case), just before the QRS, or may be \u0093hidden\u0094 in the QRS if atrial and ventricular depolarization occur simultaneously. In the latter case, the baseline between QRS complexes will be flat. The AV junctional bradycardia in this case was probably related to the multiple medications the patient had recently received for atrial fibrillation, including metoprolol, verapamil and digoxin (low therapeutic level).  Myocardial infarction was ruled out. In light of her recent atrial fibrillation history and medication-related bradycardia, she underwent dual chamber pacemaker placement with adjustment of her drugs.       The ECG also shows evidence of left ventricular hypertrophy (LVH), non-specific ST-T changes (which could be due to digoxin, LVH, ischemia, etc), and marked left axis deviation consistent with left anterior fascicular block (prior inferior wall myocardial infarction (MI) cannot be excluded in light of the minuscule r waves in lead II, III and aVF).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case229/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

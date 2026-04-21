@@ -1,0 +1,21 @@
+{
+    "case_id": "472",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=471&ans=1&caseid=472",
+    "clinical_history": "This ECG from an elderly woman shows a short pause. What is its mechanism?",
+    "diagnosis": "The ECG shows predominant sinus rhythm with a single blocked atrial premature complex (APC). If you look carefully, you will see the T wave of the second beat is slightly deformed by a superimposed P\u00b4 wave. The total QRS-QRS pause is about 1.4 sec. (The sinus P waves, themselves, are at the upper limits of normal in size/duration, raising question of left atrial abnormality. By echocardiogram, the left atrium was also at the upper normal limits in size.) The precordial leads show borderline low QRS voltage, a non-specific finding.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case472/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

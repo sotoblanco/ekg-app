@@ -1,0 +1,24 @@
+{
+    "case_id": "397",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=396&ans=1&caseid=397",
+    "clinical_history": "The ECG from an elderly man with an \"irregular pulse\" shows which combination of mechanisms?",
+    "diagnosis": "The ECG shows sinus rhythm with frequent atrial premature beats/depolarizations (APBs/APDs), including atrial bigeminy. Some of the APBs are conducted with RBBB aberrancy, simulating ventricular bigeminy. An atrial triplet (3-beat run of atrial tachycardia) is present toward the end of the recording. The sinus beats show left atrial abnormality and all beats have prominent left axis deviation consistent with left anterior fascicular block.  Borderline voltage criteria (Cornell) are present for left ventricular hypertrophy. Non-specific ST-T changes are present. The patient had a history of atrial fibrillation/atrial flutter.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case397/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Right Bundle Branch Block",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

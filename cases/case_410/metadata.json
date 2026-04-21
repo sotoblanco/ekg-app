@@ -1,0 +1,21 @@
+{
+    "case_id": "410",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=409&ans=1&caseid=410",
+    "clinical_history": "This ECG from a 48 year old man is most consistent with which ONE of the following clinical scenarios?",
+    "diagnosis": "Sinus rhythm is present at about 70/min with a normal frontal plane QRS axis (about +50 degrees) and normal PR, QRS and QT intervals. The key finding is prominent T wave inversion in the precordial leads (especially V2-V4), with slight biphasic T waves in V5, as well as I and aVL.  R wave progression is slow in V1-V2. The P waves are consistent with left atrial abnormality. The patient had sustained a recent anterior infarction, with a near total occlusion of the left anterior descending coronary artery at angiography and was treated with an emergency percutaneous coronary intervention procedure. Echocardiogram showed moderate global left ventricular dysfunction, with focal abnormalities of the septum and anterior apical walls. The left atrium was dilated. This ischemic T wave inversion pattern is sometimes referred to as the \u0093LAD T-wave inversion pattern\u0094 or as \u0093Wellens\u0092 T waves.\u0094 The patient had presented with chest discomfort and elevated cardiac enzymes.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case410/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

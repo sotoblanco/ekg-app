@@ -1,0 +1,22 @@
+{
+    "case_id": "352",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=351&ans=1&caseid=352",
+    "clinical_history": "80-year old woman with a history of chronic bronchiectasis, as well as mitral regurgitation. Note that right precordial leads (V1R-V6R) are obtained here. This scenario is most consistent with which of the following diagnoses?",
+    "diagnosis": "The ECG shows atrial fibrillation (not artifact) with an average ventricular rate of about 96/min. Of note is the apparent marked right deviation with Q waves in I and aVL, but surprisingly with a left ventricular hypertrophy (LVH) pattern in the chest leads. However, the question notes that the chest leads are actually obtained in the V1R-V6R position, so the patient must have underlying situs inversus with dextrocardia. The limb leads here are not ~corrected~ (i.e., reversed), so they show the typical appearance with dextrocardia/situs inversus. The atrial fibrillation makes this more difficult since an abnormally rightward P wave vector (negative in lead I) is not discernible. The marked discordance between leads I and V6 is also unusual. You can visualize the limb leads as they would appear if the right and left arm/leg electrodes were reversed to correct for the situs inversus: lead I would be equivalent to negative lead I; leads II and III would be reversed; aVR and aVL would be switched and aVF would be nearly the same. So the limb leads actually show a horizontal/leftward axis. The history of chronic sinusitis with dextrocardia/situs inversus is consistent with the diagnosis of Kartagener~s syndrome, marked by the triad of dextrocardia/situs inversus (which by itself is benign) with chronic bronchiectasis and sinusitis, the latter two a result of ciliary dysfunction.  The LVH here is not related to the Kartagener~s syndrome but was due to underlying hypertensive heart disease and mitral regurgitation.(See: Lillington GA. Clin Rev Allergy Immunol 2001; 21: 65-9.)~~~~ ~~~~~~ ~~",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case352/800x400.gif",
+    "difficulty": 5,
+    "topics": [
+        "Atrial Fibrillation",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

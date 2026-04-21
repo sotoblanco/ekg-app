@@ -1,0 +1,22 @@
+{
+    "case_id": "4",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=3&ans=1&caseid=4",
+    "clinical_history": "Elderly female admitted with obtundation. What electrolyte abnormality is strongly suggested?",
+    "diagnosis": "Hyperkalemia (K+ = 8.7 mEq/L) secondary to acute renal failure. The ECG shows symmetrically peaked (\"tented\") T waves associated with potassium levels in excess of 6 mEq/L. The tracing also shows broad and flattened sinus P waves that may precede frank sino-ventricular conduction seen with severe hyperkalemia (i.e., conduction from the sinus node to the ventricles through specialized inter-nodal tissue without atrial depolarization). This conduction pattern may simulate a junctional rhythm. The narrow QRS complex in this tracing is somewhat atypical for severe hyperkalemia. Milder degrees of hyperkalemia may actually facilitate AV conduction. Note that T wave peaking with hyperkalemia is a relative finding: the absolute magnitude of the T waves cannot be used to rule in or rule out hyperkalemia. Indeed, in some cases of hyperkalemia with left ventricular hypertrophy, the T wave peaking may affect inverted T waves or cause relative normalization. The presence of relatively low voltage and sinus bradycardia in this clinical setting should also raise consideration of hypothyroidism/myxedema, which by itself usually also causes T wave flattening. Note is made that even relatively high levels of potassium may not produce classic changes on the ECG depending on a number of factors, including the rate that the K+  goes up. Thus specific levels of serum potassium cannot be linked to unique ECG patterns.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case4/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Hyperkalemia",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "Sinus bradycardia",
+        "rate": "45 bpm",
+        "axis": "Normal axis",
+        "intervals": "PR: ~220 ms, QRS: ~80 ms, QTc: ~420 ms",
+        "findings": "Symmetrically peaked ('tented') T waves most prominent in precordial leads V2-V6; broad and flattened sinus P waves; low voltage in limb leads.",
+        "comparison": "N/A",
+        "impression": "Severe hyperkalemia (K+ = 8.7 mEq/L) characterized by peaked T waves and flattened P waves; notably narrow QRS despite the severity of the electrolyte abnormality."
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "448",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=447&ans=1&caseid=448",
+    "clinical_history": "This ECG, from an elderly woman, is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The ECG shows sinus rhythm at about 90/min with normal PR and QRS intervals. Visually, the ST segment looks abbreviated. Non-specific ST-T changes are present. Of particular note, the QTc interval, measured at its longest (e.g., in lead V4; 256ms) is only about 310 ms (Hodges formula). The lower limits of the QTc are not well-defined, but values less than 350ms, and certainly 330ms, are considered quite short. (Prior recordings had shown QTc values well within normal range.) The list of factors that shorten the QT at physiologic heart rates is itself quite limited, including: digitalis effect (but no characteristic \"scooping\" of the ST-T complexes here), hypercalcemia and hereditary short QT syndrome (a rare condition associated with various inherited channelopathies and susceptibility to ventricular arrhythmogenesis). This patient had metastatic lung cancer and a serum calcium of 14.9mg/dL, with normal blood magnesium and phosphate concentrations at the time of the ECG.   Canny observers may note the slight PR segment deviations~up in aVR and down in most of the other leads. This finding, while non-diagnostic, in this context raises consideration of sub-clinical malignant pericarditis or even of tumor invasion of the atrium. However, the advanced metastatic disease here precluded pursuing further diagnostic work-up. The sensitivity of the ECG for hypercalcemia is highest for most elevated values and may be influenced by other abnormalities.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case448/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Pericarditis"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

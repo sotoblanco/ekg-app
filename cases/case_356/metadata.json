@@ -1,0 +1,21 @@
+{
+    "case_id": "356",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=355&ans=1&caseid=356",
+    "clinical_history": "Elderly woman with e.coli sepsis and an irregular, fast pulse. The ECG shows a number of abnormalities. What arrhythmia is present?",
+    "diagnosis": "Runs of multifocal atrial tachycardia (MAT) are present (probably with intermittent sinus beats). Low voltage QRS complexes are also noted with slow R wave progression (V1-V2). These findings could all be due to chronic obstructive pulmonary disease, although underlying anteroseptal myocardial infarction is not excluded. Other important causes of diffusely low voltage include pericardial effusion (not present by echocardiogram here) and anasarca. See also Case 346.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case356/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

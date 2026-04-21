@@ -1,0 +1,25 @@
+{
+    "case_id": "396",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=395&ans=1&caseid=396",
+    "clinical_history": "The ECG from a young adult man shows which ONE of the following mechanisms?",
+    "diagnosis": "The ECG shows classic atrial fibrillation (AF) pattern with an average ventricular response of about 100/min. The wide complex beat (4th in lead V1) has typical right bundle branch block (RBBB) morphology and is due to supraventricular aberrancy (so-called Ashman phenomenon). It is preceded by a relatively longer cycle length and comes during a relatively shorter cycle length. This finding may simulate a PVC (premature ventricular complex). A run of Ashman type beats may simulate ventricular tachycardia during AF but should be associated with an irregular rate, usually with a typical RBBB configuration. The aberrancy is due to the fact that the refractoriness of the His-Purkinje system is related to the preceding cycle length. A beat that traverses the AV node after a longer cycle may encounter the bundle branch system (especially the right bundle) in an absolute or relatively refractory state. This type of aberrancy is often classified as an example of so-called \u0093phase-3 aberrancy.\u0094 It should be noted that a long cycle-short cycle pattern by itself, which is also seen with PVCs in AF, is not indicative of Ashman (supraventricular aberrancy) phenomenon.  Classic reference: Gouaux JL, Ashman R. Auricular fibrillation with aberration simulating ventricular paroxysmal tachycardia. Am Heart J 1947; 34: 366. Also see helpful discussion by Amir MA: http://www.amc.edu/Amr/archives/200301/review01.html  This patient had spontaneous conversion to sinus rhythm and was being evaluated for hyperthyroidism.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case396/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Ventricular Tachycardia",
+        "Right Bundle Branch Block",
+        "Supraventricular Tachycardia",
+        "Premature Ventricular Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

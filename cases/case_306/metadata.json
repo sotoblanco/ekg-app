@@ -1,0 +1,24 @@
+{
+    "case_id": "306",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=305&ans=1&caseid=306",
+    "clinical_history": "76 year old man with idiopathic cardiomyopathy and a wide QRS complex. There was no clinical/echocardiographic evidence of right ventricular hypertrophy. There was no clinically significant coronary artery disease by cardiac catheterization. The ECG shows borderline sinus bradycardia with a prolonged PR interval (first degree AV conduction delay) and what other findings?",
+    "diagnosis": "The ECG shows borderline sinus bradycardia (59 bpm), a prolonged PR interval (250 msec) and right bundle branch block (RBBB) with marked right axis deviation (RAD). The upright P wave in lead I precludes left arm/right arm lead reversal. There are three major causes of RBBB with RAD in adults: 1) right ventricular overload/hypertrophy syndromes, acute or chronic; 2) lateral MI with RBBB, and 3) RBBB with left posterior fascicular block (a type of \u0093bifascicular block\u0094).  The latter is a diagnosis of exclusion, requiring ruling out RV overload or lateral MI, in particular as causes of the RAD. This ECG shows non-diagnostic Q waves in the infero-lateral leads here without clinical evidence of prior MI.  This patient was referred for cardiac electrophysiologic study (EPS) because of findings of RBBB with alternating right and left axis deviation on other ECGs, consistent with severe His-Purkinje (infranodal) conduction disease. This finding was confirmed at EPS which revealed a markedly prolonged HV interval (91 msec, increasing to 110 msec after procainamide infusion) with only a minimally prolonged AH interval (123 msec) at a baseline sinus cycle length of 993 msec (about 60 bpm). He underwent dual chamber pacemaker implantation because of the high risk of progression to complete heart block.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case306/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Bundle Branch Block",
+        "Premature Atrial Contractions",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "case_id": "520",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=519&ans=1&caseid=520",
+    "clinical_history": "70 yr-old woman with worsening heart failure symptoms. The ECG is diagnostic of which ONE of the following rhythms?",
+    "diagnosis": "The differential diagnosis of a very regular, narrow complex tachycardia (NCT), as illustrated here, focuses on the following 3 most common electrophysiologic syndromes in adults: sinus tachycardia, atrial flutter (usually with 2:1 and rarely 1:1 AV conduction) and paroxysmal (or persistent) supraventricular tachycardia (PSVT). The latter category, in turn, subtends three major variants: AV nodal reentrant tachycardia (AVNRT), atrioventricular reentrant (bypass-mediated) tachycardia (AVRT), and focal atrial tachycardia (AT) with 1:1 or 2:1 conduction. The resting ventricular rate here, close to 150/min, effectively excludes sinus tachycardia in a 70 yr. old. (Recall that estimated maximal heart rate at rest is 220-age.) Most important, the negative atrial waves in lead II definitively exclude sinus tachycardia. The atrial rate of close to 300/min is too fast for atrial tachycardia, but consistent, with atrial flutter with 2:1 conduction given the ventricular rate. Classic flutter (F) waves are clearly seen in lead V1 where they are positive and in lead II where they appear negative. This polarity is consistent with typical atrial flutter (i.e., isthmus-dependent) with a counterclockwise rotation of the macro-reentrant wave in the right atrium.  Note that in lead II, one of the two flutter waves/QRS is partly hidden the ST segment, which may cause diagnostic confusion. Also, note that F waves (as well as fibrillatory [f] waves) are not true P waves, since the former represent continuous atrial activity, while the latter, seen for example, with sinus or ectopic atrial or junctional rhythms, are due to discrete atrial depolarization followed by a (usually isoelectric) repolarization phase.  The ECG also shows borderline left axis deviation and a delayed precordial transition zone.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case520/800x439.jpg",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Flutter",
+        "Ventricular Tachycardia",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

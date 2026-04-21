@@ -1,0 +1,23 @@
+{
+    "case_id": "540",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=539&ans=1&caseid=540",
+    "clinical_history": "What is your diagnosis of the rhythm in this 60-year old woman? (Note also the other waveform findings.)",
+    "diagnosis": "The interpretation of this arrhythmia is a bit challenging. At first glance, you might think this is an example of sinus/sinus arrhythmia given the positive atrial waves in lead II. But (!) on closer inspection, Wave-Maven followers will note that the atrial rate is actually about 210/min, precluding sinus rhythm (look at lead II for subtle, partly obscured atrial waves). Note also that the atrial-QRS interval varies, in some cases becoming too short to reflect AV conduction for that beat. (See last cycle.) Whether this is an atrial flutter variant (with a slow atrial rate and a positive F waves inferiorly) or a focal atrial tachycardia (AT) with variable AV conduction cannot be determined with certainty from the surface ECG alone.  However, AVNRT (associated with hidden or retrograde P waves) is excluded by the atrial wave axis and by the variable AV conduction. The consistency of the F/P waveforms also excludes MAT or atrial fibrillation. This patient with a history of coronary artery disease and atrial fibrillation was on amiodarone, which may \"convert\" atrial fibrillation to persistent atrial flutter, as well as on a beta-blocker (but not on digoxin). There was no history of prior ablation therapy.  Also present are right bundle branch block and relatively low voltage diffusely. Consult your local cardiac EP expert for further thoughts.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case540/800x444.jpg",
+    "difficulty": 4,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

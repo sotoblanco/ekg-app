@@ -1,0 +1,21 @@
+{
+    "case_id": "521",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=520&ans=1&caseid=521",
+    "clinical_history": "This ECG shows an unusual appearance most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The negative P, normal PR and negative QRS in lead I are the first set of clues to a lead reversal. However, this is not the usual LA/RA lead reversal. A second clue is the almost zero potential QRS voltage in lead II, which should be configured as LL-RA voltages. However, to get a zero potential in a bipolar lead can only be readily accounted for by  a spurious lead configuration based on the difference of LL and RL potentials, which are nearly equal. (Recall that the RL electrode functions as an electrical ground in standard ECGs.) Third, since aVR=aVF here, the RA and a leg electrode must be reversed. (The chest leads are essentially normal, with minimal nonspecific ST-T changes.) To account for all of these findings, this ECG must show inadvertent reversal of RA and RL electrodes. Thus, lead II=LL-RL (not RA), so that aVR=aVF,  as observed. Lead III (LL-LA) should be unaffected. Lead I will be LA-RL. Rx: repeat tracing with correct lead placement!",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case521/800x453.jpg",
+    "difficulty": 4,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Fundamentals",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

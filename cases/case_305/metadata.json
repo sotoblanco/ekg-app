@@ -1,0 +1,24 @@
+{
+    "case_id": "305",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=304&ans=1&caseid=305",
+    "clinical_history": "This ECG from a 57 year old woman with palpitations and lightheadedness is most consistent with which one of the following diagnoses?",
+    "diagnosis": "The ECG shows sinus rhythm with a right ventricular conduction delay and right axis deviation, consistent with a right ventricular overload syndrome. In addition, there are T wave inversions across the precordium and subtle, but consistent low amplitude notching just after the end of the QRS in the right precordial leads. The latter finding is characteristic of an epsilon wave, a highly specific but not sensitive finding with ARVD. For a comprehensive review of the ECG in findings in this important substrate for syncope and sudden cardiac death in young to middle-aged adults, see Circulation 2004; 110:1527. Also see www.ARVD.com for useful information and the beautiful review by Dr. J. Willis Hurst of how ECG waves (including epsilon waves) came to be named (Circulation 1998:98:1937).  The Brugada pattern is associated with a pseudo-right bundle branch block pattern with ST elevations in the right precordial leads (not seen here). The relatively tall right precordial R waves here are due to right ventricular conduction delay, and not to posterior infarction (which is usually associated with ECG signs of inferior or lateral Q wave MI). The classic triad of WPW (short PR, wide QRS and delta waves) is not seen here, either. Mitral valve prolapse is associated with non-specific ST-T changes in the infero-lateral leads, and when severe, chronic mitral regurgitation is present, signs of left ventricular hypertrophy may be seen.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case305/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Bundle Branch Block",
+        "Wolff-Parkinson-White",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "case_id": "527",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=526&ans=1&caseid=527",
+    "clinical_history": "73 year-old woman presents with dyspnea and palpitations (rapid heartbeat sensation). This ECG is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The ECG shows a  very regular, narrow complex (normal QRS duration) tachycardia with a ventricular rate of about 150/min. Close inspection reveals two atrial waves per QRS, which are best seen in leads III and V1 in this case. These deflections are not true (discrete) P waves. Rather, they represent continuous atrial activity due to a typical atrial flutter circuit, involving a large (macro-) reentrant wave traversing the right atrium in a counterclockwise direction, involving the zone (isthmus) between the tricuspid valve and inferior vena cava. This directionality is associated with the \"negative,\" asymmetric appearance of the flutter (F) waves in the inferior limb leads, and with their positive polarity in V1 and V2. The ECG also shows borderline left axis deviation, slow precordial R wave progression and non-specific ST-T changes. The patient had an idiopathic cardiomyopathy with moderate-severe mitral regurgitation and moderately reduced left ventricular ejection fraction by transthoracic echocardiogram. The patient also had a history of atrial fibrillation.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case527/800x445.jpg",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

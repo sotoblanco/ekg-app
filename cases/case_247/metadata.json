@@ -1,0 +1,24 @@
+{
+    "case_id": "247",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=246&ans=1&caseid=247",
+    "clinical_history": "51 year male seen in the emergency department. What is the diagnosis?",
+    "diagnosis": "This is a classic ECG obtained during a ventricular fibrillation (VF) cardiac arrest.  The findings are typical of ventricular fibrillation with more organized ventricular electrical activity in the second half of the strip consistent with ventricular flutter. There is no evidence of any atrial activity ruling out atrial fibrillation with Wolff-Parkinson-White (WPW )( see Case # 15 ) or atrial flutter with a bundle branch block.  The characteristic, systematic variation in QRS axis of torsade (see Case # 152 ) is not seen here (although torsade may degenerate terminally into ventricular fibrillation.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case247/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Ventricular Fibrillation",
+        "Wolff-Parkinson-White"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

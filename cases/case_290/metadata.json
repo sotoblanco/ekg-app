@@ -1,0 +1,23 @@
+{
+    "case_id": "290",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=289&ans=1&caseid=290",
+    "clinical_history": "What is this wide complex tachycardia in an 88 year old woman?",
+    "diagnosis": "This ECG shows monomorphic ventricular tachycardia at a rate of about 140 bpm with a very wide (QRS duration at least 180 msec) with a right bundle branch block and superior axis deviation morphology; (for comparison, see also Case # 274). Note the broad RS in lead III. The QRS also has a wide notched R wave in V1 and V2. \r\nThe previous ECG done on this patient the same day showed an extensive anterolateral ST elevation acute myocardial infarction (see Case # 289). There is definite suggestion of superimposed marked ST elevation in V5 and V6, approaching a monophasic current of injury (\"tombstone pattern\") which makes the QRS appear even wider than it is. The presence of monomorphic VT in acute coronary disease strongly suggests an underlying scar.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case290/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Ventricular Tachycardia",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

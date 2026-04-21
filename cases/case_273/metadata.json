@@ -1,0 +1,21 @@
+{
+    "case_id": "273",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=272&ans=1&caseid=273",
+    "clinical_history": "52 year-old man transferred by ambulance. The ECG is diagnostic of which one of the following conditions?",
+    "diagnosis": "This ECG shows sinus rhythm at about 90 bpm with acute ST elevations in leads I, aVL and V2-V6. These striking antero-lateral ST elevations are due to an extensive \u0093current of injury\u0094 and the pattern is technically known as a \u0093monophasic current of injury.\u0094 Reciprocal ST depressions are present in leads III and aVF. Incipient Q waves are present in leads V3-V6. Borderline left axis deviation is present, with minuscule r waves in III and aVF and a small Q in II, raising the possibility of prior inferior infarction.\r\n\r\nThe accompanying tall T waves are so-called hyperacute T waves. In housestaff parlance, the term \u0093tombstone pattern\u0094 is often used (but not encouraged) in this context, due to the distinctive shape and high amplitude of the ST-T elevations and the life-threatening clinical implications.\r\n\r\nThis patient was immediately transferred to the cardiac catheterization laboratory with cardiogenic shock syndrome. He underwent primary angioplasty of a 99% mid-left anterior descending lesion and an intra-aortic balloon pump was placed. An initial echocardiogram showed a markedly reduced left ventricular ejection fraction of 20-25%.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case273/800x400.gif",
+    "difficulty": 5,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

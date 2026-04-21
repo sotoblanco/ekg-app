@@ -1,0 +1,24 @@
+{
+    "case_id": "507",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=506&ans=1&caseid=507",
+    "clinical_history": "This ECG was interpreted by the computer program as showing \"sinus tachycardia\" with premature atrial complexes and first degree AV block. Do you agree? What is your reading?",
+    "diagnosis": "The rhythm is indeed atrial fibrillation (NOT sinus tach) with a rapid ventricular response. The grossly irregular QRS response and the variable atrial waves (rate well over 300 cycles/min with a changing morphology) argue strongly against atrial flutter. (Atrial flutter with variable block also is often associated with a more periodic type of  \"group beating\" rather than a frankly random appearing response.) Computer readings always require careful over-read!",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case507/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "case_id": "162",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=161&ans=1&caseid=162",
+    "clinical_history": "This ECG shows evidence consistent with all of the following, except:",
+    "diagnosis": "Peaked (\"tented\") T waves are seen in concert with left ventricular hypertrophy (LVH), left anterior fascicular block, and very slow R-wave progression V1-V3, the latter finding raising the possibility of  prior anteroseptal myocardial infarction (MI). The combination of ECG signs of hyperkalemia and LVH is strongly suggestive of underlying renal insufficiency (with hypertension to account for the LVH).  The K+ here was 6.8 meq/L.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case162/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Hyperkalemia",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

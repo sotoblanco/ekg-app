@@ -1,0 +1,25 @@
+{
+    "case_id": "474",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=473&ans=1&caseid=474",
+    "clinical_history": "This ECG from an elderly man with multiple cardiopulmonary problems shows complete right bundle branch block (RBBB) and left axis deviation, the latter consistent with left anterior fascicular block (LAFB). What is the underlying rhythm?",
+    "diagnosis": "The ECG shows a subtle pattern\u0097namely, group beating with couplets, giving a \u0093short-long\u0094 (alternatively \u0093long-short\u0094) sequencing. This type of group beating pattern may be due to a number of mechanisms, notably prematurity (supraventricular or ventricular) with a post-ectopic pauses, and conduction block (SA or AV). The QRS complexes here are identical, ruling out Choice C.  Non-conducted P waves are not seen (ruling out B).  Respiratory sinus arrhythmia is seen in young healthy subjects and has a more gradual pattern of increases and decreases in rate. The answer to the rhythm conundrum is found upon close inspection (magnification) of the waveform data: the second P wave in each couplet is slightly different from the first (see, e.g., leads II and aVF). This finding is consistent with sinus rhythm with subtle atrial bigeminy. (Note: the P waves should be identical with SA Wenckebach.)  The other abnormalities are as mentioned above, including RBBB and LAFB. In addition, the P wave morphology is consistent with left atrial abnormality (LAA). R wave progression in the chest leads is slow, a non-specific finding. The R wave (about 11 mm) is at the upper limits of normal in lead aVL. Given the associated findings of LAA and left axis deviation, the diagnosis of left ventricular hypertrophy (LVH) is probable. The patient had coronary disease with normal LV systolic function by echocardiogram and severe chronic obstructive lung disease/asthma. Cardiac echo also showed mild symmetric LVH and bi-atrial dilation. Clinically, the patient had a history of paroxysmal atrial fibrillation and of ventricular tachyarrhythmias.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case474/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Atrial Fibrillation",
+        "Right Bundle Branch Block",
+        "AV Block",
+        "Supraventricular Tachycardia",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

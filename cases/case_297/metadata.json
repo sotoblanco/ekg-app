@@ -1,0 +1,21 @@
+{
+    "case_id": "297",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=296&ans=1&caseid=297",
+    "clinical_history": "63 year-old gentleman in Emergency Department with complaint of chest pain. What is the most likely diagnosis?",
+    "diagnosis": "This ECG shows sinus rhythm, rate 90 bpm with profound subendocardial ischemia (marked ST segment depressions in leads V2-4 with T wave inversions in leads V3-6) consistent with acute anterior ischemia. Q waves in leads II, III and aVF are consistent with prior inferior myocardial infarction (MI).  This patient had a long history of severe vessel coronary artery disease including several angioplasties and previous MIs. Cardiac catheterization revealed a left ventricular ejection fraction of 35% and 3 vessel coronary artery disease. He then underwent successful coronary artery bypass graft surgery.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case297/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

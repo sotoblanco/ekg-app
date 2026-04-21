@@ -1,0 +1,21 @@
+{
+    "case_id": "107",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=106&ans=1&caseid=107",
+    "clinical_history": "What is the first question to ask?",
+    "diagnosis": "What is the patient's age?  This is a normal ECG in an 11-year-old male.  The T-wave inversions in V1-V3 are a normal finding in children, and may persist into adulthood.  The vertical QRS axis (about +90 degrees) and early precordial transition are also physiologic findings.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case107/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Diverse disease",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

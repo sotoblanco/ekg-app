@@ -1,0 +1,24 @@
+{
+    "case_id": "508",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=507&ans=1&caseid=508",
+    "clinical_history": "This ECG, from an elderly woman, shows which ONE of following?",
+    "diagnosis": "The rhythm is sinus with second-degree AV block, Mobitz type II, with intermittent non-conducted (\"dropped\") P waves. This finding is important since it indicates infra-nodal disease with a high risk of advanced AV block and possibly of torsade de pointes.  Of note, the PR before and after the non-conducted P waves are the same duration. In addition the wide QRS due to the LBBB is also consistent with infranodal disease. The conducted PR intervals are well within normal limits, also consistent with infranodal (His-Purkinje) vs. AV nodal block. The patient had long pauses on a monitor lead due to multiple non-conducted P waves (advanced second degree AV block) and underwent dual chamber pacemaker implantation.  The fact that the P waves here come  \"on time\" excludes atrial prematurity. With classic SA Wenckebach, the P-P interval shortens, followed by an entire P-QRS cycle that is non-conducted due to exit block in the SA node area. With AV Wenckebach (type I block) cycles (3:2 and higher ratios), the PR after the non-conducted beat should be demonstrably shorter than the one before it. In general, \"group beating\" (clustered QRS) patterns with sinus rhythm can be mechanistically due to blocks (SA or AV), prematurity (especially supraventricular with a post-ectopic pause), and, most rarely, to concealed junctional-His extrasystoles. (For aficionados, another very rare cause of group beating with sinus rhythm is dual pathway physiology with 1:2 AV conduction.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case508/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Left Bundle Branch Block",
+        "AV Block",
+        "Supraventricular Tachycardia",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

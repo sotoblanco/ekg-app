@@ -1,0 +1,21 @@
+{
+    "case_id": "184",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=183&ans=1&caseid=184",
+    "clinical_history": "Young adult male with palpitations.  The ECG shows which of the following?",
+    "diagnosis": "e) The 8th and 9th beats show a classic Wolff-Parkinson-White pattern (WPW) with a short PR, wide QRS and delta waves.  The tall R in V1 here is due to pre-excitation via a left lateral wall bypass tract.  The WPW pattern may be intermittent due, for example, to a transient increase in vagal tone which slows conduction in the AV node, allowing bypass tract conduction to become more evident. (The Brugada pattern, in contrast, is associated with a right bundle branch-like morphology and ST elevations V1-V2; see www.crtia.be/)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case184/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Wolff-Parkinson-White"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

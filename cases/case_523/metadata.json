@@ -1,0 +1,23 @@
+{
+    "case_id": "523",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=522&ans=1&caseid=523",
+    "clinical_history": "Middle-aged man with multifactorial chronic heart failure syndrome. The tachycardia is diagnostic of which ONE of the following arrhythmias?",
+    "diagnosis": "This ECG shows a very regular (ventricular rate about 150/min) wide complex tachycardia with a typical left bundle branch block (LBBB) pattern and left axis deviation (-50 degrees). (An identical LBBB pattern was noted on previous ECGs with sinus rhythm.)  Atrial activity is present, which may be mistaken for discrete P waves, but actually represents typical atrial flutter (rate 300/min) with 2:1 AV conduction. Major clues are the negative polarity of the atrial activity in lead II and the partly hidden, second atrial waves in lead V1. Always consider atrial flutter with 2:1 conduction with a regular tachycardia at about 150, with negative atrial waves in lead II.  Given the very prominent voltage and left axis deviation, along with the arrhythmia, underlying left ventricular hypertrophy (confirmed by echocardiogram) is most likely present.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case523/800x451.jpg",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Flutter",
+        "Left Bundle Branch Block",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

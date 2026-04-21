@@ -1,0 +1,23 @@
+{
+    "case_id": "309",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=308&ans=1&caseid=309",
+    "clinical_history": "Elderly woman presents with a slow pulse. The ECG is highly suggestive of which of the following diagnoses?",
+    "diagnosis": "The underlying rhythm is atrial fibrillation with a slow (average rate around 38 bpm) and, at times, regularized ventricular response. The ST-T complexes (\u0093scooping\u0094 of the ventricular repolarization waveform) are consistent digitalis effect (not necessarily toxicity). In concert with the rhythm findings, digitalis excess is strongly suggested. The patient\u0092s digoxin level was in fact in the toxic range at 2.2 nanograms/ml. The ECG also shows left ventricular hypertrophy (LVH) due underlying aortic stenosis. The ST-T abnormalities may in part be due to the LVH or to ischemia.  Digitalis toxicity in the presence of atrial fibrillation may cause excessive slowing and/or regularization (due to AV junctional mechanisms). Digitalis glycoside toxicity causes a variety of bradyarrhythmias by augmenting cardiac vagal tone at the AV node (as in the case here) or SA node. Cardiac glycoside poisoning can also occur from ingestion of various plants (e.g., foxglove) and animal toxins (e.g., venomous bites from the cane toad (Bufo marinus). Severe digitalis intoxication can also lead to marked hyperkalemia via Na+/K+ pump inhibition. Serum potassium in this case was normal.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case309/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Hyperkalemia",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

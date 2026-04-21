@@ -1,0 +1,21 @@
+{
+    "case_id": "98",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=97&ans=1&caseid=98",
+    "clinical_history": "52-year-old male with subtle evidence of life-threatening problem.",
+    "diagnosis": "Patient has evolving inferior non-Q wave myocardial infarction (MI). Note slight inferior ST elevation with T wave inversion. There is also minimal reciprocal ST depression in aVL. Relatively low limb lead voltage makes these findings more subtle.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case98/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

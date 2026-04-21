@@ -1,0 +1,24 @@
+{
+    "case_id": "255",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=254&ans=1&caseid=255",
+    "clinical_history": "ECG diagnosis is sinus rhythm with what conduction abnormality?",
+    "diagnosis": "The ECG shows sinus rhythm with a complete left bundle branch block (LBBB) pattern (QRS duration 0.16 second) with secondary ST-T wave changes. Bundle branch blocks usually produce \"secondary\" T wave changes such that the ST-T wave vector points opposite in direction of the major vector of the QRS. These secondary ST-T changes are due to the altered sequence of ventricular activation.  In a typical right bundle branch block (RBBB), an rSR\u00b4-type complex will be seen in lead V1. Wolff-Parkinson-White (WPW) pre-excitation produces the classic triad a short PR, wide QRS and delta waves, not present here (see Case # 97). Left anterior and left posterior fascicular blocks (hemiblocks) do not cause prominent widening or the QRS duration, and are associated with marked left (-45 degrees or more) or right (+100 degrees or more) axis deviation, respectively. Complete LBBB may be associated with a normal, leftward, or rarely rightward QRS axis.\r\n\r\nLBBB may mask or mimic the pattern of underlying myocardial infarction. LBBB is also important since it is often a marker of underlying organic heart disease (e.g., due to hypertension, severe coronary disease, cardiomyopathy or valvular disease).  In addition, LBBB disrupts the normal activation/contraction pattern of the ventricles. As a result, left ventricular function may be impaired or worsened, especially in patients with congestive heart failure syndromes.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case255/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Bundle Branch Block",
+        "Right Bundle Branch Block",
+        "Wolff-Parkinson-White"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

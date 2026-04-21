@@ -1,0 +1,23 @@
+{
+    "case_id": "350",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=349&ans=1&caseid=350",
+    "clinical_history": "A 76 year old man was seen in the emergency department after an episode of chest pain at home. What is the rhythm?",
+    "diagnosis": "This ECG shows sinus rhythm (P wave rate is 90/min) with 2:1 AV block with a ventricular rate of 45/min. Prolonged AV conduction (PR interval of 280 milliseconds) in the conducted beats suggests a nodal mechanism, although the QRS duration is somewhat wide (110-120 milliseconds), also raising question of infranodal block.  There is left atrial abnormality and left ventricular hypertrophy (LVH). Prominent anterolateral T wave inversions are noted, raising consideration of ischemia/myocardial infarction (MI) superimposed on the LVH pattern. The QT interval is borderline prolonged for the rate.  The patient, in fact, ruled in for a non-Q-wave MI. He underwent cardiac catheterization and was found to have multiple coronary artery lesions with a reduced left ventricular ejection fraction of 45 percent. Because of multiple co-morbid conditions, he was not a candidate for coronary artery bypass graft surgery and was treated medically. Subsequent ECGs showed intermittent AV Wenckebach, indicating that the 2:1 AV block here was nodal in origin.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case350/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "AV Block",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "case_id": "130",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=129&ans=1&caseid=130",
+    "clinical_history": "This ECG from a 21-year-old male is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "b) Normal variant early repolarization is correct!  The ECG shows normal variant ST segment elevations, commonly referred to as the benign  early repolarization pattern.  The ST elevations retain their normal upward concavity and are most apparent in leads V3 and V4.  Minimal ST elevations are apparent in the limb leads without reciprocal ST depressions (except for lead aVR).  Slight notching of the terminal QRS (V4) is often seen in conjunction with this pattern.  Precordial QRS voltages are somewhat prominent, but within normal limits for a young adult man.  There is also no evidence of left atrial abnormality (LAA) or ST depressions/T wave inversions to go along with left ventricular hypertrophy (LVH).   Note the subtle heart rate variability here consistent with physiologic respiratory sinus arrhythmia (RSA).  The heart rate is faster at the beginning of the record (consistent with the inspiratory phase of breathing) and then slows during presumed expiration.  This particular type of sinus arrhythmia is modulated by changes in vagal tone and is a marker of intact components of neuroautonomic function.   Apical hypertrophic cardiomyopathy is typically associated with ECG evidence of LVH with prominent T wave inversions in the precordial leads.  (For an example, see ECG Wave-Maven Case #14.)  Acute pericarditis and early repolarization variant may be difficult to distinguish since both can cause ST elevations.  However, with pericarditis, the ST elevations are typically apparent both in limb leads (especially leads I and II) and in multiple precordial leads (e.g. V2-V6).  ST elevations in the precordial with pericarditis leads are also typically more apparent in V5-V6 than they are in early repolarization where ST elevations usually are maximum in V3-V4.  Also, pericarditis is often associated with characteristic deviation of the PR segment (upward in aVR, downward in other leads).  Pericarditis with effusion may cause low voltage. (For comparison with an example of acute pericarditis, see ECG Wave-Maven Case #3.)   The distribution and morphology of the ST elevation here and the absence of reciprocal changes is strongly against ischemia or infarction.  (For comparison with a case of acute MI, see ECG Wave-Maven Case #66.)    The absence of evidence of severe LVH (no ST depression/T wave inversions in leads with prominent R waves) and the absence of LAA essentially exclude critical aortic stenosis.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case130/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Pericarditis",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

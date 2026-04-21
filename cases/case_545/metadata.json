@@ -1,0 +1,28 @@
+{
+    "case_id": "545",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=544&ans=1&caseid=545",
+    "clinical_history": "Challenging ECG recorded from a 71 year-old man, showing multiple abnormalities. Which ONE of the following diagnoses is NOT present?",
+    "diagnosis": "The underlying rhythm, seen at the beginning of the recording, is atrial fibrillation, not sinus rhythm. Careful inspection reveals undulatory atrial waves, not discrete P waves, with an irregular ventricular response. The associated QRS complexes are wide due to an intraventricular conduction delay, with pathologic Q waves consistent with a prior inferior MI. The notched, wide supraventricular QRS complexes are consistent with extensive ventricular scarring. Of note, a notched, very wide complex, regular (about 145 beats/min) tachycardia supervenes from beats 7 onwards (QRS duration close to 200 ms, with a right bundle branch block morphology and RS complexes laterally), which is diagnostic of monomorphic VT. Beat 6 may be a fusion beat.    The onset of a wide regular wide complex tachycardia with underlying atrial fibrillation and a different QRS morphology is strong evidence of VT. If available, previous recordings with PVCs identical to those constituting the wide complex tachycardia are useful in identifying the mechanism as VT. The differential diagnosis of a regular wide-complex tachycardia in the presence of AF is quite limited, including atrial flutter and pacemaker-induced tachycardia. Atrial fibrillation with an IVCD and a rapid ventricular response should still be irregular. This patient had severe ischemic cardiomyopathy with recurrent VT and an implanted cardioverter-defibrillator (ICD).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case545/800x474.jpg",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Ventricular Tachycardia",
+        "Right Bundle Branch Block",
+        "Supraventricular Tachycardia",
+        "Premature Ventricular Contractions",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

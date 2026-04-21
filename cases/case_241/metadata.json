@@ -1,0 +1,22 @@
+{
+    "case_id": "241",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=240&ans=1&caseid=241",
+    "clinical_history": "A 76-year-old woman who has had severe asthma since age 18 comes to the emergency department complaining of increased shortness of breath.  Which one of the following statements is true concerning her admission ECG?",
+    "diagnosis": "E) Sinus rhythm is present with a relatively fast resting rate (93/min). The PR interval is normal at approximately 0.16 second (normal PR < 0.20 second). The QRS axis is approximately 180\u00b0 (biphasic in lead aVF and positive in lead aVR) and thus dramatically deviated to the right.  The R wave progression is reversed, with tall right precordial R waves and an rS complex in the left chest leads! Recall that in the normal ECG, there is an rS complex in lead V1.  The R wave becomes relatively larger and the S wave smaller in lead V2. The ratio of the R wave to the S wave becomes 1 at the so-called transition zone, usually in lead V3 or V4.  By lead V6, the QRS complex has usually evolved to become a qR complex. This process is referred to as normal R wave progression. In this ECG, however, there is a qR complex in lead V1 and an rS complex in lead V6. There is an incomplete, not complete right bundle branch block (RBBB) (QRS duration between 0.10 and 0.12 second). The tall right precordial R waves (with a qR complex in lead V1) and the right axis deviation (RAD) are essentially diagnostic of right ventricular hypertrophy (RVH.) The ST-T changes in V1-V3 are also consistent with RV overload (sometimes called an \u0093RV strain\u0094 pattern). The P waves in lead II are slightly peaked but do not meet strict criteria for right atrial overload (2.5mm or more in height). Additional comments:RV hypertrophy occurs over time in response to pressure or volume overload in conditions such as primary pulmonary hypertension, chronic obstructive pulmonary disease (COPD), pulmonic stenosis, and atrial septal defect (ASD). This patient was diagnosed with an asthma exacerbation superimposed on severe COPD and improved with oral steroids and albuterol nebulizer therapy.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case241/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Right Bundle Branch Block",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "462",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=461&ans=1&caseid=462",
+    "clinical_history": "What is the rhythm in a 42 year old woman with palpitations?",
+    "diagnosis": "The ECG shows a very regular, narrow complex tachycardia (NCT) with a ventricular rate of about 150/min. The NCT rules out antidromic conduction with a concealed bypass tract, which should produce a wide-complex tachycardia. If you look carefully, especially at a magnified high resolution presentation of this ECG, you will see subtle positive/negative deflections near the terminal part of the QRS in leads aVR/II, consistent with retrograde P waves from AV nodal reentry. These waves are sometimes called pseudo-R and pseudo-S waves, respectively. The low voltage QRS complexes were likely due to obesity.  The substrate for AVNRT relates to so-called \u0093dual-pathways\u0094 in the AV node that allow for the initiation and maintenance of a reentrant type rhythm. Typically AVNRT is initiated by an atrial premature complex. The retrograde P waves during the tachycardia may be seen just after the QRS, as in this case, or may be \u0093hidden\u0094 in the QRS if the atria and ventricles are stimulated simultaneously. Rarely, the retrograde P waves with AVNRT will precede the QRS. See other examples of NCTs on this site for further discussion (e.g., 106, 278, 323, 390). Also, see the very nice review by Drs. Katritsis and Camm in Circulation:  http://circ.ahajournals.org/content/122/8/831.full",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case462/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

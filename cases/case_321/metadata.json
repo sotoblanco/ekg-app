@@ -1,0 +1,23 @@
+{
+    "case_id": "321",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=320&ans=1&caseid=321",
+    "clinical_history": "70 year-old female with hypertension, atypical chest pain and a history of mitral valve replacement for rheumatic heart disease. This ECG shows all of the following EXCEPT?",
+    "diagnosis": "This ECG shows rhythm at rate of 67 bpm with a subtle atrial premature complex (8th beat on rhythm strip) and 1 isolated ventricular premature complex (11th beat on rhythm strip). T wave inversions in leads I, aVL and V4-V6 may be due to left ventricular hypertrophy (LVH), ischemia, etc.  Left atrial abnormality is present. The precordial voltage is prominent and there is a borderline left axis. All these findings are consistent with underlying LVH. QT prolongation is also present without evidence of hypokalemia or apparent drug effect. The QRS duration, however, is normal here (less than 100-110 msec). Widening of the QRS may occur with LVH, leading to an intraventricular conduction delay and sometimes is associated with an actual left bundle branch block.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case321/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Hypokalemia",
+        "Left Bundle Branch Block",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

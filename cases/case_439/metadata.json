@@ -1,0 +1,21 @@
+{
+    "case_id": "439",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=438&ans=1&caseid=439",
+    "clinical_history": "This ECG, from a 69-year-old woman, is most consistent with which ONE of the following clinical scenarios?",
+    "diagnosis": "The ECG shows marked sinus tachycardia (about 130 beats/min) at rest, consistent with neuroautonomic activation. A key clue is related to the large (notched in multiple leads and predominantly negative in V1) P waves. These P waves (previously referred to as \u0093P mitrale\u0094) are consistent with marked left atrial abnormality/enlargement. The only diagnosis listed that would account for the sinus tachycardia and left atrial overload is infective endocarditis/sepsis associated with a mitral valve bioprosthesis. The ECG also shows non-specific ST-T changes and relatively low limb lead voltage. Atrial septal defects are usually associated with right ventricular conduction delays. The S1Q3 pattern here with the sinus tachycardia is a non-specific finding but raises a question of pulmonary embolism (not present).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case439/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

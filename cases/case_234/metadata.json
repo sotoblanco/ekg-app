@@ -1,0 +1,21 @@
+{
+    "case_id": "234",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=233&ans=1&caseid=234",
+    "clinical_history": "A 34-yr-old woman with a history of Hodgkin\u0092s disease complains of severe dyspnea. What diagnosis is most consistent with the following ECG?",
+    "diagnosis": "b) The ECG shows prominent resting sinus tachycardia (135/min) with two classic findings of right heart overload: 1) rightward QRS axis, and 2) right atrial overload (\u0093p pulmonale\u0094) pattern with tall, narrow (\u0093peaked\u0094) P waves (leads II, aVF). The patient had a history of severe pulmonary fibrosis following therapy for Hodgkin\u0092s disease with radiation and chemotherapy.Note that the P wave, while biphasic in V1, has a relatively narrow negative component, not suggestive of left atrial abnormality, which would be expected with critical mitral stenosis. Furthermore, the P wave is not broad (120ms or more in duration) in any of the other leads, also strongly against left atrial abnormality and mitral stenosis.Critical aortic stenosis is almost always associated with signs of left ventricular hypertrophy, not present here. Left pneumothorax (with rightward mediastinal shift) may cause right axis deviation. However, in such cases, there is usually a marked loss of QRS amplitude in the lateral leads. No ECG signs of pericardial tamponade are present (low QRS voltage or electrical alternans).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case234/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

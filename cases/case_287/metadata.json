@@ -1,0 +1,21 @@
+{
+    "case_id": "287",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=286&ans=1&caseid=287",
+    "clinical_history": "All of the following are present in this ECG from a 13 year old boy EXCEPT?",
+    "diagnosis": "This ECG shows sinus bradycardia at a rate of 55 bpm. Note that sinus bradycardia at rest is variously defined as 60 bpm or 50 bpm. Stating sinus bradycardia or borderline sinus bradycardia is simply a designation and does not imply causation (normal variant; beta-blocker use; etc). The latter depends on context, degree, response to activity, etc). The waveform morphologies are physiologic for a 13 year old male, with slight ST elevations V1 and V2 due to early repolarization variant (and minimal T wave inversions, consistent with the juvenile T wave pattern). QRS duration is normal at about .07 second and AV conduction is normal at .16 second. The precordial transition zone in lead V3 is physiologic.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case287/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "407",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=406&ans=1&caseid=407",
+    "clinical_history": "ECG from a 48 year old man a severe underlying problem. What is the most likely diagnosis?",
+    "diagnosis": "This ECG shows sinus tachycardia (about 112/min at rest). There is prominent left atrial abnormality (LAA). Non-specific ST-T abnormalities are present. The limb lead voltage is relatively low; the precordial voltage is prominent consistent with left ventricular hypertrophy, and very slow R wave progression is present (R/S ratio <1 in V4). The latter triad is a relatively specific, but not sensitive sign of dilated cardiomyopathy. The LAA is consistent with this finding. The patient had very severe idiopathic dilated cardiomyopathy (no obstructive coronary disease, with estimated left ventricular ejection fraction of 15-20~ by transthoracic echocardiogram).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case407/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

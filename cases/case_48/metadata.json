@@ -1,0 +1,21 @@
+{
+    "case_id": "48",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=47&ans=1&caseid=48",
+    "clinical_history": "73-yr-old woman. What is the rhythm?",
+    "diagnosis": "Sinus. This is another case of pseudo-flutter waves due to artifact (probably Parkinsonian tremor). Some leads show clear sinus P wave, e.g. V2, V3.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case48/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "Sinus rhythm with tremor artifact",
+        "rate": "85 bpm",
+        "axis": "Left axis deviation",
+        "intervals": "PR: ~160 ms, QRS: ~80 ms, QTc: ~430 ms",
+        "findings": "Significant baseline artifact resembling atrial flutter (pseudo-flutter), attributed to Parkinsonian tremor. Distinct sinus P waves are visible in leads V2 and V3. Left axis deviation is present (positive in I, negative in aVF and II).",
+        "comparison": "N/A",
+        "impression": "Sinus rhythm with Parkinsonian tremor artifact mimicking atrial flutter."
+    }
+}

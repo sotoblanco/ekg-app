@@ -1,0 +1,24 @@
+{
+    "case_id": "455",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=454&ans=1&caseid=455",
+    "clinical_history": "ECG from a 70 year old man. All of the following abnormalities are present EXCEPT for which ONE?",
+    "diagnosis": "The ECG shows prominent sinus bradycardia (about 40/min), a slightly prolonged PR interval of 220 msec (first degree AV \u0093block\u0094) and QT/QTc prolongation (by Hodges formula) at 520/485 msec. (Note: especially at slower rates, the QT can be prominently prolonged and not be more than \u00bd the RR interval.) Borderline voltage criterion for LVH (SV1 + RV6 = 32 mm) is also present. The mean frontal plane QRS axis is about +10 degrees, so left anterior fascicular block is not present. The patient was taking a beta-blocker and dofetilide for paroxysmal atrial fibrillation, accounting for the bradycardia and ventricular repolarization prolongation. The latter drug, a class III antiarrhythmic, which blocks the slow outward K+ rectifier current, was stopped due to enhanced risk of torsades de pointes and the pharmacologic therapy adjusted. The lateral T waves are prominent but not peaked, as with hyperkalemia, or associated with ST elevation as with acute STEMI. Prominent broad, positive waves have been reported with LV volume overload states (e.g,, mitral or aortic regurgitation) and with subarachnoid hemorrhage. However, this patient\u0092s echocardiogram showed only mild mitral regurgitation (without LV dilation and only mild left atrial enlargement). Neurologic examination was normal.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case455/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Hyperkalemia",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

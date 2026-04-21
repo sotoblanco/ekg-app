@@ -1,0 +1,21 @@
+{
+    "case_id": "354",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=353&ans=1&caseid=354",
+    "clinical_history": "A 63 year-old man with chest discomfort beginning 3 days ago.  The ECG is most consistent with of which ONE of the following?",
+    "diagnosis": "Borderline sinus rhythm is present at rate of about 57/min.  The QRS axis is borderline rightward at about +95 degrees), associated with pathologic QS waves in lead I and aVL (or minuscule r waves in latter). Slight T wave inversions are also present in leads I and aVL (as well as in V2). (The rSr' in V1 with normal QRS duration is non-diagnostic.) Cardiac enzymes were elevated and coronary angiography showed total occlusion of small diagonal branch, treated with angioplasty. Echocardiogram the following day showed hypokinesis of the mid-distal anterior wall.  Note that the rightward QRS axis here is due to loss of lateral forces with MI, not due to right ventricular overload or left posterior fascicular block.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case354/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

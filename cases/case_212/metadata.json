@@ -1,0 +1,24 @@
+{
+    "case_id": "212",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=211&ans=1&caseid=212",
+    "clinical_history": "This 38-year-old male alcoholic presented with a tonic clonic seizure and this ECG.  What is his echocardiogram most likely to show?  (Note: serum levels: calcium 7.3mg/dl; magnesium 1.2mg/dl; albumin 3.3g/d.)",
+    "diagnosis": "d) This very abnormal ECG is most consistent with marked right ventricular hypertrophy (RVH) and dilation.  The ECG shows incomplete right bundle branch block (RBBB) with right axis deviation, and diffuse deep T wave inversions in V2-V5.  This patient had severe pulmonary hypertension (pulmonary arterial systolic pressure of 97mm Hg) secondary to portopulmonary hypertension associated with alcoholic cirrhosis (see Menon KV, Kamath PS; Clin Liver Dis 2001;5:617-627).  Left ventricular hypertrophy would be associated with a tall R wave in V5-6 or aVL, and often with a leftward  axis.  Apical variant of hypertrophic cardiomyopathy can cause deep T wave inversions, but usually not a right bundle branch block or a right axis.  Acute ischemia can cause QT prolongation and T wave inversions; however, ischemia would not explain the combination of a right ventricular conduction delay and right axis deviation in this young adult male.  The electrolyte abnormalities by themselves would not cause these deep T wave inversions but may contribute to the long QT. The T wave inversions, simulating anterior ischemia here, are probably due primarily to right ventricular overload (\"strain\").  The ECG also shows as nonspecific findings a long PR interval and relatively low limb lead voltage.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case212/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Long QT Syndrome",
+        "Right Bundle Branch Block",
+        "Left Ventricular Hypertrophy",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

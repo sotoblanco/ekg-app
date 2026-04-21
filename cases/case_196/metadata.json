@@ -1,0 +1,21 @@
+{
+    "case_id": "196",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=195&ans=1&caseid=196",
+    "clinical_history": "54-year-old man with rest chest pain.  Which statement about this ECG is correct?",
+    "diagnosis": "a) Nonspecific ST-T changes with slight lateral T wave inversions are present.  The patient ruled in for myocardial infarction (MI).  Cardiac catheterization revealed single vessel coronary disease with a 95% occlusion of the dominant right coronary artery.  (The ECG also shows nondiagnostic Q waves in III and aVF and a relatively tall R wave in V2, but not V1, raising the possibility of prior inferior-posterior MI.  However, these findings are not diagnostic). A wide array of factors may cause nonspecific ST-T changes.  Digitalis, however, does not cause the type of slight T wave inversions seen here.  Rather, it usually produces shortening of ventricular repolarization with \"scooping\" of the ST-T complex.  Prinzmetal's angina is defined by the appearance of ST elevations with non-infarctional ischemia.  Left posterior fascicular block leads to marked right axis deviation (>= 120 degrees) in the absence of other causes.  The QRS axis here is normal.Care must be taken not to over-interpret nonspecific ST-T changes, particularly in patients with a low prior probability of heart disease.  However, as illustrated by this case, subtle repolarization changes (especially slight ST depressions or T wave inversions) can be the important markers of acute or chronic coronary syndromes.  (Daviglus ML, et al. JAMA 1991:281:530-536.)  Of course, even a normal ECG does not exclude acute ischemia.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case196/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

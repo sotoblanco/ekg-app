@@ -1,0 +1,21 @@
+{
+    "case_id": "532",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=531&ans=1&caseid=532",
+    "clinical_history": "This rhythm recorded from a 75 year-old woman in the ICU is most consistent with WHICH ONE of the following diagnoses? (Note: The patient had multiple medical problems and no prior history of tachycardia.)",
+    "diagnosis": "The ECG shows a very regular, narrow complex (normal QRS duration) tachycardia (NCT) at about 150 beats/min. A sinus mechanism is unlikely given sinus tachycardia at this rate would be exceptionally fast in a resting 75 year-old. Furthermore, sinus P waves should precede the QRS and are always upright in II. Non-sinus P waves are present here, negative in the inferior leads and positive in aVR; they come just after the QRS (hence dubbed \"pseudo-S\" and \"pseudo-R waves\"). AV reentrant tachycardias (AVRTs), which involve a concealed bypass tract, demonstrate (usually retrograde) P waves, often slightly further delayed from the preceding QRS than those seen here. Unlike AVNRT, AVRT is more common in males and usually appears first during younger ages.The AVNRT mechanism involves \"dual pathway\" physiology in which the AV node behaves as if there are two asymmetric conduction pathways, one that conducts more slowly than the other but recovers more quickly. The tachycardia is usually initiated by a (un)fortuitously timed premature atrial complex that blocks in the fast pathway, goes down the slow pathway, and reenters the fast pathway in a retrograde direction. Thus, the typical AVNRT repetitive, rotary trajectory follows a \"slow-fast\" AV loop, with retrograde (bottom to top) atrial depolarization.See other Wave-Maven cases and an expansive literature for further discussion of the complex topic of NCTs, including addressing these questions: What are the therapeutic options? What are the potential side effects of relevant medications and their interactions?",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case532/800x423.jpg",
+    "difficulty": 3,
+    "topics": [
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

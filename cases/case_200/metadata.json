@@ -1,0 +1,22 @@
+{
+    "case_id": "200",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=199&ans=1&caseid=200",
+    "clinical_history": "This ECG (with some baseline artifact) from an elderly man shows which of the following?",
+    "diagnosis": "b) Sinus tachycardia is present with intermittent non-conducted P waves.  The three P waves that fail to conduct on this tracing all come \"on time,\" so they are not blocked premature atrial complexes (PACs).  Furthermore, they are not preceded by PR prolongation, nor is the PR interval following these nonconducted P waves shorter than the preceding ones.  Hence, Mobitz I (AV Wenckebach) is excluded.  Rather, the pattern here is that of Mobitz II AV block, strongly suggesting block below the AV node (infranodal block).  That the QRS complex is not wide suggests that the block is within the His bundle itself (intra-Hisian).  The occurrence of AV block here at a somewhat fast sinus rate is also consistent with infranodal block since factors that increase heart rate (decreased vagal tone; increased sympathetic tone) facilitate AV nodal conduction.  The pattern of Mobitz II AV block can be simulated by concealed junctional or His extrasystoles.  (Reference: S Barold, DL Hayes.  Mayo Clin Proc 2002;76:44-57.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case200/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

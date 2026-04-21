@@ -1,0 +1,22 @@
+{
+    "case_id": "96",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=95&ans=1&caseid=96",
+    "clinical_history": "79-yr-old man with baseline artifact partly hiding two major and related abnormalities. What are they?",
+    "diagnosis": "This is a challenging ECG. The main findings are: 1) The rhythm is sinus (or less likely atrial) tachycardia with a P wave rate of about 115/min with AV Wenckebach (Mobitz I second degree block). 2) There is evidence of an evolving Q wave inferior (and perhaps posterior) myocardial infarction (MI) pattern, with Q waves and T wave inversions in leads 2, 3 and aVF, and a tall R wave in lead V2. The AV conduction disturbance is likely related to the MI. There is also low voltage and non-specific lateral ST-T changes.  The AV Wenckebach here is somewhat atypical in that some of PR intervals are very long and some of the non-conducted P waves come just before a QRS (e.g., 4 and 9th QRSs). Furthermore, the jumps to very long PR intervals that are still conducted could indicate dual AV nodal pathways. Note: complete heart block is excluded by the relatively high and irregular ventricular rate. Complete heart block is usually associated with a relatively to very slow and regular QRS rate (50 or much less beats/min).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case96/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "AV Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

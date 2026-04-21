@@ -1,0 +1,21 @@
+{
+    "case_id": "164",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=163&ans=1&caseid=164",
+    "clinical_history": "This ECG is most consistent with which diagnosis?",
+    "diagnosis": "c) The K+ was 10.5 mEq/L in a patient with renal  failure.  Note the wide QRS complexes with no evident P waves.   CK was normal and ST elevations were likely due to hyperkalemia.   (Note: The apparent spike after the second QRS complex is an artifact.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case164/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Hyperkalemia"
+    ],
+    "category": "Fundamentals",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

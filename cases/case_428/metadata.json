@@ -1,0 +1,22 @@
+{
+    "case_id": "428",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=427&ans=1&caseid=428",
+    "clinical_history": "This ECG, from an elderly man with chronic heart failure, is relatively unchanged over at least 6 months. What did the echocardiogram show?",
+    "diagnosis": "The ECG shows borderline resting sinus tachycardia at about 100/min with relatively low limb lead voltage and prominent precordial voltage; an intraventricular conduction delay with a right ventricular component; left atrial abnormality and left ventricular hypertrophy, and extensive pathologic Q waves from V1-V6 with ST elevations in V1-V5, as well as an rSr\u0092s\u0092 morphology in I and aVL. Inverted T waves are present in V5 and V6. The persistence of ST elevations and Q waves weeks to months after an MI suggests the presence of a severe wall motion abnormality, sometimes with frank dyskinesis (aneurysm). The finding of rSr\u0092 type complexes in the left precordial leads has also been reported in this context (El-Sherif sign). The sinus tachycardia, low limb/prominent precordial voltage and left atrial abnormality, along with the other findings are also consistent with severe ventricular dysfunction. Echocardiogram also showed a possible apical left ventricular thrombus, which may occur with large akinetic or dyskinetic zones.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case428/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "case_id": "54",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=53&ans=1&caseid=54",
+    "clinical_history": "What is the rhythm/AV relationship?",
+    "diagnosis": "Sinus rhythm (P wave rate is 75/min)with AV Wenckebach (Type 1 AV block) is present with 3:2 conduction, along with 2:1 block. the effective ventricular rate is about 48/min.  Notice the progressive PR prolongation in 3:2 cycles with non-conducted sinus P wave followed by a normal PR interval.  Etiologies include drugs (beta-blockers, digitalis, calcium channel blockers), inferior ischemia, intrinsic AV node disease, Lyme disease, etc. In healthy young adults with high vagal tone (e.g. athletes), AV Wenckebach during sleeping hours is not uncommon.  This patient's ECG also shows left ventricular hypertrophy (LVH), left atrial abnormality (LAA; prominent biphasic P wave with a broad negative component in V1) and infero-lateral T wave inversions raising question of ischemia superimposed on LVH pattern.  Also note that the abrupt prolongation in \"conductable\" PR intervals raises consideration of underlying dual pathway physiology in the AV node.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case54/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "AV Block",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

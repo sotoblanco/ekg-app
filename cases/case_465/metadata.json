@@ -1,0 +1,22 @@
+{
+    "case_id": "465",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=464&ans=1&caseid=465",
+    "clinical_history": "ECG from a young adult man. What is the most likely diagnosis?",
+    "diagnosis": "The ECG shows borderline sinus tachycardia at rest with a prolonged PR interval (first degree AV block) at 220 ms. Evidence for prominent left atrial abnormality (LAA) with probable actual enlargement/dilation is present. A left ventricular (LV) intraventricular conduction delay (IVCD) is present (wide QRS at 140 ms), with a leftward QRS axis (about -30 degrees). Notching and slurring of the widened QRS suggest underlying ventricular scarring/fibrosis. The combination of the LAA, prominent precordial voltage and LV-IVCD suggests underlying left ventricular hypertrophy. R wave progression (V1-V3) is very slow, a non-diagnostic finding in the presence of the LV-IVCD, as is the slight J/ST elevation in leads V1-V3. Recent transthoracic echocardiograms showed marked LV cavity dilation with global, severe hypokinesis. The clinical diagnosis was idiopathic dilated cardiomyopathy.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case465/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "AV Block",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

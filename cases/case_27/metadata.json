@@ -1,0 +1,24 @@
+{
+    "case_id": "27",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=26&ans=1&caseid=27",
+    "clinical_history": "A 52-year-old man.  What is his chief complaint? What is the rhythm disturbance? Look carefully at both ends of strip.",
+    "diagnosis": "Acute infero-lateral and probably posterior myocardial infarction (MI) with inferior Q waves and hyperacute ST-T complexes inferiorly and laterally with reciprocal ST depressions V1-V3. Tall initial R waves in V1-V3 with right bundle branch block. There is second degree AV block (Type 1) with 2:1 block initially and then 3:2 AV Wenckebach with underlying sinus rate of about 85/min. Left axis deviation is present. However, since this is an inferior MI, a pacemaker is not usually indicated: block here is in the AV node usually due to ischemia and increased vagal tone. In contrast, new right bundle with left axis with acute anterior-septal MI would be indication for prophylactic pacemaker. AV block in that setting is due to Type II mechanism associated with severe involvement of His-Purkinje system and carries ominous prognosis with high risk of complete heart block with slow (or no) escape rhythm.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case27/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Bundle Branch Block",
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Sinus rhythm with second-degree AV block (Type 1), featuring initial 2:1 block followed by 3:2 Wenckebach conduction.",
+        "rate": "Sinus rate ~85 bpm; Ventricular rate approximately 40-50 bpm.",
+        "axis": "Left axis deviation.",
+        "intervals": "PR: Variable (prolonging until a dropped beat); QRS: >120 ms (widened, consistent with RBBB); QTc: Not specifically calculated but appears prolonged due to hyperacute T-wave changes.",
+        "findings": "Hyperacute ST-segment elevation and T-waves in leads II, III, aVF, and V4-V6; pathologic Q waves in inferior leads (II, III, aVF); reciprocal ST-segment depression in V1-V3; tall initial R waves in V1-V3; Right Bundle Branch Block (RBBB) morphology.",
+        "comparison": "N/A",
+        "impression": "Acute infero-lateroposterior myocardial infarction complicated by Right Bundle Branch Block (RBBB) and second-degree AV block (Type 1)."
+    }
+}

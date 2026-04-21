@@ -1,0 +1,23 @@
+{
+    "case_id": "191",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=190&ans=1&caseid=191",
+    "clinical_history": "The following statements regarding this ECG from an elderly man are true except:",
+    "diagnosis": "e) The ECG shows a prolonged PR with right bundle branch block (RBBB) and prominent inferior Q waves consistent with myocardial infarction (MI).  The wide notched R waves (RSR' equivalent) in V1-V3 are due to the RBBB.  The rather prominent initial R wave in V2-V3 may be due to posterior MI superimposed on the RBBB.  Echocardiogram confirmed an infero-posterior wall motion abnormality.  RBBB is associated with wide but physiologic splitting of S2.  Paradoxical splitting of S2 (splitting during expiration) is associated with left bundle branch block.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case191/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Bundle Branch Block",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

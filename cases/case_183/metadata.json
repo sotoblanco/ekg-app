@@ -1,0 +1,21 @@
+{
+    "case_id": "183",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=182&ans=1&caseid=183",
+    "clinical_history": "Young adult male with hyperthyroidism and weakness.  The ECG is most consistent with which ONE of the following abnormalities?",
+    "diagnosis": "The patient's serum potassium was 1.9 mEq/L at about the time this ECG was recorded.  Resting sinus tachycardia with PR prolongation is present.  The P waves in lead II are superimposed on the TU waves.  Marked prolongation of repolarization is present with very large U waves (V3-V4, especially).  The  patient was diagnosed with thyrotoxic periodic paralysis (TPP) with hypokalemia, an important syndrome that has occasioned increasing interest due to the its emerging endocrine, molecular and genomic bases.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case183/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Hypokalemia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

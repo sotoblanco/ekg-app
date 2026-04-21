@@ -1,0 +1,23 @@
+{
+    "case_id": "492",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=491&ans=1&caseid=492",
+    "clinical_history": "ECG from an elderly adult man. What does the rhythm strip show? (Note: baseline artifact is present possibly due to movement.)",
+    "diagnosis": "The ECG shows underlying sinus rhythm with PACs. There is a normal QRS axis and normal intervals. Of note, evidence of left atrial abnormality is present. (Biphasic P wave in lead V1 with broad, terminal negative component and broad notched P waves in other leads.) There is also nonspecific slow precordial r wave progression (V1-V4) and non-diagnostic inferior Q waves. The patient had a history of atrial flutter/fibrillation in the context of advanced age, systemic hypertension, and type 2 diabetes mellitus.  Echocardiographic imaging had shown left atrial dilation with preserved left ventricular systolic function. The P wave features are best seen in magnified views.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case492/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Flutter",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

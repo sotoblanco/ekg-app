@@ -1,0 +1,23 @@
+{
+    "case_id": "318",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=317&ans=1&caseid=318",
+    "clinical_history": "78 year-old female admitted for shortness of breath. This ECG shows all of the following abnormalities EXCEPT which one?",
+    "diagnosis": "This ECG shows sinus rhythm rate about 80 bpm with a right bundle branch block (QRS duration=0.12 second) and tall (2.5mm or more), relatively narrow P waves consistent with right atrial abnormality. There are 2 isolated PVCs seen best on lead II rhythm strip--5th and 11th beats. The QRS axis is vertical, but not frankly rightward. (To estimate the QRS axis with RBBB, you can use the initial 80 msec.) The height of the terminal R wave in V1 is generally not a reliable indicator of right ventricular hypertrophy in adults. The patient\u0092s shortness of breath was secondary to exacerbation of chronic obstructive pulmonary disease associated with pneumonia. The combination of ECG findings here (right atrial abnormality and RBBB with a vertical QRS axis) is consistent with but not non-diagnostic of COPD.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case318/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Right Bundle Branch Block",
+        "Premature Ventricular Contractions",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

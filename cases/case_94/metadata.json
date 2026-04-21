@@ -1,0 +1,21 @@
+{
+    "case_id": "94",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=93&ans=1&caseid=94",
+    "clinical_history": "What subtle conduction abnormality is present here?",
+    "diagnosis": "Incomplete right bundle branch block (RBBB). QRS duration is about .11 second with rSr' in V1. This finding is non-specific, and may be seen as benign variant or with organic cardiopulmonary disease. For example, a chronic incomplete RBBB, especially with a rightward QRS axis, is a common finding with ostium secundum type atrial septal defects. A new incomplete RBBB, with sinus tachycardia, should raise consideration of acute cor pulmonale, and may be seen with acute pulmonary embolism.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case94/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Right Bundle Branch Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

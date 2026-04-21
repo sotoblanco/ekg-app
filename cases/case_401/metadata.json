@@ -1,0 +1,23 @@
+{
+    "case_id": "401",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=400&ans=1&caseid=401",
+    "clinical_history": "69 year-old woman with a history of drug refractory atrial tachycardia following one procedure and before another in the cardiac EP laboratory. The ECG shows atrial tachycardia (variable P waves) with which ONE of the following AV mechanisms?",
+    "diagnosis": "This ECG shows atrial tachycardia with at least two atrial foci, the first apparent in the first half of the tracing and the other(s) in the latter half of the tracing.  There is complete AV heart block with an underlying escape rhythm at about 46 bpm. The escape QRS complexes have a right bundle branch block morphology. Prominent, diffuse T wave inversions seen in leads II, III, aVF and V3-V6 are non-diagnostic in this context of complete AV block and prior ventricular pacing. The latter may induce so-called \u0093memory T waves\u0094 that can simulate ischemia.   The patient, as noted, was s/p AV nodal ablation for incessant, refractory atrial tachycardia and en route to a permanent pacemaker implantation.  Echocardiogram showed normal ventricular function.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case401/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Right Bundle Branch Block",
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

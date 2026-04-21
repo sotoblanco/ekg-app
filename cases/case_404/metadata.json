@@ -1,0 +1,21 @@
+{
+    "case_id": "404",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=403&ans=1&caseid=404",
+    "clinical_history": "32 year-old male with history of a recent syncopal episode. Which ONE of the following diagnoses applies to this ECG ?",
+    "diagnosis": "This ECG shows sinus rhythm at about 67 bpm with all intervals being within normal limits; PR .08s; QRS .08 s; and QT/QTc 0.40s/0.41s.  The QRS axis is also within the normal limits at +68 degrees. There is no evidence of left or right ventricular hypertrophy and the precordial leads shown normal R wave progression.  A diagnosis of probable vasovagal episode was made since this occurred after he had been standing and had a prior history of a similar episode.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case404/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

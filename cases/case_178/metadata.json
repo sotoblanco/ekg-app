@@ -1,0 +1,23 @@
+{
+    "case_id": "178",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=177&ans=1&caseid=178",
+    "clinical_history": "The following ECG, from an elderly woman, is least consistent with which of the following?",
+    "diagnosis": "a).  This ECG is least consistent with answer (a). The findings include: atrial fibrillation with an average ventricular rate of about 90/min; an intraventricular conduction delay (IVCD) with left axis deviation (LAD); left ventricular hypertrophy (LVH); and non-specific ST changes. These findings are all consistent with choices b) through e). Severe mitral stenosis, by itself, would NOT be associated with LVH. Abnormalities in severe mitral stenosis typically include atrial fibrillation, or sinus rhythm with left atrial abnormality, in conjunction with evidence of right ventricular hypertrophy. Note added for purists: The QRS axis here is borderline for left anterior fascicular block (LAFB) (-45 degrees to -90 degrees), and the QRS duration here is also slightly wider than seen with isolated LAFB (QRS <120 ms).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case178/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Left Ventricular Hypertrophy",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

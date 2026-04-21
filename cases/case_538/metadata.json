@@ -1,0 +1,22 @@
+{
+    "case_id": "538",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=537&ans=1&caseid=538",
+    "clinical_history": "Elderly woman with palpitations and dyspnea. What is the rhythm?",
+    "diagnosis": "The ECG shows classic (typical) atrial flutter consistent with counterclockwise reentry in the right atrium, the lower loop involving the inferior vena cava/tricuspid isthmus area. The atrial depolarization rate is 270/min and the ventricular rate is 135/min. Note the negative/positive appearing continuous F (not true discrete P) waves in lead II, with every other atrial wave partly hidden in the ST segment. Other findings include left axis deviation consistent with left anterior fascicular block, delayed precordial transition zone, nonspecific ST-T changes and voltage for left ventricular hypertrophy (R in aVL plus S in V3 > 20 mm in women; Cornell criteria). The patient underwent successful caval tricuspid isthmus (CTI) ablation with resumption of sinus rhythm (with large, broad P waves showing a left atrial abnormality /intra-atrial conduction delay pattern). Atrial flutter with 2:1 AV conduction is one of the most frequent missed-diagnosed arrhythmias. Clues include a highly regular, narrow complex rhythm (unless a bundle branch block is present) with predominantly negative atrial waves in lead II and a partly hidden one in the ST segment region).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case538/800x441.jpg",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Flutter",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

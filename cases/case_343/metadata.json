@@ -1,0 +1,22 @@
+{
+    "case_id": "343",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=342&ans=1&caseid=343",
+    "clinical_history": "Middle aged man with palpitations, a history of coronary artery disease and the following ECG. What is the diagnosis?",
+    "diagnosis": "The ECG shows a relatively regular, very wide-complex tachycardia with a heart rate of 130/min and a QRS duration of  about 180 ms. The QRS morphology is that of a right bundle branch block (RBBB) with a qRSR\u2032 in V1, rS in V6 and a marked rightward axis. Underlying atrial activity is hard to discern with certainty but may be sinus with AV dissociation. These factors indicate ventricular tachycardia which was confirmed at cardiac electrophysiology study. A left ventricular tachycardia intramyocardial focus (associated with this ECG pattern) localized below the anterior papillary muscle was successfully eliminated with radiofrequency ablation.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case343/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Ventricular Tachycardia",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "case_id": "446",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=445&ans=1&caseid=446",
+    "clinical_history": "Middle-aged woman with a rapid pulse rate What is this arrhythmia? What other abnormalities are present?",
+    "diagnosis": "The ECG shows atrial fibrillation (AF; recurrent and paroxysmal in this patient) with a moderately rapid ventricular response at rest (mean about 104/min; range about 80 to 150/min). An intraventricular conduction delay (IVCD) is present with left axis deviation. Voltage criteria for LVH are present, along non-specific ST-T changes, slow initial \u0093r\u0094 wave progression and a delayed precordial transition zone. Transthoracic echocardiogram showed findings consistent with hypertrophic cardiomyopathy (asymmetric septal hypertrophy) without an outflow gradient at rest or during the Valsalva maneuver. Left atrial enlargement was present. History was also notable for hypertension and obstructive sleep apnea, which also both predispose to atrial fibrillation. Note that at times the rhythm appears \"regular\" but actually is subtly erratic upon more careful inspection. (Try moving your caliipers or the equivalent, using the distance between every other or every third  QRS as a template, looking for a pattern.) The atrial (f) waves are seen in lead II, varying morphology and rate, with short cycle lengths of 200 ms or less. Some of the fibrillatory (f) waves also mimic true P waves. Mistaking AF with a rapid ventricular response (because of hard to see f waves) for other rhythms, including sinus tachycardia, atrial flutter and MAT, is not uncommon.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case446/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

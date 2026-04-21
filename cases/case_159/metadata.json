@@ -1,0 +1,21 @@
+{
+    "case_id": "159",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=158&ans=1&caseid=159",
+    "clinical_history": "This ECG is most likely to be associated with what arrhythmia?",
+    "diagnosis": "c) The patient had been resuscitated from a cardiac arrest,  and this post-arrest ECG revealed marked QT(U) prolongation.  The long  QT was multifactorial here, associated with tricyclic use, anorexia  nervosa, and probable hypokalemia.  There are T-U waves best seen in  V3 and V4.  Echocardiogram showed normal ventricular function and size,  despite prominent voltage in this thin adult female.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case159/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Hypokalemia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

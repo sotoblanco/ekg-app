@@ -1,0 +1,23 @@
+{
+    "case_id": "547",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=546&ans=1&caseid=547",
+    "clinical_history": "35 year-old woman with recurrent palpitations recorded at rest. What is likely diagnosis of this narrow complex, regular tachycardia?",
+    "diagnosis": "This ECG shows a very regular, narrow (normal QRS duration) tachycardia at a rate of rate of 167 beats/min. The very fast resting rate and absence of sinus P waves (positive in II excludes ST [of the usual type], as well as the very rare reentrant ST. The present ECG shows a type of paroxysmal supraventricular tachycardia (PSVT). Careful inspection reveals tiny deflections consistent with P waves on the T waves; these putative P waves are negative inferiorly and positive in aVR. In contrast, with typical (\"slow-fast\") AVNRT the retrograde P waves are usually either hidden in the QRS or visible just after the QRS, the latter creating \"pseudo-R waves\" in lead aVR and \"pseudo-S waves\" inferiorly. Instead, this ECG is most consistent with AVRT with a reentrant circuit down the AV junction and up a concealed bypass tract (BT). The polarity of the P waves is consistent with a posterior location of the BT, which was documented at EP study and ablated. Similar ECG findings may be seen with atypical variants of AVNRT, especially with a \"fast-slow\" circuit of reentry over dual pathways in the AV node area. For true mavens, the first and last few beats appear to show QRS alternans, which is not sustained elsewhere. A longer recording would be needed to confirm this finding. QRS alternans, in the context of non-sinus SVT, is most common with AVRT, but may also occur with AVNRT, especially at fast rates, as well as with atrial flutter with 2:1 conduction, and with ventricular tachycardia. Total electrical alternans with sinus tachycardia, in contrast, is a relatively specific marker of pericardial effusion with hemodynamic compromise. Finally, antidromic AVRT is excluded since it produces a wide complex tachycardia  resembling ventricular tachycardia. Ref: Page RL, et al. 2015 ACC/AHA/HRS Guideline for the Management of Adult Patients With Supraventricular Tachycardia: Executive Summary: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. JACC. 2016;67:1575-1623.https://doi.org/10.1016/j.jacc.2015.09.019",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case547/800x441.jpg",
+    "difficulty": 4,
+    "topics": [
+        "Atrial Flutter",
+        "Ventricular Tachycardia",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

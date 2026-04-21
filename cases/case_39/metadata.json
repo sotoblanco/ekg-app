@@ -1,0 +1,23 @@
+{
+    "case_id": "39",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=38&ans=1&caseid=39",
+    "clinical_history": "A 41-yr-old man presents with recent chest discomfort. What is the most likely diagnosis?",
+    "diagnosis": "Sinus rhythm is present with a PR at the upper normal limits. Note the primary ST segment elevations in V4, V5 and V6.  In addition, there is subtle ST straightening with minimal ST depression in leads V2 and V3, consistent with reciprocal changes.  Inferior Q waves are borderline, raising the question of prior or concurrent inferior wall MI. The patient had an occluded left circumflex artery at coronary angiography. Differential diagnosis of precordial ST elevations includes normal variant early repolarization. But this is not likely because the changes are in V5/V6 mainly, not the mid-chest leads there are reciprocal-appearing ST depressions in V2 and V3. The latter finding also excludes acute pericarditis. Focal myocarditis, of course, could look exactly like MI, but is rare (and not one of choices). Brugada's pattern is related to distinctive right precordial ST elevations with a right bundle branch block-appearing morphology.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case39/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Pericarditis",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Sinus rhythm",
+        "rate": "65 bpm",
+        "axis": "Normal axis",
+        "intervals": "PR: 200ms, QRS: 80ms, QTc: 420ms",
+        "findings": "ST-segment elevations in lateral precordial leads V4-V6; subtle reciprocal ST-segment depressions and straightening in V2-V3; borderline Q waves in the inferior leads (III, aVF).",
+        "comparison": "N/A",
+        "impression": "Acute lateral wall myocardial infarction due to left circumflex artery occlusion."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "case_id": "342",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=341&ans=1&caseid=342",
+    "clinical_history": "85 year old man admitted with shortness of breath and a \u0093stable ECG\u0094 without change from previous month. Cardiac enzymes were negative. The ECG shows evidence of all of the following EXCEPT?",
+    "diagnosis": "This ECG shows sinus tachycardia at rate of about 100 bpm with marked left axis deviation consistent with left anterior fascicular block (QRS duration=0 .11 second). However, complete LBBB is NOT present. AV conduction is slightly prolonged (PR interval=0.22 second). There is virtually complete loss of R wave progression across the precordium with slight ST segment elevations, as well as Q waves in 1 and aVL.  This patient had a long history of severe coronary artery disease, prior MIs and heart failure, with a markedly reduced left ventricular ejection fraction of 10-15%. Transthoracic echocardiogram showed severe global left ventricular wall motion disorder, with a very large apical ventricular aneurysm. The presence of pathologic Q waves and persistent ST elevations weeks to months after an MI is a relatively specific, but not sensitive sign of a left ventricular aneurysm. (A prominent R wave in lead aVR, as present here, has also been reported with this condition, probably due to left anterior fascicular block combined with loss of apico-lateral QRS forces. Another ECG sign of ventricular aneurysm, not seen here, is an rSr' pattern in left-sided leads.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case342/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

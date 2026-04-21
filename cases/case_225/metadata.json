@@ -1,0 +1,24 @@
+{
+    "case_id": "225",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=224&ans=1&caseid=225",
+    "clinical_history": "The ECG from an elderly woman is most consistent with which of the following diagnoses?",
+    "diagnosis": "a) The ECG, from a patient with longstanding systemic hypertension, shows diagnostic evidence of combined left atrial abnormality (LAA) and left ventricular hypertrophy (LVH).  Note the broad, double-humped P waves in lead II and the biphasic P waves with a prominent negative component in lead V1. The QRS voltage is also prominent in both lead aVL (14mm) and the precordial leads (SV1 plus RV5=35mm). There is nonspecific ST segment sagging the lateral precordial leads. What about the other considerations?  The QRS axis is horizontal, but not frankly leftward (that is not more than -30 degrees). Further, the cut-off for left anterior fascicular block (LAFB ) is actually -45 degrees. Addison\u0092s disease is associated with nonspecific findings in general and sometimes low QRS voltage attributed to cardiac atrophy.  ECG signs of severe COPD include low QRS voltage, vertical to rightward QRS and P wave axes, tall P waves from right atrial overload (\u0093p pulmonale\u0094) and slow R wave progression. Mitral stenosis classically produces a combination of left atrial abnormality (or atrial fibrillation) plus evidence of right ventricular hypertrophy due to pulmonary hypertension.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case225/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Left Ventricular Hypertrophy",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

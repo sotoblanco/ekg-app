@@ -1,0 +1,22 @@
+{
+    "case_id": "378",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=377&ans=1&caseid=378",
+    "clinical_history": "56-year old woman with a history of breast cancer. She has severe chronic heart failure with a left ventricular ejection fraction of 20~. Her therapy includes digoxin, enalapril, spironolactone, carvedilol and furosemide. This ECG shows all of the following EXCEPT?",
+    "diagnosis": "This ECG shows sinus rhythm at a rate about 80 bpm with  left ventricular hypertrophy and lateral non-specific ST-T abnormalities consistent with LVH, digoxin effect, myocardial disease, etc.  The P wave is broad and notched (later phase is low amplitude) in lead II (see magnified view) consistent with left atrial abnormality/intra-atrial conduction delay. The prominent initial forces in V1 also raise consideration of biatrial abnormality. The QRS duration is 110 milliseconds which is at the upper limits of normal. Criteria for LBBB, however, are not met. The QRS axis is about -30 degrees.  The patient had been treated with doxorubicin and cyclophosphamide therapy for the breast cancer and developed severe systolic left ventricular contractile dysfunction, which may be associated with this type of chemotherapy.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case378/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Left Bundle Branch Block",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

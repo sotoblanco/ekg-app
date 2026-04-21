@@ -1,0 +1,24 @@
+{
+    "case_id": "332",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=331&ans=1&caseid=332",
+    "clinical_history": "79 year-old female seen in the emergency department for acute shortness of breath. What is the rhythm?",
+    "diagnosis": "This ECG shows atrial fibrillation with a moderate to rapid ventricular response rate, averaging about 110 bpm.  Non-specific ST-T changes are present. The highly erratic (\u0093irregularly irregular\u0094) rate with an oscillatory baseline is typical of atrial fibrillation. The absence of discrete P waves rules out two other major causes of irregular supraventricular rhythms: sinus rhythm with frequent APBs and MAT.  Further, atrial flutter waves are not seen. See also Cases #215, 266 and 310.  Serial cardiac enzymes were not elevated and the patient, who had a history of coronary disease and hypertension, ruled out for non-Q-wave myocardial infarction.  The V/Q scan showed multiple perfusion defects consistent with pulmonary emboli. Atrial fibrillation is sometimes seen in association with pulmonary emboli, usually in patients with underlying heart disease, as in the present case. In some of these cases, pulmonary emboli may play a role in initiating atrial fibrillation via neuroautonomic factors, right atrial hypertension and dilation, ischemia/hypoxemia, or other mechanisms. Conversely, atrial fibrillation, as a risk factor for right atrial thrombus formation (see e.g., Eur Heart J 2005; 26:1108), may be an overlooked risk factor for pulmonary embolism. Note: the most common ECG finding with pulmonary embolism is resting sinus tachycardia. Signs of right heart overload (peaked P waves, right QRS axis shifts with or without an S1Q3T3 pattern, T wave inversions V1-V4, right ventricular conduction delays, and delayed precordial transition zone with left precordial S waves) are not sensitive or specific findings with pulmonary emboli. See also Cases #32 and 146.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case332/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

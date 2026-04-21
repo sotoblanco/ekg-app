@@ -1,0 +1,24 @@
+{
+    "case_id": "534",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=533&ans=1&caseid=534",
+    "clinical_history": "A middle-aged woman complains of increasing shortness of breath and tiredness. Which ONE of the following is the most likely diagnosis?",
+    "diagnosis": "The rhythm is sinus at about 84 beats/min. The PR interval is at the upper limits of normal (190-200 ms). Of particular note are the peaked P waves (V1), right axis deviation, right-sided intraventricular conduction delay (120 ms) with an rSR\u02b9s\u02b9 morphology in lead V1.  This constellation of findings is highly specific for marked right ventricular hypertrophy/right atrial abnormality caused by a severe pressure overload syndrome. T wave inversions in the right to mid-precordial leads are also consistent with right ventricular overload with an associated repolarization abnormality (\"strain\" pattern) in this context and nonspecific ST-T changes elsewhere. Of the choices, only scleroderma with severe pulmonary artery hypertension would account for all these findings. Severe mitral stenosis, another cause of right ventricular overload, should show evidence of marked left atrial abnormality (or atrial fibrillation). Left posterior fascicular block requires not only marked right axis deviation, but the absence of its other more common causes (i.e., right ventricular hypertrophy as in this case; lateral Q-wave myocardial infarction, etc). Severe calcific aortic stenosis usually produces evidence of left ventricular hypertrophy, not present in this case. The constellation of findings present are also not consistent with ischemic cardiomyopathy (no evidence of prior MI, normal voltage QRS complexes, no ischemic ST-T wave changes).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case534/800x381.jpg",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Left Ventricular Hypertrophy",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

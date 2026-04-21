@@ -1,0 +1,22 @@
+{
+    "case_id": "186",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=185&ans=1&caseid=186",
+    "clinical_history": "Young adult male with fatigue and a possible recent tick bite.  True statements about this ECG and the syndrome include all of the following EXCEPT?",
+    "diagnosis": "a) The non-conducted beats are due to Type I second degree AV block, not blocked premature atrial complexes (PACs.)  This patient, with positive Lyme serology, developed high degree AV block and ultimately required placement of a permanent pacemaker.  The clinical course in Lyme carditis, most often manifesting as conduction system disease, is usually benign with patients recovering completely.  When it occurs, heart block is often localized at the level of the atrioventricular node, but it is frequently unresponsive to atropine sulfate.  Lyme carditis generally is treated with antibiotics, but no treatment has been shown to clearly attenuate or prevent its development.  The responsible microorganism, Borrellia burgdorferi, might also play a role in the relatively rare development and progression of chronic congestive heart failure.  See also Case # 161.  (Pinto DS.  Cardiac manifestations of Lyme disease.  Med Clin North Am 2002;86:285-296.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case186/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "AV Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

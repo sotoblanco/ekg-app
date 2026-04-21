@@ -1,0 +1,23 @@
+{
+    "case_id": "452",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=451&ans=1&caseid=452",
+    "clinical_history": "A 42 year-old man with a history of hypertension presented with recent vague chest discomfort. He had normal cardiac serum markers. This ECG was taken when the patient was asymptomatic. What is the most likely diagnosis?",
+    "diagnosis": "This ECG shows sinus rhythm at a rate of about 66/min, with a single premature ventricular complex (PVC). The mean QRS axis is horizontal but not frankly leftward (about 0 degrees).Voltage criteria for left ventricular hypertrophy (LVH)  are present, along with possible left atrial abnormality (see V1), not unexpected given the history of systemic hypertension. The QTc of about 440 msec near the upper limits of normal. The key findings are biphasic ST-T waves (ST elevations that are arched or bowed upward, followed by prominent, negative T waves) in anterior precordial leads V1-V4. These findings, especially in the context of anginal-type chest discomfort or other ischemic symptoms, are highly suggestive of a high-grade stenosis in the proximal segment of left anterior descending (LAD) coronary artery. The \"LAD-T wave pattern\" is also known as Wellens' syndrome. Patients with this ECG finding are at very high risk of subsequent major, near-term anterior myocardial infarction. At cardiac catheterization and coronary angiography this patient was found to have an almost occluded, ostial LAD lesion, which was treated with angioplasty and stenting. Subsequent ECGs showed resolution of the T wave inversions. For aficionados (mavens), Wellens and colleagues suggested a sub-classification of this pattern into Types A and B based on repolarization morphology, depending on whether there was ST elevation preceding the T waves, as seen here (A) or an isoelectric or depressed ST segment (B). See their classic article in Am Heart J 103:730, 1982. However, to our knowledge, no clinical difference in these morphologic sub-types has been observed.  T wave inversions may also be present in leads I and aVL with the LAD-T wave pattern, especially in concert with more extensive precordial changes.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case452/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Premature Ventricular Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

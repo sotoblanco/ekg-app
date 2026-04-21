@@ -1,0 +1,21 @@
+{
+    "case_id": "296",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=295&ans=1&caseid=296",
+    "clinical_history": "63 year-old woman admitted to the Emergency Department with a complaint of chest pain.  All of the findings are present EXCEPT?",
+    "diagnosis": "The rhythm is sinus tachycardia with 3:2 AV Wenckebach (sinus rate about 110 bpm, ventricular rate about 70 bpm) with 3:2 conduction. (See also Cases # 148 and 244 for comparison.)  Acute ST elevations and Q waves are present in leads, II, III, and aVF with reciprocal ST depressions in leads I, aVL and VI-V3, consistent with an acute inferior-posterolateral infarction.  Cardiac catheterization revealed two vessel disease with a 100% occlusion of the mid-right coronary artery with a left ventricular ejection fraction of 30%. Percutaneous transluminal coronary angioplasty (PCTA) was attempted without success.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case296/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "AV Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "case_id": "512",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=511&ans=1&caseid=512",
+    "clinical_history": "This striking ECG obtained at rest from a middle-aged woman shows which ONE of the following rhythms?",
+    "diagnosis": "This ECG shows a classic example of AF with the WPW syndrome (pre-excited AF), with anterograde conduction down the bypass tract. There is a wide complex tachycardia at an average rate of approximately 200 bpm (and as fast as 250 bpm early in the recording). The major clues toward diagnosis include the torrentially rapid ventricular rate and the grossly irregular cadence of ventricular response. Monomorphic VT may be irregular, but this degree of irregularity would be unusual at such a very fast rate. Polymorphic VTs are a consideration, but the QRS complexes are suggestive of delta waves; actual \"turning of points\" morphology is not seen. The variability in QRS morphology here is attributable to different degrees of pre-excitation, with wider complexes due to predominant accessory pathway conduction, and narrower ones with fusion of AV nodal and bypass tract conduction. A correct and prompt diagnosis is very important because drugs that slow conduction in AV-nodally mediated AF (e.g., verapamil, diltiazem, digoxin, adenosine, amiodarone, or beta-blockers) are not useful, and may be even hazardous by inducing increased conduction down the bypass tract, which can precipitate ischemia and ventricular fibrillation. Antiarrhythmic drugs of choice (because they prolong the effective refractory period of the bypass tract) are IV procainamide or ibutilide. If these agents are unsuccessful or unavailable, DC cardioversion should be performed promptly, if not otherwise contraindicated.  See: 2015 ACC/AHA/HRS Guideline for the Management of Adult Patients With Supraventricular Tachycardia: Executive Summary. J Am Coll Cardiol 2016;67(13):1575-1623 and any subsequent society guidelines.Tentative localization of the bypass tract on the surface 12-lead ECG can be a useful exercise prior to definitive EP study and ablation therapy.  The negative delta waves here in the inferior leads suggest a postero-septal location, and the positive delta wave in lead V1 suggests it is left-sided (since the mean depolarization vector is directed away from the left, toward right sided precordial leads).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case512/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Ventricular Tachycardia",
+        "Ventricular Fibrillation",
+        "Wolff-Parkinson-White",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

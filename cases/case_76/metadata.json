@@ -1,0 +1,22 @@
+{
+    "case_id": "76",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=75&ans=1&caseid=76",
+    "clinical_history": "48-yr-old male: what service is patient on?",
+    "diagnosis": "Neurology/Neurosurgery. The patient has Parkinson's disease, with normal sinus rhythm. The clue is the tremor artifact, best seen in the limb leads. This artifact may sometimes be confused for atrial fibrillation/flutter, and when of very high magnitude may even look like torsades de pointes!",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case76/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Normal Sinus Rhythm"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "case_id": "266",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=265&ans=1&caseid=266",
+    "clinical_history": "What is the rhythm in this 68 year-old female?",
+    "diagnosis": "This ECG shows an irregular narrow complex tachycardia, which is atrial fibrillation with a rapid ventricular response rate at about 120 bpm, with borderline right axis deviation.  Non-specific ST-T changes are present. There is possible left ventricular hypertrophy and possible biventricular hypertrophy. Note that fibrillatory (f) waves may mimic true, discrete P waves, causing diagnostic confusion. ~~~~Multifocal atrial tachycardia and wandering atrial pacemaker are excluded as there is no evidence of discrete P waves, either normal or ectopic. Atrial flutter is excluded because of the erratic response whereas in flutter there is a more regularized response.~~~~This patient underwent successful DC cardioversion and was returned to sinus rhythm the same day see (Case # 265.)~~~~",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case266/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Premature Atrial Contractions",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

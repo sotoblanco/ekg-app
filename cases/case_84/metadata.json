@@ -1,0 +1,23 @@
+{
+    "case_id": "84",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=83&ans=1&caseid=84",
+    "clinical_history": "55-yr-old male. The \"call-in diagnosis is \"new onset atrial flutter.\"",
+    "diagnosis": "This does indeed look like atrial flutter or coarse atrial fibrillation with a regularized response. However, if you look closely, (V4; also lead 2 rhythm strip at end) you can see true P waves buried in baseline artifact. (The patient did not have Parkinson&39;s disease, however.) So this is sinus rhythm masked by \"artifacty-cardia.\" Also of key note in ruling out atrial flutter, is that with \"true\"  flutter, the atrial waves are identical in morphology and rate (accounting for the effects of intermittent superposition of flutter waves on ST-T waves). In this case the pseudo-atrial rate is not constant (use your calipers). This ECG is also not consistent with coarse atrial fibrillation because of the regularized ventricular rate at about 68/min. Usually, with AF and a regularized response, the QRS rate is much slower due to the presence of complete AV block. False positive and false negative diagnoses are important sources of errors in ECG analysis.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case84/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "AV Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

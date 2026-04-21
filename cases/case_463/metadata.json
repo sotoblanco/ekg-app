@@ -1,0 +1,21 @@
+{
+    "case_id": "463",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=462&ans=1&caseid=463",
+    "clinical_history": "This ECG at rest is from a 30 year old man with cellulitis. The rhythm is most consistent with which ONE of the following?",
+    "diagnosis": "The ECG shows all the classic findings of marked sinus tachycardia, appropriate for this context, namely that of a young adult with a clinically severe bacterial infection. A narrow complex, regular tachycardia is present with a ventricular (pulse) rate of about 150/min. Upright P waves in lead II are consistent with a sinus origin, with 1:1 AV conduction and a normal PR interval. The rate does vary very slightly (check this out with your calipers) due to changes in autonomic tone. In addition note the subtle variation over multiple beats in QRS amplitude, which is likely due to respiratory-related changes in QRS axis. Indeed, this type of finding has been used as the basis of a method for automated ways of estimating the breathing rate from the ECG, called ECG-derived respiration. But note also that this QRS alternation is not the pathologic type of beat-to-beat (so-called 2:1) QRS alternans, which with sinus tachycardia and low QRS voltage, is a very specific triad for pericardial effusion, often with cardiac tamponade.  Atrial tachycardia (especially, right atrial) is a possibility from a single ECG of this type. However, the slight respiratory variation in QRS axis, the typical sinus P waves, normal PR interval, and, importantly, the appropriateness of the rate for the pathology and the patient~s young age, all argue strongly for sinus tachycardia. Useful would be an R-R (or heart rate) tachogram (usually available from the monitor records) showing how the heart rate accelerated: increases and decreases of rate with sinus tachycardia are usually relatively gradual.  In contrast, a non-sinus tachycardia usually starts with a very abrupt increase in rate.  The precordial QRS voltage is relatively low (about 10 mm or less), a non-specific finding, which can be due to a normal variant, obesity, pleural-pulmonary disease, anasarca (especially common in hospitalized patients), pericardial disease (not present here), etc.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case463/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

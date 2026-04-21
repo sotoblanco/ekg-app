@@ -1,0 +1,24 @@
+{
+    "case_id": "330",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=329&ans=1&caseid=330",
+    "clinical_history": "69 year old woman with admitted to an intensive care unit. This ECG is most consistent with which ONE of the following life-threatening scenarios?",
+    "diagnosis": "This ECG shows resting sinus tachycardia at a rate of about 120 bpm, a non-specific but very important finding. The combination of: prominent  sinus tachycardia at rest with an S1Q3 pattern, peaked P waves and a subtle right ventricular conduction delay (rSr's' in V1 with an S wave in V6, along with normal QRS duration, raises strong consideration of a right heart overload syndrome due to acute cor pulmonale. Here the specific cause was pulmonary emboli. Note  that even with life-threatening pulmonary emboli, the ECG may be relatively non-specific. For further discussion, see Cases 69 and 146.  Severe mitral stenosis is consistently associated with either marked left atrial abnormality or atrial fibrillation/flutter. The isolated Q wave in lead 3, without prominent ST deviations, does not support acute inferior infarction. Renal failure with systemic hypertension is generally associated with ECG evidence of left ventricular hypertrophy (and sometimes hyperkalemia). Severe emphysema is classically associated with low voltage QRS complexes and slow precordial R wave progression.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case330/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Hyperkalemia",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

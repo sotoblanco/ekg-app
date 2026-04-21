@@ -1,0 +1,22 @@
+{
+    "case_id": "391",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=390&ans=1&caseid=391",
+    "clinical_history": "This ECG from an elderly man shows all of the following EXCEPT?",
+    "diagnosis": "The ECG shows baseline artifact with sinus bradycardia at about 57 bpm (NOT atrial flutter). The P waves are very low amplitude but clearly present and upright in lead II, where they are broad and notched consistent with left atrial abnormality (look at the ECG with the magnified view). Also the PR is quite long (abut 290ms) indicating marked first degree AV conduction delay. There are notched Q waves (or possibly minuscule r waves) in the infero-lateral leads along with T wave inversions consistent with prior MI.  The patient had presented with an ST elevation MI about 10 weeks previously due to occlusion of the first obtuse marginal branch of the left circumflex coronary (in a left dominant system). Marked left axis deviation is present, consistent with concomitant left anterior fascicular block (LAFB; documented before the MI). The notching of the initial QS or rS waves in the inferior leads along with the other findings of ischemia/MI allows one to simultaneously diagnose the inferior MI and LAFB.  Borderline low voltage is a non-specific finding here.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case391/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Flutter"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

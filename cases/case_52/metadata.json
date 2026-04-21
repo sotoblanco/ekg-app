@@ -1,0 +1,23 @@
+{
+    "case_id": "52",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=51&ans=1&caseid=52",
+    "clinical_history": "A very elderly man is admitted with congestive heart failure findings and history of  right bundle branch block. What arrhythmia is likely contributing to his heart failure?",
+    "diagnosis": "There is a wide-complex tachycardia with right bundle branch and left axis deviation (RBBB/LAD) pattern (old per hx). The left axis may be due to left anterior fascicular block and/or prior inferior inferior MI. NOTE: The rhythm is NOT sinus but atrial flutter with subtle flutter waves (aVR, II, and V1). Note the negative polarity of atrial waves in lead II and positive in V1, characteristic of typical atrial, counterclockwise flutter. Atrial flutter with 2:1 conduction is among most commonly missed major rhythms (often called sinus tachycardia by housestaff--at other institutions, of course). Sustained atrial flutter is likely a major contributor, if not the precipitant of congestive heart failure syndrome here in this elderly man.  Note that patients with atrial flutter are often excellent candidates for ablation treatment to interrupt the large reentrant wave mechanism that underlies this rhythm. Check with your local Electrophysiology (EP) Service.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case52/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Flutter",
+        "Right Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "Atrial flutter with 2:1 AV conduction",
+        "rate": "Ventricular rate ~115 bpm (Atrial rate ~230 bpm)",
+        "axis": "Left axis deviation",
+        "intervals": "PR: N/A (atrial flutter); QRS: ~140 ms; QTc: ~420 ms",
+        "findings": "Wide complex tachycardia; Right Bundle Branch Block (RBBB) pattern (rSR' in V1, wide S in I and V6); Left axis deviation (consistent with Left Anterior Fascicular Block); possible prior inferior MI (Q waves in leads III and aVF); typical counterclockwise atrial flutter waves (negative in II, positive in V1).",
+        "comparison": "Right bundle branch block and left axis deviation are noted as 'old per history'.",
+        "impression": "Sustained typical atrial flutter with 2:1 conduction and underlying bifascicular block (RBBB + LAFB), likely contributing to or precipitating congestive heart failure."
+    }
+}

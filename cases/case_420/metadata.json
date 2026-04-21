@@ -1,0 +1,21 @@
+{
+    "case_id": "420",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=419&ans=1&caseid=420",
+    "clinical_history": "Middle-aged woman in the ICU with multiple organ dysfunction syndrome (MODS) and sepsis in the setting of metastatic colon cancer. The likely differential diagnosis includes all of the following EXCEPT which ONE?",
+    "diagnosis": "The ECG shows sinus tachycardia at about 105/min with a relatively short PR interval (consistent with the increased sinus rate), without evidence of pre-excitation. The QRS voltages are low in the limb leads (5 mm or less) and relatively low in the chest leads (10 mm or less in most of them). Non-specific ST-T changes are present, along with slow R wave progress. The patient had anasarca associated with end stage metastatic colon cancer and multiple organ dysfunction syndrome (MODS) associated with sepsis. No significant pericardial or pleural effusions were present. The combination of sinus tachycardia and low voltage QRS complexes is consistent with all of the listed diagnoses, except for myxedema coma which is usually associated with sinus bradycardia, although hypothyroidism should be excluded as a contributory cause to unexplained bradycardia and/or pericardial effusion. With COPD, low voltage and slow R wave progression are sometimes accompanied by rightward QRS and P wave deviation, as well as peaked P waves (right atrial overload; P pulmonale), which are not present here. With pericardial effusion, especially with tamponade pathophysiology, electrical alternans may be seen, a highly specific, but only moderately sensitive finding in this condition.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case420/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

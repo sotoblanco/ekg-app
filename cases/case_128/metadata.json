@@ -1,0 +1,21 @@
+{
+    "case_id": "128",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=127&ans=1&caseid=128",
+    "clinical_history": "What is the ECG diagnosis in this 48-year-old man?",
+    "diagnosis": "c) Acute anterior wall ST elevation MI (STEMI). Note the marked ST elevations and hyperacute T waves in the anterior/lateral leads, including V2-V5, I and aVL. Slight reciprocal ST sagging/depression is present in lead III. There is decreased R wave progression in lead V2, consistent with an acute myocardial infarction (MI) as well. The patient had sustained an occlusion of the proximal left anterior descending coronary artery. For guidelines on the management of STEMI: see: AHA website.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case128/800x400.gif",
+    "difficulty": 1,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

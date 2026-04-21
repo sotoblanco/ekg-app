@@ -1,0 +1,25 @@
+{
+    "case_id": "224",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=223&ans=1&caseid=224",
+    "clinical_history": "This ECG from a 76-yr-old man shows all of the following except which finding?",
+    "diagnosis": "b) The ECG findings include sinus bradycardia at 58/min with a prolonged PR interval at 260 ms (\u0093first degree AV block\u0094), right bundle branch block (RBBB), and most important, evidence of inferior and possibly posterior myocardial infarction (MI).  The latter is indicated by the significant Q waves in leads II, III and aVF with T wave inversions.  The prominent initial R waves in V2 and V3 in this case could be due to associated posterior MI and/or the RBBB alone. Of note, the T waves are upright in leads V2 and V3, whereas uncomplicated RBBB should produce secondary T wave inversions in leads with rSR\u2032-type complexes.  The upright T waves in leads V2 and V3 are reciprocal to primary ischemic T wave inversions in the inferior-posterior distribution.  (There are also nonspecific ST-T changes in lateral leads V5 and V6 that may be due to ischemia as well.) The P waves are also broad consistent with left atrial abnormality (LAA). This finding in the presence of RBBB suggests underlying left ventricular hypertrophy (LVH) as well, although standard voltage criteria are not met.  (See, for example A. Mehta et al.  Am J Cardiol 2002;85:354-9). This patient had a history of severe coronary artery disease and aortic stenosis.  Echocardiogram revealed a zone of severe inferior-posterior wall motion abnormality consistent with the prior MI.  Left atrial enlargement was also noted, along with symmetric LVH. While Wolff-Parkinson-White (WPW ) with posterior wall pre-excitation can produce wide QRS superficially resembling a RBBB pattern, the initial part of the QRS will show a delta wave (vs. a terminal conduction delay in RBBB) and the PR interval will, of course, be short.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case224/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Right Bundle Branch Block",
+        "AV Block",
+        "Wolff-Parkinson-White",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

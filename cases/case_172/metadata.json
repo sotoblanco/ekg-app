@@ -1,0 +1,21 @@
+{
+    "case_id": "172",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=171&ans=1&caseid=172",
+    "clinical_history": "This ECG from a 49-year-old man shows which of the following?",
+    "diagnosis": "b) Pure left anterior fascicular block (or hemiblock) causes marked left axis deviation (-45 degrees to -90 degrees),  typically with rS complexes in II, III, and aVF, and qR complexes  in I and aVL, with a QRS duration of <120 ms.  (RS or Rs complexes  may be seen in the left chest leads with left anterior fascicular block.) Rosenbaum MB et al.,  The Hemiblocks.  Oldsmar, FL: Tampa Tracings, 1970.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case172/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Axis",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

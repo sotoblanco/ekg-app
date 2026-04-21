@@ -1,0 +1,21 @@
+{
+    "case_id": "146",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=145&ans=1&caseid=146",
+    "clinical_history": "42-year-old woman with recent \"charlie horse\" in left leg, dyspnea, and syncope.  What is the leading diagnosis?",
+    "diagnosis": "Acute cor pulmonale secondary to pulmonary embolism (PE).  This diagnosis is strongly suggested by the combination of sinus tachycardia, S1 Q3 T3 pattern (S wave in lead I with QR waves in III and aVF, along with T wave inversions), incomplete right bundle branch block, and right precordial T wave inversions.  The patient had bilateral pulmonary emboli secondary to deep venous thrombosis (DVT).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case146/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Right Bundle Branch Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

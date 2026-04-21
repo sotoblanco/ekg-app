@@ -1,0 +1,25 @@
+{
+    "case_id": "460",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=459&ans=1&caseid=460",
+    "clinical_history": "This challenging ECG is from a middle-aged man with palpitations and a complex medical history. The rhythm is best described as showing which ONE of the following?",
+    "diagnosis": "The complex ECG shows an intermittent, non-sustained supraventricular tachycardia. Capturing this type of finding on a standard ECG is very unusual. The rhythm strip shows bursts of a predominantly narrow complex tachycardia, somewhat irregular in cadence, with preceding P waves (some positive in II, thereby precluding AVNRT), which appear variable in morphology. Some of the QRS complexes conduct with right bundle branch block aberrancy, usually with right axis deviation. Thus, the tachycardia bursts are consistent with an atrial tachycardia, probably multifocal. The bursts are followed by pauses interrupted with a single sinus (or ectopic atrial) beat, and then re-initiation of the tachycardia bursts. The P waves of the sinus beats are wide, suggesting an underlying intra-atrial conduction delay. Artifact in lead V1 may be mistaken for atrial fibrillation or flutter, but the baseline is clearly flat in other leads.  The remainder of the ECG is notable for relatively low voltage with slow R wave progression in leads V1-V3. The combination of findings is highly suggestive of chronic obstructive pulmonary disease (COPD). However, the patient had only mild COPD, but also a history of radiation therapy for Hodgkin's disease and coronary artery disease (normal left ventricular function), with mild-moderate mitral regurgitation, possibly accounting for his atrial arrhythmogenesis. He eventually underwent successful radiofrequency (RF) ablation therapy for the subsequent development of atrial flutter.  The repetition of nearly identical bursts of ventricular ectopy has been metaphorically referred to as ~cardiac ballet~ in the older literature (see: Br Heart J 1969:31:426) and associated with higher grade, sustained arrhythmias. The example here may represent a rare instance of supraventricular \"cardiac ballet.\" The explanation for the repetition of complex, patterned bursts of tachycardia appear to challenge traditionally-invoked electrophysiological mechanisms based on classical reentry or enhanced automaticity. In this case, the bursts appeared to be related to respiratory phase and were reportedly not evident with transient breath-holding, raising consideration of neuroautonomic or mechanical factors.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case460/800x400.gif",
+    "difficulty": 5,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "Ventricular Tachycardia",
+        "Right Bundle Branch Block",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_id": "438",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=437&ans=1&caseid=438",
+    "clinical_history": "This ECG, from a 57-year-old woman with dyspnea, is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The ECG shows resting sinus tachycardia (about 100 beats/min) with a single premature ventricular complex (PVC). Note the compensatory pause associated with the PVC. Peaked P waves, consistent with right atrial overload (\u0093P pulmonale\u0094 pattern; P amplitude >2.5 mm tall in the inferior leads, with normal duration and with an inferior P wave axis) are present, along with relatively low limb lead voltage (also V1-V4) and slow R wave progression. This constellation of findings is consistent with an exacerbation of chronic obstructive lung disease (COPD). Slight non-specific ST-T changes are present.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case438/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Premature Ventricular Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

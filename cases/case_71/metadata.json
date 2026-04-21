@@ -1,0 +1,21 @@
+{
+    "case_id": "71",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=70&ans=1&caseid=71",
+    "clinical_history": "29-yr-old man with chest pain/dyspnea. Diagnosis is still possible despite the artifact.",
+    "diagnosis": "Pericarditis with effusion and possible tamponade. There is diffuse ST elevation with slight PR deviation (see V3). In addition, note resting sinus tachycardia and borderline low voltage, c/w hemodynamic compromise. Patient went to OR for pericardial drainage procedure!",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case71/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Pericarditis"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

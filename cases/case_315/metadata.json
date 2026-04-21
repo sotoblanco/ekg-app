@@ -1,0 +1,21 @@
+{
+    "case_id": "315",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=314&ans=1&caseid=315",
+    "clinical_history": "What is the rhythm?",
+    "diagnosis": "This ECG shows that all the beats are atrial paced at a rate of 90 bpm. There is apparent ventricular sensing (dual-chamber pacemaker) as there are no ventricular pacemaker spikes ruling out AV sequential pacing. The limb lead QRS voltage is relatively low, a non-diagnostic finding.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case315/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

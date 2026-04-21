@@ -1,0 +1,21 @@
+{
+    "case_id": "382",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=381&ans=1&caseid=382",
+    "clinical_history": "34 year old woman presents with diastolic CHF syndrome and a hypertrophic cardiomyopathy variant. She was taking amiodarone for recurrent atrial tachyarrhythmias. The ECG shows all the following EXCEPT?",
+    "diagnosis": "The ECG shows sinus bradycardia at 50 bpm. The QTc is prolonged consistent with the amiodarone. The P waves are strikingly prominent, tall and wide, consistent with biatrial abnormality confirmed by echocardiogram, which also showed an idiopathic hypertrophic type cardiomyopathy. A left ventricular IVCD is present with slow R wave progression. No coronary disease was present.  The ECG does not show epsilon waves (rapid ST deflections in leads V1-V2 due to right ventricular cardiompathy and associated local fragmented electrograms.)",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case382/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

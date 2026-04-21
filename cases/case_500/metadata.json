@@ -1,0 +1,22 @@
+{
+    "case_id": "500",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=499&ans=1&caseid=500",
+    "clinical_history": "ECG from an elderly man with severe aortic stenosis shows which ONE of the following mechanisms?",
+    "diagnosis": "The ECG shows an irregular, narrow (QRS) complex tachycardia at about 100/min on average. The instantaneous rate range is roughly between 80 and 140/min. There are bursts of multiple discrete P waves of varying morphology (at least 3 or more, as in leads II, III and aVF), consistent with intermittent multifocal atrial tachycardia/rhythm (MAT/MAR). High frequency baseline noise adds to potential confusion with atrial fibrillation. The QRS axis is leftward (-35 degrees) and there is at least borderline voltage criterion for left ventricular hypertrophy (R in aVL of about 12 mm.) Non-specific ST-T changes are present. The broad negative P wave in lead V1 is consistent with left atrial abnormality. ~~",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case500/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Atrial Fibrillation",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

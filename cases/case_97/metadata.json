@@ -1,0 +1,22 @@
+{
+    "case_id": "97",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=96&ans=1&caseid=97",
+    "clinical_history": "23-year-old female with palpitations.",
+    "diagnosis": "Classic Wolff-Parkinson-White (WPW) pre-excitation pattern, with triad of short PR, wide QRS and Delta waves. Note the polarity of the delta waves (most positive in lead 2 and lateral chest leads) consistent with a right-sided bypass tract. Patients with WPW may not only have atrio-ventricular reentrant tachycardia involving the bypass tract, but also AV nodal reentrant tachycardia, as well as atrial fibrillation (AF), etc.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case97/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Wolff-Parkinson-White"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

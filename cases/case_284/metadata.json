@@ -1,0 +1,24 @@
+{
+    "case_id": "284",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=283&ans=1&caseid=284",
+    "clinical_history": "21 year old female with complaint of palpitations. What does this ECG show?",
+    "diagnosis": "This ECG shows the classic Wolff-Parkinson-White (WPW) pattern with the triad of a short PR interval, a wide QRS and a delta wave. The delta wave is represented by notching or slurring of the initial portion of the QRS complex due to ventricular pre-excitation. See Case # 218 for a detailed explanation of this finding and its significance. The polarity of the delta wave in this case (negative in V1 and positive laterally) is consistent with a right-sided bypass tract.\r\n\r\nThe complaint of palpitations in patients with WPW pattern raises a strong possibility of atrio-ventricular reentrant tachycardia (AVRT), a type of paroxysmal supraventricular tachycardia (PSVT). However, the symptom could be due to other mechanisms, related or non-related to the WPW pattern, including AV nodal reentrant tachycardia (AVNRT), atrial fibrillation, sinus tachycardia, etc.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case284/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation",
+        "Ventricular Tachycardia",
+        "Wolff-Parkinson-White",
+        "Supraventricular Tachycardia"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

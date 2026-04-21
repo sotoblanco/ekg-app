@@ -1,0 +1,25 @@
+{
+    "case_id": "456",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=455&ans=1&caseid=456",
+    "clinical_history": "Challenging ECG from a 79 year old woman, with coronary artery disease, pulmonary hypertension and biventricular heart failure, who presents with nausea.  The ECG is most consistent with all of the following, EXCEPT for which ONE?",
+    "diagnosis": "The ECG shows baseline artifact, with atrial fibrillation (no true P waves) with a very slow and at times regularized ventricular response averaging around 50/mn at rest. This finding suggests a high degree of AV conduction slowing/block, perhaps with a junctional escape pacemaker. Right bundle branch block (RBBB) with right axis deviation (RAD) are present, raising the question of right ventricular hypertrophy (RVH). Prominent ventricular repolarization abnormalities are also noted in the inferior and anterolateral leads, along with QTc prolongation. The AF, with a very slow, regularized ventricular response, should immediately raise consideration of digitalis excess (the serum level was high at 3.0 ng/mL). Digitalis, however, typically shortens both the ventricular action potential and, hence, the QT\u0097prolongation of the latter interval with digitalis excess implies the presence of an additional factor or factors (e.g., electrolyte. The K+ here was 3.2 mEq/L and she was taking escitalopram, which may also prolong the QT, as may chronic ischemia. Her echocardiogram showed: right ventricular cavity dilation with free wall hypokinesis with severely elevated right ventricular systolic and estimated pulmonary pressures; moderate to severe mitral regurgitation, without mitral stenosis; moderate to severe tricuspid regurgitation and normal left ventricular cavity size and free wall motion. She  ruled in for a small non-Q-wave infarct with mildly elevated cardiac enzyme levels.  The differential diagnosis of RBBB and RAD, in addition to RVH (most common in younger individuals), also includes RBBB with antero-lateral MI and RBBB with left posterior fascicular block (the latter is a diagnosis of exclusion).",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case456/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Atrial Fibrillation",
+        "Right Bundle Branch Block",
+        "Premature Atrial Contractions",
+        "Right Ventricular Hypertrophy"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

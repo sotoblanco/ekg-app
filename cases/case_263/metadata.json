@@ -1,0 +1,22 @@
+{
+    "case_id": "263",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=262&ans=1&caseid=263",
+    "clinical_history": "Elderly man seen in emergency department in transfer with chest pain. All of the following findings are present EXCEPT?",
+    "diagnosis": "The ECG shows sinus rhythm at about 65 bpm with profound ischemic ST segment depression, most marked in the precordial leads, consistent with severe subendocardial ischemia and probable acute non-Q wave myocardial infarction.  The QT interval (about 420 ms) and the PR interval are at the upper limits of normal (0.20 second). The QRS axis is normal.  Broad P waves are present (biphasic in lead V1 with 60-80 ms low, amplitude component--esp. on magnified gain) consistent with left atrial abnormality. Q waves (40-50ms) in the inferior-lateral leads are consistent with prior myocardial infarction(s). Baseline artifact is most evident in limb leads.\r\n\r\nProfound ST depressions of this type usually indicate severe multivessel disease, and sometimes left main coronary disease. The fact that the ST depressions are most marked in the antero-lateral leads, and seen in the inferior leads, is against these ST depressions being reciprocal from an acute posterior ST elevation MI. In the latter, case ST depressions are usually most marked in V1-V3. The use of postero-lateral lateral leads (V7-V9) may be useful in selected cases in looking for \"hidden\" evidence of acute ST elevation MI. \r\n\r\nThe patient experienced severe chest pain and was transferred from an outside facility in cardiogenic shock.  En route to the cardiac catheterization laboratory, he developed refractory pulseless electrical activity and ventricular fibrillation.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case263/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction",
+        "Ventricular Fibrillation"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

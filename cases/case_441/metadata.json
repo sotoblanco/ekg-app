@@ -1,0 +1,21 @@
+{
+    "case_id": "441",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=440&ans=1&caseid=441",
+    "clinical_history": "A 48 year-old woman with a history of hypertension presents with palpitations. What does this ECG show?",
+    "diagnosis": "The ECG shows atrial fibrillation (AF) with a rapid ventricular response (average over 10 sec at rest of about 130/min; range about 100-165/min). AF with a rapid ventricular response is sometimes misdiagnosed as one of the other rhythms listed above. Fibrillatory waves may be hard to see at this ventricular rate. Furthermore, the fast ventricular rate, while still irregular, may be mistaken for a regular (\u0093pseudo-regularized\u0094) narrow-complex tachycardia (e.g., AVNRT).  On the other hand, AF is sometimes overcalled (false positive diagnosis). See for example: J Electrocardiol 2007; 40:450-456. Both types of error can have very serious consequences.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case441/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Atrial Fibrillation"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "case_id": "267",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=266&ans=1&caseid=267",
+    "clinical_history": "This ECG is consistent with which one of the following diagnoses in a 61 year-old man with dyspnea?",
+    "diagnosis": "This ECG shows sinus rhythm at about 70 bpm with a complete right bundle branch block (rSR\u0092 in V1 with QRS=0.12 second) pattern and peaked P waves (lead II) raising consideration of right atrial overload. There is borderline low limb lead voltage. This constellation, while not pathognomonic, is consistent with chronic obstructive pulmonary disease.\r\n\r\nThe absence of left atrial abnormality (or atrial fibrillation) excludes severe rheumatic mitral stenosis. The absence of sinus tachycardia is against acute pulmonary embolism.  For more detailed information on the varied ECG signs of pulmonary embolism, see Case # 32. Severe aortic stenosis is most often associated with signs of left ventricular hypertrophy (typically with left atrial abnormality). There is no ECG evidence of acute ischemia.\r\n\r\nThe clinical diagnosis was severe emphysema.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case267/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Right Bundle Branch Block",
+        "Left Ventricular Hypertrophy"
+    ],
+    "category": "Hypertrophy",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

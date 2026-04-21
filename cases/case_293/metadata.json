@@ -1,0 +1,23 @@
+{
+    "case_id": "293",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=292&ans=1&caseid=293",
+    "clinical_history": "53 year old female seen in emergency department with symptoms of shortness of breath and lightheadedness. Why is the rate so fast?",
+    "diagnosis": "This ECG shows typical atrial flutter with 2:1 AV block. The atrial rate is ~300 with a ventricular response of ~150 bpm; see also Cases 129, 202 and 275.  Sinus tachycardia is ruled out as there are no sinus P waves. Atrial fibrillation is ruled out as the R-R interval is constant and the atrial waves are consistent from one instant to the next. The atrial (flutter) rate at ~ 300 bpm excludes AVNRT.  The apparently positive polarity of the flutter waves in lead II raise consideration of the Type I flutter variant associated with a large reentrant wave traveling in a clockwise, rather than the more common, counterclockwise direction in the right atrium. However, the surface ECG may be misleading with respect to the directionality of the flutter waves observed during intracardiac studies.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case293/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Atrial Fibrillation",
+        "Atrial Flutter",
+        "AV Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

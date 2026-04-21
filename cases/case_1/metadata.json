@@ -1,0 +1,21 @@
+{
+    "case_id": "1",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=0&ans=1&caseid=1",
+    "clinical_history": "21-year-old female with a history of \"seizure\" disorder.  She is on no medications and her electrolytes are normal. This ECG is most consistent with which ONE of the following?",
+    "diagnosis": "Dx: Congenital (hereditary) long QT syndrome.  The ECG demonstrates sinus rhythm with a very prolonged QT interval of 0.6 second.  Note the broad T waves with notching (or possibly U waves) in the precordial leads.  This characteristic may identify patients with long QT syndrome at increased risk for torsade de pointes and syncope and sudden death.  Patients at high risk of recurrent syncope or sudden death are usually considered for implantable cardioverter defibrillator therapy along with beta-blockade. Over a dozen different \"channelopathies\" have been identified in the pathogenesis of congenital long QT syndrome. (Lehnart SE et al..Inherited arrhythmias: a National Heart, Lung, and Blood Institute and Office of Rare Diseases workshop consensus report about the diagnosis, phenotyping, molecular mechanisms, and therapeutic approaches for primary cardiomyopathies of gene mutations affecting ion channel function Circulation. 2007; 116:2325-45. T wave morphology can be helpful in determining the type of congenital LQTS (Moss AJ et al.  ECG T-wave patterns in genetically distinct forms of the hereditary long QT syndrome. Circulation 1995; 92: 2929-34). Multiple medications can cause acquired LQTS also increasing the risk of torsade de pointes and sudden death. The measurement of the QT poses a number of challenges and controversies.  Visually, one should use the longest QT (often best seen in chest leads), and not restrict measurement to lead II or any single other lead. A number of rate-correction algorithms have been proposed; none has emerged as a consensus method. A variety of automated methods have also been devised--but computer generated QT measures (and indeed, all computer assessments) should always be visually validated. Low amplitude, but prolonged T waves may lead to underestimation by eye or computer.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case1/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Long QT Syndrome"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "Normal Sinus Rhythm",
+        "rate": "52 bpm",
+        "axis": "Normal axis",
+        "intervals": "PR: 160 ms, QRS: 80 ms, QT: 600 ms, QTc: 557 ms",
+        "findings": "Markedly prolonged QT interval (0.6 seconds), broad T waves with prominent notching in precordial leads (V2-V4), sinus bradycardia.",
+        "comparison": "N/A",
+        "impression": "Congenital (hereditary) long QT syndrome"
+    }
+}

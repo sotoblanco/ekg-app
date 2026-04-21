@@ -1,0 +1,22 @@
+{
+    "case_id": "114",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=113&ans=1&caseid=114",
+    "clinical_history": "What is the rhythm and  what is the AV conduction mechanism?",
+    "diagnosis": "From the surface ECG, the rhythm is likely either slow, reentrant atrial flutter in context of cardiomyopathy with an enlarged tricuspid annulus (negative atrial waves in II, positive in V1) with an atrial rate of approximately 230 BPM vs. focal atrial tachycardia with subtle group beating.  On closer inspection, there are groups of two ventricular beats followed by pauses, with more atrial waves than there should be for simple 3:2 AV Wenckebach conduction pattern. This subtle group beating pattern is attributable to dual levels of block (multilevel block) in the AV node: in this case 2:1 AV conduction \"above\" 3:2 AV Wenckebach conduction.  The atrial rate is somewhat slower than typical atrial flutter but may be due to very enlarged atria with relatively slower conduction. The apparent isoelectric segment between atrial waves suggests atrial tachycardia but is not definitive given the low voltage. For entry-level trainees, a key is not to call this sinus tachycardia, which is precluded by the negative atrial waves in II.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case114/800x400.gif",
+    "difficulty": 5,
+    "topics": [
+        "Atrial Flutter",
+        "AV Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

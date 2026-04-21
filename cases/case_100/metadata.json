@@ -1,0 +1,21 @@
+{
+    "case_id": "100",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=99&ans=1&caseid=100",
+    "clinical_history": "20-year-old woman is found unresponsive. What is the most likely cause?",
+    "diagnosis": "In addition to prominent sinus tachycardia, there is an intraventricular conduction delay (IVCD) with a rightward or indeterminate QRS axis. The QT is somewhat prolonged for the rate. The triad of sinus tachycardia, a wide QRS and a long Q-T in an obtunded patient should immediately suggest tricyclic antidepressant (TCA) overdose. Of note, the IVCD in these cases is often associated with a terminal S wave (rS) in lead I, and a terminal R wave (qR) in aVR, as present here (see: Crit.Care Med.1997;25:1721).  The P waves are difficult to see (V1, for example) and in some leads (II, aVF) appear to merge with the end of the T wave.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case100/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

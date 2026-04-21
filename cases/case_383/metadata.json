@@ -1,0 +1,22 @@
+{
+    "case_id": "383",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=382&ans=1&caseid=383",
+    "clinical_history": "An 84 year old man presented with chest pain. The ECG is consistent with all but ONE of the following findings?",
+    "diagnosis": "The ECG shows underlying sinus rhythm with an intermittent accelerated idioventricular rhythm (AIVR), and not intermittent LBBB. The last two beats are fusion type beats. The ST elevations in the inferior leads and lateral leads are consistent with acute MI in that location. The patient had an occluded obtuse marginal artery accounting for the location of the MI. There are pathologic Q waves in leads V5 and V6. The ST depressions in V1-V3 may be reciprocal to a lateral (and possibly posterior) current of injury. AIVR is classically seen in the context of reperfusion with acute ischemia, but may occur in other settings. The polarity of the QRS vector in the AVIR beats (toward the positive pole of lead aVR) indicates an origin from the inferior-lateral wall. The PR interval is prolonged in the conducted sinus beats at about 250msec. Low voltage QRS complexes in the chest leads are non-specific.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case383/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Left Bundle Branch Block"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

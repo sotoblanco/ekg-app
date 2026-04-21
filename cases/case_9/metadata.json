@@ -1,0 +1,22 @@
+{
+    "case_id": "9",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=8&ans=1&caseid=9",
+    "clinical_history": "This is the admitting ECG of a previously healthy 49-year-old man who presented with progressive muscle weakness and constipation. He had no chest pain or dyspnea. The ECG is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The ECG shows sinus rhythm with the following key abnormality: a very short ST segment with a consequently short QT interval (about 300 msec here). The differential diagnosis of a short QT (lower limits are not well-defined) is much narrower than that of prolonged QT. The two chief causes of a short QT are hypercalcemia and digoxin therapy (associated with characteristic \"scooping\" of the ST-T complex). A third and relatively rare cause is hereditary short QT (\"channelopathy\"-related) that may be associated with ventricular arrhythmia and sudden cardiac arrest. (see Gussak I,  et al. Idiopathic short QT interval: a new clinical syndrome? Cardiology 2000;94:99~102). Cardiac arrhythmias, however, are unusual with hypercalcemia; but AV block, sinus arrest, sino-atrial block, ventricular tachycardia, and cardiac arrest have been reported, usually in patients receiving rapid IV injections of calcium. This patient's serum calcium was 16 mg/dl.  He was found to have hyperparathyroidism; at surgery, he had successful resection of a parathyroid carcinoma, an unusual cause of hypercalcemia.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case9/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Ventricular Tachycardia",
+        "AV Block"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "Normal Sinus Rhythm",
+        "rate": "77 bpm",
+        "axis": "Normal axis",
+        "intervals": "PR: 160 ms, QRS: 80 ms, QT: 300 ms, QTc: 341 ms",
+        "findings": "Markedly short ST segment resulting in a short QT interval; the T wave appears to begin almost immediately after the QRS complex.",
+        "comparison": "N/A",
+        "impression": "Short QT interval secondary to severe hypercalcemia (16 mg/dL) from parathyroid carcinoma."
+    }
+}

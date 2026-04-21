@@ -1,0 +1,22 @@
+{
+    "case_id": "416",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=415&ans=1&caseid=416",
+    "clinical_history": "What is the likely underlying diagnosis in this middle-aged man?",
+    "diagnosis": "The patient had a history of severe, idiopathic dilated cardiomyopathy, with a transthoracic echocardiogram showing global left ventricular (LV) hypokinesis (estimated LV ejection fraction of 20~). The ECG shows dual chamber pacemaker function with underlying sinus rhythm at about 80/min (atrial sensing) and biventricular (BiV) pacing. (Note the two separate ventricular spikes seen about 40 ms apart.) Compared with the prior available record of about 6 months previous, which showed sinus rhythm with left bundle branch block (LBBB), the BiV pacing was new. This case is an example of the use of cardiac resynchronization therapy (CRT) for the treatment of chronic heart failure with an underlying LBBB.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case416/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Left Bundle Branch Block",
+        "Premature Atrial Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

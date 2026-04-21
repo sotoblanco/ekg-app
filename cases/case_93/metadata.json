@@ -1,0 +1,24 @@
+{
+    "case_id": "93",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=92&ans=1&caseid=93",
+    "clinical_history": "What is the mechanism of the apparent beat-to-beat (2:1) QRS alternation here?",
+    "diagnosis": "The rhythm is sinus with ventricular bigeminy and late diastolic premature ventricular complexes (PVCs) that come just after the \"second\" sinus P waves. The PVCs have a right bundle branch block (RBBB)/right axis morphology, but this is not intermittent RBBB per se or Wolff-Parkinson-White (WPW) pattern, which the present pattern simulates. Nor is this alternation-type pattern due to pericardial effusion/tamponade, where there is usually sinus tachycardia with 2:1 alternation of narrow (normal) or wide QRS complexes, and often low or relatively low voltage QRS complexes.  The normally conducted beats here show borderline left axis deviation with a normal QRS duration (possible left anterior fascicular block) and non-specific ST-T changes. This example shows how late diastolic PVCs in a bigeminal sequence can simulate a number of alternations-type patterns and delineates the differential diagnosis of some of the alternations patterns. Can you think of others? (e.g., QRS alternation with PSVT rhythms). Note also that the apparent \"retrograde\" P waves in some leads (e.g., V3) are actually within the QRS complex and are due to the RBBB. The actual sinus P waves come on time, with every other one followed immediately by a PVC.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case93/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Right Bundle Branch Block",
+        "Wolff-Parkinson-White",
+        "Supraventricular Tachycardia",
+        "Premature Ventricular Contractions"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

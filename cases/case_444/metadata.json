@@ -1,0 +1,21 @@
+{
+    "case_id": "444",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=443&ans=1&caseid=444",
+    "clinical_history": "This ECG, from a 68 year old man with dyspnea, is most consistent with which ONE of the following diagnoses?",
+    "diagnosis": "The ECG shows baseline artifact with resting sinus tachycardia (about 100/min) and a single atrial premature beat that is conducted with aberrancy. The sinus P waves are very tall and peaked (about 3mm in lead II), consistent with right atrial abnormality (\u0093P pulmonale\u0094 sign). The P wave axis is relatively rightward (+85 degrees) and the QRS axis is vertical at about +75 degrees, but without frank right axis deviation.  R wave progression is slow (rS complexes in V1-V3) and the QRS voltages are relatively low diffusely. This combination of findings is most consistent with the clinical diagnosis (by s=history, physical, pulmonary function testing and chest radiography) of severe chronic obstructive pulmonary disease (COPD), associated with pressure overload of the right side of the heart. Echocardiogram confirmed increased pulmonary artery pressures (estimated at 37mmHg) as well as right ventricular (RV) dilation and decreased RV systolic function. Right atrial size was not increased, however, and left atrial size was normal, as was left ventricular systolic function.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case444/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Uncategorized"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

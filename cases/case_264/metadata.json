@@ -1,0 +1,22 @@
+{
+    "case_id": "264",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=263&ans=1&caseid=264",
+    "clinical_history": "75 yr-old woman: what is the most appropriate triage?",
+    "diagnosis": "The ECG shows sinus rhythm with a single ventricular couplet (2nd & 3rd beats) followed by a single junctional escape beat (4th beat) and then premature ventricular complexes (PVCs) in a bigeminal pattern starting with the 5th beat.\r\n\r\nThe key underlying abnormality is the acute/evolving ST elevation anterolateral myocardial infarction pattern (I and aVL) with reciprocal ST depressions inferiorly. Very subtle ischemic ST-T coving is present in leads V5 and V6 as well.\r\n\r\nCardiac catheterization in this patient with a history of coronary disease, status post coronary bypass graft surgery and recent stent placement, showed acute stent thrombosis in the saphenous vein graft to the diagonal branch. She underwent successful management of the ST elevation lateral MI using rheolytic thrombectomy.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case264/800x400.gif",
+    "difficulty": 4,
+    "topics": [
+        "Myocardial Infarction",
+        "Premature Ventricular Contractions"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

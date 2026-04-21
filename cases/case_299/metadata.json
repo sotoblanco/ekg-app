@@ -1,0 +1,21 @@
+{
+    "case_id": "299",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=298&ans=1&caseid=299",
+    "clinical_history": "24 year old woman with a history of asthma, palpitations and dizziness. The ECG shows which of one of the following findings?",
+    "diagnosis": "The ECG shows sinus rhythm with the classic WPW triad of a short PR interval (60 msec), delta waves, and a wide QRS duration (130 msec). The delta waves (slurring or notching) of the initial QRS are positive in leads I, II, III, aVL, aVF, and V3-6. They are negative in aVR and markedly negative in V1-V2. These findings suggest an anteroseptal (versus right sided) bypass tract. The QRS axis more vertical than +30 degrees (+35 degrees in this case) favors an anteroseptal location.  Cardiac electrophysiologic (EP) study confirmed a right anteroseptal bypass tract with inducible narrow complex atrio-ventricular reentrant tachycardia (AVRT) using the bypass tract to conduct in a retrograde direction.  The bypass tract was successfully ablated using a catheter ablation technique. Anteroseptal bypass tracts of this type are relatively uncommon, occurring in only about 5% of cases of WPW.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case299/800x400.gif",
+    "difficulty": 3,
+    "topics": [
+        "Wolff-Parkinson-White"
+    ],
+    "category": "Rhythm",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}

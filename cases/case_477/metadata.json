@@ -1,0 +1,21 @@
+{
+    "case_id": "477",
+    "url": "https://ecg.bidmc.harvard.edu/maven/dispcase.asp?rownum=476&ans=1&caseid=477",
+    "clinical_history": "ECG from an elderly man with a rapid heartbeat. What is the diagnosis?",
+    "diagnosis": "The ECG shows a narrow complex tachycardia with a very regular ventricular response at 140/min. The atrial depolarization rate is twice that--280/min--with classical \u0093sawtooth\u0094 flutter waves apparent in lead II. The polarity of the atrial waves (negative inferiorly and positive in V1) is consistent with typical (isthmus-dependent) flutter originating in the right atrium, associated with a large (macro-) counterclockwise, reentrant loop. The phase relationship (\u0093flutter-R\u0094 interval) is constant, consistent with pure  2:1 AV conduction. The ECG also shows a QRS axis within the physiologic range (about 0 degrees) and a normal QRS interval (about 90 ms), with non-specific ST-T changes. R wave progression is slow, a non-diagnostic finding. The QTc is not prolonged.  The patient had a history of atherosclerotic vascular disease and systemic hypertension.",
+    "image_url": "https://ecg.bidmc.harvard.edu/mavendata/images/case477/800x400.gif",
+    "difficulty": 2,
+    "topics": [
+        "Myocardial Infarction"
+    ],
+    "category": "Myocardial Infarction",
+    "report": {
+        "rhythm": "",
+        "rate": "",
+        "axis": "",
+        "intervals": "",
+        "findings": "",
+        "comparison": "",
+        "impression": ""
+    }
+}
