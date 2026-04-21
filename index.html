@@ -4,1247 +4,705 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>EKG Master: Dubin's Rapid Interpretation</title>
-  <meta name="description" content="Interactive programmed learning app based on Dubin's Rapid Interpretation of EKGs, 6th Edition. Master cardiac rhythm interpretation one frame at a time." />
+  <meta name="description" content="Interactive programmed learning app based on Dubin's Rapid Interpretation of EKGs, 6th Edition." />
 
-  <!-- CDNs -->
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
-  <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
-  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
-  <script src="https://unpkg.com/lucide-react@0.344.0/dist/umd/lucide-react.js"></script>
-
+  <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@600;700&display=swap" rel="stylesheet" />
 
+  <!-- React 18 UMD (pinned) -->
+  <script crossorigin src="https://unpkg.com/react@18.2.0/umd/react.production.min.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18.2.0/umd/react-dom.production.min.js"></script>
+
+  <!-- Babel standalone for JSX -->
+  <script src="https://unpkg.com/@babel/standalone@7.23.6/babel.min.js"></script>
+
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-    html, body, #root { height: 100%; overflow: hidden; }
+    html, body, #root { height: 100%; }
     body {
       font-family: 'Inter', sans-serif;
       -webkit-font-smoothing: antialiased;
       background: #f8fafc;
+      color: #1e293b;
     }
 
+    /* Scrollbar */
     ::-webkit-scrollbar { width: 5px; }
     ::-webkit-scrollbar-track { background: transparent; }
     ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 99px; }
     ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
 
-    @keyframes fadeSlideIn {
-      from { opacity: 0; transform: translateY(10px); }
+    /* Fonts */
+    .font-display { font-family: 'Outfit', sans-serif; }
+
+    /* Animations */
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(12px); }
       to   { opacity: 1; transform: translateY(0); }
     }
     @keyframes popIn {
-      0%   { transform: scale(0.85); opacity: 0; }
-      70%  { transform: scale(1.05); }
-      100% { transform: scale(1);    opacity: 1; }
+      0%   { transform: scale(0.7); opacity: 0; }
+      70%  { transform: scale(1.1); }
+      100% { transform: scale(1);   opacity: 1; }
     }
-    @keyframes ecgLine {
-      0%   { stroke-dashoffset: 600; }
-      100% { stroke-dashoffset: 0; }
+    @keyframes ecgDraw {
+      from { stroke-dashoffset: 700; }
+      to   { stroke-dashoffset: 0; }
     }
-    @keyframes pulseRing {
-      0%   { transform: scale(1); opacity: 0.6; }
-      100% { transform: scale(1.6); opacity: 0; }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50%       { opacity: 0.5; }
+    }
+    @keyframes beat {
+      0%, 100% { transform: scale(1); }
+      50%       { transform: scale(1.15); }
     }
 
-    .frame-enter    { animation: fadeSlideIn 0.3s ease forwards; }
-    .correct-pop    { animation: popIn 0.35s cubic-bezier(.34,1.56,.64,1) forwards; }
-    .ecg-path       { stroke-dasharray: 600; animation: ecgLine 2s ease forwards; }
-    .pulse-ring     { animation: pulseRing 1.5s ease-out infinite; }
-    .font-display   { font-family: 'Outfit', sans-serif; }
+    .frame-enter  { animation: fadeUp 0.3s ease both; }
+    .correct-pop  { animation: popIn 0.4s cubic-bezier(0.34,1.56,0.64,1) both; }
+    .ecg-path     { stroke-dasharray: 700; animation: ecgDraw 2s ease both; }
+    .animate-pulse { animation: pulse 2s ease-in-out infinite; }
+    .animate-beat  { animation: beat 1.2s ease-in-out infinite; }
+
+    /* Layout */
+    .app         { display: flex; height: 100vh; overflow: hidden; }
+    .sidebar     { width: 272px; background: #fff; border-right: 1px solid #e2e8f0;
+                   display: flex; flex-direction: column; flex-shrink: 0; }
+    .sidebar-inner { flex: 1; overflow-y: auto; padding: 8px 12px; }
+    .main        { flex: 1; display: flex; flex-direction: column; overflow: hidden; min-width: 0; }
+    .main-body   { flex: 1; overflow-y: auto; padding: 24px 24px 48px; }
+    .content-wrap { max-width: 640px; margin: 0 auto; display: flex; flex-direction: column; gap: 16px; }
+
+    /* Card */
+    .card        { background: #fff; border: 1px solid #e2e8f0; border-radius: 16px;
+                   padding: 24px; box-shadow: 0 1px 3px rgba(0,0,0,0.06); }
+
+    /* Topbar */
+    .topbar      { display: flex; align-items: center; justify-content: space-between;
+                   padding: 12px 24px; border-bottom: 1px solid #e2e8f0; flex-shrink: 0; }
+
+    /* Blank input */
+    .blank-input {
+      background: transparent;
+      border: none;
+      border-bottom: 2px solid #94a3b8;
+      outline: none;
+      text-align: center;
+      font-family: inherit;
+      font-size: 1em;
+      padding: 0 4px 1px;
+      transition: border-color 0.2s, color 0.2s;
+      vertical-align: baseline;
+      display: inline-block;
+    }
+    .blank-input:focus              { border-color: #ef4444; color: #dc2626; }
+    .blank-input.correct            { border-color: #22c55e; color: #16a34a; font-weight: 700; }
+    .blank-input.revealed           { border-color: #3b82f6; color: #1d4ed8; font-weight: 700; font-style: italic; }
+    .blank-input:disabled           { cursor: default; }
+
+    /* Nav button */
+    .nav-btn {
+      background: none; border: none; cursor: pointer; padding: 6px;
+      border-radius: 8px; display: flex; align-items: center; justify-content: center;
+      transition: background 0.15s;
+    }
+    .nav-btn:hover:not(:disabled) { background: rgba(0,0,0,0.06); }
+    .nav-btn:disabled { opacity: 0.3; cursor: not-allowed; }
+
+    /* Chapter btn */
+    .chapter-btn {
+      width: 100%; text-align: left; background: none; border: none; cursor: pointer;
+      padding: 10px 12px; border-radius: 12px; display: flex; align-items: center;
+      gap: 10px; font-size: 13px; font-family: inherit; color: #475569;
+      transition: background 0.15s, color 0.15s; margin-bottom: 2px;
+    }
+    .chapter-btn:hover { background: #f8fafc; }
+    .chapter-btn.active { font-weight: 600; }
+
+    /* Action btns */
+    .action-btn {
+      background: none; border: none; cursor: pointer; font-family: inherit;
+      font-size: 11px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase;
+      padding: 4px 0; transition: color 0.15s; color: #94a3b8;
+    }
+    .action-btn:hover { color: #475569; }
+    .action-btn.active-hint { color: #ef4444; }
+
+    /* Continue btn */
+    .continue-btn {
+      display: flex; align-items: center; gap: 6px; padding: 10px 24px;
+      border: none; border-radius: 12px; cursor: pointer; font-family: inherit;
+      font-size: 14px; font-weight: 700; color: #fff; transition: opacity 0.15s, transform 0.1s;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    }
+    .continue-btn:hover:not(:disabled) { opacity: 0.9; transform: translateY(-1px); }
+    .continue-btn:active { transform: scale(0.97); }
+    .continue-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+    /* Alert boxes */
+    .alert { border-radius: 10px; padding: 12px 14px; font-size: 13px; margin-top: 12px;
+             border: 1px solid; line-height: 1.5; }
+
+    /* Progress bar */
+    .progress-bar { height: 6px; background: #f1f5f9; border-radius: 99px; overflow: hidden; }
+    .progress-fill { height: 100%; border-radius: 99px; background: linear-gradient(90deg,#22c55e,#4ade80);
+                     transition: width 0.4s ease; }
+
+    /* Tip box */
+    .tip-box { border-radius: 12px; padding: 14px 16px; font-size: 13px; line-height: 1.6; border: 1px solid; }
+
+    /* Overlay */
+    .overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.45); z-index: 40; }
+
+    /* Mobile */
+    @media (max-width: 768px) {
+      .sidebar  { position: fixed; inset-y: 0; left: 0; z-index: 50;
+                  transform: translateX(-100%); transition: transform 0.3s ease;
+                  box-shadow: 4px 0 24px rgba(0,0,0,0.12); }
+      .sidebar.open { transform: translateX(0); }
+      .overlay.open { display: block; }
+      .main-body { padding: 16px 16px 48px; }
+      .card      { padding: 18px; }
+      .topbar    { padding: 10px 16px; }
+    }
+
+    /* Finish screen */
+    .finish-screen {
+      position: fixed; inset: 0; background: #fff; z-index: 100;
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+      gap: 16px; padding: 32px; text-align: center;
+    }
   </style>
 </head>
 <body>
 <div id="root"></div>
 
-<script>window.react = window.React;</script>
-
 <script type="text/babel">
 const { useState, useEffect, useRef, useCallback } = React;
-const { ChevronLeft, ChevronRight, BookOpen, Activity, Zap, Brain,
-        CheckCircle2, Eye, Heart, AlertCircle, RotateCcw, Menu, X,
-        TrendingUp, Award, List } = window.LucideReact;
 
 // ============================================================
-// COURSE DATA - Dubin's Rapid Interpretation of EKGs, 6th Ed.
+//  INLINE SVG ICONS (no external icon library dependency)
 // ============================================================
-const CHAPTERS = [
-  {
-    id: 1,
-    title: "Basic Principles",
-    color: "red",
-    tip: "The heart's electrical system generates currents that can be detected on the body surface. Every waveform you see on the EKG corresponds to a specific electrical event inside the heart.",
-    frames: [
-      {
-        id: "1-1",
-        text: "In 1790, Luigi Galvani made a dead frog's legs dance by electrical stimulation. This was the first demonstration that animal tissues produce __________ currents.",
-        blank: "electrical",
-        hint: "Starts with 'e'",
-        visual: "zap"
-      },
-      {
-        id: "1-2",
-        text: "In 1855, Kollicker and Mueller showed that the beating heart generates rhythmic __________ impulses that can stimulate a nearby motor nerve.",
-        blank: "electrical",
-        hint: "Same type of current Galvani discovered",
-        visual: "zap"
-      },
-      {
-        id: "1-3",
-        text: "In 1887, Waller recorded the first human cardiac electrical activity. The device used to record this activity is called the __________.",
-        blank: "electrocardiogram",
-        hint: "Abbreviated EKG or ECG",
-        visual: "ecg"
-      },
-      {
-        id: "1-4",
-        text: "The abbreviation __________  (or ECG) is used for electrocardiogram. It records the electrical activity of the heart.",
-        blank: "EKG",
-        hint: "3 letters — from the German 'Elektro-Kardio-Gramm'",
-        visual: "ecg"
-      },
-      {
-        id: "1-5",
-        text: "The EKG records electrical activity of heart muscle, called the __________.",
-        blank: "myocardium",
-        hint: "'myo' = muscle, 'cardium' = heart",
-        visual: "heart"
-      },
-      {
-        id: "1-6",
-        text: "Myocardial cells are negative inside at rest — they are __________.",
-        blank: "polarized",
-        hint: "The resting state, before activation",
-        visual: "cell"
-      },
-      {
-        id: "1-7",
-        text: "When a myocardial cell is stimulated it becomes positive inside. This is called __________.",
-        blank: "depolarization",
-        hint: "The opposite of the resting state",
-        visual: "cell_active"
-      },
-      {
-        id: "1-8",
-        text: "After depolarization, cells return to their resting negative state. This recovery phase is called __________.",
-        blank: "repolarization",
-        hint: "'re-' means returning",
-        visual: "cell"
-      },
-      {
-        id: "1-9",
-        text: "A wave of depolarization traveling TOWARD a positive electrode produces a __________ (upward) deflection on the EKG.",
-        blank: "positive",
-        hint: "Toward positive = positive deflection",
-        visual: "wave_up"
-      },
-      {
-        id: "1-10",
-        text: "A wave of depolarization traveling AWAY from a positive electrode produces a __________ (downward) deflection on the EKG.",
-        blank: "negative",
-        hint: "Away from positive = negative deflection",
-        visual: "wave_down"
-      },
-      {
-        id: "1-11",
-        text: "A wave of repolarization traveling TOWARD a positive electrode produces a __________ deflection.",
-        blank: "negative",
-        hint: "Repolarization is opposite to depolarization",
-        visual: "wave_down"
-      },
-      {
-        id: "1-12",
-        text: "Each normal cardiac cycle on the EKG shows a P wave, a QRS complex, and a __________ wave.",
-        blank: "T",
-        hint: "The letter after Q, R, S in the alphabet",
-        visual: "ecg"
-      }
-    ]
-  },
-  {
-    id: 2,
-    title: "Recording the EKG",
-    color: "orange",
-    tip: "EKG paper is standardized worldwide. Time runs left to right; voltage runs up and down. Mastering the paper grid lets you measure any interval or amplitude precisely.",
-    frames: [
-      {
-        id: "2-1",
-        text: "EKG paper is divided into small squares, each 1 mm on each side. The horizontal axis measures __________.",
-        blank: "time",
-        hint: "Left to right",
-        visual: "grid"
-      },
-      {
-        id: "2-2",
-        text: "The vertical axis on EKG paper measures __________ (voltage).",
-        blank: "amplitude",
-        hint: "How tall or deep a wave is",
-        visual: "grid"
-      },
-      {
-        id: "2-3",
-        text: "At standard paper speed (25 mm/sec), each small 1-mm square represents __________ seconds.",
-        blank: "0.04",
-        hint: "1 mm ÷ 25 mm/sec",
-        visual: "grid"
-      },
-      {
-        id: "2-4",
-        text: "Five small squares make one large square. Each large square therefore represents __________ seconds.",
-        blank: "0.20",
-        hint: "5 × 0.04 = ?",
-        visual: "grid"
-      },
-      {
-        id: "2-5",
-        text: "At standard calibration, 10 mm (1 cm) of vertical deflection equals __________ millivolt(s).",
-        blank: "1",
-        hint: "The calibration standard",
-        visual: "grid"
-      },
-      {
-        id: "2-6",
-        text: "A standard EKG is composed of __________ leads.",
-        blank: "12",
-        hint: "The 'dozen' leads",
-        visual: "leads"
-      },
-      {
-        id: "2-7",
-        text: "Leads I, II, and III use two electrodes each (one positive, one negative). They are called __________ limb leads.",
-        blank: "bipolar",
-        hint: "Two poles",
-        visual: "leads"
-      },
-      {
-        id: "2-8",
-        text: "The augmented leads aVR, aVL, and aVF use one active electrode referenced to a central terminal. They are called __________ leads.",
-        blank: "unipolar",
-        hint: "One pole",
-        visual: "leads"
-      },
-      {
-        id: "2-9",
-        text: "The six chest (precordial) leads are labeled V1 through __________.",
-        blank: "V6",
-        hint: "They run across the chest from right to left",
-        visual: "leads"
-      },
-      {
-        id: "2-10",
-        text: "Lead II, with its positive electrode at the left __________, records a wave moving from right to left (toward the positive electrode) as positive.",
-        blank: "leg",
-        hint: "Lower limb, left side",
-        visual: "leads"
-      }
-    ]
-  },
-  {
-    id: 3,
-    title: "Rate",
-    color: "amber",
-    tip: "Rate determination is often the first step in rhythm interpretation. The 'triplet method' using heavy lines (300-150-100, 75-60-50) is fast and reliable for regular rhythms.",
-    frames: [
-      {
-        id: "3-1",
-        text: "Heart rate is expressed in beats per __________.",
-        blank: "minute",
-        hint: "The standard time unit for heart rate",
-        visual: "rate"
-      },
-      {
-        id: "3-2",
-        text: "The SA Node is the heart's primary pacemaker. Its normal inherent rate is __________ to 100 beats per minute.",
-        blank: "60",
-        hint: "The lower boundary of normal",
-        visual: "sa_node"
-      },
-      {
-        id: "3-3",
-        text: "The fastest method for rate determination with a regular rhythm is the 'large box' method. Count the number of __________ between two consecutive R waves and divide into 300.",
-        blank: "large boxes",
-        hint: "Each is 0.20 sec; 300 ÷ boxes = rate",
-        visual: "grid"
-      },
-      {
-        id: "3-4",
-        text: "Using the triplet method, the first three heavy lines after an R wave represent rates of 300, 150, and __________.",
-        blank: "100",
-        hint: "300 ÷ 3 = ?",
-        visual: "rate"
-      },
-      {
-        id: "3-5",
-        text: "Continuing the triplets, the next three heavy lines represent 75, __________, and 50.",
-        blank: "60",
-        hint: "Normal resting heart rate",
-        visual: "rate"
-      },
-      {
-        id: "3-6",
-        text: "A heart rate greater than 100 beats per minute is called __________.",
-        blank: "tachycardia",
-        hint: "'tachy-' means fast in Greek",
-        visual: "tachy"
-      },
-      {
-        id: "3-7",
-        text: "A heart rate less than 60 beats per minute is called __________.",
-        blank: "bradycardia",
-        hint: "'brady-' means slow in Greek",
-        visual: "brady"
-      },
-      {
-        id: "3-8",
-        text: "For irregular rhythms, count the number of QRS complexes in a __________ second strip and multiply by 10.",
-        blank: "6",
-        hint: "6 × 10 = 60 seconds",
-        visual: "strip"
-      }
-    ]
-  },
-  {
-    id: 4,
-    title: "Rhythm",
-    color: "yellow",
-    tip: "A rhythm is regular when all R-R intervals are equal (or vary by less than 0.16 sec). Always ask: Is it regular? Is each P wave followed by a QRS? Is each QRS preceded by a P?",
-    frames: [
-      {
-        id: "4-1",
-        text: "Normal sinus rhythm originates in the __________ node.",
-        blank: "SA",
-        hint: "Sinoatrial",
-        visual: "sa_node"
-      },
-      {
-        id: "4-2",
-        text: "In normal sinus rhythm, the rate is 60 to 100 bpm and the rhythm is __________.",
-        blank: "regular",
-        hint: "All R-R intervals are equal",
-        visual: "rate"
-      },
-      {
-        id: "4-3",
-        text: "To check regularity, measure consecutive __________ intervals across a rhythm strip.",
-        blank: "R-R",
-        hint: "Peak-to-peak of consecutive QRS complexes",
-        visual: "ecg"
-      },
-      {
-        id: "4-4",
-        text: "Sinus arrhythmia is a normal variant where the rate changes with __________  (increases with inspiration, decreases with expiration).",
-        blank: "respiration",
-        hint: "Breathing",
-        visual: "wave_up"
-      },
-      {
-        id: "4-5",
-        text: "A Premature Atrial Contraction (PAC) is an early beat arising from an __________ focus in the atria.",
-        blank: "ectopic",
-        hint: "An out-of-place or abnormal location",
-        visual: "ecg"
-      },
-      {
-        id: "4-6",
-        text: "PAC beats are usually followed by an __________ pause before the next normal beat.",
-        blank: "incomplete compensatory",
-        hint: "The pause is less than a full R-R interval",
-        visual: "ecg"
-      },
-      {
-        id: "4-7",
-        text: "Premature Ventricular Contractions (PVCs) originate below the Bundle of His and produce a __________ QRS complex.",
-        blank: "wide",
-        hint: "Greater than 0.12 sec",
-        visual: "wave_down"
-      },
-      {
-        id: "4-8",
-        text: "PVCs are usually followed by a __________ compensatory pause.",
-        blank: "full",
-        hint: "The pause equals exactly one R-R interval",
-        visual: "ecg"
-      }
-    ]
-  },
-  {
-    id: 5,
-    title: "The P Wave",
-    color: "lime",
-    tip: "The P wave represents atrial depolarization. It is small, rounded, and upright in lead II. Abnormalities in the P wave reveal atrial enlargement or abnormal conduction pathways.",
-    frames: [
-      {
-        id: "5-1",
-        text: "The P wave represents depolarization of the __________.",
-        blank: "atria",
-        hint: "The upper chambers of the heart",
-        visual: "wave_up"
-      },
-      {
-        id: "5-2",
-        text: "A normal P wave in lead II is upright (positive), rounded, and no wider than __________ seconds.",
-        blank: "0.12",
-        hint: "3 small squares",
-        visual: "wave_up"
-      },
-      {
-        id: "5-3",
-        text: "A normal P wave amplitude is no taller than __________ mm.",
-        blank: "3",
-        hint: "The upper limit of normal height",
-        visual: "wave_up"
-      },
-      {
-        id: "5-4",
-        text: "Right atrial enlargement causes the P wave to be tall and peaked — this is called P __________.",
-        blank: "pulmonale",
-        hint: "Named after the pulmonary condition that causes it",
-        visual: "wave_up"
-      },
-      {
-        id: "5-5",
-        text: "Left atrial enlargement (LAE) causes the P wave to be wide and notched, often appearing as two humps. This pattern is called P __________.",
-        blank: "mitrale",
-        hint: "Named after the mitral valve disease associated with it",
-        visual: "wave_up"
-      },
-      {
-        id: "5-6",
-        text: "In LAE, the P wave duration is greater than __________ seconds.",
-        blank: "0.12",
-        hint: "More than 3 small squares wide",
-        visual: "wave_up"
-      },
-      {
-        id: "5-7",
-        text: "If the P wave is absent and replaced by rapid, irregular fibrillatory waves, the rhythm is atrial __________.",
-        blank: "fibrillation",
-        hint: "No organized atrial activity",
-        visual: "wave_down"
-      },
-      {
-        id: "5-8",
-        text: "If the P wave is replaced by regular, sawtooth flutter waves at 250-350 bpm, the rhythm is atrial __________.",
-        blank: "flutter",
-        hint: "Flutter waves look like teeth of a saw",
-        visual: "wave_down"
-      }
-    ]
-  },
-  {
-    id: 6,
-    title: "The PR Interval",
-    color: "green",
-    tip: "The PR interval measures AV node conduction time. A prolonged interval suggests heart block; a short interval suggests pre-excitation (WPW). Always measure from P onset to QRS onset.",
-    frames: [
-      {
-        id: "6-1",
-        text: "The PR interval is measured from the beginning of the __________ wave to the beginning of the QRS complex.",
-        blank: "P",
-        hint: "The first wave in the cardiac cycle",
-        visual: "ecg"
-      },
-      {
-        id: "6-2",
-        text: "The normal PR interval is __________ to 0.20 seconds.",
-        blank: "0.12",
-        hint: "3 to 5 small squares",
-        visual: "ecg"
-      },
-      {
-        id: "6-3",
-        text: "The PR interval represents the time it takes the impulse to travel from the SA node through the AV node and bundle of His to reach the __________.",
-        blank: "ventricles",
-        hint: "The lower chambers",
-        visual: "sa_node"
-      },
-      {
-        id: "6-4",
-        text: "A PR interval longer than 0.20 seconds (one large box) indicates a delay in AV conduction, called first-degree heart __________.",
-        blank: "block",
-        hint: "An impairment of conduction",
-        visual: "ecg"
-      },
-      {
-        id: "6-5",
-        text: "In second-degree Mobitz Type I (Wenckebach) block, the PR interval __________ with each beat until a QRS is dropped.",
-        blank: "lengthens",
-        hint: "Gets longer and longer",
-        visual: "ecg"
-      },
-      {
-        id: "6-6",
-        text: "In second-degree Mobitz Type II block, the PR interval is __________ but QRS complexes are periodically dropped.",
-        blank: "constant",
-        hint: "Does not change before the dropped beat",
-        visual: "ecg"
-      },
-      {
-        id: "6-7",
-        text: "In third-degree (complete) heart block, the atria and ventricles beat __________; there is no relationship between P waves and QRS complexes.",
-        blank: "independently",
-        hint: "No communication between chambers",
-        visual: "ecg"
-      },
-      {
-        id: "6-8",
-        text: "A short PR interval less than 0.12 seconds combined with a wide QRS and delta wave suggests Wolff-Parkinson-White (WPW) syndrome, caused by an accessory __________ pathway.",
-        blank: "conduction",
-        hint: "An extra electrical pathway bypassing the AV node",
-        visual: "ecg"
-      }
-    ]
-  },
-  {
-    id: 7,
-    title: "The QRS Complex",
-    color: "teal",
-    tip: "The QRS complex represents ventricular depolarization — the electrical event that causes cardiac contraction. Its width tells you about conduction; its morphology tells you about bundle branch blocks and ventricular hypertrophy.",
-    frames: [
-      {
-        id: "7-1",
-        text: "The QRS complex represents depolarization of the __________.",
-        blank: "ventricles",
-        hint: "The lower, main pumping chambers",
-        visual: "ecg"
-      },
-      {
-        id: "7-2",
-        text: "Normal QRS duration is less than __________ seconds (3 small squares).",
-        blank: "0.12",
-        hint: "The upper limit of normal",
-        visual: "ecg"
-      },
-      {
-        id: "7-3",
-        text: "A QRS duration greater than 0.12 seconds is called a __________ QRS.",
-        blank: "wide",
-        hint: "Wider than normal",
-        visual: "wave_down"
-      },
-      {
-        id: "7-4",
-        text: "The Q wave is the first __________ deflection of the QRS complex.",
-        blank: "negative",
-        hint: "Downward",
-        visual: "wave_down"
-      },
-      {
-        id: "7-5",
-        text: "The R wave is the first __________ deflection of the QRS complex.",
-        blank: "positive",
-        hint: "Upward",
-        visual: "wave_up"
-      },
-      {
-        id: "7-6",
-        text: "The S wave is the __________ deflection following the R wave.",
-        blank: "negative",
-        hint: "Downward, after the R",
-        visual: "wave_down"
-      },
-      {
-        id: "7-7",
-        text: "In Right Bundle Branch Block (RBBB), the QRS is wide and has a characteristic __________ pattern in V1 (two R waves).",
-        blank: "RSR'",
-        hint: "Looks like rabbit ears",
-        visual: "wave_up"
-      },
-      {
-        id: "7-8",
-        text: "In Left Bundle Branch Block (LBBB), the QRS is wide with a broad, notched R wave in leads I, aVL, and V5-V6, and a deep S (or QS pattern) in __________.",
-        blank: "V1",
-        hint: "The rightmost precordial lead",
-        visual: "wave_down"
-      },
-      {
-        id: "7-9",
-        text: "Left ventricular hypertrophy (LVH) is suggested when the S wave in V1 plus the R wave in V5 or V6 exceeds __________ mm.",
-        blank: "35",
-        hint: "The Sokolow-Lyon voltage criterion",
-        visual: "wave_up"
-      }
-    ]
-  },
-  {
-    id: 8,
-    title: "The ST Segment",
-    color: "cyan",
-    tip: "The ST segment is clinically critical — it lies between ventricular depolarization and repolarization. Elevation means injury (STEMI); depression means ischemia. Always compare to the isoelectric baseline.",
-    frames: [
-      {
-        id: "8-1",
-        text: "The ST segment extends from the end of the QRS complex (the J point) to the beginning of the __________ wave.",
-        blank: "T",
-        hint: "The repolarization wave",
-        visual: "ecg"
-      },
-      {
-        id: "8-2",
-        text: "A normal ST segment is __________ (flat at the baseline).",
-        blank: "isoelectric",
-        hint: "Neither elevated nor depressed",
-        visual: "ecg"
-      },
-      {
-        id: "8-3",
-        text: "ST segment __________ (greater than 1 mm above baseline in limb leads or 2 mm in precordial leads) is the hallmark of acute myocardial injury.",
-        blank: "elevation",
-        hint: "Upward shift",
-        visual: "wave_up"
-      },
-      {
-        id: "8-4",
-        text: "ST segment elevation in the setting of a heart attack defines a __________ MI (STEMI).",
-        blank: "ST-elevation",
-        hint: "The 'ST' type of MI",
-        visual: "wave_up"
-      },
-      {
-        id: "8-5",
-        text: "ST segment __________ (below baseline) indicates myocardial ischemia or subendocardial injury.",
-        blank: "depression",
-        hint: "Downward shift",
-        visual: "wave_down"
-      },
-      {
-        id: "8-6",
-        text: "Diffuse, concave ST elevation in multiple leads combined with PR depression is characteristic of __________.",
-        blank: "pericarditis",
-        hint: "Inflammation of the sac around the heart",
-        visual: "wave_up"
-      },
-      {
-        id: "8-7",
-        text: "Early repolarization produces benign J-point elevation with a __________ (concave upward) ST segment.",
-        blank: "smiley-face",
-        hint: "The concave 'smile' ST pattern",
-        visual: "wave_up"
-      }
-    ]
-  },
-  {
-    id: 9,
-    title: "The T Wave",
-    color: "blue",
-    tip: "The T wave represents ventricular repolarization. It is normally in the same direction as the main QRS deflection. Peaked T waves suggest hyperkalemia; flat or inverted T waves suggest ischemia.",
-    frames: [
-      {
-        id: "9-1",
-        text: "The T wave represents repolarization of the __________.",
-        blank: "ventricles",
-        hint: "The lower chambers recovering after contraction",
-        visual: "wave_up"
-      },
-      {
-        id: "9-2",
-        text: "Normally, the T wave is in the same direction as the main deflection of the QRS complex. This is called concordant or __________ T waves.",
-        blank: "upright",
-        hint: "Positive direction, matching the QRS",
-        visual: "wave_up"
-      },
-      {
-        id: "9-3",
-        text: "T wave __________ (flipped downward compared to the QRS direction) can indicate ischemia or ventricular strain.",
-        blank: "inversion",
-        hint: "Flipped upside-down",
-        visual: "wave_down"
-      },
-      {
-        id: "9-4",
-        text: "Tall, peaked, narrow ('tent-shaped') T waves are a classic sign of __________.",
-        blank: "hyperkalemia",
-        hint: "High potassium level",
-        visual: "wave_up"
-      },
-      {
-        id: "9-5",
-        text: "Flat T waves can be seen in __________, where low serum potassium reduces repolarization amplitude.",
-        blank: "hypokalemia",
-        hint: "Low potassium level",
-        visual: "wave_down"
-      },
-      {
-        id: "9-6",
-        text: "The QT interval, measured from QRS onset to end of T wave, represents total ventricular __________ and repolarization time.",
-        blank: "depolarization",
-        hint: "The entire electrical systole",
-        visual: "ecg"
-      },
-      {
-        id: "9-7",
-        text: "A prolonged corrected QT interval (QTc > 0.44 sec in men, > 0.46 sec in women) increases the risk of a life-threatening arrhythmia called Torsades de __________.",
-        blank: "Pointes",
-        hint: "French for 'twisting of the peaks'",
-        visual: "wave_down"
-      }
-    ]
-  },
-  {
-    id: 10,
-    title: "Axis",
-    color: "violet",
-    tip: "The mean QRS axis reflects the average direction of ventricular depolarization. Normal axis points down and to the left (0 to +90 degrees). Deviations suggest hypertrophy, bundle branch block, or other pathology.",
-    frames: [
-      {
-        id: "10-1",
-        text: "The electrical __________ of the heart describes the average direction of ventricular depolarization in the frontal plane.",
-        blank: "axis",
-        hint: "The mean electrical direction",
-        visual: "leads"
-      },
-      {
-        id: "10-2",
-        text: "The normal mean QRS axis is between __________ and +90 degrees.",
-        blank: "0",
-        hint: "From zero to ninety degrees",
-        visual: "leads"
-      },
-      {
-        id: "10-3",
-        text: "Axis is determined using the six __________ leads (I, II, III, aVR, aVL, aVF).",
-        blank: "limb",
-        hint: "The frontal plane leads",
-        visual: "leads"
-      },
-      {
-        id: "10-4",
-        text: "If the QRS is predominantly positive in lead I and negative in aVF, the axis is deviated to the left, indicating __________ axis deviation (LAD).",
-        blank: "left",
-        hint: "Pointing leftward",
-        visual: "leads"
-      },
-      {
-        id: "10-5",
-        text: "Left axis deviation is defined as an axis more negative than __________ degrees.",
-        blank: "-30",
-        hint: "Beyond the left superior quadrant",
-        visual: "leads"
-      },
-      {
-        id: "10-6",
-        text: "If the QRS is predominantly negative in lead I and positive in aVF, the axis is deviated to the right, indicating __________ axis deviation (RAD).",
-        blank: "right",
-        hint: "Pointing rightward",
-        visual: "leads"
-      },
-      {
-        id: "10-7",
-        text: "Right axis deviation is defined as an axis more positive than __________ degrees.",
-        blank: "+90",
-        hint: "Beyond the right inferior quadrant",
-        visual: "leads"
-      },
-      {
-        id: "10-8",
-        text: "The lead that is most __________ (smallest QRS deflection) points perpendicular to the mean axis.",
-        blank: "isoelectric",
-        hint: "Equally positive and negative, nearly flat",
-        visual: "ecg"
-      }
-    ]
-  },
-  {
-    id: 11,
-    title: "Hypertrophy",
-    color: "purple",
-    tip: "Hypertrophy increases muscle mass, which generates larger electrical forces. Right-sided hypertrophy is best seen in V1; left-sided hypertrophy is best seen in V5-V6 and the limb leads.",
-    frames: [
-      {
-        id: "11-1",
-        text: "Hypertrophy means __________ of the heart muscle cells (myocytes), increasing wall thickness.",
-        blank: "enlargement",
-        hint: "Increase in cell size",
-        visual: "heart"
-      },
-      {
-        id: "11-2",
-        text: "Right ventricular hypertrophy (RVH) produces a tall R wave in lead __________, which normally has a small R and dominant S.",
-        blank: "V1",
-        hint: "The most rightward precordial lead",
-        visual: "wave_up"
-      },
-      {
-        id: "11-3",
-        text: "In RVH, the axis is deviated to the __________.",
-        blank: "right",
-        hint: "The right ventricle pulls the axis its direction",
-        visual: "leads"
-      },
-      {
-        id: "11-4",
-        text: "Right atrial enlargement produces peaked P waves taller than 2.5 mm in lead II. This is called P __________.",
-        blank: "pulmonale",
-        hint: "Associated with pulmonary hypertension",
-        visual: "wave_up"
-      },
-      {
-        id: "11-5",
-        text: "Left ventricular hypertrophy (LVH) shows increased QRS __________ (voltage) in precordial leads.",
-        blank: "amplitude",
-        hint: "Taller waves = more voltage",
-        visual: "wave_up"
-      },
-      {
-        id: "11-6",
-        text: "The Sokolow-Lyon criterion for LVH: S in V1 + R in V5 or V6 > __________ mm.",
-        blank: "35",
-        hint: "The standard voltage threshold",
-        visual: "wave_up"
-      },
-      {
-        id: "11-7",
-        text: "LVH can also show ST depression and T wave inversion in lateral leads (I, aVL, V5, V6) — called LV __________ pattern.",
-        blank: "strain",
-        hint: "The 'overload' pattern",
-        visual: "wave_down"
-      },
-      {
-        id: "11-8",
-        text: "Left atrial enlargement (LAE) is identified by a wide, notched P wave (P mitrale) or a deep negative terminal component of the P wave in lead __________.",
-        blank: "V1",
-        hint: "The best lead to see left atrial forces",
-        visual: "wave_down"
-      }
-    ]
-  },
-  {
-    id: 12,
-    title: "Infarction",
-    color: "rose",
-    tip: "Myocardial infarction leaves a permanent 'scar' recorded as pathological Q waves. The location of Q waves tells you which coronary artery was involved and which wall was infarcted.",
-    frames: [
-      {
-        id: "12-1",
-        text: "Myocardial infarction (MI) results from prolonged __________ (lack of blood/oxygen) to myocardial cells, causing necrosis.",
-        blank: "ischemia",
-        hint: "Insufficient blood supply",
-        visual: "heart"
-      },
-      {
-        id: "12-2",
-        text: "The EKG sequence of an acute MI: hyperacute (peaked T) → ST elevation → Q wave formation → T wave __________.",
-        blank: "inversion",
-        hint: "T waves flip",
-        visual: "wave_down"
-      },
-      {
-        id: "12-3",
-        text: "A pathological Q wave is at least __________ mm wide (0.04 sec) and/or greater than 25% of the R wave height.",
-        blank: "1",
-        hint: "One small square wide",
-        visual: "wave_down"
-      },
-      {
-        id: "12-4",
-        text: "An inferior MI (right coronary artery territory) produces Q waves in leads __________, III, and aVF.",
-        blank: "II",
-        hint: "The three inferior leads",
-        visual: "leads"
-      },
-      {
-        id: "12-5",
-        text: "An anterior MI (LAD artery territory) produces Q waves in precordial leads __________ through V4.",
-        blank: "V1",
-        hint: "The anterior precordial leads",
-        visual: "leads"
-      },
-      {
-        id: "12-6",
-        text: "A lateral MI produces Q waves in leads I, aVL, __________, and V6.",
-        blank: "V5",
-        hint: "The lateral leads",
-        visual: "leads"
-      },
-      {
-        id: "12-7",
-        text: "A posterior MI does NOT produce Q waves in standard leads; instead it shows a tall R wave and __________ depression in V1-V2 (mirror image).",
-        blank: "ST",
-        hint: "The opposite of ST elevation appears in the anterior leads",
-        visual: "wave_down"
-      },
-      {
-        id: "12-8",
-        text: "The left anterior descending (LAD) artery supplies the anterior wall. Occlusion causes an __________ MI.",
-        blank: "anterior",
-        hint: "Front wall of the left ventricle",
-        visual: "heart"
-      },
-      {
-        id: "12-9",
-        text: "Old (age-indeterminate) MI shows persistent Q waves with __________ ST segments (the acute injury pattern has resolved).",
-        blank: "normal",
-        hint: "Acute changes gone; only scar Q waves remain",
-        visual: "ecg"
-      }
-    ]
-  },
-  {
-    id: 13,
-    title: "Arrhythmias",
-    color: "red",
-    tip: "Arrhythmias range from benign to life-threatening. Always assess: (1) rate, (2) regularity, (3) P wave morphology and relationship to QRS, (4) QRS width. These four questions narrow the diagnosis.",
-    frames: [
-      {
-        id: "13-1",
-        text: "Atrial fibrillation (AF) is characterized by the absence of organized P waves, replaced by an __________ baseline.",
-        blank: "irregularly irregular",
-        hint: "Totally chaotic, no pattern",
-        visual: "wave_down"
-      },
-      {
-        id: "13-2",
-        text: "In atrial fibrillation, the ventricular response (QRS rate) is __________ because impulses hit the AV node randomly.",
-        blank: "irregularly irregular",
-        hint: "No pattern to the R-R intervals",
-        visual: "wave_down"
-      },
-      {
-        id: "13-3",
-        text: "Atrial flutter typically shows sawtooth flutter waves at a rate of __________ bpm.",
-        blank: "300",
-        hint: "The typical flutter rate; often with 2:1 or 3:1 block",
-        visual: "wave_down"
-      },
-      {
-        id: "13-4",
-        text: "Supraventricular tachycardia (SVT) is a fast, regular rhythm with a __________ QRS (unless there is aberrant conduction).",
-        blank: "narrow",
-        hint: "Less than 0.12 seconds",
-        visual: "wave_up"
-      },
-      {
-        id: "13-5",
-        text: "Ventricular tachycardia (VT) is defined as 3 or more consecutive PVCs at a rate > 100 bpm. The QRS is __________ and bizarre.",
-        blank: "wide",
-        hint: "Greater than 0.12 seconds",
-        visual: "wave_down"
-      },
-      {
-        id: "13-6",
-        text: "Ventricular fibrillation (VF) shows chaotic, irregular waveforms with no identifiable QRS complexes. It is immediately __________ (fatal without treatment).",
-        blank: "life-threatening",
-        hint: "No cardiac output",
-        visual: "wave_down"
-      },
-      {
-        id: "13-7",
-        text: "A junctional rhythm arises from the AV junction and has a rate of 40 to __________ bpm.",
-        blank: "60",
-        hint: "The inherent junctional rate range",
-        visual: "ecg"
-      },
-      {
-        id: "13-8",
-        text: "An idioventricular rhythm arises from a ventricular focus with a rate of 20 to __________ bpm, with wide QRS complexes.",
-        blank: "40",
-        hint: "The lowest escape rate",
-        visual: "wave_down"
-      },
-      {
-        id: "13-9",
-        text: "Wolff-Parkinson-White (WPW) syndrome causes a short PR interval, wide QRS, and a __________ wave — a slurred onset of the QRS.",
-        blank: "delta",
-        hint: "Named after the Greek letter for a slurred slope",
-        visual: "wave_up"
-      }
-    ]
-  }
-];
-
-// Computed totals
-const TOTAL_FRAMES = CHAPTERS.reduce((sum, ch) => sum + ch.frames.length, 0);
-
-// Color theme map
-const COLORS = {
-  red:    { bg: "bg-red-50",     text: "text-red-700",     btn: "bg-red-600 hover:bg-red-700",     ring: "ring-red-200",     num: "bg-red-600", soft: "bg-red-100", border: "border-red-200" },
-  orange: { bg: "bg-orange-50",  text: "text-orange-700",  btn: "bg-orange-600 hover:bg-orange-700", ring: "ring-orange-200",  num: "bg-orange-600", soft: "bg-orange-100", border: "border-orange-200" },
-  amber:  { bg: "bg-amber-50",   text: "text-amber-700",   btn: "bg-amber-600 hover:bg-amber-700",  ring: "ring-amber-200",   num: "bg-amber-600",  soft: "bg-amber-100",  border: "border-amber-200" },
-  yellow: { bg: "bg-yellow-50",  text: "text-yellow-700",  btn: "bg-yellow-600 hover:bg-yellow-700", ring: "ring-yellow-200",  num: "bg-yellow-600", soft: "bg-yellow-100", border: "border-yellow-200" },
-  lime:   { bg: "bg-lime-50",    text: "text-lime-700",    btn: "bg-lime-600 hover:bg-lime-700",    ring: "ring-lime-200",    num: "bg-lime-600",   soft: "bg-lime-100",   border: "border-lime-200" },
-  green:  { bg: "bg-green-50",   text: "text-green-700",   btn: "bg-green-600 hover:bg-green-700",  ring: "ring-green-200",   num: "bg-green-600",  soft: "bg-green-100",  border: "border-green-200" },
-  teal:   { bg: "bg-teal-50",    text: "text-teal-700",    btn: "bg-teal-600 hover:bg-teal-700",    ring: "ring-teal-200",    num: "bg-teal-600",   soft: "bg-teal-100",   border: "border-teal-200" },
-  cyan:   { bg: "bg-cyan-50",    text: "text-cyan-700",    btn: "bg-cyan-600 hover:bg-cyan-700",    ring: "ring-cyan-200",    num: "bg-cyan-600",   soft: "bg-cyan-100",   border: "border-cyan-200" },
-  blue:   { bg: "bg-blue-50",    text: "text-blue-700",    btn: "bg-blue-600 hover:bg-blue-700",    ring: "ring-blue-200",    num: "bg-blue-600",   soft: "bg-blue-100",   border: "border-blue-200" },
-  violet: { bg: "bg-violet-50",  text: "text-violet-700",  btn: "bg-violet-600 hover:bg-violet-700", ring: "ring-violet-200",  num: "bg-violet-600", soft: "bg-violet-100", border: "border-violet-200" },
-  purple: { bg: "bg-purple-50",  text: "text-purple-700",  btn: "bg-purple-600 hover:bg-purple-700", ring: "ring-purple-200",  num: "bg-purple-600", soft: "bg-purple-100", border: "border-purple-200" },
-  rose:   { bg: "bg-rose-50",    text: "text-rose-700",    btn: "bg-rose-600 hover:bg-rose-700",    ring: "ring-rose-200",    num: "bg-rose-600",   soft: "bg-rose-100",   border: "border-rose-200" },
+const Icon = {
+  ChevronLeft: () => (
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+      <polyline points="15 18 9 12 15 6"/>
+    </svg>
+  ),
+  ChevronRight: () => (
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+      <polyline points="9 18 15 12 9 6"/>
+    </svg>
+  ),
+  Menu: () => (
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/>
+    </svg>
+  ),
+  X: () => (
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+      <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+    </svg>
+  ),
+  Check: () => (
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#22c55e" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/>
+    </svg>
+  ),
+  Eye: () => (
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/>
+    </svg>
+  ),
+  Award: () => (
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <circle cx="12" cy="8" r="7"/><polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"/>
+    </svg>
+  ),
+  Activity: () => (
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+      <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/>
+    </svg>
+  ),
+  RotateCcw: () => (
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <polyline points="1 4 1 10 7 10"/><path d="M3.51 15a9 9 0 1 0 .49-3.5"/>
+    </svg>
+  ),
 };
 
 // ============================================================
-// Visual Components
+//  COLOR THEMES
 // ============================================================
+const THEMES = {
+  red:    { bg:"#fff5f5", border:"#fecaca", text:"#dc2626", num:"#dc2626", tip:"#fef2f2", tipBorder:"#fecaca", tipText:"#991b1b" },
+  orange: { bg:"#fff7ed", border:"#fed7aa", text:"#ea580c", num:"#ea580c", tip:"#fff7ed", tipBorder:"#fed7aa", tipText:"#9a3412" },
+  amber:  { bg:"#fffbeb", border:"#fde68a", text:"#d97706", num:"#d97706", tip:"#fffbeb", tipBorder:"#fde68a", tipText:"#92400e" },
+  yellow: { bg:"#fefce8", border:"#fef08a", text:"#ca8a04", num:"#ca8a04", tip:"#fefce8", tipBorder:"#fef08a", tipText:"#713f12" },
+  lime:   { bg:"#f7fee7", border:"#bef264", text:"#65a30d", num:"#65a30d", tip:"#f7fee7", tipBorder:"#bef264", tipText:"#365314" },
+  green:  { bg:"#f0fdf4", border:"#86efac", text:"#16a34a", num:"#16a34a", tip:"#f0fdf4", tipBorder:"#86efac", tipText:"#14532d" },
+  teal:   { bg:"#f0fdfa", border:"#99f6e4", text:"#0d9488", num:"#0d9488", tip:"#f0fdfa", tipBorder:"#99f6e4", tipText:"#134e4a" },
+  cyan:   { bg:"#ecfeff", border:"#a5f3fc", text:"#0891b2", num:"#0891b2", tip:"#ecfeff", tipBorder:"#a5f3fc", tipText:"#164e63" },
+  blue:   { bg:"#eff6ff", border:"#bfdbfe", text:"#2563eb", num:"#2563eb", tip:"#eff6ff", tipBorder:"#bfdbfe", tipText:"#1e3a8a" },
+  violet: { bg:"#f5f3ff", border:"#ddd6fe", text:"#7c3aed", num:"#7c3aed", tip:"#f5f3ff", tipBorder:"#ddd6fe", tipText:"#4c1d95" },
+  purple: { bg:"#faf5ff", border:"#e9d5ff", text:"#9333ea", num:"#9333ea", tip:"#faf5ff", tipBorder:"#e9d5ff", tipText:"#581c87" },
+  rose:   { bg:"#fff1f2", border:"#fecdd3", text:"#e11d48", num:"#e11d48", tip:"#fff1f2", tipBorder:"#fecdd3", tipText:"#881337" },
+};
 
-const EcgSvg = ({ color = "#ef4444" }) => (
-  <svg viewBox="0 0 360 80" className="w-full max-h-20" preserveAspectRatio="xMidYMid meet">
-    <rect width="360" height="80" fill="#fff8f8" rx="8"/>
-    {[...Array(36)].map((_, i) => (
-      <line key={`v${i}`} x1={i*10} y1="0" x2={i*10} y2="80"
-        stroke="#fca5a5" strokeWidth={i%5===0?0.7:0.25} />
-    ))}
-    {[...Array(8)].map((_, i) => (
-      <line key={`h${i}`} x1="0" y1={i*10} x2="360" y2={i*10}
-        stroke="#fca5a5" strokeWidth={i%5===0?0.7:0.25} />
-    ))}
+// ============================================================
+//  COURSE DATA
+// ============================================================
+const CHAPTERS = [
+  {
+    id: 1, title: "Basic Principles", color: "red",
+    tip: "The heart's electrical system generates currents detectable on the body surface. Every waveform on the EKG corresponds to a specific electrical event inside the heart.",
+    frames: [
+      { id:"1-1",  text:"In 1790, Luigi Galvani made a dead frog's legs contract by __________  stimulation — the first evidence that animal tissues produce such currents.", blank:"electrical", hint:"Starts with 'e'", visual:"zap" },
+      { id:"1-2",  text:"In 1855, Kollicker and Mueller found the beating heart generates rhythmic __________ impulses capable of stimulating a nearby motor nerve.", blank:"electrical", hint:"Same type as Galvani's", visual:"zap" },
+      { id:"1-3",  text:"In 1887, Waller recorded the first human cardiac electrical tracing. The device that records cardiac electricity is called the __________.", blank:"electrocardiogram", hint:"Abbreviated EKG or ECG", visual:"ecg" },
+      { id:"1-4",  text:"The standard abbreviation __________ (from the German 'Elektrokardiogramm') refers to the record of the heart's electrical activity.", blank:"EKG", hint:"3 capital letters", visual:"ecg" },
+      { id:"1-5",  text:"The EKG records the electrical activity of heart muscle, known as the __________.", blank:"myocardium", hint:"'myo' = muscle, 'cardium' = heart", visual:"heart" },
+      { id:"1-6",  text:"Myocardial cells are electrically negative inside at rest. This resting state is called being __________.", blank:"polarized", hint:"The stable resting condition", visual:"cell" },
+      { id:"1-7",  text:"When stimulated, the inside of a myocardial cell becomes positive — the cell has __________.", blank:"depolarized", hint:"The active, excited state", visual:"cell_active" },
+      { id:"1-8",  text:"After depolarization, cells return to their negative resting state. This recovery is called __________.", blank:"repolarization", hint:"'re-' means return", visual:"cell" },
+      { id:"1-9",  text:"A wave of depolarization moving TOWARD a positive electrode causes a __________ (upward) deflection on the EKG.", blank:"positive", hint:"Toward positive = positive deflection", visual:"wave_up" },
+      { id:"1-10", text:"A wave of depolarization moving AWAY FROM a positive electrode causes a __________ (downward) deflection.", blank:"negative", hint:"Away from positive = negative deflection", visual:"wave_down" },
+      { id:"1-11", text:"A wave of repolarization moving TOWARD a positive electrode produces a __________ deflection (opposite to depolarization).", blank:"negative", hint:"Repolarization is electrically opposite", visual:"wave_down" },
+      { id:"1-12", text:"Each normal cardiac cycle shows a P wave, a QRS complex, and a __________ wave on the EKG.", blank:"T", hint:"The next letter after Q, R, S", visual:"ecg" },
+    ]
+  },
+  {
+    id: 2, title: "Recording the EKG", color: "orange",
+    tip: "EKG paper is standardized worldwide. Time runs left to right; voltage runs up and down. Mastering the grid lets you measure any interval or amplitude with confidence.",
+    frames: [
+      { id:"2-1",  text:"EKG paper has small squares 1 mm on each side. The horizontal axis measures __________.", blank:"time", hint:"Left to right", visual:"grid" },
+      { id:"2-2",  text:"The vertical axis on EKG paper measures __________ (voltage).", blank:"amplitude", hint:"How tall or deep a waveform is", visual:"grid" },
+      { id:"2-3",  text:"At standard paper speed (25 mm/sec), each small 1-mm square represents __________ seconds.", blank:"0.04", hint:"1 ÷ 25 = 0.04", visual:"grid" },
+      { id:"2-4",  text:"Five small squares make one large square bounded by heavy lines. Each large square equals __________ seconds.", blank:"0.20", hint:"5 × 0.04 = ?", visual:"grid" },
+      { id:"2-5",  text:"At standard calibration, 10 mm (1 cm) of vertical deflection equals __________ millivolt(s).", blank:"1", hint:"The universal calibration standard", visual:"grid" },
+      { id:"2-6",  text:"A standard 12-lead EKG records __________ separate views of the heart's electrical activity.", blank:"12", hint:"The 'dozen' leads", visual:"leads" },
+      { id:"2-7",  text:"Leads I, II, and III each use two electrodes — one positive, one negative. They are called __________ limb leads.", blank:"bipolar", hint:"Two = bi, poles = polar", visual:"leads" },
+      { id:"2-8",  text:"The augmented leads aVR, aVL, and aVF use one active electrode referenced to a central terminal — they are __________ leads.", blank:"unipolar", hint:"One pole", visual:"leads" },
+      { id:"2-9",  text:"The six precordial (chest) leads are labeled V1 through __________.", blank:"V6", hint:"V-one through V-?", visual:"leads" },
+      { id:"2-10", text:"In Lead II, the positive electrode is at the left __________. Impulses traveling toward it record as positive deflections.", blank:"leg", hint:"Lower limb, left side", visual:"leads" },
+    ]
+  },
+  {
+    id: 3, title: "Rate", color: "amber",
+    tip: "The 300-150-100 / 75-60-50 triplet method is the fastest way to estimate rate in a regular rhythm. For irregular rhythms always use the 6-second strip method.",
+    frames: [
+      { id:"3-1", text:"Heart rate is expressed in beats per __________.", blank:"minute", hint:"60 seconds", visual:"rate" },
+      { id:"3-2", text:"The SA node is the heart's primary pacemaker. Its normal inherent rate is __________ to 100 beats per minute.", blank:"60", hint:"Lower boundary of normal", visual:"sa_node" },
+      { id:"3-3", text:"For a regular rhythm, find an R wave on a heavy line. The next heavy line to the right represents a rate of __________.", blank:"300", hint:"The first triplet number", visual:"rate" },
+      { id:"3-4", text:"Continuing the triplets: 300, __________, 100.", blank:"150", hint:"Halfway between 300 and 0", visual:"rate" },
+      { id:"3-5", text:"The second triplet continues: 75, __________, 50.", blank:"60", hint:"Normal resting heart rate", visual:"rate" },
+      { id:"3-6", text:"A rate greater than 100 beats per minute is called __________.", blank:"tachycardia", hint:"'tachy-' means fast in Greek", visual:"tachy" },
+      { id:"3-7", text:"A rate less than 60 beats per minute is called __________.", blank:"bradycardia", hint:"'brady-' means slow in Greek", visual:"brady" },
+      { id:"3-8", text:"For irregular rhythms, count QRS complexes in a __________ second strip and multiply by 10.", blank:"6", hint:"6 × 10 = 60 seconds", visual:"strip" },
+    ]
+  },
+  {
+    id: 4, title: "Rhythm", color: "yellow",
+    tip: "Three questions to ask every rhythm: (1) Is it regular? (2) Is each P wave followed by a QRS? (3) Is each QRS preceded by a P wave?",
+    frames: [
+      { id:"4-1", text:"Normal sinus rhythm originates in the __________ node.", blank:"SA", hint:"Sinoatrial", visual:"sa_node" },
+      { id:"4-2", text:"In normal sinus rhythm, the rate is 60 to 100 bpm and the rhythm is __________.", blank:"regular", hint:"All R-R intervals equal", visual:"rate" },
+      { id:"4-3", text:"To confirm regularity, measure consecutive __________ intervals across a rhythm strip.", blank:"R-R", hint:"Peak-to-peak between QRS complexes", visual:"ecg" },
+      { id:"4-4", text:"Sinus arrhythmia is a normal variant where rate varies with __________: faster on inspiration, slower on expiration.", blank:"respiration", hint:"Breathing", visual:"wave_up" },
+      { id:"4-5", text:"A Premature Atrial Contraction (PAC) is an early beat from an __________ focus within the atria.", blank:"ectopic", hint:"Out-of-place location", visual:"ecg" },
+      { id:"4-6", text:"After a PAC, there is typically an __________ compensatory pause before the next normal beat.", blank:"incomplete", hint:"The pause is shorter than one full R-R interval", visual:"ecg" },
+      { id:"4-7", text:"Premature Ventricular Contractions (PVCs) originate below the Bundle of His and produce a __________ QRS complex.", blank:"wide", hint:"Greater than 0.12 sec", visual:"wave_down" },
+      { id:"4-8", text:"PVCs are typically followed by a __________ compensatory pause equal to exactly one R-R interval.", blank:"full", hint:"Complete, not incomplete", visual:"ecg" },
+    ]
+  },
+  {
+    id: 5, title: "The P Wave", color: "lime",
+    tip: "The P wave represents atrial depolarization. Normal: small, rounded, upright in II, < 0.12 s wide, < 3 mm tall. Abnormalities reveal atrial enlargement or ectopic pacemakers.",
+    frames: [
+      { id:"5-1", text:"The P wave represents depolarization of the __________.", blank:"atria", hint:"The two upper chambers", visual:"wave_up" },
+      { id:"5-2", text:"A normal P wave is upright in lead II, rounded, and no wider than __________ seconds.", blank:"0.12", hint:"3 small squares wide", visual:"wave_up" },
+      { id:"5-3", text:"Normal P wave amplitude is no taller than __________ mm.", blank:"3", hint:"Upper limit of normal height", visual:"wave_up" },
+      { id:"5-4", text:"Right atrial enlargement produces tall, peaked P waves — called P __________.", blank:"pulmonale", hint:"Associated with pulmonary hypertension", visual:"wave_up" },
+      { id:"5-5", text:"Left atrial enlargement produces wide, notched (two-humped) P waves — called P __________.", blank:"mitrale", hint:"Associated with mitral valve disease", visual:"wave_up" },
+      { id:"5-6", text:"In left atrial enlargement, P wave duration exceeds __________ seconds.", blank:"0.12", hint:"More than 3 small squares", visual:"wave_up" },
+      { id:"5-7", text:"When P waves are absent and replaced by chaotic fibrillatory waves, the rhythm is atrial __________.", blank:"fibrillation", hint:"No organized atrial activity", visual:"wave_down" },
+      { id:"5-8", text:"Regular sawtooth waves at 250-350 bpm replacing P waves identify atrial __________.", blank:"flutter", hint:"Sawtooth pattern", visual:"wave_down" },
+    ]
+  },
+  {
+    id: 6, title: "The PR Interval", color: "green",
+    tip: "The PR interval measures AV node conduction time. Normal range: 0.12-0.20 sec (3-5 small boxes). Too long = heart block. Too short = pre-excitation (WPW).",
+    frames: [
+      { id:"6-1", text:"The PR interval is measured from the start of the __________ wave to the start of the QRS complex.", blank:"P", hint:"The first wave in the cycle", visual:"ecg" },
+      { id:"6-2", text:"The normal PR interval is 0.12 to __________ seconds.", blank:"0.20", hint:"3 to 5 small squares", visual:"ecg" },
+      { id:"6-3", text:"The PR interval represents conduction time from SA node through the AV node to reach the __________.", blank:"ventricles", hint:"The lower chambers", visual:"sa_node" },
+      { id:"6-4", text:"A PR interval longer than 0.20 seconds indicates a delay in AV conduction — first-degree heart __________.", blank:"block", hint:"Impaired conduction", visual:"ecg" },
+      { id:"6-5", text:"In Mobitz Type I (Wenckebach), the PR interval progressively __________ until a QRS is dropped.", blank:"lengthens", hint:"Gets longer and longer, then drops", visual:"ecg" },
+      { id:"6-6", text:"In Mobitz Type II, the PR interval is __________, but QRS complexes are periodically dropped without warning.", blank:"constant", hint:"Does not change before the dropped beat", visual:"ecg" },
+      { id:"6-7", text:"In complete (third-degree) heart block, atria and ventricles beat __________; P waves and QRS complexes have no relationship.", blank:"independently", hint:"No communication between the chambers", visual:"ecg" },
+      { id:"6-8", text:"A short PR interval with a slurred QRS onset (delta wave) and wide QRS defines Wolff-Parkinson-White, caused by an accessory __________ pathway.", blank:"conduction", hint:"An extra electrical bypass pathway", visual:"ecg" },
+    ]
+  },
+  {
+    id: 7, title: "The QRS Complex", color: "teal",
+    tip: "The QRS complex reflects ventricular depolarization. Its width flags bundle branch blocks; its morphology and voltage reveal hypertrophy. Normal width: < 0.12 sec.",
+    frames: [
+      { id:"7-1", text:"The QRS complex represents depolarization of the __________.", blank:"ventricles", hint:"The two lower pumping chambers", visual:"ecg" },
+      { id:"7-2", text:"Normal QRS duration is less than __________ seconds (fewer than 3 small squares).", blank:"0.12", hint:"Upper limit of normal", visual:"ecg" },
+      { id:"7-3", text:"A QRS wider than 0.12 seconds is called a __________ QRS, suggesting abnormal ventricular conduction.", blank:"wide", hint:"The adjective for broader than normal", visual:"wave_down" },
+      { id:"7-4", text:"The Q wave is the first __________ (downward) deflection of the QRS.", blank:"negative", hint:"It goes down first", visual:"wave_down" },
+      { id:"7-5", text:"The R wave is the first __________ (upward) deflection of the QRS.", blank:"positive", hint:"It goes up", visual:"wave_up" },
+      { id:"7-6", text:"The S wave is the __________ deflection that follows the R wave.", blank:"negative", hint:"Goes down after the R", visual:"wave_down" },
+      { id:"7-7", text:"Right Bundle Branch Block (RBBB) produces a wide, characteristic __________ pattern in V1 — the 'rabbit ears' sign.", blank:"RSR'", hint:"R then S then R prime", visual:"wave_up" },
+      { id:"7-8", text:"Left Bundle Branch Block (LBBB) shows a broad notched R in leads I, aVL, V5-V6 and a deep S or QS pattern in __________.", blank:"V1", hint:"Rightmost precordial lead", visual:"wave_down" },
+      { id:"7-9", text:"The Sokolow-Lyon voltage criterion for LVH: S-wave in V1 plus R-wave in V5 or V6 exceeds __________ mm.", blank:"35", hint:"The standard voltage threshold", visual:"wave_up" },
+    ]
+  },
+  {
+    id: 8, title: "The ST Segment", color: "cyan",
+    tip: "The ST segment spans from end of QRS (J point) to start of T wave. Elevation = myocardial injury. Depression = ischemia. Pericarditis gives diffuse elevation with PR depression.",
+    frames: [
+      { id:"8-1", text:"The ST segment runs from the end of the QRS (the J point) to the beginning of the __________ wave.", blank:"T", hint:"The repolarization wave", visual:"ecg" },
+      { id:"8-2", text:"A normal ST segment lies on the __________ (flat baseline), neither elevated nor depressed.", blank:"isoelectric line", hint:"Neither above nor below baseline", visual:"ecg" },
+      { id:"8-3", text:"ST segment __________ above the baseline is the hallmark of acute myocardial injury or infarction.", blank:"elevation", hint:"The segment rises upward", visual:"wave_up" },
+      { id:"8-4", text:"A STEMI (ST-__________ Myocardial Infarction) requires emergent coronary intervention.", blank:"elevation", hint:"Elevation defines it", visual:"wave_up" },
+      { id:"8-5", text:"ST segment __________ below baseline indicates myocardial ischemia or subendocardial injury.", blank:"depression", hint:"The segment falls downward", visual:"wave_down" },
+      { id:"8-6", text:"Diffuse concave ST elevation in multiple leads with PR depression suggests __________.", blank:"pericarditis", hint:"Inflammation of the pericardial sac", visual:"wave_up" },
+      { id:"8-7", text:"Benign early repolarization shows J-point elevation with a __________ (concave upward or 'smiley') ST pattern.", blank:"concave", hint:"U-shaped, curving upward", visual:"wave_up" },
+    ]
+  },
+  {
+    id: 9, title: "The T Wave", color: "blue",
+    tip: "The T wave represents ventricular repolarization. It should be concordant (same direction) with the QRS. Peaked T waves = hyperkalemia. Flat/inverted = ischemia or hypokalemia.",
+    frames: [
+      { id:"9-1", text:"The T wave represents repolarization (recovery) of the __________.", blank:"ventricles", hint:"The lower chambers", visual:"wave_up" },
+      { id:"9-2", text:"Normally the T wave is in the same direction as the main QRS deflection — this is called a __________ T wave.", blank:"concordant", hint:"In agreement with the QRS direction", visual:"wave_up" },
+      { id:"9-3", text:"T wave __________ (flipping opposite to the QRS direction) can indicate ischemia or ventricular strain.", blank:"inversion", hint:"Flipped upside-down", visual:"wave_down" },
+      { id:"9-4", text:"Tall, narrow, peaked ('tent-shaped') T waves are a classic EKG sign of __________.", blank:"hyperkalemia", hint:"High serum potassium", visual:"wave_up" },
+      { id:"9-5", text:"Flat or very small T waves are seen in __________, where low potassium blunts repolarization.", blank:"hypokalemia", hint:"Low serum potassium", visual:"wave_down" },
+      { id:"9-6", text:"The QT interval (QRS onset to T wave end) represents total ventricular __________ and repolarization.", blank:"depolarization", hint:"The entire electrical systole", visual:"ecg" },
+      { id:"9-7", text:"A prolonged QTc (> 0.44 s in men, > 0.46 s in women) predisposes to Torsades de __________, a potentially fatal arrhythmia.", blank:"Pointes", hint:"French: 'twisting of the peaks'", visual:"wave_down" },
+    ]
+  },
+  {
+    id: 10, title: "Axis", color: "violet",
+    tip: "Normal QRS axis: 0 to +90 degrees. Determine axis by checking leads I and aVF. Left axis = I positive, aVF negative. Right axis = I negative, aVF positive.",
+    frames: [
+      { id:"10-1", text:"The mean electrical __________ describes the average direction of ventricular depolarization in the frontal plane.", blank:"axis", hint:"Direction of the electrical force", visual:"leads" },
+      { id:"10-2", text:"The normal mean QRS axis lies between __________ and +90 degrees.", blank:"0", hint:"Zero degrees to ninety degrees", visual:"leads" },
+      { id:"10-3", text:"Axis is best determined using the six __________ leads (I, II, III, aVR, aVL, aVF).", blank:"limb", hint:"The frontal plane leads", visual:"leads" },
+      { id:"10-4", text:"QRS positive in lead I and negative in aVF indicates __________ axis deviation (LAD).", blank:"left", hint:"Pointing to the left", visual:"leads" },
+      { id:"10-5", text:"Left axis deviation is defined as an axis more negative than __________ degrees.", blank:"-30", hint:"Minus thirty degrees", visual:"leads" },
+      { id:"10-6", text:"QRS negative in lead I and positive in aVF indicates __________ axis deviation (RAD).", blank:"right", hint:"Pointing to the right", visual:"leads" },
+      { id:"10-7", text:"Right axis deviation is defined as an axis more positive than __________ degrees.", blank:"+90", hint:"Beyond the normal upper limit", visual:"leads" },
+      { id:"10-8", text:"The lead with the most __________ QRS (equally positive and negative, nearly flat) is perpendicular to the axis.", blank:"isoelectric", hint:"Balanced above and below baseline", visual:"ecg" },
+    ]
+  },
+  {
+    id: 11, title: "Hypertrophy", color: "purple",
+    tip: "Hypertrophy enlarges muscle mass, generating larger electrical voltages. Right-sided findings appear in V1; left-sided findings appear in lateral leads and precordial voltage criteria.",
+    frames: [
+      { id:"11-1", text:"Hypertrophy means __________ of myocardial cells, resulting in thicker chamber walls.", blank:"enlargement", hint:"Bigger, not more cells", visual:"heart" },
+      { id:"11-2", text:"Right ventricular hypertrophy (RVH) produces a tall R wave in lead __________, which normally shows a small R and deep S.", blank:"V1", hint:"Most rightward precordial lead", visual:"wave_up" },
+      { id:"11-3", text:"RVH typically causes __________ axis deviation because the enlarged right ventricle dominates.", blank:"right", hint:"The right pulls the axis right", visual:"leads" },
+      { id:"11-4", text:"Right atrial enlargement causes tall peaked P waves > 2.5 mm in lead II — called P __________.", blank:"pulmonale", hint:"From 'pulmonary'", visual:"wave_up" },
+      { id:"11-5", text:"Left ventricular hypertrophy (LVH) is identified by increased QRS __________ (voltage) in precordial leads.", blank:"amplitude", hint:"Taller waves", visual:"wave_up" },
+      { id:"11-6", text:"Sokolow-Lyon LVH criterion: S in V1 + R in V5 or V6 > __________ mm.", blank:"35", hint:"Thirty-five millimeters", visual:"wave_up" },
+      { id:"11-7", text:"LVH also produces ST depression and T-wave inversion in lateral leads — the LV __________ pattern.", blank:"strain", hint:"Overload pattern", visual:"wave_down" },
+      { id:"11-8", text:"Left atrial enlargement is recognized by wide notched P waves (P mitrale) or a deep negative P terminal in lead __________.", blank:"V1", hint:"Best lead to see left atrial forces", visual:"wave_down" },
+    ]
+  },
+  {
+    id: 12, title: "Infarction", color: "rose",
+    tip: "MI sequence: hyperacute T peaks → ST elevation → Q waves form → T inversion → Q waves persist. Territory tells you which artery: inferior = RCA, anterior = LAD, lateral = Cx.",
+    frames: [
+      { id:"12-1", text:"Myocardial infarction results from prolonged __________ (inadequate blood/oxygen supply) causing cell death.", blank:"ischemia", hint:"Insufficient blood flow", visual:"heart" },
+      { id:"12-2", text:"The EKG sequence of acute MI: hyperacute T waves → ST elevation → Q wave formation → T wave __________.", blank:"inversion", hint:"T waves flip", visual:"wave_down" },
+      { id:"12-3", text:"A pathological Q wave is at least __________ mm wide (0.04 sec) or more than 25% of the R wave height.", blank:"1", hint:"One small square wide", visual:"wave_down" },
+      { id:"12-4", text:"Inferior MI (right coronary artery) produces pathological Q waves in leads II, III, and __________.", blank:"aVF", hint:"The three inferior leads", visual:"leads" },
+      { id:"12-5", text:"Anterior MI (LAD artery) produces Q waves in precordial leads __________ through V4.", blank:"V1", hint:"Starting from the rightmost precordial lead", visual:"leads" },
+      { id:"12-6", text:"Lateral MI involves leads I, aVL, __________, and V6.", blank:"V5", hint:"The lateral precordial leads", visual:"leads" },
+      { id:"12-7", text:"Posterior MI causes a tall R wave and __________ depression in V1-V2 — a mirror image of posterior ST elevation.", blank:"ST", hint:"The opposite of what you'd see from the back", visual:"wave_down" },
+      { id:"12-8", text:"The LAD (left anterior descending) artery occlusion causes an __________ MI.", blank:"anterior", hint:"Front wall of the left ventricle", visual:"heart" },
+      { id:"12-9", text:"Old (age-indeterminate) MI shows persistent Q waves with __________ ST segments — the acute injury pattern has resolved.", blank:"normal", hint:"The only persistent finding is the Q wave", visual:"ecg" },
+    ]
+  },
+  {
+    id: 13, title: "Arrhythmias", color: "red",
+    tip: "Four questions for every arrhythmia: (1) Rate? (2) Regular or irregular? (3) P wave present/related to QRS? (4) QRS narrow or wide? These four narrow every diagnosis.",
+    frames: [
+      { id:"13-1", text:"Atrial fibrillation replaces organized P waves with chaotic fibrillatory waves and an __________ ventricular response.", blank:"irregularly irregular", hint:"No pattern whatsoever to R-R intervals", visual:"wave_down" },
+      { id:"13-2", text:"In atrial fibrillation, atrial rate is 350-600 bpm; the ventricular rate depends on __________ node conduction.", blank:"AV", hint:"The gatekeeper between atria and ventricles", visual:"wave_down" },
+      { id:"13-3", text:"Atrial flutter shows regular sawtooth flutter waves at approximately __________ bpm.", blank:"300", hint:"The typical flutter cycle rate", visual:"wave_down" },
+      { id:"13-4", text:"Supraventricular tachycardia (SVT) is a fast, regular rhythm with a __________ QRS (< 0.12 sec), unless aberrant conduction is present.", blank:"narrow", hint:"Less than 3 small squares", visual:"wave_up" },
+      { id:"13-5", text:"Ventricular tachycardia (VT) is three or more PVCs in a row at > 100 bpm; the QRS is __________ and bizarre.", blank:"wide", hint:"Greater than 0.12 sec", visual:"wave_down" },
+      { id:"13-6", text:"Ventricular fibrillation (VF) shows chaotic waveforms with no identifiable QRS complexes and is immediately __________.", blank:"life-threatening", hint:"Zero cardiac output — fatal without treatment", visual:"wave_down" },
+      { id:"13-7", text:"A junctional escape rhythm arises from the AV junction at an inherent rate of 40 to __________ bpm.", blank:"60", hint:"The AV junction's escape rate range", visual:"ecg" },
+      { id:"13-8", text:"An idioventricular rhythm arises from a ventricular focus at 20 to __________ bpm, with wide bizarre QRS complexes.", blank:"40", hint:"The lowest escape rhythm rate", visual:"wave_down" },
+      { id:"13-9", text:"WPW syndrome causes a short PR interval, a wide QRS, and a slurred QRS onset called a __________ wave.", blank:"delta", hint:"Named for the Greek letter it resembles", visual:"wave_up" },
+    ]
+  },
+];
+
+const TOTAL_FRAMES = CHAPTERS.reduce((s, c) => s + c.frames.length, 0);
+
+// ============================================================
+//  SVG VISUAL AIDS
+// ============================================================
+const EcgSvg = ({ strokeColor = "#ef4444" }) => (
+  <svg viewBox="0 0 360 70" style={{width:"100%",maxHeight:"80px"}} preserveAspectRatio="xMidYMid meet">
+    <rect width="360" height="70" fill="#fff8f8" rx="8"/>
+    {[...Array(36)].map((_,i) => <line key={i} x1={i*10} y1="0" x2={i*10} y2="70" stroke="#fca5a5" strokeWidth={i%5===0?0.6:0.2}/>)}
+    {[...Array(7)].map((_,i)  => <line key={i} x1="0" y1={i*10} x2="360" y2={i*10} stroke="#fca5a5" strokeWidth={i%5===0?0.6:0.2}/>)}
     <path className="ecg-path"
-      d="M10 40 L40 40 L44 40 L46 35 L48 40 L60 40 L64 10 L68 60 L70 40 L80 40
-         L130 40 L134 40 L136 35 L138 40 L150 40 L154 10 L158 60 L160 40 L170 40
-         L220 40 L224 40 L226 35 L228 40 L240 40 L244 10 L248 60 L250 40 L260 40
-         L310 40 L314 40 L316 35 L318 40 L330 40 L334 10 L338 60 L340 40 L355 40"
-      fill="none" stroke={color} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"
+      d="M5 35 L35 35 L38 35 L40 30 L42 35 L52 35 L55 8 L58 62 L61 35 L72 35
+         L105 35 L108 30 L110 35 L120 35 L123 8 L126 62 L129 35 L140 35
+         L205 35 L208 30 L210 35 L220 35 L223 8 L226 62 L229 35 L240 35
+         L305 35 L308 30 L310 35 L320 35 L323 8 L326 62 L329 35 L355 35"
+      fill="none" stroke={strokeColor} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"
     />
   </svg>
 );
 
-const HeartSvg = ({ color = "#ef4444" }) => (
-  <svg viewBox="0 0 120 110" className="w-24 h-24 mx-auto">
-    <path d="M60 95 C30 75, 5 55, 5 32 C5 15, 18 5, 32 5 C43 5, 53 13, 60 20 C67 13, 77 5, 88 5 C102 5, 115 15, 115 32 C115 55, 90 75, 60 95Z"
-      fill={color} opacity="0.15" stroke={color} strokeWidth="2.5"/>
-    <circle cx="60" cy="35" r="5" fill={color} opacity="0.7" className="pulse-ring" style={{transformOrigin:"60px 35px"}}/>
-    <circle cx="60" cy="35" r="5" fill={color} />
+const HeartSvg = ({ fillColor = "#fee2e2", strokeColor = "#dc2626" }) => (
+  <svg viewBox="0 0 120 110" style={{width:"90px",height:"90px",display:"block",margin:"0 auto"}} className="animate-beat">
+    <path
+      d="M60 95 C28 74 5 56 5 33 C5 16 18 5 33 5 C44 5 54 12 60 21 C66 12 76 5 87 5 C102 5 115 16 115 33 C115 56 92 74 60 95Z"
+      fill={fillColor} stroke={strokeColor} strokeWidth="2.5"
+    />
   </svg>
 );
 
 const GridSvg = () => (
-  <svg viewBox="0 0 200 80" className="w-full max-h-20">
-    <rect width="200" height="80" fill="#fffbeb" rx="6"/>
-    {[...Array(20)].map((_, i) => (
-      <line key={`v${i}`} x1={i*10} y1="0" x2={i*10} y2="80"
-        stroke="#fcd34d" strokeWidth={i%5===0?0.8:0.3}/>
-    ))}
-    {[...Array(8)].map((_, i) => (
-      <line key={`h${i}`} x1="0" y1={i*10} x2="200" y2={i*10}
-        stroke="#fcd34d" strokeWidth={i%5===0?0.8:0.3}/>
-    ))}
-    <text x="10" y="25" fontSize="8" fill="#d97706" fontWeight="bold">0.04s</text>
-    <text x="55" y="25" fontSize="8" fill="#d97706" fontWeight="bold">0.20s</text>
-    <line x1="10" y1="30" x2="10" y2="70" stroke="#d97706" strokeWidth="1" strokeDasharray="2"/>
-    <line x1="60" y1="30" x2="60" y2="70" stroke="#d97706" strokeWidth="1" strokeDasharray="2"/>
-    <rect x="10" y="55" width="10" height="10" fill="none" stroke="#d97706" strokeWidth="1"/>
-    <rect x="10" y="45" width="50" height="20" fill="none" stroke="#d97706" strokeWidth="1.5" strokeDasharray="3"/>
+  <svg viewBox="0 0 220 80" style={{width:"100%",maxHeight:"80px"}}>
+    <rect width="220" height="80" fill="#fffbeb" rx="6"/>
+    {[...Array(22)].map((_,i) => <line key={i} x1={i*10} y1="0" x2={i*10} y2="80" stroke="#fcd34d" strokeWidth={i%5===0?0.8:0.3}/>)}
+    {[...Array(8)].map((_,i)  => <line key={i} x1="0" y1={i*10} x2="220" y2={i*10} stroke="#fcd34d" strokeWidth={i%5===0?0.8:0.3}/>)}
+    <rect x="10" y="55" width="10" height="10" fill="#fef3c7" stroke="#f59e0b" strokeWidth="1"/>
+    <text x="15" y="50" fontSize="7" textAnchor="middle" fill="#b45309" fontWeight="bold">1mm</text>
+    <text x="15" y="48" dy="-4" fontSize="6" textAnchor="middle" fill="#92400e">0.04s</text>
+    <rect x="60" y="50" width="50" height="20" fill="none" stroke="#f59e0b" strokeWidth="1.5" strokeDasharray="3"/>
+    <text x="85" y="46" fontSize="7" textAnchor="middle" fill="#b45309" fontWeight="bold">5mm = 0.20s</text>
   </svg>
 );
 
-const WaveUpSvg = ({ color = "#22c55e" }) => (
-  <svg viewBox="0 0 200 80" className="w-full max-h-20">
-    <rect width="200" height="80" fill="#f0fdf4" rx="6"/>
-    <line x1="0" y1="50" x2="200" y2="50" stroke="#86efac" strokeWidth="0.8"/>
-    <path d="M20 50 L70 50 L80 50 L90 50 L95 20 L100 50 L120 50" 
-      fill="none" stroke={color} strokeWidth="2.5" strokeLinecap="round"/>
-    <path d="M120 50 L125 60 L150 50" 
-      fill="none" stroke={color} strokeWidth="2.5" strokeLinecap="round"/>
-    <path d="M150 50 L200 50" 
-      fill="none" stroke={color} strokeWidth="2.5" strokeLinecap="round"/>
-    <text x="92" y="16" fontSize="9" fill={color} textAnchor="middle" fontWeight="bold">R</text>
+const WaveUpSvg = ({ strokeColor = "#16a34a" }) => (
+  <svg viewBox="0 0 220 80" style={{width:"100%",maxHeight:"80px"}}>
+    <rect width="220" height="80" fill="#f0fdf4" rx="6"/>
+    <line x1="0" y1="55" x2="220" y2="55" stroke="#86efac" strokeWidth="0.8"/>
+    <path d="M20 55 L75 55 L82 55 L88 55 L96 15 L104 55 L125 55"
+      fill="none" stroke={strokeColor} strokeWidth="2.5" strokeLinecap="round"/>
+    <path d="M125 55 L132 68 L158 55"
+      fill="none" stroke={strokeColor} strokeWidth="2.5" strokeLinecap="round"/>
+    <path d="M158 55 L205 55"
+      fill="none" stroke={strokeColor} strokeWidth="2.5" strokeLinecap="round"/>
+    <text x="96" y="12" fontSize="9" fill={strokeColor} textAnchor="middle" fontWeight="bold">R</text>
+    <text x="140" y="76" fontSize="9" fill={strokeColor} textAnchor="middle" fontWeight="bold">T</text>
   </svg>
 );
 
-const WaveDownSvg = ({ color = "#ef4444" }) => (
-  <svg viewBox="0 0 200 80" className="w-full max-h-20">
-    <rect width="200" height="80" fill="#fff1f2" rx="6"/>
-    <line x1="0" y1="30" x2="200" y2="30" stroke="#fca5a5" strokeWidth="0.8"/>
-    <path d="M20 30 L70 30 L80 30 L88 18 L92 30 L96 60 L100 30 L120 30"
-      fill="none" stroke={color} strokeWidth="2.5" strokeLinecap="round"/>
-    <path d="M120 30 L200 30"
-      fill="none" stroke={color} strokeWidth="2.5" strokeLinecap="round"/>
-    <text x="96" y="68" fontSize="9" fill={color} textAnchor="middle" fontWeight="bold">S</text>
+const WaveDownSvg = ({ strokeColor = "#dc2626" }) => (
+  <svg viewBox="0 0 220 80" style={{width:"100%",maxHeight:"80px"}}>
+    <rect width="220" height="80" fill="#fff1f2" rx="6"/>
+    <line x1="0" y1="30" x2="220" y2="30" stroke="#fca5a5" strokeWidth="0.8"/>
+    <path d="M20 30 L75 30 L82 22 L87 30 L93 65 L99 30 L118 30"
+      fill="none" stroke={strokeColor} strokeWidth="2.5" strokeLinecap="round"/>
+    <path d="M118 30 L205 30"
+      fill="none" stroke={strokeColor} strokeWidth="2.5" strokeLinecap="round"/>
+    <text x="82" y="19" fontSize="9" fill={strokeColor} textAnchor="middle" fontWeight="bold">Q</text>
+    <text x="93" y="74" fontSize="9" fill={strokeColor} textAnchor="middle" fontWeight="bold">S</text>
   </svg>
 );
 
 const RateSvg = () => (
-  <svg viewBox="0 0 300 70" className="w-full max-h-20">
-    <rect width="300" height="70" fill="#fff7ed" rx="6"/>
-    {[0,1,2,3,4,5].map(i => (
-      <line key={i} x1={10+i*50} y1="0" x2={10+i*50} y2="70" stroke="#f97316" strokeWidth="1"/>
-    ))}
-    <path d="M10 35 L30 35 L35 5 L40 60 L45 35 L60 35" fill="none" stroke="#111" strokeWidth="1.8" strokeLinecap="round"/>
-    {[{x:60,label:"300"},{x:110,label:"150"},{x:160,label:"100"},{x:210,label:"75"},{x:260,label:"60"}].map(({x,label}) => (
-      <g key={label}>
-        <text x={x} y="15" fontSize="8" textAnchor="middle" fill="#ea580c" fontWeight="bold">{label}</text>
-        <line x1={x} y1="18" x2={x} y2="70" stroke="#ea580c" strokeWidth="0.6" strokeDasharray="2"/>
+  <svg viewBox="0 0 310 70" style={{width:"100%",maxHeight:"80px"}}>
+    <rect width="310" height="70" fill="#fff7ed" rx="6"/>
+    {[0,1,2,3,4,5].map(i => <line key={i} x1={10+i*50} y1="0" x2={10+i*50} y2="70" stroke="#f97316" strokeWidth="1"/>)}
+    <path d="M10 35 L30 35 L34 7 L38 63 L42 35 L60 35" fill="none" stroke="#111" strokeWidth="2" strokeLinecap="round"/>
+    {[{x:60,l:"300"},{x:110,l:"150"},{x:160,l:"100"},{x:210,l:"75"},{x:260,l:"60"}].map(({x,l}) => (
+      <g key={l}>
+        <text x={x} y="14" fontSize="9" textAnchor="middle" fill="#c2410c" fontWeight="bold">{l}</text>
+        <line x1={x} y1="17" x2={x} y2="70" stroke="#f97316" strokeWidth="0.7" strokeDasharray="3"/>
       </g>
     ))}
   </svg>
 );
 
 const SaNodeSvg = () => (
-  <svg viewBox="0 0 140 100" className="w-full max-h-24 mx-auto">
-    <ellipse cx="70" cy="50" rx="55" ry="42" fill="#fce7e7" stroke="#ef4444" strokeWidth="1.5"/>
-    <line x1="70" y1="8" x2="70" y2="44" stroke="#94a3b8" strokeWidth="1" strokeDasharray="3"/>
-    <circle cx="70" cy="15" r="8" fill="#fbbf24" stroke="#f59e0b" strokeWidth="1.5"/>
-    <text x="70" y="19" fontSize="7" textAnchor="middle" fill="#78350f" fontWeight="bold">SA</text>
-    <circle cx="70" cy="55" r="7" fill="#60a5fa" stroke="#3b82f6" strokeWidth="1.5"/>
-    <text x="70" y="59" fontSize="6" textAnchor="middle" fill="#1e3a8a" fontWeight="bold">AV</text>
-    <line x1="70" y1="62" x2="70" y2="80" stroke="#94a3b8" strokeWidth="1.5"/>
-    <line x1="70" y1="80" x2="50" y2="88" stroke="#94a3b8" strokeWidth="1"/>
-    <line x1="70" y1="80" x2="90" y2="88" stroke="#94a3b8" strokeWidth="1"/>
+  <svg viewBox="0 0 150 110" style={{width:"100%",maxHeight:"110px"}}>
+    <ellipse cx="75" cy="55" rx="60" ry="48" fill="#fee2e2" stroke="#ef4444" strokeWidth="1.5"/>
+    <circle cx="75" cy="18" r="10" fill="#fbbf24" stroke="#d97706" strokeWidth="1.5"/>
+    <text x="75" y="22" fontSize="7.5" textAnchor="middle" fill="#78350f" fontWeight="bold">SA</text>
+    <line x1="75" y1="28" x2="75" y2="50" stroke="#94a3b8" strokeWidth="1.2" strokeDasharray="3"/>
+    <circle cx="75" cy="60" r="9" fill="#93c5fd" stroke="#3b82f6" strokeWidth="1.5"/>
+    <text x="75" y="64" fontSize="7" textAnchor="middle" fill="#1e3a8a" fontWeight="bold">AV</text>
+    <line x1="75" y1="69" x2="75" y2="88" stroke="#94a3b8" strokeWidth="1.5"/>
+    <line x1="75" y1="88" x2="52" y2="100" stroke="#94a3b8" strokeWidth="1.2"/>
+    <line x1="75" y1="88" x2="98" y2="100" stroke="#94a3b8" strokeWidth="1.2"/>
+    <text x="75" y="108" fontSize="6.5" textAnchor="middle" fill="#475569">Bundle branches</text>
   </svg>
 );
 
 const LeadsSvg = () => (
-  <svg viewBox="0 0 180 120" className="w-full max-h-24">
-    <rect width="180" height="120" fill="#f5f3ff" rx="8"/>
-    <circle cx="90" cy="60" r="45" fill="none" stroke="#a78bfa" strokeWidth="1" strokeDasharray="3"/>
-    <text x="90" y="18" fontSize="8" textAnchor="middle" fill="#7c3aed" fontWeight="bold">aVR (-150°)</text>
-    <text x="90" y="106" fontSize="8" textAnchor="middle" fill="#7c3aed" fontWeight="bold">aVF (+90°)</text>
-    <text x="8" y="62" fontSize="8" textAnchor="start" fill="#7c3aed" fontWeight="bold">I (0°)</text>
-    <text x="142" y="62" fontSize="8" textAnchor="start" fill="#7c3aed" fontWeight="bold">II (+60°)</text>
-    <line x1="90" y1="15" x2="90" y2="105" stroke="#c4b5fd" strokeWidth="1"/>
-    <line x1="15" y1="60" x2="165" y2="60" stroke="#c4b5fd" strokeWidth="1"/>
-    <line x1="135" y1="22" x2="45" y2="98" stroke="#c4b5fd" strokeWidth="1"/>
-    <line x1="45" y1="22" x2="135" y2="98" stroke="#c4b5fd" strokeWidth="1"/>
-    <path d="M90 60 L140 35" stroke="#7c3aed" strokeWidth="2" markerEnd="url(#arrow)"/>
-    <defs><marker id="arrow" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6Z" fill="#7c3aed"/></marker></defs>
-    <text x="143" y="32" fontSize="7" fill="#7c3aed" fontWeight="bold">Axis</text>
+  <svg viewBox="0 0 190 130" style={{width:"100%",maxHeight:"130px"}}>
+    <rect width="190" height="130" fill="#f5f3ff" rx="8"/>
+    <circle cx="95" cy="65" r="48" fill="none" stroke="#c4b5fd" strokeWidth="1" strokeDasharray="3"/>
+    <line x1="95" y1="17" x2="95" y2="113" stroke="#ddd6fe" strokeWidth="1"/>
+    <line x1="15" y1="65" x2="175" y2="65" stroke="#ddd6fe" strokeWidth="1"/>
+    <line x1="143" y1="24" x2="47" y2="106" stroke="#ddd6fe" strokeWidth="1"/>
+    <line x1="47" y1="24" x2="143" y2="106" stroke="#ddd6fe" strokeWidth="1"/>
+    <text x="95" y="13" fontSize="8" textAnchor="middle" fill="#7c3aed" fontWeight="bold">aVR (-150°)</text>
+    <text x="95" y="124" fontSize="8" textAnchor="middle" fill="#7c3aed" fontWeight="bold">aVF (+90°)</text>
+    <text x="6" y="68" fontSize="8" textAnchor="start" fill="#7c3aed" fontWeight="bold">I (0°)</text>
+    <text x="150" y="68" fontSize="8" textAnchor="start" fill="#7c3aed" fontWeight="bold">III (+120°)</text>
+    <path d="M95 65 L145 38" stroke="#7c3aed" strokeWidth="2.5" markerEnd="url(#arr)"/>
+    <defs>
+      <marker id="arr" markerWidth="7" markerHeight="7" refX="3.5" refY="3.5" orient="auto">
+        <path d="M0,0 L7,3.5 L0,7Z" fill="#7c3aed"/>
+      </marker>
+    </defs>
+    <text x="149" y="35" fontSize="7.5" fill="#7c3aed" fontWeight="bold">Axis</text>
   </svg>
 );
 
 const TachySvg = () => (
-  <div className="text-center py-2">
-    <p className="text-4xl font-display font-bold text-red-600 animate-pulse">&gt; 100 BPM</p>
-    <p className="text-xs text-red-400 mt-1 font-medium uppercase tracking-widest">Tachycardia</p>
+  <div style={{textAlign:"center",padding:"12px 0"}}>
+    <p style={{fontSize:"2.5rem",fontFamily:"Outfit,sans-serif",fontWeight:"700",color:"#dc2626"}} className="animate-pulse">&gt; 100 BPM</p>
+    <p style={{fontSize:"11px",color:"#ef4444",marginTop:"4px",letterSpacing:"0.1em",textTransform:"uppercase",fontWeight:"600"}}>Tachycardia</p>
   </div>
 );
 
 const BradySvg = () => (
-  <div className="text-center py-2">
-    <p className="text-4xl font-display font-bold text-blue-600">&lt; 60 BPM</p>
-    <p className="text-xs text-blue-400 mt-1 font-medium uppercase tracking-widest">Bradycardia</p>
+  <div style={{textAlign:"center",padding:"12px 0"}}>
+    <p style={{fontSize:"2.5rem",fontFamily:"Outfit,sans-serif",fontWeight:"700",color:"#2563eb"}}>&lt; 60 BPM</p>
+    <p style={{fontSize:"11px",color:"#3b82f6",marginTop:"4px",letterSpacing:"0.1em",textTransform:"uppercase",fontWeight:"600"}}>Bradycardia</p>
   </div>
 );
 
-const CellSvg = ({ active = false }) => (
-  <svg viewBox="0 0 200 70" className="w-full max-h-16">
-    <rect width="200" height="70" fill={active ? "#fef9c3" : "#f0fdf4"} rx="6"/>
-    <rect x="30" y="15" width="140" height="40" rx="20"
-      fill={active ? "#fbbf24" : "#86efac"} opacity="0.3"
-      stroke={active ? "#f59e0b" : "#22c55e"} strokeWidth="1.5"/>
-    {[...Array(7)].map((_,i) => (
-      <text key={i} x={45+i*18} y="39" fontSize="10" textAnchor="middle"
-        fill={active ? "#92400e" : "#166534"}>
+const CellSvg = ({ active }) => (
+  <svg viewBox="0 0 220 72" style={{width:"100%",maxHeight:"72px"}}>
+    <rect width="220" height="72" fill={active ? "#fefce8" : "#f0fdf4"} rx="6"/>
+    <rect x="25" y="16" width="170" height="40" rx="20"
+      fill={active ? "#fde68a" : "#bbf7d0"} stroke={active ? "#d97706" : "#16a34a"} strokeWidth="1.5"/>
+    {[...Array(9)].map((_,i) => (
+      <text key={i} x={38+i*18} y="41" fontSize="12" textAnchor="middle" fill={active ? "#92400e" : "#14532d"} fontWeight="bold">
         {active ? "+" : "-"}
       </text>
     ))}
-    <text x="100" y="60" fontSize="8" textAnchor="middle"
-      fill={active ? "#b45309" : "#15803d"} fontWeight="bold">
-      {active ? "Depolarized (+)" : "Polarized (-)"}
+    <text x="110" y="65" fontSize="8" textAnchor="middle" fill={active ? "#b45309" : "#15803d"} fontWeight="bold">
+      {active ? "DEPOLARIZED (+)" : "POLARIZED (-)"}
     </text>
   </svg>
 );
 
 const ZapSvg = () => (
-  <div className="flex justify-center items-center h-16">
-    <Zap className="w-14 h-14 text-yellow-400 drop-shadow-lg" />
+  <div style={{display:"flex",justifyContent:"center",alignItems:"center",padding:"8px 0"}}>
+    <svg width="70" height="70" viewBox="0 0 24 24" fill="#fbbf24" stroke="#d97706" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+      <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/>
+    </svg>
   </div>
 );
 
 const StripSvg = () => (
-  <svg viewBox="0 0 360 60" className="w-full max-h-16">
-    <rect width="360" height="60" fill="#fff8f8" rx="6"/>
-    {[...Array(36)].map((_,i) => (
-      <line key={i} x1={i*10} y1="0" x2={i*10} y2="60"
-        stroke="#fca5a5" strokeWidth={i%5===0?0.7:0.25}/>
-    ))}
-    <line x1="0" y1="30" x2="360" y2="30" stroke="#fca5a5" strokeWidth="0.8"/>
+  <svg viewBox="0 0 360 55" style={{width:"100%",maxHeight:"60px"}}>
+    <rect width="360" height="55" fill="#fff8f8" rx="6" stroke="#fca5a5" strokeWidth="1"/>
+    {[...Array(36)].map((_,i) => <line key={i} x1={i*10} y1="0" x2={i*10} y2="55" stroke="#fca5a5" strokeWidth={i%5===0?0.6:0.2}/>)}
+    <line x1="0" y1="27" x2="360" y2="27" stroke="#fca5a5" strokeWidth="0.6"/>
     {[0,1,2,3,4,5].map(i => {
-      const x = 15 + i * 55;
-      return (
-        <g key={i}>
-          <path d={`M${x} 30 L${x+8} 30 L${x+12} 5 L${x+16} 52 L${x+20} 30 L${x+30} 30`}
-            fill="none" stroke="#ef4444" strokeWidth="1.5" strokeLinecap="round"/>
-        </g>
-      );
+      const x = 12 + i * 57;
+      return <path key={i} d={`M${x} 27 L${x+7} 27 L${x+10} 6 L${x+13} 50 L${x+16} 27 L${x+28} 27`}
+        fill="none" stroke="#ef4444" strokeWidth="1.8" strokeLinecap="round"/>;
     })}
-    <rect x="0" y="0" width="360" height="60" fill="none" stroke="#ef4444" strokeWidth="1" rx="6"
-      strokeDasharray="4"/>
-    <text x="175" y="58" fontSize="7" textAnchor="middle" fill="#ef4444" fontWeight="bold">6-second strip</text>
+    <line x1="0" y1="52" x2="360" y2="52" stroke="#94a3b8" strokeWidth="0.5" strokeDasharray="2"/>
+    <text x="180" y="52" fontSize="6.5" textAnchor="middle" dy="-1" fill="#64748b" fontWeight="bold">6-second strip — count beats, multiply by 10</text>
   </svg>
 );
 
-// Visual dispatcher
-const Visual = ({ type, color }) => {
-  const map = {
-    ecg:         <EcgSvg color={color}/>,
-    heart:       <HeartSvg color={color}/>,
-    grid:        <GridSvg/>,
-    wave_up:     <WaveUpSvg color={color}/>,
-    wave_down:   <WaveDownSvg color={color}/>,
-    rate:        <RateSvg/>,
-    sa_node:     <SaNodeSvg/>,
-    leads:       <LeadsSvg/>,
-    tachy:       <TachySvg/>,
-    brady:       <BradySvg/>,
-    cell:        <CellSvg active={false}/>,
-    cell_active: <CellSvg active={true}/>,
-    zap:         <ZapSvg/>,
-    strip:       <StripSvg/>,
-  };
-  return (
-    <div className="w-full flex items-center justify-center">
-      {map[type] || <EcgSvg color={color}/>}
-    </div>
-  );
+const VISUALS = {
+  ecg:         (color) => <EcgSvg strokeColor={color}/>,
+  heart:       (color) => <HeartSvg strokeColor={color} fillColor="#fee2e2"/>,
+  grid:        ()      => <GridSvg/>,
+  wave_up:     (color) => <WaveUpSvg strokeColor={color}/>,
+  wave_down:   (color) => <WaveDownSvg strokeColor={color}/>,
+  rate:        ()      => <RateSvg/>,
+  sa_node:     ()      => <SaNodeSvg/>,
+  leads:       ()      => <LeadsSvg/>,
+  tachy:       ()      => <TachySvg/>,
+  brady:       ()      => <BradySvg/>,
+  cell:        ()      => <CellSvg active={false}/>,
+  cell_active: ()      => <CellSvg active={true}/>,
+  zap:         ()      => <ZapSvg/>,
+  strip:       ()      => <StripSvg/>,
+};
+
+// Stroke color map
+const STROKE = {
+  red:"#dc2626", orange:"#ea580c", amber:"#d97706", yellow:"#ca8a04",
+  lime:"#65a30d", green:"#16a34a", teal:"#0d9488", cyan:"#0891b2",
+  blue:"#2563eb", violet:"#7c3aed", purple:"#9333ea", rose:"#e11d48",
 };
 
 // ============================================================
-// Main App
+//  APP
 // ============================================================
-
-const App = () => {
-  const [chIdx, setChIdx] = useState(0);
-  const [frIdx, setFrIdx] = useState(0);
-  const [input, setInput] = useState("");
-  const [correct, setCorrect] = useState(false);
+function App() {
+  const [chIdx, setChIdx]       = useState(0);
+  const [frIdx, setFrIdx]       = useState(0);
+  const [inputVal, setInputVal] = useState("");
+  const [correct, setCorrect]   = useState(false);
+  const [revealed, setRevealed] = useState(false);
   const [showHint, setShowHint] = useState(false);
-  const [showAnswer, setShowAnswer] = useState(false);
-  const [done, setDone] = useState(() => new Set());
+  const [done, setDone]         = useState(() => new Set());
   const [sidebarOpen, setSidebarOpen] = useState(false);
-  const [frameKey, setFrameKey] = useState(0);
+  const [finished, setFinished] = useState(false);
+  const [animKey, setAnimKey]   = useState(0);
 
   const inputRef = useRef(null);
   const bodyRef  = useRef(null);
 
-  const chapter = CHAPTERS[chIdx];
-  const frame   = chapter.frames[frIdx];
-  const c       = COLORS[chapter.color];
-  const totalCh = CHAPTERS.length;
-  const totalFr = chapter.frames.length;
+  const ch    = CHAPTERS[chIdx];
+  const fr    = ch.frames[frIdx];
+  const theme = THEMES[ch.color];
+  const color = STROKE[ch.color];
+
   const isFirst = chIdx === 0 && frIdx === 0;
-  const isLast  = chIdx === totalCh - 1 && frIdx === totalFr - 1;
-  const globalProgress = (done.size / TOTAL_FRAMES) * 100;
+  const isLast  = chIdx === CHAPTERS.length - 1 && frIdx === ch.frames.length - 1;
+  const progress = (done.size / TOTAL_FRAMES) * 100;
 
   const resetFrame = useCallback(() => {
-    setInput("");
+    setInputVal("");
     setCorrect(false);
+    setRevealed(false);
     setShowHint(false);
-    setShowAnswer(false);
-    setFrameKey(k => k + 1);
+    setAnimKey(k => k + 1);
     if (bodyRef.current) bodyRef.current.scrollTop = 0;
-    setTimeout(() => { if (inputRef.current) inputRef.current.focus(); }, 50);
   }, []);
 
-  const navigate = useCallback((direction) => {
-    if (direction === "next") {
-      if (frIdx < totalFr - 1) {
+  const navigate = useCallback((dir) => {
+    if (dir === "next") {
+      if (frIdx < ch.frames.length - 1) {
         setFrIdx(f => f + 1);
-      } else if (chIdx < totalCh - 1) {
+      } else if (chIdx < CHAPTERS.length - 1) {
         setChIdx(c => c + 1);
         setFrIdx(0);
+      } else {
+        setFinished(true);
+        return;
       }
     } else {
       if (frIdx > 0) {
         setFrIdx(f => f - 1);
       } else if (chIdx > 0) {
-        const prevCh = chIdx - 1;
-        setChIdx(prevCh);
-        setFrIdx(CHAPTERS[prevCh].frames.length - 1);
+        const prev = chIdx - 1;
+        setChIdx(prev);
+        setFrIdx(CHAPTERS[prev].frames.length - 1);
       }
     }
     resetFrame();
     setSidebarOpen(false);
-  }, [chIdx, frIdx, totalFr, totalCh, resetFrame]);
+  }, [chIdx, frIdx, ch.frames.length, resetFrame]);
 
   const goToChapter = useCallback((idx) => {
     setChIdx(idx);
@@ -1253,27 +711,28 @@ const App = () => {
     setSidebarOpen(false);
   }, [resetFrame]);
 
+  // Check answer on input change
   const handleInput = (e) => {
     const val = e.target.value;
-    setInput(val);
-    if (val.trim().toLowerCase() === frame.blank.toLowerCase()) {
+    setInputVal(val);
+    if (val.trim().toLowerCase() === fr.blank.toLowerCase()) {
       setCorrect(true);
-      setDone(prev => new Set(prev).add(frame.id));
+      setDone(prev => new Set(prev).add(fr.id));
     }
   };
 
   const revealAnswer = () => {
-    setInput(frame.blank);
+    setInputVal(fr.blank);
     setCorrect(true);
-    setShowAnswer(true);
-    setDone(prev => new Set(prev).add(frame.id));
+    setRevealed(true);
+    setDone(prev => new Set(prev).add(fr.id));
   };
 
   // Keyboard shortcuts
   useEffect(() => {
     const handler = (e) => {
-      if (e.key === "Enter" && correct) navigate("next");
-      if (e.key === "ArrowRight" && correct) navigate("next");
+      if (e.target.tagName === "INPUT") return;
+      if ((e.key === "Enter" || e.key === "ArrowRight") && correct) navigate("next");
       if (e.key === "ArrowLeft") navigate("prev");
       if (e.key === "Escape") setSidebarOpen(false);
     };
@@ -1281,283 +740,267 @@ const App = () => {
     return () => window.removeEventListener("keydown", handler);
   }, [correct, navigate]);
 
-  // Auto-focus input
+  // Auto focus input
   useEffect(() => {
-    setTimeout(() => { if (inputRef.current) inputRef.current.focus(); }, 60);
+    const t = setTimeout(() => { if (inputRef.current) inputRef.current.focus(); }, 80);
+    return () => clearTimeout(t);
   }, [frIdx, chIdx]);
 
-  const chapterDoneCount = (chIdx) =>
-    CHAPTERS[chIdx].frames.filter(f => done.has(f.id)).length;
-
-  // Text renderer with blank input
+  // Render the frame text with an inline input for the blank
   const renderText = () => {
-    const parts = frame.text.split("__________");
-    return (
-      <span>
-        {parts.map((part, i) => (
-          <React.Fragment key={i}>
-            {part}
-            {i < parts.length - 1 && (
-              <span className="inline-block align-baseline mx-1">
-                <input
-                  ref={inputRef}
-                  type="text"
-                  value={input}
-                  onChange={handleInput}
-                  disabled={correct}
-                  placeholder="___"
-                  spellCheck={false}
-                  autoCapitalize="none"
-                  autoComplete="off"
-                  className={`border-b-2 bg-transparent outline-none text-center align-baseline transition-all duration-200
-                    ${correct
-                      ? (showAnswer
-                        ? "border-blue-400 text-blue-700 font-bold"
-                        : "border-green-500 text-green-700 font-bold correct-pop")
-                      : `border-slate-300 focus:border-current ${c.text}`
-                    }`}
-                  style={{ width: `${Math.max(frame.blank.length * 1.05, 5)}ch` }}
-                />
-              </span>
-            )}
-          </React.Fragment>
-        ))}
-      </span>
-    );
+    const parts = fr.text.split("__________");
+    return parts.map((part, i) => (
+      <React.Fragment key={i}>
+        {part}
+        {i < parts.length - 1 && (
+          <input
+            ref={inputRef}
+            type="text"
+            value={inputVal}
+            onChange={handleInput}
+            disabled={correct}
+            placeholder="___"
+            autoComplete="off"
+            autoCorrect="off"
+            spellCheck={false}
+            aria-label="Fill in the blank"
+            className={`blank-input ${correct ? (revealed ? "revealed" : "correct") : ""}`}
+            style={{ width: `${Math.max(fr.blank.length * 1.1, 6)}ch` }}
+          />
+        )}
+      </React.Fragment>
+    ));
   };
 
-  return (
-    <div className="flex h-screen overflow-hidden bg-slate-50 text-slate-800 font-sans">
+  if (finished) {
+    return (
+      <div className="finish-screen">
+        <div style={{fontSize:"64px"}}>🎉</div>
+        <h1 className="font-display" style={{fontSize:"2rem",fontWeight:"700",color:"#1e293b"}}>
+          You finished!
+        </h1>
+        <p style={{color:"#64748b",maxWidth:"400px",lineHeight:"1.6"}}>
+          You've completed all <strong>{TOTAL_FRAMES} frames</strong> across all 13 chapters of Dubin's Rapid Interpretation of EKGs.
+        </p>
+        <p style={{color:"#94a3b8",fontSize:"13px"}}>
+          {done.size} correct answers recorded this session.
+        </p>
+        <button
+          onClick={() => { setFinished(false); setChIdx(0); setFrIdx(0); resetFrame(); }}
+          style={{
+            marginTop:"8px", padding:"12px 32px", background:"#dc2626",
+            color:"#fff", border:"none", borderRadius:"12px", fontFamily:"inherit",
+            fontSize:"15px", fontWeight:"700", cursor:"pointer"
+          }}
+        >
+          Start Over
+        </button>
+      </div>
+    );
+  }
 
-      {/* Overlay for mobile sidebar */}
-      {sidebarOpen && (
-        <div className="fixed inset-0 bg-black/40 z-20 md:hidden" onClick={() => setSidebarOpen(false)}/>
-      )}
+  return (
+    <div className="app">
+      {/* Mobile overlay */}
+      <div
+        className={`overlay ${sidebarOpen ? "open" : ""}`}
+        onClick={() => setSidebarOpen(false)}
+      />
 
       {/* Sidebar */}
-      <aside
-        className={`fixed md:relative z-30 inset-y-0 left-0 w-72 bg-white border-r border-slate-200 flex flex-col
-          shadow-xl md:shadow-sm transition-transform duration-300
-          ${sidebarOpen ? "translate-x-0" : "-translate-x-full md:translate-x-0"}`}
-      >
-        {/* Brand */}
-        <div className="p-5 border-b border-slate-100 flex items-center justify-between">
-          <div className="flex items-center gap-2.5">
-            <div className="w-8 h-8 rounded-lg bg-red-600 flex items-center justify-center shrink-0">
-              <Activity className="w-4 h-4 text-white"/>
+      <aside className={`sidebar ${sidebarOpen ? "open" : ""}`}>
+        {/* Brand header */}
+        <div style={{padding:"18px 20px 14px",borderBottom:"1px solid #f1f5f9",display:"flex",alignItems:"center",justifyContent:"space-between",flexShrink:0}}>
+          <div style={{display:"flex",alignItems:"center",gap:"10px"}}>
+            <div style={{width:"34px",height:"34px",background:"#dc2626",borderRadius:"9px",display:"flex",alignItems:"center",justifyContent:"center",flexShrink:0}}>
+              <Icon.Activity/>
             </div>
             <div>
-              <h1 className="font-display font-bold text-base leading-none">EKG Master</h1>
-              <p className="text-[10px] text-slate-400 mt-0.5">Dubin 6th Edition</p>
+              <div className="font-display" style={{fontSize:"15px",fontWeight:"700",lineHeight:"1.1"}}>EKG Master</div>
+              <div style={{fontSize:"10px",color:"#94a3b8",marginTop:"1px"}}>Dubin 6th Edition</div>
             </div>
           </div>
-          <button className="md:hidden p-1 text-slate-400" onClick={() => setSidebarOpen(false)}>
-            <X size={18}/>
+          <button className="nav-btn" style={{display:"flex"}} onClick={() => setSidebarOpen(false)}>
+            <Icon.X/>
           </button>
         </div>
 
         {/* Chapter list */}
-        <nav className="flex-1 overflow-y-auto py-3 px-3 space-y-1">
-          {CHAPTERS.map((ch, idx) => {
-            const count = chapterDoneCount(idx);
-            const thisc = COLORS[ch.color];
+        <div className="sidebar-inner">
+          {CHAPTERS.map((c, idx) => {
+            const t = THEMES[c.color];
+            const doneCount = c.frames.filter(f => done.has(f.id)).length;
             const active = idx === chIdx;
             return (
               <button
-                key={ch.id}
-                id={`chapter-btn-${ch.id}`}
+                key={c.id}
+                id={`ch-btn-${c.id}`}
                 onClick={() => goToChapter(idx)}
-                className={`w-full text-left px-3 py-2.5 rounded-xl text-sm transition-all flex items-center gap-3
-                  ${active
-                    ? `${thisc.bg} ${thisc.text} font-semibold ring-1 ${thisc.ring}`
-                    : "hover:bg-slate-50 text-slate-600"
-                  }`}
+                className="chapter-btn"
+                style={active ? { background: t.bg, color: t.text } : {}}
               >
-                <div className={`w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold shrink-0 text-white ${thisc.num}`}>
-                  {ch.id}
-                </div>
-                <span className="flex-1 truncate">{ch.title}</span>
-                {count > 0 && (
-                  <span className={`text-[10px] font-bold shrink-0 ${thisc.text}`}>
-                    {count}/{ch.frames.length}
+                <div style={{
+                  width:"26px", height:"26px", borderRadius:"50%",
+                  background: active ? t.num : "#e2e8f0",
+                  color: active ? "#fff" : "#64748b",
+                  display:"flex", alignItems:"center", justifyContent:"center",
+                  fontSize:"11px", fontWeight:"700", flexShrink:0
+                }}>{c.id}</div>
+                <span style={{flex:1,overflow:"hidden",textOverflow:"ellipsis",whiteSpace:"nowrap",fontSize:"13px"}}>
+                  {c.title}
+                </span>
+                {doneCount > 0 && (
+                  <span style={{fontSize:"10px",fontWeight:"700",color:t.text,flexShrink:0}}>
+                    {doneCount}/{c.frames.length}
                   </span>
                 )}
               </button>
             );
           })}
-        </nav>
+        </div>
 
-        {/* Global Progress */}
-        <div className="p-4 border-t border-slate-100">
-          <div className="flex justify-between text-xs text-slate-400 mb-1.5 font-semibold uppercase tracking-widest">
-            <span>Progress</span>
-            <span>{done.size}/{TOTAL_FRAMES}</span>
+        {/* Progress footer */}
+        <div style={{padding:"14px 20px",borderTop:"1px solid #f1f5f9",flexShrink:0}}>
+          <div style={{display:"flex",justifyContent:"space-between",marginBottom:"6px"}}>
+            <span style={{fontSize:"10px",fontWeight:"700",color:"#94a3b8",textTransform:"uppercase",letterSpacing:"0.08em"}}>Progress</span>
+            <span style={{fontSize:"10px",fontWeight:"700",color:"#94a3b8"}}>{done.size} / {TOTAL_FRAMES}</span>
           </div>
-          <div className="h-2 bg-slate-100 rounded-full overflow-hidden">
-            <div
-              className="h-full bg-gradient-to-r from-green-500 to-emerald-400 transition-all duration-500 rounded-full"
-              style={{ width: `${globalProgress}%` }}
-            />
+          <div className="progress-bar">
+            <div className="progress-fill" style={{width:`${progress}%`}}/>
           </div>
-          <p className="text-[10px] text-slate-400 mt-1 text-right">
-            {Math.round(globalProgress)}% complete
-          </p>
+          <div style={{textAlign:"right",fontSize:"9px",color:"#94a3b8",marginTop:"3px"}}>{Math.round(progress)}% complete</div>
         </div>
       </aside>
 
-      {/* Main */}
-      <main className="flex-1 flex flex-col h-full overflow-hidden">
-
+      {/* Main area */}
+      <main className="main">
         {/* Top bar */}
-        <header className={`shrink-0 ${c.bg} border-b ${c.border} px-4 md:px-6 py-3 flex items-center justify-between gap-4`}>
-          <div className="flex items-center gap-3">
-            <button
-              id="menu-btn"
-              className="md:hidden p-2 rounded-lg hover:bg-white/50 transition"
-              onClick={() => setSidebarOpen(true)}
-            >
-              <List size={20} className={c.text}/>
+        <div className="topbar" style={{background: theme.bg, borderBottomColor: theme.border}}>
+          <div style={{display:"flex",alignItems:"center",gap:"12px"}}>
+            {/* Mobile menu button */}
+            <button className="nav-btn" onClick={() => setSidebarOpen(true)} style={{color: theme.text}}>
+              <Icon.Menu/>
             </button>
             <div>
-              <p className={`text-[10px] font-bold uppercase tracking-widest ${c.text} opacity-70`}>
-                Chapter {chapter.id}
-              </p>
-              <h2 className={`font-display font-bold text-base md:text-lg leading-tight ${c.text}`}>
-                {chapter.title}
-              </h2>
+              <div style={{fontSize:"10px",fontWeight:"700",textTransform:"uppercase",letterSpacing:"0.08em",color:theme.text,opacity:"0.7"}}>
+                Chapter {ch.id}
+              </div>
+              <div className="font-display" style={{fontSize:"16px",fontWeight:"700",color:theme.text,lineHeight:"1.2"}}>
+                {ch.title}
+              </div>
             </div>
           </div>
-
-          <div className="flex items-center gap-2">
-            <button
-              id="prev-btn"
-              onClick={() => navigate("prev")}
-              disabled={isFirst}
-              className="p-2 rounded-lg hover:bg-white/50 disabled:opacity-30 transition"
-            >
-              <ChevronLeft size={20} className={c.text}/>
+          <div style={{display:"flex",alignItems:"center",gap:"4px"}}>
+            <button className="nav-btn" onClick={() => navigate("prev")} disabled={isFirst} style={{color:theme.text}}>
+              <Icon.ChevronLeft/>
             </button>
-            <span className={`text-xs font-bold ${c.text} min-w-[48px] text-center tabular-nums`}>
-              {frIdx+1} / {totalFr}
+            <span style={{fontSize:"12px",fontWeight:"700",color:theme.text,minWidth:"48px",textAlign:"center"}}>
+              {frIdx + 1} / {ch.frames.length}
             </span>
-            <button
-              id="next-btn"
-              onClick={() => navigate("next")}
-              disabled={isLast}
-              className="p-2 rounded-lg hover:bg-white/50 disabled:opacity-30 transition"
-            >
-              <ChevronRight size={20} className={c.text}/>
+            <button className="nav-btn" onClick={() => navigate("next")} disabled={isLast} style={{color:theme.text}}>
+              <Icon.ChevronRight/>
             </button>
           </div>
-        </header>
+        </div>
 
-        {/* Content body */}
-        <div ref={bodyRef} className="flex-1 overflow-y-auto px-4 md:px-8 py-6 scroll-smooth">
-          <div className="max-w-2xl mx-auto space-y-5 pb-12">
+        {/* Scrollable body */}
+        <div className="main-body" ref={bodyRef}>
+          <div className="content-wrap">
 
             {/* Visual card */}
-            <div key={`visual-${frameKey}`}
-              className="bg-white rounded-2xl shadow-sm border border-slate-200 p-4 md:p-6 frame-enter">
-              <Visual type={frame.visual} color={
-                ({ red:"#ef4444", orange:"#f97316", amber:"#f59e0b", yellow:"#ca8a04",
-                   lime:"#65a30d", green:"#16a34a", teal:"#0d9488", cyan:"#0891b2",
-                   blue:"#2563eb", violet:"#7c3aed", purple:"#9333ea", rose:"#e11d48" })[chapter.color]
-              }/>
+            <div className="card frame-enter" key={`vis-${animKey}`} style={{padding:"20px",minHeight:"100px",display:"flex",alignItems:"center",justifyContent:"center"}}>
+              {(VISUALS[fr.visual] || VISUALS.ecg)(color)}
             </div>
 
             {/* Frame card */}
-            <div key={`frame-${frameKey}`}
-              className="bg-white rounded-2xl shadow-sm border border-slate-200 p-6 md:p-8 relative frame-enter">
-
+            <div className="card frame-enter" key={`fr-${animKey}`} style={{position:"relative"}}>
               {correct && (
-                <div className="absolute top-4 right-4 correct-pop">
-                  <CheckCircle2 className="w-7 h-7 text-green-500"/>
+                <div className="correct-pop" style={{position:"absolute",top:"16px",right:"16px"}}>
+                  <Icon.Check/>
                 </div>
               )}
 
-              {/* Frame text */}
-              <p className="text-base md:text-lg leading-relaxed text-slate-700 font-medium mb-6">
+              {/* Frame text with inline input */}
+              <p style={{fontSize:"16px",lineHeight:"1.75",color:"#334155",fontWeight:"500",marginBottom:"24px"}}>
                 {renderText()}
               </p>
 
-              {/* Action row */}
-              <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 pt-5 border-t border-slate-100">
-                <div className="flex items-center gap-4">
+              {/* Actions row */}
+              <div style={{
+                display:"flex", flexWrap:"wrap", alignItems:"center",
+                justifyContent:"space-between", gap:"12px",
+                paddingTop:"16px", borderTop:"1px solid #f1f5f9"
+              }}>
+                <div style={{display:"flex",gap:"18px",alignItems:"center"}}>
                   <button
                     id="hint-btn"
-                    onClick={() => { setShowHint(h => !h); setShowAnswer(false); }}
-                    className={`text-xs font-bold uppercase tracking-widest transition-colors
-                      ${showHint ? c.text : "text-slate-400 hover:text-slate-600"}`}
+                    className={`action-btn ${showHint ? "active-hint" : ""}`}
+                    onClick={() => { setShowHint(h => !h); }}
                   >
                     {showHint ? "Hide Hint" : "Hint"}
                   </button>
                   <button
                     id="reveal-btn"
+                    className="action-btn"
                     onClick={revealAnswer}
-                    disabled={correct && !showAnswer}
-                    className="flex items-center gap-1 text-xs font-bold uppercase tracking-widest text-slate-400 hover:text-blue-600 transition-colors disabled:opacity-30"
+                    style={{display:"flex",alignItems:"center",gap:"4px"}}
+                    disabled={correct}
                   >
-                    <Eye size={13}/>
-                    Reveal
+                    <Icon.Eye/> Reveal
                   </button>
                 </div>
 
                 {correct && (
                   <button
                     id="continue-btn"
+                    className="continue-btn"
                     onClick={() => navigate("next")}
-                    disabled={isLast}
-                    className={`w-full sm:w-auto flex items-center justify-center gap-2 px-6 py-2.5 rounded-xl text-white text-sm font-bold shadow-md transition-all active:scale-95 ${c.btn} disabled:opacity-40`}
+                    disabled={isLast && !finished}
+                    style={{background: theme.num}}
                   >
-                    {isLast ? (
-                      <><Award size={16}/> Finished!</>
-                    ) : (
-                      <>Continue <ChevronRight size={16}/></>
-                    )}
+                    {isLast ? <><Icon.Award/> Finish</> : <>Continue <Icon.ChevronRight/></>}
                   </button>
                 )}
               </div>
 
               {/* Hint */}
               {showHint && (
-                <div className={`mt-4 p-3 rounded-xl border text-sm font-medium frame-enter ${c.bg} ${c.text} ${c.border}`}>
-                  <span className="font-bold">Hint: </span>{frame.hint}
+                <div className="alert frame-enter" style={{background:theme.tip, borderColor:theme.tipBorder, color:theme.tipText}}>
+                  <strong>Hint: </strong>{fr.hint}
                 </div>
               )}
 
               {/* Revealed answer */}
-              {showAnswer && (
-                <div className="mt-3 p-3 bg-blue-50 border border-blue-200 rounded-xl text-sm text-blue-700 font-medium frame-enter">
-                  <span className="font-bold">Answer: </span>
-                  <span className="underline decoration-2">{frame.blank}</span>
+              {revealed && (
+                <div className="alert frame-enter" style={{background:"#eff6ff",borderColor:"#bfdbfe",color:"#1e40af"}}>
+                  <strong>Answer: </strong><span style={{textDecoration:"underline"}}>{fr.blank}</span>
                 </div>
               )}
             </div>
 
             {/* Chapter tip */}
-            <div className={`rounded-xl border p-4 text-sm frame-enter ${c.bg} ${c.border}`}>
-              <p className={`font-bold text-xs uppercase tracking-widest mb-1 ${c.text} opacity-70`}>
-                Dubin's Tip
-              </p>
-              <p className={`${c.text} leading-relaxed`}>{chapter.tip}</p>
+            <div className="tip-box frame-enter" style={{background:theme.tip, borderColor:theme.tipBorder, color:theme.tipText}}>
+              <div style={{fontSize:"10px",fontWeight:"700",textTransform:"uppercase",letterSpacing:"0.08em",marginBottom:"4px",opacity:"0.7"}}>
+                Dubin's Tip — Ch. {ch.id}
+              </div>
+              {ch.tip}
             </div>
 
-            {/* Keyboard hint */}
-            <p className="text-center text-[11px] text-slate-400 hidden md:block">
-              Press <kbd className="px-1.5 py-0.5 bg-slate-200 rounded text-slate-500 font-mono text-[10px]">Enter</kbd> or
-              <kbd className="px-1.5 py-0.5 bg-slate-200 rounded text-slate-500 font-mono text-[10px] ml-1">→</kbd> to continue after answering
+            {/* Keyboard hint (desktop only) */}
+            <p style={{textAlign:"center",fontSize:"11px",color:"#94a3b8"}} className="desktop-hint">
+              Press <kbd style={{padding:"1px 6px",background:"#e2e8f0",borderRadius:"4px",fontFamily:"monospace",fontSize:"10px"}}>Enter</kbd> or
+              <kbd style={{padding:"1px 6px",background:"#e2e8f0",borderRadius:"4px",fontFamily:"monospace",fontSize:"10px",marginLeft:"4px"}}>→</kbd> to continue after answering
             </p>
 
           </div>
         </div>
       </main>
-
     </div>
   );
-};
+}
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<App />);
+root.render(React.createElement(App));
 </script>
 </body>
 </html>
