@@ -1,0 +1,6 @@
+.venv/
+scripts/raw_pages.json
+*.pyc
+__pycache__/
+# PDF source (too large, copyrighted)
+*.pdf
