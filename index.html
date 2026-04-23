@@ -1373,7 +1373,8 @@ function App() {
   const handleInput = (e) => {
     const val = e.target.value;
     setInputVal(val);
-    if (val.trim().toLowerCase() === fr.blank.toLowerCase()) {
+    const norm = (s) => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
+    if (norm(val) === norm(fr.blank)) {
       setCorrect(true);
       setDone(prev => new Set(prev).add(fr.id));
     }
