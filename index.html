@@ -118,11 +118,24 @@
     .chapter-btn {
       width: 100%; text-align: left; background: none; border: none; cursor: pointer;
       padding: 10px 12px; border-radius: 12px; display: flex; align-items: center;
-      gap: 10px; font-size: 13px; font-family: inherit; color: #475569;
-      transition: background 0.15s, color 0.15s; margin-bottom: 2px;
+      gap: 12px; font-size: 13px; font-family: inherit; color: #475569;
+      transition: all 0.2s; margin-bottom: 4px;
     }
     .chapter-btn:hover { background: #f8fafc; }
-    .chapter-btn.active { font-weight: 600; }
+    .chapter-btn.active { background: #f1f5f9; }
+
+    .chapter-num {
+      width: 28px; height: 28px; border-radius: 8px; display: flex;
+      align-items: center; justify-content: center; font-size: 11px;
+      font-weight: 700; flex-shrink: 0;
+    }
+    .chapter-progress-bg {
+      height: 4px; background: #e2e8f0; border-radius: 2px;
+      overflow: hidden; margin-top: 4px; width: 100%;
+    }
+    .chapter-progress-fill {
+      height: 100%; transition: width 0.4s ease;
+    }
 
     /* Action btns */
     .action-btn {
@@ -156,8 +169,10 @@
     /* Tip box */
     .tip-box { border-radius: 12px; padding: 14px 16px; font-size: 13px; line-height: 1.6; border: 1px solid; }
 
-    /* Overlay */
-    .overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.45); z-index: 40; }
+    /* Sidebar Overlay */
+    .sidebar-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.3);
+                       backdrop-filter: blur(4px); z-index: 40; }
+    .sidebar-overlay.open { display: block; }
 
     /* ---- CASE MODE ---- */
     .case-screen {
@@ -235,7 +250,7 @@
                   transform: translateX(-100%); transition: transform 0.3s ease;
                   box-shadow: 4px 0 24px rgba(0,0,0,0.12); }
       .sidebar.open { transform: translateX(0); }
-      .overlay.open { display: block; }
+      .sidebar-overlay.open { display: block; }
       .main-body { padding: 16px 16px 48px; }
       .card      { padding: 18px; }
       .topbar    { padding: 10px 16px; }
@@ -1443,40 +1458,42 @@ function App() {
       <div className={`sidebar-overlay ${sidebarOpen ? 'open' : ''}`} onClick={() => setSidebarOpen(false)}/>
 
       <aside className={`sidebar ${sidebarOpen ? 'open' : ''}`}>
-        <div style={{padding:"18px 20px 14px",borderBottom:"1px solid #f1f5f9",display:"flex",alignItems:"center",justifyContent:"space-between",flexShrink:0}}>
-          <div style={{display:"flex",alignItems:"center",gap:"10px"}}>
-            <div style={{width:"34px",height:"34px",background:"#dc2626",borderRadius:"9px",display:"flex",alignItems:"center",justifyContent:"center",flexShrink:0}}>
+        <div style={{padding:"20px 20px 16px",borderBottom:"1px solid #f1f5f9",display:"flex",alignItems:"center",justifyContent:"space-between",flexShrink:0}}>
+          <div style={{display:"flex",alignItems:"center",gap:"12px"}}>
+            <div style={{width:"40px",height:"40px",background:"linear-gradient(135deg, #ef4444, #dc2626)",borderRadius:"12px",display:"flex",alignItems:"center",justifyContent:"center",flexShrink:0,boxShadow:"0 4px 12px rgba(220,38,38,0.2)"}}>
               <Icon.Activity/>
             </div>
             <div>
-              <div className="font-display" style={{fontSize:"15px",fontWeight:"700",lineHeight:"1.1"}}>{t('title')}</div>
-              <div style={{fontSize:"10px",color:"#94a3b8",marginTop:"1px"}}>{t('subtitle')}</div>
+              <div className="font-display" style={{fontSize:"17px",fontWeight:"700",lineHeight:"1.1",color:"#1e293b"}}>{t('title')}</div>
+              <div style={{fontSize:"11px",color:"#94a3b8",marginTop:"2px",fontWeight:"500"}}>{t('subtitle')}</div>
             </div>
           </div>
-          <button className="nav-btn" style={{display:"flex"}} onClick={() => setSidebarOpen(false)}>
+          <button className="nav-btn" style={{display:"flex",background:"#f8fafc"}} onClick={() => setSidebarOpen(false)}>
             <Icon.X/>
           </button>
         </div>
 
-        <div style={{padding:"10px 20px",borderBottom:"1px solid #f1f5f9",display:"flex",alignItems:"center",justifyContent:"space-between"}}>
-          <span style={{fontSize:"11px",fontWeight:"700",color:"#64748b",textTransform:"uppercase",letterSpacing:"0.08em"}}>{t('language')}</span>
-          <div style={{display:"flex",background:"#f1f5f9",borderRadius:"8px",padding:"2px"}}>
+        <div style={{padding:"12px 20px",borderBottom:"1px solid #f1f5f9",display:"flex",alignItems:"center",justifyContent:"space-between",background:"#fcfdfe"}}>
+          <span style={{fontSize:"11px",fontWeight:"700",color:"#64748b",textTransform:"uppercase",letterSpacing:"0.1em"}}>{t('language')}</span>
+          <div style={{display:"flex",background:"#f1f5f9",borderRadius:"10px",padding:"3px"}}>
             <button
               onClick={() => setLang('en')}
               style={{
                 border:"none", background: lang === 'en' ? '#fff' : 'transparent',
-                padding:"4px 10px", borderRadius:"6px", fontSize:"11px", fontWeight:"700",
+                padding:"5px 12px", borderRadius:"7px", fontSize:"11px", fontWeight:"700",
                 color: lang === 'en' ? '#1e293b' : '#94a3b8', cursor:"pointer",
-                boxShadow: lang === 'en' ? '0 1px 2px rgba(0,0,0,0.05)' : 'none'
+                boxShadow: lang === 'en' ? '0 2px 4px rgba(0,0,0,0.05)' : 'none',
+                transition:"all 0.2s"
               }}
             >EN</button>
             <button
               onClick={() => setLang('es')}
               style={{
                 border:"none", background: lang === 'es' ? '#fff' : 'transparent',
-                padding:"4px 10px", borderRadius:"6px", fontSize:"11px", fontWeight:"700",
+                padding:"5px 12px", borderRadius:"7px", fontSize:"11px", fontWeight:"700",
                 color: lang === 'es' ? '#1e293b' : '#94a3b8', cursor:"pointer",
-                boxShadow: lang === 'es' ? '0 1px 2px rgba(0,0,0,0.05)' : 'none'
+                boxShadow: lang === 'es' ? '0 2px 4px rgba(0,0,0,0.05)' : 'none',
+                transition:"all 0.2s"
               }}
             >ES</button>
           </div>
@@ -1492,22 +1509,22 @@ function App() {
             return (
               <button
                 key={c.id}
-                className={`sidebar-item ${isCurrent ? 'active' : ''}`}
+                className={`chapter-btn ${isCurrent ? 'active' : ''}`}
                 onClick={() => goToChapter(idx)}
               >
-                <div className="sidebar-item-num" style={{background: THEMES[c.color].bg, color: THEMES[c.color].text}}>
+                <div className="chapter-num" style={{background: THEMES[c.color].bg, color: THEMES[c.color].text}}>
                   {c.id}
                 </div>
-                <div style={{flex:1, textAlign:"left"}}>
-                  <div style={{fontSize:"13px", fontWeight:"600", color: isCurrent ? "#1e293b" : "#64748b"}}>
+                <div style={{flex:1, textAlign:"left", minWidth: 0}}>
+                  <div style={{fontSize:"13px", fontWeight:"600", color: isCurrent ? "#1e293b" : "#64748b", overflow:"hidden", textOverflow:"ellipsis", whiteSpace:"nowrap"}}>
                     {c.title}
                   </div>
-                  <div className="sidebar-item-progress">
-                    <div className="sidebar-item-progress-fill" style={{width:`${chProgress}%`, background: STROKE[c.color]}}/>
+                  <div className="chapter-progress-bg">
+                    <div className="chapter-progress-fill" style={{width:`${chProgress}%`, background: STROKE[c.color]}}/>
                   </div>
                 </div>
                 {chDone === chTotal && (
-                  <div style={{color:"#22c55e"}}><Icon.Check size={14}/></div>
+                  <div style={{color:"#22c55e", flexShrink: 0}}><Icon.Check size={14}/></div>
                 )}
               </button>
             );
