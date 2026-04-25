@@ -2,6 +2,8 @@
 
 An interactive programmed-learning web application based on **Dubin's Rapid Interpretation of EKGs, 6th Edition**.
 
+![EKG Master Preview](images/image.png)
+
 Built as a static single-page app that runs entirely on GitHub Pages — no backend, no build step, no dependencies to install.
 
 ---
@@ -64,6 +66,8 @@ app-ekg/
 ├── index.html        # The entire app (self-contained)
 ├── README.md
 ├── .gitignore
+├── images/           # Assets and screenshots
+│   └── image.png
 └── scripts/          # PDF analysis tools (dev only)
     └── extract_pdf.py
 ```
